@@ -1,0 +1,19 @@
+AGENTS.md
+.DS_Store
+
+# Local scratch files and temporary scripts
+tmp/
+temp/
+scratch/
+scripts/tmp/
+scripts/temp/
+scripts/scratch/
+*.tmp
+*.tmp.*
+*.bak
+*.local
+*.local.*
+
+# Local environment files
+.env
+.env.*
