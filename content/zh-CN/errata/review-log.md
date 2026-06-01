@@ -73,3 +73,87 @@
   - HealthIT.gov: The Guide to Getting and Using Your Health Records
 - 处理说明：本次只校准公众理解、风险边界、就医沟通和消费判断，不写个体化诊断、治疗、筛查、用药或产品推荐。
 - 下次建议复查：2026-12 至 2027-06
+
+## 2026-06-01：Part 2 后三条主风险线与手册页初始来源校准
+
+- 状态：draft review
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+  - `content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+  - `content/zh-CN/handbook/playbooks/red-flags.md`
+  - `content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 复查内容：睡眠不足和失眠边界、心理健康与认知变化、癌症筛查和治疗边界、危险信号速查、家庭慢病指标记录。
+- 使用来源：
+  - CDC: About Sleep
+  - NHLBI/NIH: Why Is Sleep Important?
+  - MedlinePlus: Insomnia
+  - NIA/NIH: Cognitive Health and Older Adults
+  - CDC: Reducing Risk for Dementia
+  - NIMH: Depression
+  - NIMH: Anxiety Disorders
+  - SAMHSA: 988 Suicide & Crisis Lifeline
+  - NCI: Cancer Screening Overview
+  - NCI: Types of Cancer Treatment
+  - CDC: Cancer Screening Tests
+  - CDC: Measuring Your Blood Pressure
+  - American Heart Association: Home Blood Pressure Monitoring
+  - MedlinePlus: How to Understand Your Lab Results
+- 处理说明：本次只校准公众识别、家庭记录和专业求助边界，不写个体化筛查计划、心理诊断、癌症治疗方案、用药调整或指标目标值。
+- 下次建议复查：2026-09 至 2027-06；其中危险信号和心理危机入口按 3-6 个月复查。
+
+## 2026-06-01：专科就医与健康信息防御页面初始来源校准
+
+- 状态：draft review
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+  - `content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+  - `content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+  - `content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查内容：专科就医准备、健康设备和消费者检测边界、抗衰和健康欺诈、健康新闻与新研究阅读、健康产品购买前风险分级。
+- 使用来源：
+  - MedlinePlus: Choosing a Doctor or Health Care Service
+  - AHRQ: Be More Engaged in Your Healthcare
+  - HealthIT.gov: The Guide to Getting and Using Your Health Records
+  - CDC HEAR HER Campaign: Urgent Maternal Warning Signs and Symptoms
+  - National Eye Institute: Eye Health Information
+  - NIDDK/NIH: Bladder Control Problems
+  - NIAMS/NIH: Back Pain
+  - FDA: Home Health and Consumer Devices
+  - FDA: Direct-to-Consumer Tests
+  - FDA: Health Fraud Scams
+  - FTC: Common Health Scams
+  - MedlinePlus: Evaluating Health Information
+  - NCCIH: Finding and Evaluating Online Resources
+  - NCCIH: How To Make Sense of a Scientific Journal Article
+  - NIH: Clinical Research Trials and You
+- 处理说明：本次只校准公众资料入口、购买前判断和信息阅读边界，不写个体化专科诊疗方案、产品推荐、检测推荐、抗衰方案或基于新闻的行动建议。
+- 下次建议复查：2026-12 至 2027-06；涉及 FDA/FTC 监管和健康欺诈资料时按 6-12 个月复查。
+
+## 2026-06-01：Part 3 家庭健康操作系统初始来源校准
+
+- 状态：draft review
+- 位置：
+  - `content/zh-CN/book/part-3-family-health-os/what-to-manage.md`
+  - `content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`
+  - `content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+  - `content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查内容：家庭健康资料、就医前准备、父母健康沟通、健康消费底线、老年跌倒、认知变化、用药安全和生活能力观察。
+- 使用来源：
+  - HealthIT.gov: The Guide to Getting and Using Your Health Records
+  - HealthIT.gov: What's in Your Health Record
+  - MedlinePlus: Talking With Your Doctor
+  - AHRQ: Be More Engaged in Your Healthcare
+  - AHRQ: Do You Know the Right Questions to Ask?
+  - CDC: Recommended Vaccines for Adults
+  - CDC: About Older Adult Fall Prevention
+  - CDC: STEADI - Older Adult Fall Prevention
+  - NIA/NIH: Cognitive Health and Older Adults
+  - MedlinePlus: Taking Multiple Medicines Safely
+  - MedlinePlus: Older Adult Health
+  - MedlinePlus: Fall Risk Assessment
+  - SAMHSA: 988 Suicide & Crisis Lifeline
+  - FDA: Health Fraud Scams
+  - FTC: Common Health Scams
+- 处理说明：本次只校准家庭记录、沟通、照护观察和专业求助边界，不写个体化疫苗建议、用药调整、认知诊断、跌倒风险诊断、治疗方案或家庭强制决策。
+- 下次建议复查：2026-09 至 2027-06；其中危险信号、心理危机、跌倒和用药安全入口按 3-6 个月优先复查。

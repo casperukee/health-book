@@ -16,23 +16,23 @@
 
 - [代谢与四高](part-2-body-risk-map/metabolic-health.md)
 - [心血管事件链](part-2-body-risk-map/cardiovascular-event-chain.md)
-- `part-2-body-risk-map/sleep-and-recovery.md`：睡眠与恢复
-- `part-2-body-risk-map/brain-and-mental-health.md`：大脑与心理健康
-- `part-2-body-risk-map/cancer-and-major-illness.md`：癌症与重大疾病
-- `part-2-body-risk-map/specialty-care-map.md`：专科问题
+- [睡眠与恢复](part-2-body-risk-map/sleep-and-recovery.md)
+- [大脑与心理健康](part-2-body-risk-map/brain-and-mental-health.md)
+- [癌症与重大疾病](part-2-body-risk-map/cancer-and-major-illness.md)
+- [专科问题](part-2-body-risk-map/specialty-care-map.md)
 
 ## Part 3：家庭健康操作系统
 
-- `part-3-family-health-os/what-to-manage.md`：家庭健康到底要管理什么
-- `part-3-family-health-os/doctor-visit-preparation.md`：就医前如何准备信息
-- `part-3-family-health-os/talking-with-parents.md`：如何和父母谈健康
-- `part-3-family-health-os/elder-care-basics.md`：老年健康和照护
+- [家庭健康到底要管理什么](part-3-family-health-os/what-to-manage.md)
+- [就医前如何准备信息](part-3-family-health-os/doctor-visit-preparation.md)
+- [如何和父母谈健康](part-3-family-health-os/talking-with-parents.md)
+- [老年健康和照护](part-3-family-health-os/elder-care-basics.md)
 
 ## Part 4：健康信息防御系统
 
 - [保健品最常见的证据陷阱](part-4-health-information-defense/supplement-evidence-traps.md)
-- `part-4-health-information-defense/devices-tests-and-longevity-marketing.md`：健康设备、检测项目和抗衰营销
-- `part-4-health-information-defense/reading-health-news.md`：健康新闻、新研究和短视频科普
+- [健康设备、检测项目和抗衰营销](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+- [健康新闻、新研究和短视频科普](part-4-health-information-defense/reading-health-news.md)
 
 ## Part 5：手册、模板与速查
 

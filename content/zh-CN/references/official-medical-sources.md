@@ -60,6 +60,83 @@
 
 使用说明：这些资料用于校准四高、心血管风险因素、动脉粥样硬化和心血管事件链的基础边界。正文不应替读者计算个人风险、解释检查或给出用药建议。
 
+## 睡眠与恢复
+
+- CDC: [About Sleep](https://www.cdc.gov/sleep/about/index.html)
+- NHLBI/NIH: [Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)
+- NHLBI/NIH: [Sleep Deprivation and Deficiency: How Sleep Affects Your Health](https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects)
+- MedlinePlus: [Insomnia](https://medlineplus.gov/insomnia.html)
+- FDA: [Sleep Problems](https://www.fda.gov/consumers/womens-health-topics/sleep-problems)
+
+使用说明：这些资料用于校准睡眠不足、失眠、日间功能受损和何时寻求专业帮助的基础边界。正文不应提供安眠药建议，也不应把睡眠工具写成治疗替代品。
+
+## 大脑、认知与心理健康
+
+- NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
+- CDC: [Reducing Risk for Dementia](https://www.cdc.gov/alzheimers-dementia/prevention/index.html)
+- CDC: [Signs and Symptoms of Dementia](https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html)
+- NIMH: [Depression](https://www.nimh.nih.gov/health/publications/depression)
+- NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
+- NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+
+使用说明：这些资料用于校准认知变化、心理健康求助和危机处理入口。正文不应自测诊断抑郁、焦虑或痴呆，也不应替代心理健康专业评估。
+
+## 癌症筛查和重大疾病
+
+- NCI: [Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)
+- NCI: [What Cancer Screening Tests Check for Cancer?](https://www.cancer.gov/about-cancer/screening/screening-tests)
+- CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
+- NCI: [Types of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types)
+- NCI: [Treatment for Cancer](https://www.cancer.gov/about-cancer/treatment)
+
+使用说明：这些资料用于校准癌症筛查收益与伤害、诊断治疗边界和重大疾病家庭支持。正文不应给出个体化筛查计划、治疗优先级或替代疗法建议。
+
+## 家庭测量与慢病记录
+
+- CDC: [Measuring Your Blood Pressure](https://www.cdc.gov/high-blood-pressure/measure/index.html)
+- American Heart Association: [Home Blood Pressure Monitoring](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
+- CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
+- MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+
+使用说明：这些资料用于校准家庭测量、化验结果理解和健康记录管理。模板页不应提供个人目标值，也不应允许读者根据记录自行调整治疗。
+
+## 专科就医与按需资料入口
+
+- MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
+- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
+- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+- CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
+- National Eye Institute: [Eye Health Information](https://www.nei.nih.gov/eye-health-information)
+- NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
+- NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
+
+使用说明：这些资料用于校准专科就医入口、患者沟通、资料准备和若干专科资料入口。正文不应替代眼科、骨科、泌尿、产科或妇科医生判断。
+
+## 健康设备、检测和抗衰消费
+
+- FDA: [Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)
+- FDA: [Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)
+- FDA: [Are There "FDA Registered" or "FDA Certified" Medical Devices?](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)
+- FDA: [Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)
+- FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
+- FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
+- NIH: [Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you)
+
+使用说明：这些资料用于校准医疗器械、家用设备、直接面向消费者检测、健康欺诈和临床研究的边界。正文不应推荐具体产品，也不应把监管状态写成疗效背书。
+
+## 健康信息与新研究阅读
+
+- MedlinePlus: [Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)
+- NCCIH: [Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)
+- NCCIH: [How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)
+- NIH: [Health Information](https://www.nih.gov/health-information)
+- NIH: [Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you)
+- FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
+
+使用说明：这些资料用于校准线上健康信息、科学论文和临床研究阅读。正文不应把单篇新闻或短视频写成行动指南。
+
 ## 保健品与健康消费
 
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
@@ -80,3 +157,21 @@
 - HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
 
 使用说明：这些资料用于校准就医前准备、医生沟通、问题清单和健康记录使用。模板页不应替代正式病历、授权文件或医生建议。
+
+## 家庭健康操作系统、父母沟通与老年照护
+
+- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+- HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
+- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
+- CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
+- CDC: [About Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)
+- CDC: [STEADI - Older Adult Fall Prevention](https://www.cdc.gov/steadi/index.html)
+- NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
+- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
+- MedlinePlus: [Older Adult Health](https://medlineplus.gov/olderadulthealth.html)
+- MedlinePlus: [Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
+- FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
+
+使用说明：这些资料用于校准家庭健康资料、就医准备、父母沟通、健康消费底线、老年跌倒、认知、用药和生活能力观察。正文不应替代家庭医生、专科医生、药师、心理危机支持、急救系统或正式照护评估。

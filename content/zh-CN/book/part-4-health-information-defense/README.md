@@ -5,5 +5,5 @@
 ## 章节
 
 - [保健品最常见的证据陷阱](supplement-evidence-traps.md)
-- `devices-tests-and-longevity-marketing.md`：健康设备、检测项目和抗衰营销
-- `reading-health-news.md`：健康新闻、新研究和短视频科普
+- [健康设备、检测项目和抗衰营销](devices-tests-and-longevity-marketing.md)
+- [健康新闻、新研究和短视频科普](reading-health-news.md)

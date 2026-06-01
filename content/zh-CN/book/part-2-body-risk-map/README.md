@@ -6,7 +6,7 @@
 
 - [代谢与四高](metabolic-health.md)
 - [心血管事件链](cardiovascular-event-chain.md)
-- `sleep-and-recovery.md`：睡眠与恢复
-- `brain-and-mental-health.md`：大脑与心理健康
-- `cancer-and-major-illness.md`：癌症与重大疾病
-- `specialty-care-map.md`：专科问题
+- [睡眠与恢复](sleep-and-recovery.md)
+- [大脑与心理健康](brain-and-mental-health.md)
+- [癌症与重大疾病](cancer-and-major-illness.md)
+- [专科问题](specialty-care-map.md)

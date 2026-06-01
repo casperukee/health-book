@@ -10,7 +10,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准心梗、卒中和心脏骤停的公众识别边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -20,7 +20,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准心梗症状、轻微或不典型表现、何时呼叫急救。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -30,7 +30,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准卒中危险信号、B.E. F.A.S.T. 和症状出现时间记录。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -50,7 +50,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方孕产危险信号资料
 - 用途：校准孕期和产后一年内需要立即就医的危险信号。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -60,7 +60,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准脓毒症作为严重感染急症的公众识别边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -114,7 +114,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准化验结果的用途、局限、参考范围和医生解释边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -154,7 +154,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方糖尿病检测资料
 - 用途：校准血糖检测类型、A1C 时间尺度和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -250,6 +250,194 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
+## 睡眠与恢复
+
+### CDC：About Sleep
+
+- URL: https://www.cdc.gov/sleep/about/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方公众健康资料
+- 用途：校准睡眠健康、常见睡眠问题和公众健康边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NHLBI/NIH：Why Is Sleep Important?
+
+- URL: https://www.nhlbi.nih.gov/health/sleep/why-sleep-important
+- 机构：National Heart, Lung, and Blood Institute, NIH
+- 类型：美国官方健康主题资料
+- 用途：校准睡眠对身体、大脑和长期健康重要性的基础表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NHLBI/NIH：Sleep Deprivation and Deficiency: Health Effects
+
+- URL: https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects
+- 机构：National Heart, Lung, and Blood Institute, NIH
+- 类型：美国官方健康主题资料
+- 用途：校准睡眠不足和睡眠缺乏对健康影响的公众表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### MedlinePlus：Insomnia
+
+- URL: https://medlineplus.gov/insomnia.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准失眠基础表现、就医边界和患者教育入口。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### FDA：Sleep Problems
+
+- URL: https://www.fda.gov/consumers/womens-health-topics/sleep-problems
+- 机构：U.S. Food and Drug Administration
+- 类型：美国官方消费者资料
+- 用途：校准睡眠问题、助眠产品和寻求医疗帮助的公众提醒。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+## 大脑、认知与心理健康
+
+### NIA/NIH：Cognitive Health and Older Adults
+
+- URL: https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults
+- 机构：National Institute on Aging, NIH
+- 类型：美国官方老年健康资料
+- 用途：校准认知健康、正常衰老和需要关注的认知变化。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### CDC：Reducing Risk for Dementia
+
+- URL: https://www.cdc.gov/alzheimers-dementia/prevention/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方公众健康资料
+- 用途：校准可改变风险因素和痴呆风险降低的谨慎表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### CDC：Signs and Symptoms of Dementia
+
+- URL: https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方公众健康资料
+- 用途：校准痴呆症状、日常功能变化和专业评估边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NIMH：Depression
+
+- URL: https://www.nimh.nih.gov/health/publications/depression
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方心理健康资料
+- 用途：校准抑郁症状、治疗和求助边界的公众表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NIMH：Anxiety Disorders
+
+- URL: https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方心理健康资料
+- 用途：校准焦虑障碍和专业帮助边界的公众表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NIMH：My Mental Health: Do I Need Help?
+
+- URL: https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方心理健康资料
+- 用途：校准心理健康何时需要求助的公众判断边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+## 癌症筛查和重大疾病
+
+### NCI：Cancer Screening Overview
+
+- URL: https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症资料
+- 用途：校准癌症筛查的收益、局限、假阳性、假阴性和过度诊断边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NCI：What Cancer Screening Tests Check for Cancer?
+
+- URL: https://www.cancer.gov/about-cancer/screening/screening-tests
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症资料
+- 用途：提供常见癌症筛查测试入口和患者教育边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### CDC：Cancer Screening Tests
+
+- URL: https://www.cdc.gov/cancer/prevention/screening.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方公众健康资料
+- 用途：校准公众癌症筛查测试入口和筛查不是越多越好的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NCI：Types of Cancer Treatment
+
+- URL: https://www.cancer.gov/about-cancer/treatment/types
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症资料
+- 用途：校准癌症治疗类型和治疗决策需由专业团队判断的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NCI：Treatment for Cancer
+
+- URL: https://www.cancer.gov/about-cancer/treatment
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症资料
+- 用途：提供癌症治疗、随访和患者沟通的资料入口。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+## 家庭测量与慢病记录
+
+### CDC：Measuring Your Blood Pressure
+
+- URL: https://www.cdc.gov/high-blood-pressure/measure/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方慢病管理资料
+- 用途：校准家庭血压测量、记录和医生沟通边界。
+- 已用于：`content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### AHA：Home Blood Pressure Monitoring
+
+- URL: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home
+- 机构：American Heart Association
+- 类型：专业协会患者教育资料
+- 用途：校准家庭血压监测的使用边界和就医沟通价值。
+- 已用于：`content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
 ## 保健品与健康消费
 
 ### FDA：Dietary Supplements
@@ -258,7 +446,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方监管资料
 - 用途：校准膳食补充剂监管边界和产品类别。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -268,7 +456,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方消费者资料
 - 用途：校准膳食补充剂不是药品、FDA 监管方式和消费提醒。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -278,7 +466,7 @@
 - 机构：NIH Office of Dietary Supplements
 - 类型：美国官方补剂教育资料
 - 用途：校准补剂定义、潜在益处、风险、相互作用和医生沟通边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -288,7 +476,7 @@
 - 机构：National Center for Complementary and Integrative Health, NIH
 - 类型：美国官方补充与整合健康资料
 - 用途：校准草药和补剂安全性、相互作用和证据边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -310,7 +498,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准就医前准备、问题清单、用药和过敏信息沟通。
-- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -320,7 +508,7 @@
 - 机构：Agency for Healthcare Research and Quality
 - 类型：美国官方患者沟通资料
 - 用途：校准通过提问参与就医沟通的基础原则。
-- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -330,14 +518,248 @@
 - 机构：Office of the National Coordinator for Health Information Technology
 - 类型：美国官方健康记录资料
 - 用途：校准获取、使用和理解个人健康记录的公众资料。
-- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
-## 待补类别
+## 专科就医与按需资料入口
 
-- 睡眠与恢复；
-- 心理健康与心理危机；
-- 癌症筛查和重大疾病；
-- 老年健康、跌倒、认知和用药；
-- 保健品、草药、健康设备和抗衰营销。
+### MedlinePlus：Choosing a Doctor or Health Care Service
+
+- URL: https://medlineplus.gov/choosingadoctororhealthcareservice.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准选择医疗服务、专科就医和患者资料入口。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### AHRQ：Be More Engaged in Your Healthcare
+
+- URL: https://www.ahrq.gov/questions/be-engaged/index.html
+- 机构：Agency for Healthcare Research and Quality
+- 类型：美国官方患者沟通资料
+- 用途：校准就医前、中、后的提问、记录和参与医疗团队的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### National Eye Institute：Eye Health Information
+
+- URL: https://www.nei.nih.gov/eye-health-information
+- 机构：National Eye Institute, NIH
+- 类型：美国官方眼健康资料入口
+- 用途：校准眼科资料入口、眼病信息和视觉健康边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### NIDDK/NIH：Bladder Control Problems
+
+- URL: https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems
+- 机构：National Institute of Diabetes and Digestive and Kidney Diseases, NIH
+- 类型：美国官方泌尿健康资料
+- 用途：校准膀胱控制、尿失禁和泌尿生活质量资料入口。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### NIAMS/NIH：Back Pain
+
+- URL: https://www.niams.nih.gov/health-topics/back-pain
+- 机构：National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH
+- 类型：美国官方骨骼肌肉健康资料
+- 用途：校准腰背痛、运动系统症状和就医边界资料入口。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+## 健康设备、检测和抗衰消费
+
+### FDA：Home Health and Consumer Devices
+
+- URL: https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices
+- 机构：U.S. Food and Drug Administration
+- 类型：美国官方医疗器械资料
+- 用途：校准家用和消费者医疗设备的监管与安全使用边界。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### FDA：Medical Devices
+
+- URL: https://www.fda.gov/consumers/consumer-updates/medical-devices
+- 机构：U.S. Food and Drug Administration
+- 类型：美国官方消费者资料
+- 用途：校准医疗器械消费者资料入口。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### FDA：Are There "FDA Registered" or "FDA Certified" Medical Devices?
+
+- URL: https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved
+- 机构：U.S. Food and Drug Administration
+- 类型：美国官方医疗器械消费者资料
+- 用途：校准 FDA registered、certified、approved、cleared、authorized 等监管词的区别。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### FDA：Direct-to-Consumer Tests
+
+- URL: https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests
+- 机构：U.S. Food and Drug Administration
+- 类型：美国官方体外诊断和消费者检测资料
+- 用途：校准直接面向消费者检测、遗传风险、检测局限和医生沟通边界。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### FDA：Health Fraud Scams
+
+- URL: https://www.fda.gov/consumers/health-fraud-scams
+- 机构：U.S. Food and Drug Administration
+- 类型：美国官方消费者保护资料
+- 用途：校准健康欺诈、未证实疗效和延误正规诊疗风险。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### FTC：Common Health Scams
+
+- URL: https://consumer.ftc.gov/node/78372
+- 机构：Federal Trade Commission
+- 类型：美国官方消费者保护资料
+- 用途：校准健康骗局、奇迹疗法、抗衰和高风险健康产品营销。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### NIH：Clinical Research Trials and You
+
+- URL: https://www.nih.gov/health-information/nih-clinical-research-trials-you
+- 机构：National Institutes of Health
+- 类型：美国官方临床研究资料
+- 用途：校准临床研究、临床试验、潜在获益和风险边界。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+## 健康信息与新研究阅读
+
+### MedlinePlus：Evaluating Health Information
+
+- URL: https://medlineplus.gov/evaluatinghealthinformation.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准健康信息来源、可靠性评估和医生沟通边界。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### NCCIH：Finding and Evaluating Online Resources
+
+- URL: https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources
+- 机构：National Center for Complementary and Integrative Health, NIH
+- 类型：美国官方线上健康信息评估资料
+- 用途：校准网站、移动应用、社交媒体和广告性健康信息的评估方法。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### NCCIH：How To Make Sense of a Scientific Journal Article
+
+- URL: https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview
+- 机构：National Center for Complementary and Integrative Health, NIH
+- 类型：美国官方科学研究阅读资料
+- 用途：校准研究类型、方法、偏倚、结果和论文阅读的公众框架。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### NIH：Health Information
+
+- URL: https://www.nih.gov/health-information
+- 机构：National Institutes of Health
+- 类型：美国官方健康资料入口
+- 用途：提供 NIH 健康主题、新闻和研究资料入口。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+## 家庭健康操作系统、父母沟通与老年照护
+
+### HealthIT.gov：What's in Your Health Record
+
+- URL: https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/
+- 机构：Office of the National Coordinator for Health Information Technology
+- 类型：美国官方健康记录资料
+- 用途：校准健康记录中常见信息类别和家庭健康档案的资料边界。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### CDC：Recommended Vaccines for Adults
+
+- URL: https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方成人疫苗资料
+- 用途：校准家庭健康系统中“疫苗和随访安排”只能作为资料入口和提醒，不写个体化接种建议。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### CDC：About Older Adult Fall Prevention
+
+- URL: https://www.cdc.gov/falls/about/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方老年跌倒预防资料
+- 用途：校准老年跌倒风险、跌倒后果和家庭防跌倒观察边界。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### CDC：STEADI - Older Adult Fall Prevention
+
+- URL: https://www.cdc.gov/steadi/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方老年跌倒筛查和照护资料入口
+- 用途：提供老年跌倒风险识别、临床沟通和家庭资料准备入口。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### MedlinePlus：Taking Multiple Medicines Safely
+
+- URL: https://medlineplus.gov/ency/patientinstructions/000883.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准多药使用、非处方药、补剂、用药清单和医生/药师沟通边界。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+### MedlinePlus：Older Adult Health
+
+- URL: https://medlineplus.gov/olderadulthealth.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方老年健康资料入口
+- 用途：提供老年健康、照护、功能和安全相关资料入口。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-01
+
+### MedlinePlus：Fall Risk Assessment
+
+- URL: https://medlineplus.gov/lab-tests/fall-risk-assessment/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准跌倒风险评估作为专业评估入口，而不是家庭自我诊断工具。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-01
+
+## 后续待补类别
+
+- 勘误、读者反馈和版本复查。
