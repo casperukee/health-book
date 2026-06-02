@@ -1,5 +1,5 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: supplement-evidence-traps
 en_path: ../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md
@@ -36,6 +36,16 @@ evidence_status: needs_periodic_review
 | 限时高价、会员返利、拉人头 | 同时进入健康风险和消费风险 |
 
 越像治疗，越不能只按食品或普通消费看。
+
+## 先用 30 秒挡住最高风险
+
+如果家人已经准备下单，先不要急着辩论文献。用三个问题做第一轮拦截：
+
+1. 它有没有要求停药、推迟检查或替代正规治疗？
+2. 它会不会影响正在用的药、基础病、手术、孕产或肝肾功能？
+3. 它是不是高价、限时、入会返利，或者销售方不愿意让你问医生？
+
+任何一个问题答不清，就先暂停购买，把产品名称、成分、宣称、价格和销售话术写进 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md)。争论“有没有用”之前，先确认它会不会让家庭承担不必要的医疗风险和消费风险。
 
 ## 四个常见证据陷阱
 
@@ -99,7 +109,7 @@ evidence_status: needs_periodic_review
 
 ## 七个购买前问题
 
-把产品页面打开，逐项问：
+把产品页面打开，配合 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md) 逐项问：
 
 1. 它到底声称解决什么问题？
 2. 这个问题是否应该先由医生判断？

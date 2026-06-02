@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: metabolic-health
 en_path: ../../../en/book/part-2-body-risk-map/metabolic-health.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,14 @@ evidence_status: needs_periodic_review
 所以四高要从“四个孤立指标”放回同一张风险网里看。本章不提供个人目标值，也不判断你要不要用药；它只帮助你理解，为什么真正要管理的是未来心、脑、肾和生活能力的风险。
 
 四高不是四个孤立数字，而是血管压力、脂质运输、能量调度和代谢排泄系统共同发出的风险语言。
+
+## 先分清：急事、慢事、长期账
+
+如果指标异常同时伴随胸痛胸闷、呼吸困难、晕厥、单侧无力、言语不清、意识改变、严重疼痛等症状，先按 [医疗边界与危险信号](../medical-boundaries.md) 和 [症状与动作速查](../../handbook/playbooks/symptom-action-guide.md) 处理，不要把它当成普通体检异常。
+
+如果只是体检报告上的长期异常，重点不是立刻给自己贴诊断，而是回到 [体检指标](../part-1-healthspan-risk-and-markers/checkup-markers.md) 里的三个问题：它是不是持续趋势？是不是多项一起异常？下一步是记录、复查，还是带着资料去问医生？
+
+如果家里已经有人在长期管理血压、血脂、血糖或尿酸，把这些数字放进同一张 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)。四高最怕的不是一眼看不懂，而是每次就医都从零开始。
 
 ## 最常见的误读：把系统问题切成食物问题
 
@@ -88,7 +96,7 @@ evidence_status: needs_periodic_review
 
 ## 本周可以做的一张表
 
-- 找出最近 2-3 次体检报告，把血压、血脂、血糖、A1C、尿酸、肾功能放到同一张表。
+- 找出最近 2-3 次体检报告，把血压、血脂、血糖、A1C、尿酸、肾功能放到同一张 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)。
 - 记录体重、腰围、饮酒、运动、睡眠和用药变化。
 - 标记“单项异常”和“多项同时异常”。
 - 准备三个问题问医生：我现在主要是哪条风险线？需要多久复查？哪些情况要提前就医？

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: cardiovascular-event-chain
 en_path: ../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -22,6 +22,12 @@ evidence_status: needs_periodic_review
 理解这条链，不是为了让人害怕，而是为了知道：很多节点可以提前打断。普通家庭不需要学会诊断胸痛，也不应该自己解释检查结果；更实在的事情是看见上游风险，记住急性边界，认真做事件后的防复发。
 
 心梗和卒中常常不是突然开始的；突然的是事件，漫长的是风险累积。
+
+## 先记住一条家庭规则
+
+心血管急性信号不适合在家等到“确定”。普通家庭真正要提前约定的，不是怎么判断是不是心梗或卒中，而是出现哪些信号时直接进入急救或急诊路径。
+
+这条规则可以写进家庭健康档案，也可以和 [症状与动作速查](../../handbook/playbooks/symptom-action-guide.md) 放在一起：胸痛胸闷、明显呼吸困难、晕厥、意识改变、卒中样症状，先求助，再补信息。
 
 ## 为什么心血管问题容易被低估
 
@@ -71,6 +77,8 @@ evidence_status: needs_periodic_review
 
 ## 胸痛和卒中样症状，不要等“确定”
 
+这一节不是给家庭做诊断用的，而是给家庭做分流用的。更完整的红黄绿动作清单见 [症状与动作速查](../../handbook/playbooks/symptom-action-guide.md)。
+
 出现以下情况时，不要用本章继续判断：
 
 - 胸痛、胸闷、胸部压迫感，尤其伴气短、出汗、恶心、头晕或疼痛放射；
@@ -83,7 +91,7 @@ evidence_status: needs_periodic_review
 ## 今天能补上的四件事
 
 - 给家里每个成年人标记心血管风险因素：血压、血脂、血糖、吸烟、体重、家族史、运动量。
-- 把“胸痛/卒中样症状先急救”写进家庭危险信号清单。
+- 把“胸痛/卒中样症状先急救”写进家庭危险信号清单，并放到 [症状与动作速查](../../handbook/playbooks/symptom-action-guide.md) 旁边。
 - 对已有心血管病史的人，整理一页：诊断、手术或介入史、用药、过敏、复诊时间、负责陪诊的人。
 - 看医生时问清：我主要处在事件链哪一段？下一步是控制风险因素、进一步检查、治疗，还是防复发？
 

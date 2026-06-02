@@ -1,5 +1,5 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: 00-start-here
 en_path: ../../en/book/00-start-here.md
@@ -20,6 +20,8 @@ evidence_status: stable
 它更像一套家庭健康判断工具：当体检报告有箭头、父母转来保健品链接、门诊时间很短、家里老人开始跌倒或记性变差时，你可以回到这里，先分清问题类型，再决定下一步。
 
 本书的目标不是让普通人成为半个医生，而是让家庭少一点混乱决策。
+
+如果你现在正遇到具体症状，不必先读完整本书。先去 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md)，把情况分成急救或急诊、尽快联系医生、先记录观察三层动作。
 
 ::: tip 这本书帮你做五件事
 - 分清什么是急症、慢病风险、就医准备、家庭照护或健康消费；
@@ -49,7 +51,8 @@ evidence_status: stable
 
 | 现在的问题 | 先读 |
 |---|---|
-| 不确定该不该急诊 | [医疗边界与危险信号](medical-boundaries.md) |
+| 已经有具体症状，不知道下一步 | [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) |
+| 不确定什么情况不能拖 | [医疗边界与危险信号](medical-boundaries.md) |
 | 体检报告有箭头 | [体检指标](part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | 血压、血脂、血糖、尿酸反复异常 | [代谢与四高](part-2-body-risk-map/metabolic-health.md) |
 | 担心心梗、卒中 | [心血管事件链](part-2-body-risk-map/cardiovascular-event-chain.md) |
@@ -65,7 +68,7 @@ evidence_status: stable
 
 - 建一页家庭紧急信息：基础病、过敏、长期用药、紧急联系人；
 - 建一个检查资料夹：体检、化验、影像、出院小结按人归档；
-- 写一张危险信号清单：哪些情况不搜索、不争论，直接就医；
+- 把 [危险信号速查](../handbook/playbooks/red-flags.md) 和 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) 放进家庭群或档案首页；
 - 给健康消费设规则：大额购买前先问证据、风险、价格和是否影响正规治疗。
 
 这四件事加起来可能只要半小时，但会明显减少后续就医和沟通成本。
