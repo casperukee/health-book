@@ -7,6 +7,18 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-02：v0.8 睡眠章身体阻力小修订
+
+- 状态：reader feedback patch
+- 位置：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查内容：根据试读反馈，把睡眠章的“降阻力”从环境阻力和心理阻力扩展为环境、心理和身体三类阻力，补充肩颈、腰背、下颌、呼吸、疼痛和身体高张力对睡眠恢复的影响，并强调不要把局部紧张简化成“头疼医头”的自我处理。
+- 使用来源：
+  - CDC: Benefits of Physical Activity
+  - MedlinePlus: Neck pain
+  - NCCIH/NIH: Relaxation Techniques: What You Need To Know
+- 处理说明：本次修订只提供普通家庭可记录、可观察、可温和降档的框架，不教自我诊断颈椎、筋膜链、神经卡压、姿势代偿或具体手法；持续疼痛、麻木无力、外伤后疼痛、发热头痛伴颈部僵硬、吞咽或呼吸困难、夜间痛醒、走路和平衡异常等仍进入专业判断路径。
+- 下次建议复查：2026-09 至 2026-12；如收到运动康复、睡眠医学或临床读者反馈，应提前复查。
+
 ## 2026-06-02：v0.8 高风险边界第一轮强化
 
 - 状态：boundary review pass

@@ -322,6 +322,16 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
+### CDC：Benefits of Physical Activity
+
+- URL: https://www.cdc.gov/physical-activity-basics/benefits/
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方公众健康资料
+- 用途：校准身体活动对睡眠、情绪和整体健康的基础表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-02
+
 ### NHLBI/NIH：Why Is Sleep Important?
 
 - URL: https://www.nhlbi.nih.gov/health/sleep/why-sleep-important
@@ -352,6 +362,16 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
+### MedlinePlus：Neck pain
+
+- URL: https://medlineplus.gov/ency/article/003025.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准颈痛、颈部僵硬、麻木无力、外伤、发热头痛等需要医疗判断的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-02
+
 ### FDA：Sleep Problems
 
 - URL: https://www.fda.gov/consumers/womens-health-topics/sleep-problems
@@ -361,6 +381,16 @@
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### NCCIH/NIH：Relaxation Techniques: What You Need To Know
+
+- URL: https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know
+- 机构：National Center for Complementary and Integrative Health, NIH
+- 类型：美国官方补充与整合健康资料
+- 用途：校准渐进式肌肉放松、呼吸练习、身体放松技术的辅助定位和证据边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-02
 
 ## 大脑、认知与心理健康
 

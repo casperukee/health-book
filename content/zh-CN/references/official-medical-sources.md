@@ -63,12 +63,15 @@
 ## 睡眠与恢复
 
 - CDC: [About Sleep](https://www.cdc.gov/sleep/about/index.html)
+- CDC: [Benefits of Physical Activity](https://www.cdc.gov/physical-activity-basics/benefits/)
 - NHLBI/NIH: [Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)
 - NHLBI/NIH: [Sleep Deprivation and Deficiency: How Sleep Affects Your Health](https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects)
 - MedlinePlus: [Insomnia](https://medlineplus.gov/insomnia.html)
+- MedlinePlus: [Neck pain](https://medlineplus.gov/ency/article/003025.htm)
 - FDA: [Sleep Problems](https://www.fda.gov/consumers/womens-health-topics/sleep-problems)
+- NCCIH/NIH: [Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)
 
-使用说明：这些资料用于校准睡眠不足、失眠、日间功能受损和何时寻求专业帮助的基础边界。正文不应提供安眠药建议，也不应把睡眠工具写成治疗替代品。
+使用说明：这些资料用于校准睡眠不足、失眠、日间功能受损、身体活动与睡眠、放松技术辅助定位、颈肩疼痛危险信号和何时寻求专业帮助的基础边界。正文不应提供安眠药建议，也不应把睡眠工具、放松技术或身体松解写成治疗替代品。
 
 ## 大脑、认知与心理健康
 
