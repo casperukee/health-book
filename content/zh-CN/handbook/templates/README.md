@@ -1,7 +1,13 @@
-# Templates
+# 模板
 
 这里放可复制填写的家庭健康模板。
 
-- [家庭健康档案模板](family-health-record.md)
-- [慢病指标记录表](chronic-marker-log.md)
-- [健康产品购买前检查清单](health-product-checklist.md)
+## 先看哪一页
+
+| 场景 | 模板 |
+|---|---|
+| 想先为一个家庭成员建最小档案 | [家庭健康档案模板](family-health-record.md) |
+| 想把长期指标按趋势整理给医生看 | [慢病指标记录表](chronic-marker-log.md) |
+| 买健康产品前想先判断风险 | [健康产品购买前检查清单](health-product-checklist.md) |
+
+模板的目标不是收集更多资料，而是让关键资料在就医、复查、照护和消费决策时能被快速找到。

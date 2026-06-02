@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: health-product-checklist
 en_path: ../../../en/handbook/templates/health-product-checklist.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -24,6 +24,8 @@ evidence_status: stable
 - 父母健康讲座、会员、社群和高价套餐。
 
 目标不是把每个产品都研究成论文，而是在购买前判断：这是普通消费、需要问医生，还是应该及时阻断。
+
+如果你想先理解保健品为什么容易让家庭误判，可以读主书的 [保健品最常见的证据陷阱](../../book/part-4-health-information-defense/supplement-evidence-traps.md)。如果产品属于检测、设备或抗衰营销，可以读 [设备、检测和抗衰营销怎么判断值不值](../../book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)。
 
 ## 一句话原则
 

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: chronic-marker-log
 en_path: ../../../en/handbook/templates/chronic-marker-log.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -40,6 +40,8 @@ evidence_status: needs_periodic_review
 - 裸数字不够，要带上测量时间、状态、用药和症状；
 - 不把家用设备读数当成最终诊断；
 - 指标异常伴随危险信号时，先就医，不等下次复查。
+
+如果你面对的是具体症状，而不是单纯数字异常，先用 [症状与对应动作速查](../playbooks/symptom-action-guide.md) 分流；如果是体检报告看不懂，可以回到主书的 [体检指标](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md)。
 
 ## 1. 家庭测量层
 
@@ -117,6 +119,8 @@ evidence_status: needs_periodic_review
 - 血压异常伴随明显胸痛、气短、神经系统症状或严重头痛；
 - 药物后出现严重过敏、呼吸困难、意识改变或无法耐受反应；
 - 医生明确交代的提前就医条件已经出现。
+
+这些情况优先看 [危险信号速查](../playbooks/red-flags.md)，再带上最小信息就医。
 
 ## 可信资料
 

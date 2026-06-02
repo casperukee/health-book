@@ -2,6 +2,17 @@
 
 这些页面是动态维护部分，服务于家庭实际操作。主书负责解释为什么，手册负责让你立刻能做。
 
+## 先选你现在的场景
+
+| 你现在遇到什么 | 先打开哪一页 |
+|---|---|
+| 已经有具体症状，不知道要不要去医院 | [症状与对应动作速查](playbooks/symptom-action-guide.md) |
+| 想给家里约定“什么情况不能拖” | [危险信号速查](playbooks/red-flags.md) |
+| 明天或近期要去门诊 | [就医前问题清单](playbooks/doctor-visit-checklist.md) |
+| 家里资料散在聊天记录、手机相册和抽屉里 | [家庭健康档案模板](templates/family-health-record.md) |
+| 有血压、血脂、血糖、尿酸等长期指标 | [慢病指标记录表](templates/chronic-marker-log.md) |
+| 家人准备买保健品、检测、设备或抗衰产品 | [健康产品购买前检查清单](templates/health-product-checklist.md) |
+
 ## 推荐使用顺序
 
 如果你只是想先把家里的健康流程搭起来，可以按这个顺序：

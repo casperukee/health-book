@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: doctor-visit-checklist
 en_path: ../../../en/handbook/playbooks/doctor-visit-checklist.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -18,6 +18,8 @@ evidence_status: stable
 门诊时间通常很短。你不需要把自己训练成医生，但可以把医生最需要的信息准备好。
 
 就医准备的目标只有一个：让真实情况更快进入诊室。
+
+如果你还没确定“现在该急诊、尽快联系医生，还是先观察记录”，先看 [症状与对应动作速查](symptom-action-guide.md)。这页适合在已经决定要联系医生或准备门诊时使用。
 
 ## 一句话原则
 
@@ -131,6 +133,8 @@ evidence_status: stable
 - 我知道什么时候复查，什么情况提前回来吗？
 
 回家后把医生建议写入家庭健康档案，不要只留在记忆里。
+
+如果家里还没有统一记录入口，可以直接用 [家庭健康档案模板](../templates/family-health-record.md) 建一页最小档案。
 
 ## 急症例外
 

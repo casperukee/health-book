@@ -1,7 +1,13 @@
-# Playbooks
+# 操作流程与速查
 
 这里放适合直接使用的操作流程和速查页。
 
-- [危险信号速查](red-flags.md)
-- [症状与对应动作速查](symptom-action-guide.md)
-- [就医前问题清单](doctor-visit-checklist.md)
+## 先看哪一页
+
+| 场景 | 入口 |
+|---|---|
+| 已经有症状，不知道下一步 | [症状与对应动作速查](symptom-action-guide.md) |
+| 想先约定哪些情况不能拖 | [危险信号速查](red-flags.md) |
+| 准备门诊、复诊或陪诊 | [就医前问题清单](doctor-visit-checklist.md) |
+
+这些页面只负责行动分流和沟通准备，不负责诊断。

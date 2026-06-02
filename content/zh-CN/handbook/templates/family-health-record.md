@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: family-health-record
 en_path: ../../../en/handbook/templates/family-health-record.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -49,6 +49,8 @@ evidence_status: stable
 
 这份最小档案能在急诊、门诊、陪诊和家庭沟通中先发挥作用。之后再逐步补充检查、影像、出院小结、授权和照护偏好。
 
+建议把 [危险信号速查](../playbooks/red-flags.md) 和 [症状与对应动作速查](../playbooks/symptom-action-guide.md) 放在档案首页附近。真正紧急时，家人先看动作，不翻长资料。
+
 ## 最小模板
 
 每位家庭成员建一页即可。
@@ -82,6 +84,8 @@ evidence_status: stable
 - 造影剂或麻醉相关反应：
 - 其他严重过敏：
 - 医生明确提醒不能使用的药物或操作：
+
+如果这个人有医生特别交代的提前就医条件，也写进下面的“风险触发器”，不要只靠家属记忆。
 
 ### 4. 正在使用的东西
 

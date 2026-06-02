@@ -1,5 +1,5 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: symptom-action-guide
 en_path: ../../../en/handbook/playbooks/symptom-action-guide.md

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: red-flags
 en_path: ../../../en/handbook/playbooks/red-flags.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -108,6 +108,8 @@ evidence_status: needs_periodic_review
 - 联系谁：紧急联系人、常去医院、近期医生或检查。
 
 如果没有时间整理，先求助。资料服务于救治，不服务于拖延。
+
+如果不是红色急症，但你还在犹豫下一步，可以回到 [症状与对应动作速查](symptom-action-guide.md)，按红色、黄色、绿色三层动作分流。
 
 ## 可信资料
 
