@@ -134,3 +134,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 大脑健康不是单独补脑，而是给认知、情绪、血管和家庭支持一起创造更好的运行环境。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[睡眠与恢复](sleep-and-recovery.md)
+- 下一章：[癌症与重大疾病](cancer-and-major-illness.md)

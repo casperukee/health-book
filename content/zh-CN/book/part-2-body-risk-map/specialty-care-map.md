@@ -137,3 +137,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 专科判断力不是自己下诊断，而是在对的时间、带着对的信息，找到对的人。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[癌症与重大疾病](cancer-and-major-illness.md)
+- 下一章：[家庭健康到底要管理什么](../part-3-family-health-os/what-to-manage.md)

@@ -143,3 +143,11 @@ evidence_status: stable
 ## 本章一句话
 
 门诊前准备得越像事实包，门诊里就越少靠猜。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[家庭健康到底要管理什么](what-to-manage.md)
+- 下一章：[如何和父母谈健康](talking-with-parents.md)

@@ -20,10 +20,13 @@
 
 中文主书从这里开始：
 
+- [开始连续阅读](content/zh-CN/book/00-start-here.md)
 - [主书目录](content/zh-CN/book/README.md)
 - [手册与模板](content/zh-CN/handbook/README.md)
 - [参考资料机制](content/zh-CN/references/README.md)
 - [勘误与复查](content/zh-CN/errata/README.md)
+
+如果仓库已启用 GitHub Pages，建议优先使用网页阅读版：它会提供侧边栏、搜索、页面大纲和上一章/下一章。
 
 ## 阅读边界
 

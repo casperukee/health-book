@@ -149,3 +149,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 体检指标的价值，不是替你宣布好坏，而是帮你看见趋势、组合、背景和下一步该问谁。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[健康寿命与风险曲线](healthspan-and-risk-curve.md)
+- 下一章：[代谢与四高](../part-2-body-risk-map/metabolic-health.md)

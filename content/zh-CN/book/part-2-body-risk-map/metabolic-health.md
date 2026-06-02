@@ -116,3 +116,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 四高真正提醒我们的，不是立刻和某种食物开战，而是把血管、能量、脂质和排泄放回同一张长期风险网。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[体检指标](../part-1-healthspan-risk-and-markers/checkup-markers.md)
+- 下一章：[心血管事件链](cardiovascular-event-chain.md)

@@ -121,3 +121,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 睡眠不是把人从生活里拿走，而是把人还给生活。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[心血管事件链](cardiovascular-event-chain.md)
+- 下一章：[大脑与心理健康](brain-and-mental-health.md)

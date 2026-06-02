@@ -141,3 +141,11 @@ evidence_status: stable
 ## 本章一句话
 
 家庭健康系统的价值，是让爱少一点混乱，多一点准备。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[专科问题](../part-2-body-risk-map/specialty-care-map.md)
+- 下一章：[就医前如何准备信息](doctor-visit-preparation.md)

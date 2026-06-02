@@ -139,3 +139,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 真正值得买的健康工具，应该让你更接近清楚行动，而不是更依赖焦虑和营销。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[保健品证据陷阱](supplement-evidence-traps.md)
+- 下一章：[健康新闻和新研究](reading-health-news.md)

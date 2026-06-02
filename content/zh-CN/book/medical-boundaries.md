@@ -154,3 +154,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 健康判断力的第一课，不是学会自己看病，而是知道什么时候不该再靠自己判断。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](README.md)
+- 上一章：[如何使用这本书](00-start-here.md)
+- 下一章：[健康寿命与风险曲线](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)

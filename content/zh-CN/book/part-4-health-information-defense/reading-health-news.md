@@ -132,3 +132,10 @@ evidence_status: stable
 ## 本章一句话
 
 健康信息读得好，不是反应更快，而是更知道什么时候该慢下来。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[设备、检测和抗衰营销](devices-tests-and-longevity-marketing.md)

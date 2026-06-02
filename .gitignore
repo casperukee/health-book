@@ -1,5 +1,8 @@
 AGENTS.md
 .DS_Store
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
 
 # Local scratch files and temporary scripts
 tmp/

@@ -111,3 +111,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 心血管事件的最后一刻很突然，但风险链条通常早就开始了；越早看见链条，越有机会打断它。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[代谢与四高](metabolic-health.md)
+- 下一章：[睡眠与恢复](sleep-and-recovery.md)

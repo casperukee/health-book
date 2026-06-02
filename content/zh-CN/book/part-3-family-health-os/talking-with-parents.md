@@ -142,3 +142,11 @@ evidence_status: stable
 ## 本章一句话
 
 好的健康沟通，不是把父母拉到你这边，而是和他们一起站到生活目标和安全底线这边。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[就医前如何准备信息](doctor-visit-preparation.md)
+- 下一章：[老年健康和照护](elder-care-basics.md)

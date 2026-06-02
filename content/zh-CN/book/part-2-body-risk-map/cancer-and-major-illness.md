@@ -131,3 +131,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 癌症判断力不是不害怕，而是在害怕时仍然知道自己处在哪个阶段、该问谁、该准备什么、不能被什么带走。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[大脑与心理健康](brain-and-mental-health.md)
+- 下一章：[专科问题](specialty-care-map.md)

@@ -154,3 +154,11 @@ evidence_status: needs_periodic_review
 ## 本章一句话
 
 老年照护最重要的不是替父母决定一切，而是提前保护他们还能安全做决定、行动和生活的能力。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[如何和父母谈健康](talking-with-parents.md)
+- 下一章：[保健品证据陷阱](../part-4-health-information-defense/supplement-evidence-traps.md)

@@ -16,3 +16,6 @@
 - 完成 Part 4 `devices-tests-and-longevity-marketing.md` 与 `reading-health-news.md`，补齐健康信息防御系统初稿。
 - 补充 Part 5 `health-product-checklist.md`，把保健品、设备、检测和抗衰消费统一到购买前检查流程。
 - 完成 Part 3 家庭健康操作系统四章：`what-to-manage.md`、`doctor-visit-preparation.md`、`talking-with-parents.md`、`elder-care-basics.md`。
+- 增加 VitePress + GitHub Pages 阅读层，提供侧边栏、搜索、页面大纲和上一章/下一章。
+- 为中文主书章节补充 Markdown 阅读导航，支持 GitHub 直接连续阅读。
+- 重写 `00-start-here.md` 和 `supplement-evidence-traps.md` 作为非模板化样章。

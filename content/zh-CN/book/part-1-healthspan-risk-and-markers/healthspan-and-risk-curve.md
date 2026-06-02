@@ -136,3 +136,11 @@ evidence_status: stable
 ## 本章一句话
 
 长寿不是把年龄数字拉长，而是尽量把能行动、能思考、能连接、能参与生活的时间放长。
+
+---
+
+## 阅读导航
+
+- [回到中文主书目录](../README.md)
+- 上一章：[医疗边界与危险信号](../medical-boundaries.md)
+- 下一章：[体检指标](checkup-markers.md)
