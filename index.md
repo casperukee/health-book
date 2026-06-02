@@ -11,10 +11,10 @@ hero:
       link: /content/zh-CN/book/00-start-here
     - theme: alt
       text: 中文目录
-      link: /content/zh-CN/book/
+      link: /content/zh-CN/book/README
     - theme: alt
       text: 手册与模板
-      link: /content/zh-CN/handbook/
+      link: /content/zh-CN/handbook/README
 
 features:
   - title: 连续阅读

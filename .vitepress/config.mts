@@ -64,7 +64,7 @@ export default defineConfig({
   description: '给家庭的长期健康读本',
   lang: 'zh-CN',
   base: '/health-book/',
-  cleanUrls: true,
+  cleanUrls: false,
   srcExclude: [
     'AGENTS.md',
     'content/zh-CN/updates/**',
@@ -82,9 +82,9 @@ export default defineConfig({
     siteTitle: '健康有谱',
     nav: [
       { text: '开始阅读', link: '/content/zh-CN/book/00-start-here' },
-      { text: '主书目录', link: '/content/zh-CN/book/' },
-      { text: '手册', link: '/content/zh-CN/handbook/' },
-      { text: '参考资料', link: '/content/zh-CN/references/' },
+      { text: '主书目录', link: '/content/zh-CN/book/README' },
+      { text: '手册', link: '/content/zh-CN/handbook/README' },
+      { text: '参考资料', link: '/content/zh-CN/references/README' },
       { text: 'GitHub', link: 'https://github.com/casperukee/health-book' }
     ],
     sidebar: {
