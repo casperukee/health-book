@@ -10,7 +10,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准心梗、卒中和心脏骤停的公众识别边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -20,7 +20,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准心梗症状、轻微或不典型表现、何时呼叫急救。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -50,7 +50,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方孕产危险信号资料
 - 用途：校准孕期和产后一年内需要立即就医的危险信号。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -60,9 +60,69 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准脓毒症作为严重感染急症的公众识别边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
+
+### MedlinePlus：Recognizing medical emergencies
+
+- URL: https://medlineplus.gov/ency/article/001927.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准公众识别医疗急症和家庭准备急救信息的基础边界。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-02
+
+### MedlinePlus：Chest pain
+
+- URL: https://medlineplus.gov/ency/article/003079.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准胸痛、胸闷和疑似心脏急症的公众就医边界。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-02
+
+### MedlinePlus：Headaches - danger signs
+
+- URL: https://medlineplus.gov/ency/patientinstructions/000424.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准头痛相关危险信号和需要急诊评估的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-02
+
+### MedlinePlus：Fever
+
+- URL: https://medlineplus.gov/ency/article/003090.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准发热、基础病和免疫低下人群的就医提醒。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-02
+
+### MedlinePlus：Abdominal pain
+
+- URL: https://medlineplus.gov/ency/article/003120.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准腹痛、呕血便血、持续加重和需要紧急评估的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-02
+
+### MedlinePlus：Dizziness
+
+- URL: https://www.medlineplus.gov/ency/article/003093.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准头晕、眩晕与神经系统、心肺和头部外伤相关危险信号。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-02
 
 ## 健康寿命与慢病风险
 

@@ -50,6 +50,7 @@ const handbookSidebar = [
     text: '手册与模板',
     items: [
       { text: '危险信号速查', link: '/content/zh-CN/handbook/playbooks/red-flags' },
+      { text: '症状与对应动作速查', link: '/content/zh-CN/handbook/playbooks/symptom-action-guide' },
       { text: '就医前问题清单', link: '/content/zh-CN/handbook/playbooks/doctor-visit-checklist' },
       { text: '家庭健康档案模板', link: '/content/zh-CN/handbook/templates/family-health-record' },
       { text: '慢病指标记录表', link: '/content/zh-CN/handbook/templates/chronic-marker-log' },
