@@ -1,0 +1,12 @@
+[Unit]
+Description=Deploy health-book mirror from GitHub
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+Environment=REPO_URL=https://github.com/casperukee/health-book.git
+Environment=BRANCH=main
+Environment=ROOT=/srv/health-book
+Environment=KEEP_RELEASES=5
+ExecStart=/usr/local/bin/health-book-mirror-deploy

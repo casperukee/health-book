@@ -17,14 +17,18 @@ http://health.mindarae.com
 ```text
 /srv/health-book/
   current -> /srv/health-book/releases/<release-id>
+  repo/
   releases/
     <release-id>/
   shared/
+    deploy.lock
+    last-deployed-sha
     logs/
 ```
 
 说明：
 
+- `repo/` 是服务器本机拉取的 GitHub 仓库；
 - `releases/` 保存每次部署产物；
 - `current` 是 Nginx 实际读取的软链接；
 - 每次部署先上传到新 release，再原子切换 `current`；
@@ -44,6 +48,44 @@ npm run docs:build
 ```bash
 VITEPRESS_BASE=/ npm run docs:build
 ```
+
+## 推荐自动同步方式：服务器自拉取
+
+当前推荐让吉隆坡服务器自己定时同步公开 GitHub 仓库，而不是依赖 GitHub Actions SSH 到服务器。
+
+优点：
+
+- 不需要在 GitHub Secrets 里保存服务器私钥；
+- 服务器只拉取公开仓库，权限更简单；
+- GitHub Pages 仍然是主站，镜像站通常在几分钟内跟上；
+- 构建失败时不会影响现有 `current` 目录。
+
+安装文件：
+
+```text
+deploy/mirror-pull-deploy.sh -> /usr/local/bin/health-book-mirror-deploy
+deploy/health-book-mirror.service -> /etc/systemd/system/health-book-mirror.service
+deploy/health-book-mirror.timer -> /etc/systemd/system/health-book-mirror.timer
+```
+
+服务器上启用：
+
+```bash
+chmod +x /usr/local/bin/health-book-mirror-deploy
+systemctl daemon-reload
+systemctl enable --now health-book-mirror.timer
+systemctl start health-book-mirror.service
+```
+
+查看状态：
+
+```bash
+systemctl status health-book-mirror.service --no-pager
+systemctl list-timers --all | grep health-book
+journalctl -u health-book-mirror.service -n 80 --no-pager
+```
+
+默认每 5 分钟检查一次 `main`。如果 GitHub Pages 部署成功后 `main` 没有新提交，镜像不会重复构建；如果有新提交，服务器会拉取、构建、生成新 release，并切换 `current`。
 
 ## Nginx
 
@@ -70,9 +112,9 @@ deploy/nginx-health-book.conf
 
 其中第 2 种最适合共用一台服务器，但需要读取并谨慎修改 `/usr/local/etc/xray/config.json`，不要在不了解现有代理协议和客户端配置的情况下直接改。
 
-## GitHub Secrets
+## 可选方式：GitHub Actions SSH 部署
 
-自动部署镜像需要在 GitHub 仓库中配置：
+仓库中仍保留一个可选的 GitHub Actions 镜像部署工作流。如果以后希望在 GitHub Pages 部署后由 GitHub runner 主动推送到服务器，需要在 GitHub 仓库中配置：
 
 ```text
 MIRROR_SSH_KEY
@@ -87,3 +129,5 @@ MIRROR_DEPLOY_ENABLED=true
 ```
 
 未启用该变量时，镜像部署 job 不会运行。
+
+当前已采用服务器自同步方案时，可以不启用这个 Actions job。
