@@ -64,14 +64,21 @@
 
 - CDC: [About Sleep](https://www.cdc.gov/sleep/about/index.html)
 - CDC: [Benefits of Physical Activity](https://www.cdc.gov/physical-activity-basics/benefits/)
+- CDC: [Health Benefits of Physical Activity for Adults](https://www.cdc.gov/physical-activity-basics/health-benefits/adults.html)
 - NHLBI/NIH: [Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)
 - NHLBI/NIH: [Sleep Deprivation and Deficiency: How Sleep Affects Your Health](https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects)
+- NHLBI/NIH: [Stages of Sleep](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
+- NHLBI/NIH: [Insomnia - Treatment](https://www.nhlbi.nih.gov/health/insomnia/treatment)
+- NINDS/NIH: [Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)
+- NIH Research Matters: [How Sleep Clears the Brain](https://www.nih.gov/news-events/nih-research-matters/how-sleep-clears-brain)
+- NIH Research Matters: [Lack of sleep in middle age may increase dementia risk](https://www.nih.gov/news-events/nih-research-matters/lack-sleep-middle-age-may-increase-dementia-risk)
 - MedlinePlus: [Insomnia](https://medlineplus.gov/insomnia.html)
 - MedlinePlus: [Neck pain](https://medlineplus.gov/ency/article/003025.htm)
 - FDA: [Sleep Problems](https://www.fda.gov/consumers/womens-health-topics/sleep-problems)
 - NCCIH/NIH: [Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)
+- NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation/overview.htm)
 
-使用说明：这些资料用于校准睡眠不足、失眠、日间功能受损、身体活动与睡眠、放松技术辅助定位、颈肩疼痛危险信号和何时寻求专业帮助的基础边界。正文不应提供安眠药建议，也不应把睡眠工具、放松技术或身体松解写成治疗替代品。
+使用说明：这些资料用于校准睡眠不足、失眠、日间功能受损、睡眠阶段、睡眠与大脑维护、身体活动与睡眠、CBT-I 的治疗边界、放松和正念技术辅助定位、颈肩疼痛危险信号和何时寻求专业帮助的基础边界。正文不应提供安眠药建议，也不应把睡眠工具、放松技术、冥想、NSDR 或身体松解写成治疗替代品。
 
 ## 大脑、认知与心理健康
 
@@ -82,6 +89,7 @@
 - NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 
 使用说明：这些资料用于校准认知变化、心理健康求助和危机处理入口。正文不应自测诊断抑郁、焦虑或痴呆，也不应替代心理健康专业评估。
 

@@ -2,7 +2,7 @@
 status: draft
 language: zh-CN
 canonical_slug: health-product-checklist
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -29,4 +29,6 @@ evidence_status: stable
 
 - 必须由权威资料校准：FDA health fraud、FTC common health scams、FDA dietary supplements、FDA medical devices、FDA direct-to-consumer tests。
 - 必须写成专业判断：不能替读者判定某产品治疗有效，也不能给购买推荐。
+- 冲动购买前暂停：用 CDC Managing Stress 校准“3 分钟暂停”，作为先停手、写下产品承诺、检查是否替代正规就医和基础行动的低风险流程。
+- 替代行动边界：可提示先做不花钱的基础动作，如 5-10 分钟轻活动或 3 分钟呼吸觉察；不能写成这些动作能治疗疾病或替代医生。
 - 正文露出权威入口：FDA、FTC、NIH ODS、NCCIH。

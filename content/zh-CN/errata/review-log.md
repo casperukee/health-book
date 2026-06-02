@@ -7,6 +7,41 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-03：v0.8 内容可传播性小迭代
+
+- 状态：reader feedback patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+  - `content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+  - `content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+  - `content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查内容：根据灰度反馈，把睡眠章从“现象和处理层级”进一步改成“为什么值得认真改变 + 怎么低门槛开始”。新增睡眠与白天功能、血压代谢心血管风险、大脑维护、深睡、脑脊液/类淋巴系统和中年睡眠不足与后续痴呆风险关联的谨慎说明，同时压缩浅层重复，避免把章节堆成睡眠科普长文。
+- 使用来源：
+  - CDC: Benefits of Physical Activity
+  - CDC: Health Benefits of Physical Activity for Adults
+  - CDC: Managing Stress
+  - NHLBI/NIH: Stages of Sleep
+  - NINDS/NIH: Brain Basics: Understanding Sleep
+  - NIH Research Matters: How Sleep Clears the Brain
+  - NIH Research Matters: Lack of sleep in middle age may increase dementia risk
+  - NCCIH/NIH: Meditation and Mindfulness
+- 处理说明：本次仍作为 v0.8 基础上的小修订，不升级到 v0.9。新增的 5-10 分钟低门槛运动、3 分钟呼吸觉察/暂停、身体扫描，都写成长期健康底座和家庭决策辅助，不写成治疗、诊断、运动处方或替代医生建议。睡眠和痴呆相关内容写成机制线索和人群研究关联，不做个体因果推断。
+- 下次建议复查：2026-09 至 2026-12；如收到睡眠医学、运动康复、心理健康或临床读者反馈，应提前复查。
+
+## 2026-06-03：v0.8 睡眠恢复工具箱补强
+
+- 状态：reader experience patch
+- 位置：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查内容：参考私有库“睡眠、精力与恢复 专题索引”的系统结构，把睡眠底座、白天精力输出和恢复工具中间层重新整合进公开章节；新增彩色“恢复工具箱”模块，用绿色、黄色、蓝色、红色区分短时恢复、回到节律、降低唤醒和专业帮助边界。
+- 使用来源：
+  - NHLBI/NIH: Insomnia - Treatment
+  - MedlinePlus: Insomnia
+  - NCCIH/NIH: Relaxation Techniques
+  - NCCIH/NIH: Meditation and Mindfulness
+- 处理说明：本次不搬运私有资料卡原文、课程路径、PDF/OCR 链接或本地路径，只吸收“睡眠是底座、精力是输出、工具箱是中间层”的结构判断。CBT-I 写成专业失眠治疗路径，不写成普通读者照着执行的自助方案；NSDR、呼吸和冥想写成辅助降唤醒工具，不替代夜间睡眠或专业治疗。
+- 下次建议复查：2026-09 至 2026-12；如收到睡眠医学或心理治疗专业反馈，应提前复查。
+
 ## 2026-06-02：v0.8 睡眠章身体阻力小修订
 
 - 状态：reader feedback patch

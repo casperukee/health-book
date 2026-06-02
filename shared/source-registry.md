@@ -328,9 +328,19 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准身体活动对睡眠、情绪和整体健康的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
+
+### CDC：Health Benefits of Physical Activity for Adults
+
+- URL: https://www.cdc.gov/physical-activity-basics/health-benefits/adults.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方公众健康资料
+- 用途：校准身体活动对睡眠、大脑、心血管、代谢和长期健康影响的公众表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
 
 ### NHLBI/NIH：Why Is Sleep Important?
 
@@ -351,6 +361,56 @@
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### NHLBI/NIH：Stages of Sleep
+
+- URL: https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep
+- 机构：National Heart, Lung, and Blood Institute, NIH
+- 类型：美国官方健康主题资料
+- 用途：校准 NREM、REM、深睡、睡眠周期和消费级睡眠阶段解释边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
+
+### NHLBI/NIH：Insomnia - Treatment
+
+- URL: https://www.nhlbi.nih.gov/health/insomnia/treatment
+- 机构：National Heart, Lung, and Blood Institute, NIH
+- 类型：美国官方健康主题资料
+- 用途：校准 CBT-I、睡眠习惯、药物和补充剂在失眠治疗中的定位；正文必须写成专业治疗路径和医生判断边界，不写成自助技巧清单。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
+
+### NINDS/NIH：Brain Basics: Understanding Sleep
+
+- URL: https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep
+- 机构：National Institute of Neurological Disorders and Stroke, NIH
+- 类型：美国官方神经科学公众资料
+- 用途：校准睡眠阶段、记忆、情绪和大脑维护相关基础表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
+
+### NIH Research Matters：How Sleep Clears the Brain
+
+- URL: https://www.nih.gov/news-events/nih-research-matters/how-sleep-clears-brain
+- 机构：National Institutes of Health
+- 类型：NIH 研究进展解读
+- 用途：作为睡眠、脑脊液流动、类淋巴系统和代谢废物清除机制线索；正文必须注明主要来自动物研究，不能写成个体诊断或确定性预防承诺。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
+
+### NIH Research Matters：Lack of sleep in middle age may increase dementia risk
+
+- URL: https://www.nih.gov/news-events/nih-research-matters/lack-sleep-middle-age-may-increase-dementia-risk
+- 机构：National Institutes of Health
+- 类型：NIH 研究进展解读
+- 用途：校准中年长期睡眠不足与后续痴呆风险关联的谨慎表述；正文不得写成个体因果判决。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
 
 ### MedlinePlus：Insomnia
 
@@ -391,6 +451,16 @@
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
+
+### NCCIH/NIH：Meditation and Mindfulness: Effectiveness and Safety
+
+- URL: https://www.nccih.nih.gov/health/meditation/overview.htm
+- 机构：National Center for Complementary and Integrative Health, NIH
+- 类型：美国官方补充与整合健康资料
+- 用途：校准冥想、正念、呼吸觉察作为辅助练习的定位和安全边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
 
 ## 大脑、认知与心理健康
 
@@ -453,6 +523,16 @@
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### CDC：Managing Stress
+
+- URL: https://www.cdc.gov/mental-health/living-with/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方心理健康公众资料
+- 用途：校准压力管理、暂停、呼吸和寻求支持的低风险辅助边界。
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
 
 ## 癌症筛查和重大疾病
 

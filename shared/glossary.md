@@ -24,6 +24,8 @@
 | 昼夜节律 | circadian rhythm | 身体内部的时间节律，受光照、起床、进食和活动影响 |
 | 身体阻力 | somatic resistance | 疼痛、肌肉紧张、身体高张力或不适对睡眠和恢复形成的阻力 |
 | 日间功能 | daytime functioning | 白天清醒、注意、情绪、工作学习和安全表现 |
+| 非睡眠深度休息 | non-sleep deep rest (NSDR) | 用于短时降低高唤醒和恢复注意力的休息练习，不替代夜间睡眠 |
+| 失眠认知行为治疗 | cognitive behavioral therapy for insomnia (CBT-I) | 针对失眠的结构化治疗路径，不等同于普通睡眠技巧 |
 | 认知健康 | cognitive health | 记忆、学习、判断、语言、注意和执行功能等状态 |
 | 痴呆 | dementia | 影响日常功能的认知和行为综合征，不等同于正常衰老 |
 | 心理危机 | mental health crisis | 自伤、自杀、严重失控或无法保证安全的心理健康急迫状态 |

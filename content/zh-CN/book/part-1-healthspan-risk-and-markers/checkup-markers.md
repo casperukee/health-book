@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: checkup-markers
 en_path: ../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -139,9 +139,11 @@ evidence_status: needs_periodic_review
 
 如果有长期指标需要记录，可以把结果转进 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)。记录的目标不是把数字变成家庭考核，而是让下一次就医不再从零开始。
 
+如果报告反复指向体重、腰围、血压、血糖或血脂风险，也不要把第一步想得太大。对长期久坐的人，先加一个低门槛动作：每天找一个固定时段，走 5-10 分钟，或者饭后下楼转一圈。它不能替代复查、医生判断和治疗，但能让“我要改变生活方式”从口号变成可执行的第一步。
+
 ## 可信资料与进一步阅读
 
-以下资料用于校准本章对体检、化验结果和常见慢病指标的解释边界。截至 2026-06-02，本章主要参考：
+以下资料用于校准本章对体检、化验结果和常见慢病指标的解释边界。截至 2026-06-03，本章主要参考：
 
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 - MedlinePlus: [Medical Tests](https://medlineplus.gov/lab-tests)
@@ -149,6 +151,7 @@ evidence_status: needs_periodic_review
 - CDC: [Cholesterol](https://www.cdc.gov/cholesterol/index.html)
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - CDC: [A1C Test for Diabetes and Prediabetes](https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html)
+- CDC: [Benefits of Physical Activity](https://www.cdc.gov/physical-activity-basics/benefits/)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

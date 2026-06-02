@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: talking-with-parents
 en_path: ../../../en/book/part-3-family-health-os/talking-with-parents.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -104,6 +104,8 @@ evidence_status: stable
 
 温和不是放任，坚定也不必羞辱。
 
+如果你已经明显上头，先别立刻开口。做一个 3 分钟暂停：离开争论现场，感觉脚踩在地上，慢慢呼吸几轮，只问自己一个问题：“我现在想守住的是父母的安全，还是想赢这场争论？”这不是心理治疗，也不是压住情绪，而是给下一句话留一点余地。
+
 ## 不能只靠沟通的情况
 
 以下情况需要引入专业帮助或家庭共同干预：
@@ -124,11 +126,12 @@ evidence_status: stable
 - 把父母长期药、保健品、体检报告整理成一页；
 - 对大额健康消费设置冷静期；
 - 每月聊一次活动、饮食、睡眠、社交和复查，不只聊指标；
+- 下次要谈难题前，先做一次 3 分钟暂停，再开口；
 - 如果沟通陷入对抗，换成医生、药师、社区或可信第三方一起参与。
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-03，本章主要参考：
 
 - NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
@@ -136,6 +139,7 @@ evidence_status: stable
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
+- CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

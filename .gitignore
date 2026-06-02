@@ -3,8 +3,11 @@ AGENTS.md
 node_modules/
 .vitepress/cache/
 .vitepress/dist/
+.chrome-profile/
+promo/**/.chrome-profile/
 
 # Local scratch files and temporary scripts
+local-notes/
 tmp/
 temp/
 scratch/

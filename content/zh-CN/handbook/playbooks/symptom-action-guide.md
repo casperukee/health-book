@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: symptom-action-guide
 en_path: ../../../en/handbook/playbooks/symptom-action-guide.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -13,7 +13,7 @@ evidence_status: needs_periodic_review
 
 > 本页不是诊断表，也不是医疗建议。它只帮助家庭判断下一步动作：急救或急诊、尽快联系医生，还是先记录观察。只要出现危险信号，或你无法判断等待是否安全，请优先联系当地急救服务、急诊系统或医生热线。
 
-## 先记住三句话
+## 先记住四句话
 
 第一，症状速查不是为了判断“是什么病”，而是判断“现在该做什么”。
 
@@ -71,7 +71,7 @@ evidence_status: needs_periodic_review
 
 ## 能先在家处理的前提
 
-朋友反馈里提到“什么情况能自己处理”，这个问题很重要，但也最容易被误解。
+很多人最关心的是“什么情况可以先在家处理”。这个问题很重要，但也最容易被误解。
 
 更准确的说法是：什么情况下可以先做家庭基础照护和记录，而不是立刻进入医疗系统。
 
@@ -93,6 +93,8 @@ evidence_status: needs_periodic_review
 3. 记录变化：开始时间、持续多久、伴随症状、体温、血压或血糖等必要指标。
 4. 避免乱用：不要叠加多种非处方药、保健品、草药或“偏方”；不确定禁忌时先问医生或药师。
 5. 设升级条件：如果加重、反复、超过预期时间不改善，或出现新危险信号，立刻升级。
+
+如果家里人已经慌了，先做一个 3 分钟稳定动作：让当事人坐稳或躺稳，停止危险活动，旁边的人慢慢问清开始时间、持续多久、有没有胸痛气短、意识改变、严重疼痛、出血或神经症状。这个动作不是治疗，也不是拖延；它只是避免在慌乱中漏掉红色信号。
 
 ## 高风险人群要升级一档
 
@@ -134,7 +136,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料
 
-截至 2026-06-02，本页主要参考：
+截至 2026-06-03，本页主要参考：
 
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - MedlinePlus: [Chest pain](https://medlineplus.gov/ency/article/003079.htm)
@@ -145,6 +147,7 @@ evidence_status: needs_periodic_review
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
+- CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: health-product-checklist
 en_path: ../../../en/handbook/templates/health-product-checklist.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -42,6 +42,17 @@ evidence_status: stable
 - 涉及老人、儿童、孕产、慢病、肝肾问题、癌症、精神心理疾病或多药使用。
 
 先停下来，不等于永远不买。它只是把“立即付款”改成“先查证、问医生、和家人商量”。
+
+## 3 分钟暂停
+
+如果你已经被种草、焦虑或限时优惠推着走，先做一个 3 分钟暂停：
+
+1. 不付款，不转账，不填健康信息；
+2. 把手机放下，慢慢呼吸几轮；
+3. 写下这个产品承诺解决什么问题；
+4. 问自己：它会不会替代复查、就医、睡眠、运动、饮食或用药安全？
+
+这不是冥想课，也不是让你否定所有产品。它只是把冲动购买变成可检查的健康决策。
 
 ## A. 基本信息
 
@@ -159,6 +170,7 @@ evidence_status: stable
 - [ ] 整理慢病指标记录表；
 - [ ] 更新家庭健康档案；
 - [ ] 购买可靠的基础测量工具，例如合适的血压计，并学习正确测量；
+- [ ] 先做一个不花钱的底座动作：每天 5-10 分钟轻活动，或睡前 3 分钟呼吸觉察；
 - [ ] 改善睡眠、运动、饮食、牙齿、疫苗和戒烟限酒；
 - [ ] 陪父母散步、复查、问医生，而不是只争对错。
 
@@ -172,7 +184,7 @@ evidence_status: stable
 
 ## 可信资料
 
-截至 2026-06-01，本页主要参考：
+截至 2026-06-03，本页主要参考：
 
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
@@ -181,6 +193,7 @@ evidence_status: stable
 - FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
 - NIH Office of Dietary Supplements: [Dietary Supplements: What You Need to Know](https://ods.od.nih.gov/factsheets/WYNTK/)
 - NCCIH: [Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)
+- CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 
 ## 最后提醒
 

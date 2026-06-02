@@ -81,6 +81,8 @@ export default defineConfig({
   ],
   srcExclude: [
     'AGENTS.md',
+    'local-notes/**',
+    'promo/**',
     'content/zh-CN/updates/**',
     'content/en/**'
   ],

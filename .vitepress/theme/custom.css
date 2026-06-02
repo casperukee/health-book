@@ -139,6 +139,82 @@
   background: rgba(16, 185, 129, 0.18);
 }
 
+.decision-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+  margin: 18px 0 24px;
+}
+
+.decision-card {
+  border: 1px solid var(--vp-c-divider);
+  border-left-width: 6px;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.decision-card h3 {
+  margin: 6px 0 10px;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.decision-card p {
+  margin: 9px 0;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.decision-label {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 3px 10px;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.decision-card-blue {
+  border-left-color: #2563eb;
+  background: rgba(37, 99, 235, 0.08);
+}
+
+.decision-card-green {
+  border-left-color: #059669;
+  background: rgba(16, 185, 129, 0.10);
+}
+
+.decision-card-yellow {
+  border-left-color: #d97706;
+  background: rgba(245, 158, 11, 0.10);
+}
+
+.decision-card-red {
+  border-left-color: #dc2626;
+  background: rgba(220, 38, 38, 0.08);
+}
+
+.decision-card-blue .decision-label {
+  color: #1d4ed8;
+  background: rgba(37, 99, 235, 0.15);
+}
+
+.decision-card-green .decision-label {
+  color: #065f46;
+  background: rgba(16, 185, 129, 0.18);
+}
+
+.decision-card-yellow .decision-label {
+  color: #92400e;
+  background: rgba(245, 158, 11, 0.20);
+}
+
+.decision-card-red .decision-label {
+  color: #991b1b;
+  background: rgba(220, 38, 38, 0.16);
+}
+
 .dark .triage-card-red .triage-label,
 .dark .triage-badge-red {
   color: #fecaca;
@@ -155,6 +231,26 @@
 .dark .triage-badge-green {
   color: #a7f3d0;
   background: rgba(16, 185, 129, 0.22);
+}
+
+.dark .decision-card-blue .decision-label {
+  color: #bfdbfe;
+  background: rgba(37, 99, 235, 0.24);
+}
+
+.dark .decision-card-green .decision-label {
+  color: #a7f3d0;
+  background: rgba(16, 185, 129, 0.22);
+}
+
+.dark .decision-card-yellow .decision-label {
+  color: #fde68a;
+  background: rgba(245, 158, 11, 0.24);
+}
+
+.dark .decision-card-red .decision-label {
+  color: #fecaca;
+  background: rgba(220, 38, 38, 0.24);
 }
 
 .custom-block {
@@ -192,6 +288,10 @@
   }
 
   .triage-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .decision-grid {
     grid-template-columns: 1fr;
   }
 }

@@ -2,7 +2,7 @@
 status: draft
 language: zh-CN
 canonical_slug: talking-with-parents
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -29,4 +29,5 @@ evidence_status: stable
 
 - 必须由权威资料校准：就医沟通、健康记录、认知变化、心理危机、健康消费风险。
 - 必须写成专业判断：慢病方案、用药、认知诊断、精神心理处理。
+- 沟通前暂停：用 CDC Managing Stress 校准“3 分钟暂停”作为争吵前的降速动作；正文必须写成沟通辅助，不写成心理治疗或压抑情绪。
 - 正文露出权威入口：NIA Cognitive Health、SAMHSA 988、FDA/FTC health fraud、HealthIT.gov。
