@@ -29,3 +29,4 @@
 - 启动 v0.7 灰度试读机制：新增 `v0.7 灰度试读说明`、推荐试读路径和反馈模板，并接入首页、README 与网页导航。
 - 推进 v0.7 第二批章节质量冻结：将 `sleep-and-recovery.md`、`brain-and-mental-health.md`、`cancer-and-major-illness.md`、`devices-tests-and-longevity-marketing.md` 推进到 `content-review`，并补齐症状分流、家庭档案、就医清单和健康产品清单入口。
 - 完成 v0.7 主书正文质量冻结第一轮：将 `specialty-care-map.md`、`what-to-manage.md`、`doctor-visit-preparation.md`、`talking-with-parents.md`、`elder-care-basics.md`、`reading-health-news.md` 推进到 `content-review`，使中文主书正文全部进入内容审查状态。
+- 在灰度试读说明中增加作者微信二维码，方便试读者直接反馈。

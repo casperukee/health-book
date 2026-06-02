@@ -54,6 +54,12 @@
   border-radius: 8px;
 }
 
+.vp-doc img[alt='casper 微信二维码'] {
+  width: min(100%, 320px);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
 .triage-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
