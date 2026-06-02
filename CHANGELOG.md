@@ -32,3 +32,4 @@
 - 在灰度试读说明中增加作者微信二维码，方便试读者直接反馈。
 - 增加吉隆坡镜像部署方案：支持通过 `VITEPRESS_BASE=/` 构建域名根路径站点，提供 Nginx 配置、服务器目录设计和 GitHub Actions 镜像部署工作流，并接入国内镜像入口 `http://health.mindarae.com`。
 - 增加吉隆坡镜像服务器自同步方案：服务器每 5 分钟从公开 GitHub 仓库拉取、构建并原子切换 release，不依赖 GitHub Secrets。
+- 重绘站点 logo，并把静态文件移入 VitePress public 目录，修复线上导航栏 logo 不显示的问题。

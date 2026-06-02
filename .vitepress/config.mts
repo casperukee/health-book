@@ -76,6 +76,9 @@ export default defineConfig({
   lang: 'zh-CN',
   base: siteBase,
   cleanUrls: false,
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: `${siteBase}logo.svg` }]
+  ],
   srcExclude: [
     'AGENTS.md',
     'content/zh-CN/updates/**',
@@ -89,7 +92,7 @@ export default defineConfig({
     '/LICENSE'
   ],
   themeConfig: {
-    logo: '/logo.svg',
+    logo: { src: '/logo.svg', alt: '健康有谱' },
     siteTitle: '健康有谱',
     nav: [
       { text: '开始阅读', link: '/content/zh-CN/book/00-start-here' },
