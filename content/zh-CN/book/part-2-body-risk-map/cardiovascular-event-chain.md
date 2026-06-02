@@ -27,7 +27,7 @@ evidence_status: needs_periodic_review
 
 心血管急性信号不适合在家等到“确定”。普通家庭真正要提前约定的，不是怎么判断是不是心梗或卒中，而是出现哪些信号时直接进入急救或急诊路径。
 
-这条规则可以写进家庭健康档案，也可以和 [症状与动作速查](../../handbook/playbooks/symptom-action-guide.md) 放在一起：胸痛胸闷、明显呼吸困难、晕厥、意识改变、卒中样症状，先求助，再补信息。
+这条规则可以写进家庭健康档案，也可以和 [症状与动作速查](../../handbook/playbooks/symptom-action-guide.md) 放在一起：胸痛胸闷、明显呼吸困难、晕厥、意识改变、卒中样症状，先求助，再补信息。即使症状一阵缓解，也不要把“没那么难受了”当成安全证明。
 
 ## 为什么心血管问题容易被低估
 
@@ -88,6 +88,8 @@ evidence_status: needs_periodic_review
 
 这些情况请优先联系当地急救服务或急诊系统。
 
+老人、糖尿病患者、女性和已有心血管病史的人，急性表现可能不完全符合“典型胸痛”的想象。家庭不需要判断是哪一种，只需要避免把新的、反复的或伴随全身不适的信号拖成观察。
+
 ## 今天能补上的四件事
 
 - 给家里每个成年人标记心血管风险因素：血压、血脂、血糖、吸烟、体重、家族史、运动量。
@@ -97,7 +99,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-02，本章主要参考：
 
 - CDC: [Heart Disease Risk Factors](https://www.cdc.gov/heart-disease/risk-factors/index.html)
 - CDC: [About Coronary Artery Disease](https://www.cdc.gov/heart-disease/about/coronary-artery-disease.html)

@@ -33,6 +33,8 @@ evidence_status: needs_periodic_review
 
 如果家里已经有人在长期管理血压、血脂、血糖或尿酸，把这些数字放进同一张 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)。四高最怕的不是一眼看不懂，而是每次就医都从零开始。
 
+家庭记录的目标是帮助医生看趋势，不是替医生设目标值。血压、血糖、血脂、尿酸的诊断标准、治疗目标和用药选择，会受年龄、基础病、妊娠状态、肾功能、心血管病史和既往治疗影响。
+
 ## 最常见的误读：把系统问题切成食物问题
 
 第一个误解，是把每个指标都翻译成一个食物禁忌：血压高等于盐，血脂高等于油，血糖高等于糖，尿酸高等于海鲜。食物当然重要，但这会把系统问题切碎。
@@ -89,6 +91,7 @@ evidence_status: needs_periodic_review
 - 血压、血脂、血糖、尿酸明显异常或持续异常；
 - 多项指标同时异常，尤其合并肥胖、吸烟、家族史、肾功能异常或既往心血管病；
 - 已经在用降压、降脂、降糖、降尿酸药，准备停药、换药或加补剂；
+- 家庭测量结果和体检结果差异很大，或不知道测量方式、设备和记录是否可靠；
 - 指标异常伴随胸痛胸闷、呼吸困难、晕厥、单侧无力、言语不清、意识改变、严重疼痛等危险信号；
 - 孕产、儿童、老人或肝肾功能异常人群。
 
@@ -104,7 +107,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-02，本章主要参考：
 
 - CDC: [About High Blood Pressure](https://www.cdc.gov/high-blood-pressure/about/index.html)
 - CDC: [About Cholesterol](https://www.cdc.gov/cholesterol/about/index.html)

@@ -55,6 +55,8 @@ evidence_status: needs_periodic_review
 
 筛查是在人没有症状时寻找早期癌症或癌前病变。它的目标不是“查得越多越安心”，而是在合适人群里用证据支持的方法提高获益、降低伤害。
 
+如果已经有症状、影像异常或医生提示可疑，就不再是普通筛查问题，而是诊断路径问题。筛查阴性也不能解释持续症状；筛查阳性也通常需要进一步诊断检查，不能直接等同于确诊。
+
 筛查前要问：
 
 - 这个癌种是否有推荐筛查；
@@ -62,6 +64,8 @@ evidence_status: needs_periodic_review
 - 阳性后下一步是什么；
 - 假阳性、过度诊断和后续检查风险是什么；
 - 这项检查有没有权威指南支持。
+
+对“泛癌早筛”“多癌种早检”“液体活检体检套餐”这类新兴检测，更要问清楚：它是否适用于无症状人群，是否已被权威指南推荐，阳性后去哪里做诊断，假阳性、假阴性、过度诊断和费用后果谁来承担。
 
 ### 第三问：这是诊断问题吗？
 
@@ -122,10 +126,12 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-02，本章主要参考：
 
 - NCI: [Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)
 - NCI: [What Cancer Screening Tests Check for Cancer?](https://www.cancer.gov/about-cancer/screening/screening-tests)
+- NCI: [Questions and Answers about Multi-Cancer Detection Tests](https://prevention.cancer.gov/research-areas/networks-consortia-programs/csrn/q-a-about-mcd-tests)
+- NCI: [Tests and Procedures Used to Diagnose Cancer](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis)
 - CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
 - NCI: [Types of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types)
 - NCI: [Treatment for Cancer](https://www.cancer.gov/about-cancer/treatment)

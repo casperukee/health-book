@@ -29,6 +29,8 @@ evidence_status: needs_periodic_review
 
 同样的症状发生在老人身上，常常要升级一档处理。跌倒、意识变化、突然衰弱、行动能力下降、用药后异常、感染后状态变差，都不适合只用“年纪大了”解释。
 
+尤其要警惕四类变化：突然意识混乱，突然走不了或明显变弱，跌倒后头痛/疼痛/不能负重，感染后精神和呼吸状态变差。这些变化可能和感染、卒中、药物、脱水、骨折或其他急症有关，家庭不应只靠观察硬扛。
+
 家里可以先把 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [家庭健康档案模板](../../handbook/templates/family-health-record.md) 放在一起：一个负责判断下一步动作，一个负责把病史、用药、过敏、复查和紧急联系人留住。
 
 ## 不要把跌倒、忘事和多药都当成正常
@@ -121,6 +123,7 @@ evidence_status: needs_periodic_review
 以下情况不要拖：
 
 - 跌倒后头部受伤、疼痛明显、不能负重、意识异常；
+- 正在使用抗凝药、抗血小板药，跌倒后即使外伤不明显，也应更谨慎联系医生评估；
 - 突然意识混乱、嗜睡、行为异常；
 - 卒中样症状；
 - 短时间内认知或行动能力明显下降；
@@ -134,6 +137,7 @@ evidence_status: needs_periodic_review
 
 - 给父母做一次家中防跌倒检查：地面、灯光、鞋、浴室、夜间路线；
 - 建一张完整用药清单，包括保健品和草药；
+- 每次新增、停用或调整药物后，记录是谁开的、为什么改、出现什么反应；有疑问时带清单问医生或药师，不自行停药；
 - 记录一周行动、睡眠、情绪、认知和生活能力变化；
 - 把复查、疫苗、眼科、牙科、听力和慢病随访放进家庭日历；
 - 和父母提前谈一次：如果未来需要照护，他们最在意什么生活质量。
@@ -142,7 +146,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-02，本章主要参考：
 
 - CDC: [About Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)
 - CDC: [STEADI - Older Adult Fall Prevention](https://www.cdc.gov/steadi/index.html)

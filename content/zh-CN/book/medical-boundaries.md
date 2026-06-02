@@ -41,6 +41,8 @@ evidence_status: needs_periodic_review
 
 你可以把健康问题先分成三层：红色急救或急诊，黄色尽快联系医生，绿色记录复查。
 
+这三层不是诊断等级，而是行动优先级。只要出现红色信号，或者你无法判断等待是否安全，就不要因为“症状好像不重”“刚刚又缓解了”而降级到绿色。
+
 ### 红色：急救或急诊
 
 这一层的关键词是：可能危及生命、可能造成不可逆损害、正在快速加重，或者你无法保证等待是安全的。出现这类情况时，不要把本书、搜索、短视频或亲友经验当作处理方案。应联系当地急救服务或尽快进入急诊系统。
@@ -50,7 +52,7 @@ evidence_status: needs_periodic_review
 需要特别警惕的急救红线包括：
 
 - 胸痛、胸闷、胸部压迫感，尤其伴随气短、出冷汗、恶心、呕吐、头晕，或疼痛放射到手臂、背部、颈部、下颌、上腹部；
-- 突然出现面部歪斜、单侧肢体无力或麻木、说话含糊、理解困难、视力改变、走路不稳、严重眩晕或突发剧烈头痛；
+- 突然出现面部歪斜、单侧肢体无力或麻木、说话含糊、理解困难、视力改变、走路不稳、严重眩晕或突发剧烈头痛，即使后来缓解也不要自行降级；
 - 突然失去反应、没有正常呼吸，或明显意识改变、叫不醒、抽搐后不能恢复；
 - 严重呼吸困难、嘴唇或面色发青、喉咙或胸口紧得喘不过气；
 - 严重过敏表现，如面部、口唇、舌头或喉咙肿胀，伴呼吸困难、头晕或意识异常；
@@ -92,7 +94,7 @@ evidence_status: needs_periodic_review
 
 记录复查不是拖延。它的价值是把模糊感受变成医生能使用的信息，也让家庭不被单次指标或单次症状牵着走。
 
-但绿色不是永久状态。只要症状加重、反复、持续不改善，发生在高风险人群身上，或者家人明显觉得“不对劲”，就应升级到黄色或红色。
+但绿色不是永久状态，也不是“自己处理”的保证。绿色通常需要同时满足：没有红色危险信号；不是婴幼儿、孕产期、老人、免疫低下或严重基础病人群；症状轻、短暂、正在改善；能正常呼吸、进水、交流和完成基本活动。只要症状加重、反复、持续不改善，发生在高风险人群身上，或者家人明显觉得“不对劲”，就应升级到黄色或红色。
 
 ## 先约定家庭规则：危险信号不争论
 
@@ -140,11 +142,12 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-以下资料用于校准本章危险信号边界。截至 2026-06-01，本章主要参考：
+以下资料用于校准本章危险信号边界。截至 2026-06-02，本章主要参考：
 
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - NHLBI/NIH: [Heart Attack Symptoms](https://www.nhlbi.nih.gov/health/heart-attack/symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
+- MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)

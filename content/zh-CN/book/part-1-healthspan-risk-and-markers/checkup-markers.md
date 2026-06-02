@@ -23,6 +23,8 @@ evidence_status: needs_periodic_review
 
 指标不是判决书，而是风险语言；关键不是一个箭头，而是它在什么人身上、持续多久、和哪些指标一起出现、会改变什么行动。
 
+反过来也要记住：体检报告“看起来正常”不能抵消危险信号。胸痛、卒中样症状、严重呼吸困难、意识改变、异常出血、自伤风险等问题，不应因为近期体检正常就继续等待。
+
 ## 体检报告最会误导人的地方
 
 第一个误解，是把参考范围当成疾病边界。很多化验项目的“正常范围”是帮助医生解释结果的参照，不等于一条绝对的健康线。略高或略低不一定代表疾病，正常也不一定代表没有风险。
@@ -90,6 +92,8 @@ evidence_status: needs_periodic_review
 
 但报告不能覆盖全部风险。一个人如果同时出现胸痛胸闷、呼吸困难、晕厥、意识改变、单侧无力、言语不清、严重疼痛、异常出血、自伤风险等危险信号，就不要继续研究报告或等待复查。先按 [医疗边界与危险信号](../medical-boundaries.md) 处理。
 
+同样，报告里的“阳性”“可疑”“异常”也不等于最终诊断。它通常意味着需要复查、进一步检查或医生结合病史判断，而不是家庭自行下结论。
+
 如果你面对的是具体症状，而不是单纯报告异常，可以先用 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 做动作分层。
 
 ## 把报告整理成“时间线”，不要每年从头慌一次
@@ -137,7 +141,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-以下资料用于校准本章对体检、化验结果和常见慢病指标的解释边界。截至 2026-06-01，本章主要参考：
+以下资料用于校准本章对体检、化验结果和常见慢病指标的解释边界。截至 2026-06-02，本章主要参考：
 
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 - MedlinePlus: [Medical Tests](https://medlineplus.gov/lab-tests)

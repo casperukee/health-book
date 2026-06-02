@@ -12,7 +12,7 @@
 - 用途：校准心梗、卒中和心脏骤停的公众识别边界。
 - 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### NHLBI/NIH：Heart Attack Symptoms
 
@@ -22,7 +22,7 @@
 - 用途：校准心梗症状、轻微或不典型表现、何时呼叫急救。
 - 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：Signs and Symptoms of Stroke
 
@@ -30,9 +30,9 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准卒中危险信号、B.E. F.A.S.T. 和症状出现时间记录。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### SAMHSA：988 Suicide & Crisis Lifeline
 
@@ -52,7 +52,7 @@
 - 用途：校准孕期和产后一年内需要立即就医的危险信号。
 - 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：About Sepsis
 
@@ -62,7 +62,7 @@
 - 用途：校准脓毒症作为严重感染急症的公众识别边界。
 - 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### MedlinePlus：Recognizing medical emergencies
 
@@ -70,7 +70,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准公众识别医疗急症和家庭准备急救信息的基础边界。
-- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-02
 
@@ -196,7 +196,7 @@
 - 用途：校准血压波动、长期风险、无症状和医生诊断边界。
 - 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：Cholesterol
 
@@ -216,7 +216,7 @@
 - 用途：校准血糖检测类型、A1C 时间尺度和医生诊断边界。
 - 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：A1C Test for Diabetes and Prediabetes
 
@@ -238,7 +238,7 @@
 - 用途：校准胆固醇、心血管风险和患者教育边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：Gout
 
@@ -372,7 +372,7 @@
 - 用途：校准认知健康、正常衰老和需要关注的认知变化。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：Reducing Risk for Dementia
 
@@ -434,7 +434,7 @@
 - 用途：校准癌症筛查的收益、局限、假阳性、假阴性和过度诊断边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### NCI：What Cancer Screening Tests Check for Cancer?
 
@@ -444,7 +444,27 @@
 - 用途：提供常见癌症筛查测试入口和患者教育边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
+
+### NCI：Questions and Answers about Multi-Cancer Detection Tests
+
+- URL: https://prevention.cancer.gov/research-areas/networks-consortia-programs/csrn/q-a-about-mcd-tests
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症筛查研究资料
+- 用途：校准多癌种检测、液体活检类早筛产品仍需研究验证、阳性后需要后续诊断路径的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-02
+
+### NCI：Tests and Procedures Used to Diagnose Cancer
+
+- URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症诊断资料
+- 用途：校准有症状或筛查异常时进入诊断评估，而不是继续按普通筛查处理的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-02
 
 ### CDC：Cancer Screening Tests
 
@@ -454,7 +474,7 @@
 - 用途：校准公众癌症筛查测试入口和筛查不是越多越好的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### NCI：Types of Cancer Treatment
 
@@ -778,7 +798,7 @@
 - 用途：校准老年跌倒风险、跌倒后果和家庭防跌倒观察边界。
 - 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### CDC：STEADI - Older Adult Fall Prevention
 
@@ -788,7 +808,7 @@
 - 用途：提供老年跌倒风险识别、临床沟通和家庭资料准备入口。
 - 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### MedlinePlus：Taking Multiple Medicines Safely
 
@@ -798,7 +818,7 @@
 - 用途：校准多药使用、非处方药、补剂、用药清单和医生/药师沟通边界。
 - 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### MedlinePlus：Older Adult Health
 
@@ -808,7 +828,7 @@
 - 用途：提供老年健康、照护、功能和安全相关资料入口。
 - 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ### MedlinePlus：Fall Risk Assessment
 
@@ -818,7 +838,7 @@
 - 用途：校准跌倒风险评估作为专业评估入口，而不是家庭自我诊断工具。
 - 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-02
 
 ## 后续待补类别
 

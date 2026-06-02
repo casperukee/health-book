@@ -29,7 +29,7 @@ evidence_status: needs_periodic_review
 
 可以把下面这段放进家庭群或健康档案首页：
 
-> 胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险、孕产期危险信号，不在群里投票，不等明天，先联系急救或急诊。
+> 胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险、孕产期危险信号，不在群里投票，不等明天。即使一阵缓解，也先联系急救、急诊或医生热线确认。
 
 紧急时只做三件事：
 
@@ -59,7 +59,7 @@ evidence_status: needs_periodic_review
 - 突然走路不稳、严重头晕或失去协调；
 - 突然出现前所未有的严重头痛。
 
-记录症状最早出现的时间。卒中处理高度依赖时间窗口。
+记录症状最早出现的时间。卒中处理高度依赖时间窗口；即使症状暂时消失，也不要把它当成已经没事。
 
 ### 呼吸、意识和严重过敏
 
@@ -109,15 +109,18 @@ evidence_status: needs_periodic_review
 
 如果没有时间整理，先求助。资料服务于救治，不服务于拖延。
 
+如果急救电话、医生热线或急诊分诊给出具体指引，以现场专业人员的判断和当地流程为准。
+
 如果不是红色急症，但你还在犹豫下一步，可以回到 [症状与对应动作速查](symptom-action-guide.md)，按红色、黄色、绿色三层动作分流。
 
 ## 可信资料
 
-截至 2026-06-01，本页主要参考：
+截至 2026-06-02，本页主要参考：
 
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
 - NHLBI/NIH: [Heart Attack Symptoms](https://www.nhlbi.nih.gov/health/heart-attack/symptoms)
+- MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)

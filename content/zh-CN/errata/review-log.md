@@ -7,6 +7,41 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-02：v0.8 高风险边界第一轮强化
+
+- 状态：boundary review pass
+- 位置：
+  - `content/zh-CN/book/medical-boundaries.md`
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+  - `content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+  - `content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+  - `content/zh-CN/handbook/playbooks/red-flags.md`
+  - `content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 复查内容：红黄绿症状分流、急症信号、症状缓解后的行动边界、体检/筛查/诊断边界、家庭慢病记录边界、癌症筛查和多癌种早筛营销边界、老年跌倒/认知/用药安全提醒。
+- 使用来源：
+  - MedlinePlus: Recognizing medical emergencies
+  - American Heart Association: Heart Attack, Stroke and Cardiac Arrest Symptoms
+  - NHLBI/NIH: Heart Attack Symptoms
+  - CDC: Signs and Symptoms of Stroke
+  - CDC: About Sepsis
+  - CDC HEAR HER Campaign: Urgent Maternal Warning Signs and Symptoms
+  - MedlinePlus: How to Understand Your Lab Results
+  - CDC: About High Blood Pressure
+  - CDC: Diabetes Testing
+  - NCI: Cancer Screening Overview
+  - NCI: Questions and Answers about Multi-Cancer Detection Tests
+  - NCI: Tests and Procedures Used to Diagnose Cancer
+  - CDC: Cancer Screening Tests
+  - CDC: About Older Adult Fall Prevention
+  - CDC: STEADI - Older Adult Fall Prevention
+  - NIA/NIH: Cognitive Health and Older Adults
+  - MedlinePlus: Taking Multiple Medicines Safely
+  - MedlinePlus: Fall Risk Assessment
+- 处理说明：本次强化普通家庭“什么时候不能继续观察或自我解释”的边界，尤其强调红色信号不因短暂缓解而自动降级、绿色观察只适合低风险且短暂改善的情况、筛查异常不等于确诊但需要诊断路径、筛查阴性不能解释持续症状、老年跌倒和用药变化应更谨慎。本次不是专业医学审稿，所有相关页面仍保留 `medical_review_status: needs_review`。
+- 下次建议复查：2026-09 至 2026-12；如收到医学专业读者反馈或官方资料更新，应提前复查。
+
 ## 2026-06-01：`medical-boundaries.md` 初始边界校准
 
 - 状态：draft review
