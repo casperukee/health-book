@@ -59,6 +59,15 @@ const handbookSidebar = [
   }
 ]
 
+const feedbackSidebar = [
+  {
+    text: '试读与反馈',
+    items: [
+      { text: 'v0.7 灰度试读说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
+    ]
+  }
+]
+
 export default defineConfig({
   title: '健康有谱',
   description: '给家庭的长期健康读本',
@@ -84,12 +93,14 @@ export default defineConfig({
       { text: '开始阅读', link: '/content/zh-CN/book/00-start-here' },
       { text: '主书目录', link: '/content/zh-CN/book/README' },
       { text: '手册', link: '/content/zh-CN/handbook/README' },
+      { text: '灰度试读', link: '/content/zh-CN/feedback/gray-trial-guide' },
       { text: '参考资料', link: '/content/zh-CN/references/README' },
       { text: 'GitHub', link: 'https://github.com/casperukee/health-book' }
     ],
     sidebar: {
       '/content/zh-CN/book/': bookSidebar,
-      '/content/zh-CN/handbook/': handbookSidebar
+      '/content/zh-CN/handbook/': handbookSidebar,
+      '/content/zh-CN/feedback/': feedbackSidebar
     },
     outline: {
       level: [2, 3],

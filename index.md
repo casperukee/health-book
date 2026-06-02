@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: 手册与模板
       link: /content/zh-CN/handbook/README
+    - theme: alt
+      text: 灰度试读
+      link: /content/zh-CN/feedback/gray-trial-guide
 
 features:
   - title: 连续阅读
@@ -27,7 +30,7 @@ features:
 
 ## 当前状态
 
-项目处于草稿阶段。中文内容先行，英文版目前只保留结构占位。
+项目处于 v0.7 小范围灰度阶段。中文内容先行，英文版目前只保留结构占位。
 
 核心入口：
 
@@ -35,5 +38,6 @@ features:
 - [医疗边界与危险信号](content/zh-CN/book/medical-boundaries.md)
 - [中文主书目录](content/zh-CN/book/README.md)
 - [手册与模板](content/zh-CN/handbook/README.md)
+- [v0.7 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 
 > 本项目不是医疗建议，不替代医生诊断、治疗、用药、停药、筛查或急救判断。

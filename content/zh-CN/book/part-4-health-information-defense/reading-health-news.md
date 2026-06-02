@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: reading-health-news
 en_path: ../../../en/book/part-4-health-information-defense/reading-health-news.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -24,6 +24,12 @@ evidence_status: stable
 读健康新闻和新研究，需要给自己装一个减速器。你不需要成为论文专家，但可以学会判断一条信息是值得收藏、值得查证、值得问医生，还是应该直接忽略。
 
 新研究是线索，不是生活命令；真正改变行动前，要看证据层级、适用人群和后续共识。
+
+## 先问它要你做什么
+
+读健康信息最实用的入口，不是先判断它“真不真”，而是先看它想推动你做什么。
+
+如果只是提醒你了解一个概念，可以先收藏；如果让你带问题问医生，可以放进 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)；如果让你立刻买保健品、检测、设备或抗衰产品，先用 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md)；如果让你停药、拒绝治疗或推迟复查，直接提高警惕。
 
 ## 标题、相关性和商业出口，都会让结论变形
 

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: brain-and-mental-health
 en_path: ../../../en/book/part-2-body-risk-map/brain-and-mental-health.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,16 @@ evidence_status: needs_periodic_review
 大脑和心理健康要放进同一张图里看。这里不帮助你自我诊断抑郁、焦虑或痴呆；它帮助你知道，哪些因素在维护大脑，哪些变化需要记录和就医，哪些危险信号不能拖。
 
 保护大脑不是等记忆下降才补救，而是同时维护睡眠、血管、情绪、认知和社会连接。
+
+## 先守住两条红线
+
+大脑和心理健康最怕被家庭解释成“再观察看看”，也怕被简单归因成性格、年龄或压力。
+
+第一条红线是突然变化：面部歪斜、单侧无力或麻木、说话含糊、视力改变、走路不稳、意识改变、突发严重头痛等，要按 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 的红色动作处理。
+
+第二条红线是安全风险：明确自伤、自杀或伤害他人的想法、计划或行为，不靠家庭劝说硬扛，优先联系危机热线、急救服务、急诊或专业心理健康资源。
+
+红线之外，家庭才进入记录和复诊：变化什么时候开始，影响了哪些功能，是否和睡眠、药物、慢病、跌倒、社交或压力有关。
 
 ## 不要把大脑和心理问题道德化
 
@@ -110,6 +120,8 @@ evidence_status: needs_periodic_review
 - 把用药、保健品、饮酒和近期疾病纳入记录；
 - 家庭约定：卒中样症状和自伤风险不争论，先求助；
 - 如果情绪或认知问题已经影响生活，带记录去做专业评估。
+
+如果观察对象是父母或老人，可以把这张观察卡放进 [家庭健康档案模板](../../handbook/templates/family-health-record.md)，并在复诊前配合 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 使用。
 
 ## 可信资料与进一步阅读
 

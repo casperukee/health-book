@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: cancer-and-major-illness
 en_path: ../../../en/book/part-2-body-risk-map/cancer-and-major-illness.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,14 @@ evidence_status: needs_periodic_review
 面对癌症和重大疾病，家庭最需要的不是立刻掌握所有医学细节，而是先知道自己处在哪个阶段。这里不解释具体癌种，不提供筛查年龄表，也不替你选择治疗方案；重点是每个阶段该问什么，哪些事该由医生判断，家庭怎样做好资料、沟通和照护支持。
 
 癌症不是一个单一敌人；家庭最该做的是理解阶段、准备资料、识别可靠筛查和支持正规治疗。
+
+## 先别把所有问题混成一个问题
+
+癌症相关焦虑常常把三类问题混在一起：我现在有症状，要不要尽快就医；我没有症状，要不要做筛查；我或家人已经确诊，下一步怎么配合治疗。
+
+如果已经有异常出血、持续吞咽困难、咳血、便血、持续不明原因体重下降、严重疼痛，或者癌症治疗期间出现发热、呼吸困难、意识改变、无法进食饮水等情况，先按 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 分流，不要在网上继续猜。
+
+如果只是担心未来风险，先查权威筛查建议，不要直接购买泛化的“早筛套餐”。如果已经进入诊断或治疗阶段，家庭最有价值的动作是整理资料、准备问题和守住不被偏方带走的边界。
 
 ## 癌症信息最容易把人带偏的地方
 
@@ -109,6 +117,8 @@ evidence_status: needs_periodic_review
 - 如果已经确诊，建立“诊断-分期-方案-复查-副作用”资料夹；
 - 重要治疗决策前准备 5 个问题：目标、选择、收益、风险、下一步；
 - 家庭明确：支持正规治疗，不用偏方和保健品替代医生方案。
+
+资料夹可以从 [家庭健康档案模板](../../handbook/templates/family-health-record.md) 开始；每次复诊前，用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 把最重要的问题压缩到 3-5 个。
 
 ## 可信资料与进一步阅读
 

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: elder-care-basics
 en_path: ../../../en/book/part-3-family-health-os/elder-care-basics.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,12 @@ evidence_status: needs_periodic_review
 老年健康不能只看“有没有病”，还要看能不能安全、独立、有尊严地生活。这里不提供老年疾病诊疗方案，而是给家庭一个观察和准备框架。
 
 老年照护不是等失能后才开始，而是尽早保护行动能力、认知安全、用药安全和日常生活能力。
+
+## 老人要把同样信号看得更谨慎
+
+同样的症状发生在老人身上，常常要升级一档处理。跌倒、意识变化、突然衰弱、行动能力下降、用药后异常、感染后状态变差，都不适合只用“年纪大了”解释。
+
+家里可以先把 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [家庭健康档案模板](../../handbook/templates/family-health-record.md) 放在一起：一个负责判断下一步动作，一个负责把病史、用药、过敏、复查和紧急联系人留住。
 
 ## 不要把跌倒、忘事和多药都当成正常
 
@@ -131,6 +137,8 @@ evidence_status: needs_periodic_review
 - 记录一周行动、睡眠、情绪、认知和生活能力变化；
 - 把复查、疫苗、眼科、牙科、听力和慢病随访放进家庭日历；
 - 和父母提前谈一次：如果未来需要照护，他们最在意什么生活质量。
+
+如果老人有血压、血糖、血脂、尿酸或肾功能等长期指标，把复查结果放进 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)，不要让每次复诊都从零开始。
 
 ## 可信资料与进一步阅读
 

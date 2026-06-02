@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: talking-with-parents
 en_path: ../../../en/book/part-3-family-health-os/talking-with-parents.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -24,6 +24,12 @@ evidence_status: stable
 这里不教你“说服父母听话”。更好的目标，是把沟通从控制父母，改成共同守住三件事：他们想保住的生活，不能突破的医疗安全底线，可以替代焦虑的具体行动。
 
 和父母谈健康，先谈他们想保住什么生活，再谈指标和方案。
+
+## 先把争论换成工具
+
+和父母谈健康时，最容易卡在“你不听我说”和“你又管我”。工具页可以把一部分争论变成共同查看。
+
+遇到症状，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)，少在家庭群里争急缓；准备就医，用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)，少在诊室里临时翻资料；遇到保健品、检测或抗衰产品，用 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md)，少把沟通变成“你被骗了”。
 
 ## 父母不配合，未必只是“不懂”
 

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: what-to-manage
 en_path: ../../../en/book/part-3-family-health-os/what-to-manage.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -24,6 +24,12 @@ evidence_status: stable
 家庭健康到底要管理什么？答案不是“管理疾病”，更不是“管理家人”。家庭能管理的是资料、默认生活方式、危险触发器、医疗沟通、照护分工和复盘节奏。
 
 家庭健康管理不是把家人管起来，而是让关键健康信息和行动不再每次从零开始。
+
+## 先搭最小版本，不要搭完美系统
+
+如果家里还没有任何流程，从三件事开始就够：把 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 放在显眼位置；为一个家庭成员建 [家庭健康档案模板](../../handbook/templates/family-health-record.md)；把下一次就医要问的问题写进 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
+
+家庭健康系统不是项目管理软件。它的第一目标是：有事时少翻聊天记录，少靠记忆，少在急事里争论。
 
 ## 家庭健康不是文章收藏，也不是互相管束
 

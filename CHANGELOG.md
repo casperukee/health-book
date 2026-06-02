@@ -26,3 +26,6 @@
 - 启动 v0.6 核心章节质量冻结：将入口、医疗边界、健康寿命与风险曲线、体检指标推进到 `content-review`，并接入症状动作速查和手册页。
 - 推进 v0.6 余下三篇 MVP 核心正文：`metabolic-health.md`、`cardiovascular-event-chain.md`、`supplement-evidence-traps.md` 进入 `content-review`，并补齐症状动作速查、慢病指标记录表和健康产品购买前检查清单的正文入口。
 - 推进 v0.6 手册页质量冻结：将危险信号、症状动作、就医清单、家庭档案、慢病记录和健康产品清单推进到 `content-review`，并把手册入口改成按读者当前场景选择工具。
+- 启动 v0.7 灰度试读机制：新增 `v0.7 灰度试读说明`、推荐试读路径和反馈模板，并接入首页、README 与网页导航。
+- 推进 v0.7 第二批章节质量冻结：将 `sleep-and-recovery.md`、`brain-and-mental-health.md`、`cancer-and-major-illness.md`、`devices-tests-and-longevity-marketing.md` 推进到 `content-review`，并补齐症状分流、家庭档案、就医清单和健康产品清单入口。
+- 完成 v0.7 主书正文质量冻结第一轮：将 `specialty-care-map.md`、`what-to-manage.md`、`doctor-visit-preparation.md`、`talking-with-parents.md`、`elder-care-basics.md`、`reading-health-news.md` 推进到 `content-review`，使中文主书正文全部进入内容审查状态。

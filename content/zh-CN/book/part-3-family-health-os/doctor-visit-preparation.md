@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: doctor-visit-preparation
 en_path: ../../../en/book/part-3-family-health-os/doctor-visit-preparation.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -24,6 +24,12 @@ evidence_status: stable
 就医前准备可以拆成四包：症状时间线、既往资料、用药过敏和问题清单。它不教你替医生诊断，而是让医生更快看到真实情况。
 
 就医准备不是替医生判断，而是把事实、资料和问题带进诊室。
+
+## 先确认是不是该准备门诊
+
+如果你面对的是胸痛、卒中样症状、严重呼吸困难、意识改变、无法控制出血、自伤风险等情况，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [危险信号速查](../../handbook/playbooks/red-flags.md)。急症时，清单服务于带上最小信息，不服务于把资料整理漂亮。
+
+如果已经确定是门诊、复诊或陪诊，这一章才真正派上用场。更短的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
 
 ## 准备资料，不是提前查病名
 
@@ -122,6 +128,8 @@ evidence_status: stable
 - 离开诊室前确认：下一步、复查时间、提前就医条件。
 
 更短的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
+
+看完医生后，把诊断、用药、复查和提前就医条件写进 [家庭健康档案模板](../../handbook/templates/family-health-record.md)，不要只留在记忆里。
 
 ## 可信资料与进一步阅读
 

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: devices-tests-and-longevity-marketing
 en_path: ../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,14 @@ evidence_status: needs_periodic_review
 判断健康设备、检测项目和抗衰营销，关键不是先问品牌好不好，而是先分清它到底属于哪一类：医疗器械、家用监测、普通健康提醒、娱乐型数据、营销包装，还是高风险替代治疗。
 
 测到不等于测准，测准不等于有用，有用也要看是否改变医生认可的行动。
+
+## 先用同一张清单挡一下
+
+设备、检测和抗衰产品看起来不像传统保健品，但购买前仍然可以先用同一张 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md) 过一遍。
+
+尤其要先挡住三类情况：用设备或检测替代医生判断；用结果决定停药、换药、手术或筛查；为了一个不清楚的指标进入高价套餐、会员续费或连续加测。
+
+如果你已经有症状或指标异常，先处理身体问题，再研究产品。工具只有在帮助你更清楚行动时才有价值。
 
 ## 科技感最容易遮住的几个问题
 
@@ -115,6 +123,8 @@ evidence_status: needs_periodic_review
 - 先问“测完我会做什么”，再决定要不要测；
 - 超过家庭约定金额的健康消费，设 24 小时冷静期；
 - 涉及慢病、用药、孕产、儿童、老人和重大疾病，先问医生或药师。
+
+如果产品也涉及保健品、补剂或草药，可以同时阅读 [保健品最常见的证据陷阱](supplement-evidence-traps.md)。
 
 ## 可信资料与进一步阅读
 

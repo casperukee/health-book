@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: specialty-care-map
 en_path: ../../../en/book/part-2-body-risk-map/specialty-care-map.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,12 @@ evidence_status: needs_periodic_review
 这里不教你眼科、骨科、泌尿、产科或妇科诊疗。更重要的是建立一个专科就医地图：先判断急缓，再确定该看哪类医生，再把症状和资料准备好，最后问清下一步。
 
 专科资料最好的用途不是让你自己当医生，而是让你更早识别边界、更清楚地描述问题。
+
+## 先用同一个动作分流
+
+专科问题看起来分散，但第一步相同：先判断急缓。如果你拿不准“现在是急诊、尽快门诊，还是可以先记录”，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)。
+
+确定需要门诊后，再用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 准备时间线、资料和 3 个最重要的问题。专科就医最怕的不是问得少，而是把关键事实留在诊室外。
 
 ## 普通人容易站错的位置
 

@@ -1,10 +1,10 @@
 ---
-status: draft
+status: content-review
 language: zh-CN
 canonical_slug: sleep-and-recovery
 en_path: ../../../en/book/part-2-body-risk-map/sleep-and-recovery.md
 translation_status: source
-last_reviewed: 2026-06-01
+last_reviewed: 2026-06-02
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,14 @@ evidence_status: needs_periodic_review
 睡眠和恢复不该只被当成“自律问题”。更有用的做法，是先分清：是睡眠不足、节律错位、白天掉电、高唤醒，还是已经形成需要专业帮助的失眠模式。
 
 恢复不是低效，而是让身体、情绪和大脑回到可用状态。
+
+## 先分清：休息问题，还是需要求助的问题
+
+如果睡眠问题伴随胸痛、严重呼吸困难、意识改变、明显自伤或自杀风险，先按 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [危险信号速查](../../handbook/playbooks/red-flags.md) 处理，不要把它当成普通失眠。
+
+如果问题已经持续影响白天功能，或者怀疑睡眠呼吸暂停、抑郁焦虑、药物影响、老人夜间跌倒，就不要只靠助眠产品和自我调整。更有用的做法是先做两周记录，再带着记录去问医生。
+
+如果只是近期节律被打乱、压力大、睡前输入太多，才适合先从环境、节律和记录做起。睡眠这件事，越早分清层级，越少在“硬扛”和“乱买”之间来回摆。
 
 ## 为什么越想睡好，反而越乱
 
@@ -99,6 +107,8 @@ evidence_status: needs_periodic_review
 - 睡前 30 分钟降噪：屏幕、工作、争论、待办、强光；
 - 午睡短一点、早一点，不让它破坏夜间睡眠动力；
 - 如果睡眠已经影响白天功能，把记录带去问医生，而不是继续猜。
+
+如果你已经准备买助眠设备、检测或补剂，先用 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md) 判断它是否会替代真正该做的事。
 
 ## 可信资料与进一步阅读
 

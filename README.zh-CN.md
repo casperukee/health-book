@@ -16,13 +16,14 @@
 
 ## 当前状态
 
-项目处于草稿阶段：已搭建公开仓库结构、写作蓝图、Front Matter、Part 1、Part 2 主风险线、Part 3 家庭健康操作系统、Part 4 健康信息防御章节和若干手册页初稿。
+项目处于 v0.7 小范围灰度阶段：主书结构、核心章节、手册页和网页阅读层已经搭建完成，正在通过熟人试读继续打磨入口、语气、工具页和医学边界。
 
 中文主书从这里开始：
 
 - [开始连续阅读](content/zh-CN/book/00-start-here.md)
 - [主书目录](content/zh-CN/book/README.md)
 - [手册与模板](content/zh-CN/handbook/README.md)
+- [v0.7 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [参考资料机制](content/zh-CN/references/README.md)
 - [勘误与复查](content/zh-CN/errata/README.md)
 
