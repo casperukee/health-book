@@ -19,9 +19,49 @@ evidence_status: stable
 
 就医准备的目标只有一个：让真实情况更快进入诊室。
 
-## 一句话结论
+## 一句话原则
 
 就医准备不是替医生诊断，而是把事实、资料和问题带进诊室。
+
+## 可复制的一页版本
+
+下次就医前，只填这一页也够用。
+
+```text
+这次要解决的问题：
+
+症状时间线：
+- 什么时候开始：
+- 突然出现 / 逐渐加重：
+- 持续多久、每天几次：
+- 什么加重：
+- 什么缓解：
+- 伴随症状：
+- 影响了哪些生活功能：
+
+重要背景：
+- 既往疾病：
+- 手术/住院/急诊：
+- 最近检查：
+- 最近感染、受伤、怀孕/产后、旅行或压力变化：
+
+正在使用：
+- 处方药：
+- 非处方药：
+- 保健品/草药：
+- 过敏史：
+- 最近停药、漏服或自行加量：
+
+最想问医生的 3 个问题：
+1.
+2.
+3.
+
+离开诊室前要确认：
+- 下一步做什么：
+- 什么时候复查：
+- 哪些情况提前就医或急诊：
+```
 
 ## 就医资料四包
 
@@ -106,6 +146,6 @@ evidence_status: stable
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 
-## 本页一句话
+## 最后提醒
 
 把时间线、资料、用药和问题准备好，就是普通人能给医生最大的帮助之一。

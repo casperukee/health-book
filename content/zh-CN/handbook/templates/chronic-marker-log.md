@@ -19,9 +19,19 @@ evidence_status: needs_periodic_review
 
 这张表的目的不是监控一切，而是把血压、血糖、血脂、尿酸、体重、症状、用药和医生建议连在一起。
 
-## 一句话结论
+## 一句话原则
 
 慢病指标记录的价值不在于数字越多越好，而在于让趋势、背景和下一步动作不丢失。
+
+## 先记录三类信息
+
+如果你不想维护复杂表格，先记录三类就够：
+
+1. 趋势：同一指标最近几次结果怎么变化。
+2. 背景：测量当天有没有漏药、熬夜、感染、疼痛、饮酒、压力或运动。
+3. 动作：医生说什么时候复查，什么情况提前就医。
+
+记录不是为了每天审判自己，而是为了复诊时少说“我也记不清了”。
 
 ## 记录原则
 
@@ -81,6 +91,22 @@ evidence_status: needs_periodic_review
 - 有没有新增、停用或漏服药物、保健品、草药？
 - 上次医生交代的复查和行动做到了吗？
 
+可以把整理结果写成这个短摘要：
+
+```text
+最近最需要医生看的指标：
+
+变化趋势：
+
+异常出现时的背景：
+
+新增症状或生活功能变化：
+
+用药、漏服或保健品变化：
+
+这次最想问的问题：
+```
+
 ## 危险边界
 
 以下情况不要等下一次记录或复诊：
@@ -102,6 +128,6 @@ evidence_status: needs_periodic_review
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 
-## 本页一句话
+## 最后提醒
 
 把指标写成趋势，把趋势带给医生。

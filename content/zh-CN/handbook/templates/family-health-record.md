@@ -19,9 +19,35 @@ evidence_status: stable
 
 它应该回答五个问题：这个人是谁，过去有什么病，正在用什么，最近查过什么，紧急时该联系谁。
 
-## 一句话结论
+## 一句话原则
 
 健康档案不是收藏资料，而是让家庭在就医、复查和照护时少漏关键信息。
+
+## 先建最小档案
+
+不要一开始就追求完整。先为一个家庭成员填下面这一小段：
+
+```text
+姓名：
+出生日期：
+紧急联系人：
+常去医院/医生：
+
+重要病史：
+过敏史：
+长期用药：
+保健品/草药：
+
+最近一次体检或复查：
+下次复查时间：
+医生特别交代：
+
+危险触发器：
+资料放在哪里：
+谁负责更新：
+```
+
+这份最小档案能在急诊、门诊、陪诊和家庭沟通中先发挥作用。之后再逐步补充检查、影像、出院小结、授权和照护偏好。
 
 ## 最小模板
 
@@ -121,6 +147,6 @@ evidence_status: stable
 - HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
 
-## 本页一句话
+## 最后提醒
 
 一份好用的家庭健康档案，不是替医生判断，而是在关键时刻把真实信息带到医生面前。

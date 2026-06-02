@@ -19,9 +19,21 @@ evidence_status: needs_periodic_review
 
 它不负责判断“到底是什么病”，也不负责判断“能不能再忍一忍”。当信号足够危险时，家庭最重要的动作不是解释，而是求助。
 
-## 一句话结论
+## 一句话原则
 
 危险信号不是让普通人诊断疾病，而是提醒家庭不要错过需要急救或急诊的窗口。
+
+## 家庭群短版
+
+可以把下面这段放进家庭群或健康档案首页：
+
+> 胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险、孕产期危险信号，不在群里投票，不等明天，先联系急救或急诊。
+
+紧急时只做三件事：
+
+1. 先求助：联系当地急救服务或急诊系统。
+2. 记时间：症状什么时候开始，是否突然出现。
+3. 带最小信息：基础病、用药、过敏、紧急联系人。
 
 ## 先急救或急诊的情况
 
@@ -84,7 +96,7 @@ evidence_status: needs_periodic_review
 - 慢病指标持续异常，或医生交代的复诊条件已经出现；
 - 新药后出现明显皮疹、意识变化、严重胃肠反应或呼吸不适。
 
-## 最小信息包
+## 去急诊时的最小信息包
 
 急救或急诊时，不要追求资料完美。尽量带上四类信息：
 
@@ -106,6 +118,6 @@ evidence_status: needs_periodic_review
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
 
-## 本页一句话
+## 最后提醒
 
 危险信号出现时，先求助，再解释。
