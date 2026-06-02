@@ -4,7 +4,7 @@
 
 | 中文 | English | 说明 |
 |---|---|---|
-| 健康判断力 | health decision literacy | 项目核心能力 |
+| 健康有谱 | health decision literacy | 项目名；核心含义是把健康问题理出章法 |
 | 健康寿命 | healthspan | 重点是功能和生活质量 |
 | 功能能力 | functional ability | 健康老龄化中的核心概念，强调能做什么 |
 | 内在能力 | intrinsic capacity | 个体可调用的身体和心理能力 |

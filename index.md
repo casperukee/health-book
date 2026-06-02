@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 健康判断力
+  name: 健康有谱
   text: 给家庭的长期健康读本
   tagline: 理解风险、准备就医、管理家庭健康信息、识别健康消费陷阱。
   actions:

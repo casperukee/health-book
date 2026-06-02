@@ -59,7 +59,7 @@ const handbookSidebar = [
 ]
 
 export default defineConfig({
-  title: '健康判断力',
+  title: '健康有谱',
   description: '给家庭的长期健康读本',
   lang: 'zh-CN',
   base: '/health-book/',
@@ -78,7 +78,7 @@ export default defineConfig({
   ],
   themeConfig: {
     logo: '/logo.svg',
-    siteTitle: '健康判断力',
+    siteTitle: '健康有谱',
     nav: [
       { text: '开始阅读', link: '/content/zh-CN/book/00-start-here' },
       { text: '主书目录', link: '/content/zh-CN/book/' },
