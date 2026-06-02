@@ -19,3 +19,4 @@
 - 增加 VitePress + GitHub Pages 阅读层，提供侧边栏、搜索、页面大纲和上一章/下一章。
 - 为中文主书章节补充 Markdown 阅读导航，支持 GitHub 直接连续阅读。
 - 重写 `00-start-here.md` 和 `supplement-evidence-traps.md` 作为非模板化样章。
+- 完成中文主书 15 篇正文的非模板化标题和阅读路径第一轮修订，减少“开场场景/一句话结论/行动清单”等外露模板感。
