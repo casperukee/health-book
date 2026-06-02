@@ -1,0 +1,49 @@
+name: Deploy mirror to Kuala Lumpur server
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+env:
+  MIRROR_HOST: 47.250.162.60
+  MIRROR_USER: root
+  MIRROR_ROOT: /srv/health-book
+
+jobs:
+  deploy:
+    if: ${{ vars.MIRROR_DEPLOY_ENABLED == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build mirror at domain root
+        run: npm run docs:build
+        env:
+          VITEPRESS_BASE: /
+
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.MIRROR_SSH_KEY }}" > ~/.ssh/mirror_key
+          chmod 600 ~/.ssh/mirror_key
+          ssh-keyscan -H "$MIRROR_HOST" >> ~/.ssh/known_hosts
+
+      - name: Upload release
+        run: |
+          RELEASE_ID="${GITHUB_SHA}-${GITHUB_RUN_NUMBER}"
+          REMOTE_RELEASE="$MIRROR_ROOT/releases/$RELEASE_ID"
+          ssh -i ~/.ssh/mirror_key "$MIRROR_USER@$MIRROR_HOST" "mkdir -p '$REMOTE_RELEASE' '$MIRROR_ROOT/shared/logs'"
+          rsync -az --delete -e "ssh -i ~/.ssh/mirror_key" .vitepress/dist/ "$MIRROR_USER@$MIRROR_HOST:$REMOTE_RELEASE/"
+          ssh -i ~/.ssh/mirror_key "$MIRROR_USER@$MIRROR_HOST" "ln -sfn '$REMOTE_RELEASE' '$MIRROR_ROOT/current'"

@@ -30,3 +30,4 @@
 - 推进 v0.7 第二批章节质量冻结：将 `sleep-and-recovery.md`、`brain-and-mental-health.md`、`cancer-and-major-illness.md`、`devices-tests-and-longevity-marketing.md` 推进到 `content-review`，并补齐症状分流、家庭档案、就医清单和健康产品清单入口。
 - 完成 v0.7 主书正文质量冻结第一轮：将 `specialty-care-map.md`、`what-to-manage.md`、`doctor-visit-preparation.md`、`talking-with-parents.md`、`elder-care-basics.md`、`reading-health-news.md` 推进到 `content-review`，使中文主书正文全部进入内容审查状态。
 - 在灰度试读说明中增加作者微信二维码，方便试读者直接反馈。
+- 增加吉隆坡镜像部署方案：支持通过 `VITEPRESS_BASE=/` 构建域名根路径站点，提供 Nginx 配置、服务器目录设计和 GitHub Actions 镜像部署工作流，并接入国内镜像入口 `http://health.mindarae.com`。

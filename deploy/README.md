@@ -1,0 +1,89 @@
+# 吉隆坡镜像部署
+
+GitHub Pages 继续作为海外和开源主站。`health.mindarae.com` 用阿里云吉隆坡服务器作为国内友好镜像。
+
+当前镜像入口：
+
+```text
+http://health.mindarae.com
+```
+
+服务器上已有 xray 代理服务占用 `443`，因此当前镜像先使用 HTTP。Let's Encrypt 证书可以签发，但 HTTPS 入口需要和 xray 做 SNI / fallback 共存设计，或调整代理端口后再启用。
+
+## 目录设计
+
+服务器站点根目录：
+
+```text
+/srv/health-book/
+  current -> /srv/health-book/releases/<release-id>
+  releases/
+    <release-id>/
+  shared/
+    logs/
+```
+
+说明：
+
+- `releases/` 保存每次部署产物；
+- `current` 是 Nginx 实际读取的软链接；
+- 每次部署先上传到新 release，再原子切换 `current`；
+- 如果部署失败，旧 `current` 不受影响；
+- 需要回滚时，把 `current` 指回旧 release 即可。
+
+## 构建方式
+
+GitHub Pages 使用默认 base：
+
+```bash
+npm run docs:build
+```
+
+吉隆坡镜像使用域名根路径：
+
+```bash
+VITEPRESS_BASE=/ npm run docs:build
+```
+
+## Nginx
+
+模板见：
+
+```text
+deploy/nginx-health-book.conf
+```
+
+建议安装到：
+
+```text
+/etc/nginx/sites-available/health-book.conf
+/etc/nginx/sites-enabled/health-book.conf -> /etc/nginx/sites-available/health-book.conf
+```
+
+当前模板只监听 `80`，适合和服务器上已有的 443 代理服务共存。
+
+如果服务器的 `443` 已被 xray、Trojan、VLESS、Reality 或其他代理服务占用，不要直接让 Nginx 监听 `443`，否则可能导致代理中断。HTTPS 有三种后续方案：
+
+1. 保持镜像站先走 `http://health.mindarae.com`；
+2. 让 xray 按 SNI / fallback 把 `health.mindarae.com` 的普通 HTTPS 流量转发给本地 Nginx；
+3. 把代理迁移到其他端口、其他域名或其他服务器，让 Nginx 接管 `443`。
+
+其中第 2 种最适合共用一台服务器，但需要读取并谨慎修改 `/usr/local/etc/xray/config.json`，不要在不了解现有代理协议和客户端配置的情况下直接改。
+
+## GitHub Secrets
+
+自动部署镜像需要在 GitHub 仓库中配置：
+
+```text
+MIRROR_SSH_KEY
+```
+
+内容是允许登录 `root@47.250.162.60` 的私钥。
+
+GitHub repository variables:
+
+```text
+MIRROR_DEPLOY_ENABLED=true
+```
+
+未启用该变量时，镜像部署 job 不会运行。

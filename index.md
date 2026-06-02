@@ -39,5 +39,6 @@ features:
 - [中文主书目录](content/zh-CN/book/README.md)
 - [手册与模板](content/zh-CN/handbook/README.md)
 - [v0.7 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
+- [国内镜像](http://health.mindarae.com)
 
 > 本项目不是医疗建议，不替代医生诊断、治疗、用药、停药、筛查或急救判断。

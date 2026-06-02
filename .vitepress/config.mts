@@ -1,5 +1,7 @@
 import { defineConfig } from 'vitepress'
 
+const siteBase = process.env.VITEPRESS_BASE || '/health-book/'
+
 const bookSidebar = [
   {
     text: '进入方式和边界',
@@ -72,7 +74,7 @@ export default defineConfig({
   title: '健康有谱',
   description: '给家庭的长期健康读本',
   lang: 'zh-CN',
-  base: '/health-book/',
+  base: siteBase,
   cleanUrls: false,
   srcExclude: [
     'AGENTS.md',
