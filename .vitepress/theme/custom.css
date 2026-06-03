@@ -153,6 +153,10 @@
   padding: 16px;
 }
 
+.decision-card-wide {
+  grid-column: 1 / -1;
+}
+
 .decision-card h3 {
   margin: 6px 0 10px;
   font-size: 18px;
