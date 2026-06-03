@@ -177,4 +177,4 @@ evidence_status: stable
 
 - [回到中文主书目录](../README.md)
 - 上一章：[家庭健康到底要管理什么](what-to-manage.md)
-- 下一章：[写给一家人：健康这件事，我们一起有个谱](talking-with-parents.md)
+- 下一章：[父母沟通](talking-with-parents.md)

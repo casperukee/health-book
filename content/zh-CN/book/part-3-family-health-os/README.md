@@ -6,5 +6,5 @@
 
 - [家庭健康到底要管理什么](what-to-manage.md)
 - [就医前如何准备信息](doctor-visit-preparation.md)
-- [写给一家人：健康这件事，我们一起有个谱](talking-with-parents.md)
+- [父母沟通：把关心变成一家人的安心准备](talking-with-parents.md)
 - [老年健康和照护](elder-care-basics.md)

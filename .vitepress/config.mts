@@ -33,7 +33,7 @@ const bookSidebar = [
     items: [
       { text: '家庭健康到底要管理什么', link: '/content/zh-CN/book/part-3-family-health-os/what-to-manage' },
       { text: '就医前如何准备信息', link: '/content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation' },
-      { text: '写给一家人', link: '/content/zh-CN/book/part-3-family-health-os/talking-with-parents' },
+      { text: '父母沟通', link: '/content/zh-CN/book/part-3-family-health-os/talking-with-parents' },
       { text: '老年健康和照护', link: '/content/zh-CN/book/part-3-family-health-os/elder-care-basics' }
     ]
   },
