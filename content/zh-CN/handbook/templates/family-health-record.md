@@ -51,6 +51,8 @@ evidence_status: stable
 
 建议把 [危险信号速查](../playbooks/red-flags.md) 和 [症状与对应动作速查](../playbooks/symptom-action-guide.md) 放在档案首页附近。真正紧急时，家人先看动作，不翻长资料。
 
+家庭档案首页可以单独放一行红色入口：**出现危险信号，先看 [危险信号速查](../playbooks/red-flags.md)，再找资料。** 资料服务于就医，不服务于拖延。
+
 ## 如果父母独居或异地，再补四项
 
 异地照护最怕信息断在路上。平时多补四项，关键时刻会少很多混乱。

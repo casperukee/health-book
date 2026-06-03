@@ -98,6 +98,7 @@ export default defineConfig({
     siteTitle: '健康有谱',
     nav: [
       { text: '开始阅读', link: '/content/zh-CN/book/00-start-here' },
+      { text: '危险信号', link: '/content/zh-CN/handbook/playbooks/red-flags' },
       { text: '主书目录', link: '/content/zh-CN/book/README' },
       { text: '手册', link: '/content/zh-CN/handbook/README' },
       { text: '灰度试读', link: '/content/zh-CN/feedback/gray-trial-guide' },

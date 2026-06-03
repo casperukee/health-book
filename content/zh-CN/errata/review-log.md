@@ -7,6 +7,23 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-03：症状速查问诊话术与高发急症入口补强
+
+- 状态：reader feedback patch
+- 位置：
+  - `content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+  - `content/zh-CN/handbook/playbooks/red-flags.md`
+  - `content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 复查内容：根据长辈读者和急诊医生灰度反馈，症状速查不应扩成器官百科，而应补强家庭最缺的标准化问诊能力：开始时间、位置、感觉、持续多久、诱因缓解和伴随症状。同时把心梗、卒中、严重感染/脓毒症、严重过敏、严重脱水、创伤中毒等高发急症入口信号放到危险信号页。
+- 使用来源：
+  - MedlinePlus: Recognizing medical emergencies
+  - American Heart Association: Warning Signs of a Heart Attack
+  - CDC: Signs and Symptoms of Stroke
+  - CDC: About Sepsis
+  - 沿用本页已登记的 MedlinePlus、CDC、AHA、NHLBI、SAMHSA 等来源。
+- 处理说明：问诊话术只用于引导家人说清事实、方便急救和就医沟通，不用于家庭自我诊断；胸痛分型只用于描述，不允许用“刺痛/点状痛/休息缓解”排除心脏问题。父母沟通篇同步吸收“知道准则但难长期坚持”的反馈，写成低压力执行机制，不写成子女监督父母。
+- 下次建议复查：用手机预览症状速查前 4 屏，确认新增问诊模板不会把页面拖得太长；必要时把“问症状 6 件事”拆成单独图卡或家庭群短版。
+
 ## 2026-06-03：父母沟通篇转发型重构
 
 - 状态：reader feedback patch

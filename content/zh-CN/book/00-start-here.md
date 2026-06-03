@@ -12,7 +12,7 @@ evidence_status: stable
 # 如何使用这本书
 
 ::: danger 先定边界
-本书不是医疗建议。出现胸痛、晕厥、卒中症状、严重疼痛、异常出血、呼吸困难、自伤或自杀风险等危险信号时，请及时就医或联系当地急救服务。
+本书不是医疗建议。出现胸痛、晕厥、卒中症状、严重疼痛、异常出血、呼吸困难、自伤或自杀风险等危险信号时，请及时就医或联系当地急救服务。想先看完整清单，直接打开 [危险信号速查](../handbook/playbooks/red-flags.md)。
 :::
 
 你不需要把这本书从头背下来。
@@ -51,8 +51,9 @@ evidence_status: stable
 
 | 现在的问题 | 先读 |
 |---|---|
+| 已经出现胸痛、卒中样症状、严重呼吸困难、意识改变等危险信号 | [危险信号速查](../handbook/playbooks/red-flags.md) |
 | 已经有具体症状，不知道下一步 | [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) |
-| 不确定什么情况不能拖 | [医疗边界与危险信号](medical-boundaries.md) |
+| 不确定什么情况不能拖 | [危险信号速查](../handbook/playbooks/red-flags.md) |
 | 体检报告有箭头 | [体检指标](part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | 血压、血脂、血糖、尿酸反复异常 | [代谢与四高](part-2-body-risk-map/metabolic-health.md) |
 | 担心心梗、卒中 | [心血管事件链](part-2-body-risk-map/cardiovascular-event-chain.md) |

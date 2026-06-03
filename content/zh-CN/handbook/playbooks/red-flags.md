@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: red-flags
 en_path: ../../../en/handbook/playbooks/red-flags.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -36,6 +36,19 @@ evidence_status: needs_periodic_review
 1. 先求助：联系当地急救服务或急诊系统。
 2. 记时间：症状什么时候开始，是否突然出现。
 3. 带最小信息：基础病、用药、过敏、紧急联系人。
+
+## 高发急症，先抓入口信号
+
+下面不是诊断清单，而是家庭最容易漏掉的几类急症入口。只要出现这些信号，重点不是分清病名，而是尽快进入急救或急诊流程。
+
+| 可能的急症方向 | 家庭先看什么 | 立刻做什么 |
+| --- | --- | --- |
+| 心梗或严重心脏事件 | 胸部压榨、紧缩、持续不适；疼痛到手臂、肩背、颈部、下颌或上腹；伴气短、冷汗、恶心、头晕或无反应 | 联系急救或急诊，不让当事人自己开车 |
+| 卒中或短暂性脑缺血发作 | 突然脸歪、单侧无力麻木、说话含糊、理解困难、看不清、走不稳、严重眩晕或突发剧烈头痛 | 记最早出现时间，即使缓解也要联系急救或急诊 |
+| 严重感染或脓毒症风险 | 感染伴意识混乱、呼吸急促、皮肤湿冷、极度虚弱、尿量明显减少、严重疼痛或状态迅速变差 | 尤其老人、慢病、免疫低下者，要尽快就医或急诊 |
+| 严重过敏 | 呼吸困难、喉咙紧、面部或舌头肿胀，全身荨麻疹伴头晕、虚弱或晕厥 | 联系急救，不继续等待观察 |
+| 严重脱水或胃肠危险信号 | 无法进水、尿量很少、精神变差；呕血、黑便、便血；腹痛剧烈或持续加重 | 尽快就医或急诊，不靠止痛药和偏方硬压 |
+| 创伤、中毒或无法控制出血 | 头颈脊柱损伤、严重创伤、疑似骨折、出血不止、中毒、电击、溺水、严重烧烫伤 | 先求助，避免随意搬动疑似头颈脊柱损伤者 |
 
 ## 先急救或急诊的情况
 
@@ -115,7 +128,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料
 
-截至 2026-06-02，本页主要参考：
+截至 2026-06-03，本页主要参考：
 
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
