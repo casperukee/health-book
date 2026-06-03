@@ -132,7 +132,7 @@
 - 机构：World Health Organization
 - 类型：国际官方健康老龄化资料
 - 用途：校准健康老龄化、功能能力和内在能力框架。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -142,7 +142,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方健康老龄化资料
 - 用途：校准健康老龄化从较早人生阶段开始、生活方式和健康维护相关表述。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -162,7 +162,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料聚合页
 - 用途：提供健康老龄化的患者教育入口和延伸阅读。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -744,6 +744,16 @@
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
+### MedlinePlus：Eye Emergencies
+
+- URL: https://medlineplus.gov/ency/article/000054.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准眼痛、视力下降、眼部外伤、红眼伴视力变化等需要及时医学判断的边界。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-03
+
 ### NIDDK/NIH：Bladder Control Problems
 
 - URL: https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems
@@ -802,7 +812,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方体外诊断和消费者检测资料
 - 用途：校准直接面向消费者检测、遗传风险、检测局限和医生沟通边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -812,7 +822,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方消费者保护资料
 - 用途：校准健康欺诈、未证实疗效和延误正规诊疗风险。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -926,7 +936,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准多药使用、非处方药、补剂、用药清单和医生/药师沟通边界。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: doctor-visit-preparation
 en_path: ../../../en/book/part-3-family-health-os/doctor-visit-preparation.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -91,6 +91,30 @@ evidence_status: stable
 - 药怎么用，漏服或副作用怎么办；
 - 家人需要配合什么。
 
+## 老人和跨科就医，再多带三样
+
+老人就医最容易断在三个地方：药说不清，前一次医生说了什么记不住，检查名词听不懂。尤其是眼科、心内科、神经内科、骨科等跨专科问题，家属不能只带“这次症状”，还要带上能串起来的资料。
+
+<div class="decision-grid">
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">药物实物</div>
+    <h3>药盒、药瓶、眼药水和保健品拍照</h3>
+    <p>不要只写“白色那片”。把药名、剂量、频次、开始时间拍清楚。长期心脑血管用药、抗凝/抗血小板药、降压降糖药、眼药水和保健品都要列出来。</p>
+  </section>
+  <section class="decision-card decision-card-yellow">
+    <div class="decision-label">上次医嘱</div>
+    <h3>上一家医院说了什么，别只靠回忆</h3>
+    <p>带上最近的诊断、检查报告、处方、病历截图和医生交代。县城、社区、互联网医院和大医院之间，信息不会自动接上。</p>
+  </section>
+  <section class="decision-card decision-card-green decision-card-wide">
+    <div class="decision-label">人话翻译</div>
+    <h3>听不懂的词，当场问清楚并记下来</h3>
+    <p>可以直接问：“这个检查是看什么的？”“做完多久回来？”“哪些结果要马上联系医生？”“这个词能不能写给我？”听懂医嘱，比回家后猜更重要。</p>
+  </section>
+</div>
+
+如果父母方言重、听力差、视力差或容易紧张，陪诊人要多做一件事：离开诊室前复述下一步。比如：“今天先做哪些检查，药怎么用，什么时候复查，什么情况提前回来。”复述不是质疑医生，是避免家庭执行时走样。
+
 ## 陪诊人的任务是补位，不是抢话
 
 对老人、儿童、重大疾病、手术前后、情绪压力大或复诊复杂的情况，建议有人陪诊。
@@ -136,6 +160,7 @@ evidence_status: stable
 截至 2026-06-01，本章主要参考：
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
+- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
@@ -152,4 +177,4 @@ evidence_status: stable
 
 - [回到中文主书目录](../README.md)
 - 上一章：[家庭健康到底要管理什么](what-to-manage.md)
-- 下一章：[如何和父母谈健康](talking-with-parents.md)
+- 下一章：[写给一家人：健康这件事，我们一起有个谱](talking-with-parents.md)

@@ -7,6 +7,37 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-03：父母沟通篇转发型重构
+
+- 状态：reader feedback patch
+- 位置：
+  - `content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+  - `content/zh-CN/updates/roadmap-and-ideas.md`
+- 复查内容：根据灰度反馈，父母沟通篇不能只是子女摘抄一段话发给父母，而应成为一篇可完整转给父母、也能让子女一起读的家庭健康共识文章。本次将标题改为“写给一家人：健康这件事，我们一起有个谱”，主线改成父母和孩子共同约定危险信号、症状表达、药物报告、慢病复查和健康消费边界。
+- 使用来源：
+  - CDC: Healthy Aging at Any Age
+  - MedlinePlus: Healthy Aging
+  - MedlinePlus: Taking Multiple Medicines Safely
+  - 沿用本章已登记的 NIA/NIH、MedlinePlus、HealthIT.gov、SAMHSA、FDA/FTC 等来源。
+- 处理说明：参考私有库《怎样健康活到 100 岁》相关整理卡中的父母视角、目标感、社会连接、就医流程和保健品边界，但不照搬课程长文结构、原文表达、OCR、本地路径或来源目录感。正文保留危险信号、停药、拒绝正规治疗、健康诈骗和心理危机等边界，不扩大医学建议。
+- 下次建议复查：用真实父母读者测试这篇是否能完整读完，是否仍有“被孩子教育”的感受；必要时继续压缩长段解释，保留家庭共识和行动。
+
+## 2026-06-03：远程照护父母反馈小修
+
+- 状态：reader feedback patch
+- 位置：
+  - `content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+  - `content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`
+  - `content/zh-CN/handbook/templates/family-health-record.md`
+  - `content/zh-CN/updates/roadmap-and-ideas.md`
+  - `shared/source-registry.md`
+- 复查内容：根据灰度反馈，补强独居/异地父母健康沟通和就医信息不断裂场景：电话里怎么问、老人跨科就医要多带什么、家庭档案应提前保存哪些资料。
+- 使用来源：
+  - MedlinePlus: Eye Emergencies
+  - 沿用本章已登记的 MedlinePlus、HealthIT.gov、NIA/NIH 等就医沟通和健康档案来源。
+- 处理说明：本次不直接公开个人案例细节；眼睛突然看不清、眼痛、红眼伴视力变化等写成需要及时医学判断的线索，不写成家庭自检诊断；医保/商保报销基础指南先记录到路线板，暂不展开。
+- 下次建议复查：继续检查 `talking-with-parents.md` 和 `doctor-visit-preparation.md` 是否仍偏正式；后续可考虑把“医学词人话小词典”做成独立手册页。
+
 ## 2026-06-03：体检指标篇手机阅读结构试点
 
 - 状态：reader experience patch

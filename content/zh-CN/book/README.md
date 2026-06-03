@@ -29,7 +29,7 @@
 
 - [家庭健康到底要管理什么](part-3-family-health-os/what-to-manage.md)
 - [就医前如何准备信息](part-3-family-health-os/doctor-visit-preparation.md)
-- [如何和父母谈健康](part-3-family-health-os/talking-with-parents.md)
+- [写给一家人：健康这件事，我们一起有个谱](part-3-family-health-os/talking-with-parents.md)
 - [老年健康和照护](part-3-family-health-os/elder-care-basics.md)
 
 ## Part 4：健康信息防御系统

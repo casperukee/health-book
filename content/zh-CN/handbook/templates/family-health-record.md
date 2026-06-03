@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: family-health-record
 en_path: ../../../en/handbook/templates/family-health-record.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-03
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -50,6 +50,17 @@ evidence_status: stable
 这份最小档案能在急诊、门诊、陪诊和家庭沟通中先发挥作用。之后再逐步补充检查、影像、出院小结、授权和照护偏好。
 
 建议把 [危险信号速查](../playbooks/red-flags.md) 和 [症状与对应动作速查](../playbooks/symptom-action-guide.md) 放在档案首页附近。真正紧急时，家人先看动作，不翻长资料。
+
+## 如果父母独居或异地，再补四项
+
+异地照护最怕信息断在路上。平时多补四项，关键时刻会少很多混乱。
+
+- **药物照片：** 长期药、眼药水、外用药、保健品和药盒正反面照片，最好能看到药名、剂量和有效期。
+- **沟通情况：** 父母是否方言重、听力差、视力差、容易紧张，谁最能听懂和转述。
+- **最近专科记录：** 最近一次眼科、心内科、神经内科、骨科等专科就诊时间、医生说法、检查项目和下一步。
+- **报销资料位置：** 医保卡、商业保险保单、发票、费用清单、出院小结和常用官方查询入口放在哪里。
+
+这些不是为了替医生判断，而是为了让陪诊、急诊、复诊和报销时少漏信息。
 
 ## 最小模板
 
