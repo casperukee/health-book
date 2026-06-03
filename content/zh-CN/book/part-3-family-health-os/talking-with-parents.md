@@ -42,7 +42,7 @@ evidence_status: stable
   <section class="decision-card decision-card-green">
     <div class="decision-label">第四件</div>
     <h3>花大钱前，先一起问问</h3>
-    <p>不是说你们一定会被骗，也不是不让买。只是有些保健品会影响用药，有些检测项目未必适合，有些宣传听起来很动人但证据不够。</p>
+    <p>有些保健品会影响用药，有些检测项目未必适合，有些宣传听起来很动人但证据不够。先问清楚，再决定更稳妥。</p>
   </section>
 </div>
 
