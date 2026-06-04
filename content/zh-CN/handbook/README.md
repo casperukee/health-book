@@ -8,16 +8,30 @@
 
 ## 先选你现在的场景
 
+| 你现在想做什么 | 先打开 |
+|---|---|
+| 身体已经不舒服，不确定能不能等 | [危险信号速查](playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](playbooks/symptom-action-guide.md) |
+| 要看报告、复查或见医生 | [就医前问题清单](playbooks/doctor-visit-checklist.md)；体检报告可配合 [体检指标](../book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
+| 想给家人做准备 | 先做 [家庭健康卡模板](templates/family-health-card.md)，再扩展到 [家庭健康档案模板](templates/family-health-record.md) |
+| 想系统读一遍 | 先回到 [如何使用这本书](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
+
+## 具体工具
+
 | 你现在遇到什么 | 先打开哪一页 |
 |---|---|
-| 已经出现危险信号，不确定能不能等 | [危险信号速查](playbooks/red-flags.md) |
-| 已经有具体症状，不知道要不要去医院 | [症状与对应动作速查](playbooks/symptom-action-guide.md) |
 | 想给家里约定“什么情况不能拖” | [危险信号速查](playbooks/red-flags.md) |
-| 明天或近期要去门诊 | [就医前问题清单](playbooks/doctor-visit-checklist.md) |
-| 想先给家人做一张能马上用的健康卡 | [家庭健康卡模板](templates/family-health-card.md) |
-| 家里资料散在聊天记录、手机相册和抽屉里 | [家庭健康档案模板](templates/family-health-record.md) |
 | 有血压、血脂、血糖、尿酸等长期指标 | [慢病指标记录表](templates/chronic-marker-log.md) |
 | 家人准备买保健品、检测、设备或抗衰产品 | [健康产品购买前检查清单](templates/health-product-checklist.md) |
+
+## 这些页面怎么接起来
+
+| 从哪一页出发 | 下一步 |
+|---|---|
+| [危险信号速查](playbooks/red-flags.md) | 如果没有命中红色危险信号，但仍不确定下一步，转到 [症状与对应动作速查](playbooks/symptom-action-guide.md) |
+| [症状与对应动作速查](playbooks/symptom-action-guide.md) | 黄色情况用 [就医前问题清单](playbooks/doctor-visit-checklist.md) 准备；绿色情况把背景写进 [家庭健康卡](templates/family-health-card.md) |
+| [就医前问题清单](playbooks/doctor-visit-checklist.md) | 看完医生后，把用药、复查和提前就医条件更新到 [家庭健康档案](templates/family-health-record.md) |
+| [家庭健康卡模板](templates/family-health-card.md) | 如果家人慢病多、用药多、资料多，再升级到 [家庭健康档案模板](templates/family-health-record.md) |
+| [家庭健康档案模板](templates/family-health-record.md) | 有长期指标时，用 [慢病指标记录表](templates/chronic-marker-log.md) 单独看趋势 |
 
 ## 推荐使用顺序
 

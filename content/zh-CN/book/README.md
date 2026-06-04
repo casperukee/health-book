@@ -10,6 +10,15 @@
 如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险、孕产期危险信号等情况，不要从目录慢慢读，先看 [危险信号速查](../handbook/playbooks/red-flags.md)。
 :::
 
+## 先选你现在的场景
+
+| 你现在想做什么 | 先打开 |
+|---|---|
+| 身体已经不舒服，不确定能不能等 | [危险信号速查](../handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) |
+| 要看报告、复查或见医生 | [体检指标](part-1-healthspan-risk-and-markers/checkup-markers.md) 或 [就医前问题清单](../handbook/playbooks/doctor-visit-checklist.md) |
+| 想给家人做准备 | 先做 [家庭健康卡](../handbook/templates/family-health-card.md)，再看 [手册与模板](../handbook/README.md) |
+| 想系统读一遍 | 从 [如何使用这本书](00-start-here.md) 开始，再按下面目录连续读 |
+
 ## Front Matter：进入方式和边界
 
 - [如何使用这本书](00-start-here.md)

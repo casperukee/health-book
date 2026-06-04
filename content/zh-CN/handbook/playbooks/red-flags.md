@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: red-flags
 en_path: ../../../en/handbook/playbooks/red-flags.md
 translation_status: source
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-04
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -125,6 +125,15 @@ evidence_status: needs_periodic_review
 如果急救电话、医生热线或急诊分诊给出具体指引，以现场专业人员的判断和当地流程为准。
 
 如果不是红色急症，但你还在犹豫下一步，可以回到 [症状与对应动作速查](symptom-action-guide.md)，按红色、黄色、绿色三层动作分流。
+
+## 看完这页，下一步
+
+| 现在的情况 | 下一步 |
+|---|---|
+| 命中红色危险信号 | 先联系急救、急诊或当地医疗入口；只带最小信息，不为了整理资料拖延 |
+| 没有明显红色信号，但仍不确定能不能等 | 打开 [症状与对应动作速查](symptom-action-guide.md)，按红色、黄色、绿色分层 |
+| 已经准备联系医生或去门诊 | 用 [就医前问题清单](doctor-visit-checklist.md) 整理症状时间线、用药和最想问的问题 |
+| 想让家里以后少慌 | 给每个家人做一张 [家庭健康卡](../templates/family-health-card.md)，把基础病、过敏、用药和紧急联系人放在一起 |
 
 ## 可信资料
 

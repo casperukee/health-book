@@ -222,7 +222,7 @@ evidence_status: needs_periodic_review
 
 - 联系急救电话或急诊系统；
 - 记录症状最早出现时间，尤其是疑似卒中；
-- 带上最小信息：基础病、用药、过敏、近期检查、紧急联系人；
+- 带上最小信息：基础病、用药、过敏、近期检查、紧急联系人；如果已经有 [家庭健康卡](../templates/family-health-card.md)，直接带上或发给陪诊人；
 - 不让当事人独自等待或自己开车。
 
 如果是黄色：
@@ -234,6 +234,7 @@ evidence_status: needs_periodic_review
 
 如果是绿色：
 
+- 如果还没有最小背景信息，先给这个人做一张 [家庭健康卡](../templates/family-health-card.md)；
 - 用 [家庭健康档案模板](../templates/family-health-record.md) 留下背景信息；
 - 有长期指标时，用 [慢病指标记录表](../templates/chronic-marker-log.md) 看趋势；
 - 把本页和 [危险信号速查](red-flags.md) 放在家庭群或档案首页。
