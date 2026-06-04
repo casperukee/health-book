@@ -56,6 +56,40 @@ evidence_status: needs_periodic_review
 
 慢病指标记录的价值不在于数字越多越好，而在于让趋势、背景和下一步动作不丢失。
 
+## 填完以后怎么看
+
+先不要急着给自己下结论。每次整理记录，只做三步。
+
+<div class="decision-grid">
+  <div class="decision-card decision-card-green">
+    <span class="decision-label">第一步</span>
+    <h3>看趋势</h3>
+    <p>同一指标是第一次异常，还是连续几次异常？是慢慢变坏，还是突然变化？</p>
+  </div>
+  <div class="decision-card decision-card-blue">
+    <span class="decision-label">第二步</span>
+    <h3>看组合</h3>
+    <p>血压、血脂、血糖、尿酸、肾功能、体重腰围是不是一起变坏？多个指标同向变化，比单个轻微异常更值得问医生。</p>
+  </div>
+  <div class="decision-card decision-card-yellow decision-card-wide">
+    <span class="decision-label">第三步</span>
+    <h3>看背景和动作</h3>
+    <p>异常前后有没有熬夜、饮酒、感染、疼痛、漏药、换药、保健品、剧烈运动或压力？下一步是继续记录、按时复查、提前门诊，还是马上求助？</p>
+  </div>
+</div>
+
+可以把记录整理成一句话：
+
+```text
+最近 1-3 个月，最需要医生看的变化是：
+它是第几次出现：
+同时变坏的指标还有：
+异常出现前后的背景是：
+我想问医生的下一步是：
+```
+
+这几句比一整页截图更容易让医生快速抓住重点。
+
 ## 最小记录：三行就能开始
 
 如果你不想维护复杂表格，先写三行：
@@ -111,6 +145,21 @@ evidence_status: needs_periodic_review
 - 不同医院或不同检测方法可能不完全可比；
 - 医生说“观察、复查、转诊、用药、调整生活方式”时，写下具体时间和条件；
 - 多项指标一起异常时，在备注里标出来，复诊时优先问总体风险。
+
+### 常见组合触发器
+
+下面这些组合不等于诊断，但适合整理好资料后问医生。
+
+| 记录里看到什么 | 复诊时重点问什么 |
+|---|---|
+| 家庭血压或体检血压多次偏高 | 是否需要规范家庭血压/动态血压确认？目标和复查频率是什么？ |
+| LDL 或甘油三酯异常，同时有血压、血糖、吸烟、家族史或腰围问题 | 这是不是总体心血管风险，而不是单个血脂箭头？ |
+| 空腹血糖边缘、A1C 边缘，或血糖和腰围、甘油三酯一起变坏 | 是否需要复查 A1C、空腹血糖、餐后血糖或糖耐量测试？ |
+| 尿酸反复偏高，伴痛风样疼痛、肾功能边缘、血压高或饮酒/甜饮料多 | 需要怎么区分生活方式、复查和是否转风湿免疫/肾内科？ |
+| 肌酐、eGFR、尿蛋白、尿白蛋白或尿潜血反复异常 | 是否需要进一步评估肾脏风险？哪些指标要定期追踪？ |
+| 肝酶反复异常，伴饮酒、脂肪肝、体重增加、药物或保健品使用 | 是否需要复查、影像或调整药物/保健品？ |
+
+这些问题的重点不是“我是不是得了某个病”，而是“哪些结果需要确认，哪些风险需要长期管理”。
 
 ## 3. 医生决策层
 
@@ -174,6 +223,8 @@ evidence_status: needs_periodic_review
 
 如果你面对的是具体症状，而不是单纯数字异常，先用 [症状与对应动作速查](../playbooks/symptom-action-guide.md) 分流；如果是体检报告看不懂，可以回到主书的 [体检指标](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md)。
 
+如果你还不知道体检前该选什么项目，先看 [体检前：到底该查什么](../playbooks/checkup-planning-guide.md)；如果已经拿到报告，先看 [常见异常指标速查](../playbooks/common-checkup-markers.md)。
+
 ## 可信资料
 
 截至 2026-06-04，本页主要参考：
@@ -182,6 +233,8 @@ evidence_status: needs_periodic_review
 - American Heart Association: [Home Blood Pressure Monitoring](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+- MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
+- NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 
 ## 最后提醒

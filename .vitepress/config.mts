@@ -53,6 +53,8 @@ const handbookSidebar = [
     items: [
       { text: '危险信号速查', link: '/content/zh-CN/handbook/playbooks/red-flags' },
       { text: '症状与对应动作速查', link: '/content/zh-CN/handbook/playbooks/symptom-action-guide' },
+      { text: '体检前：到底该查什么', link: '/content/zh-CN/handbook/playbooks/checkup-planning-guide' },
+      { text: '常见异常指标速查', link: '/content/zh-CN/handbook/playbooks/common-checkup-markers' },
       { text: '就医前问题清单', link: '/content/zh-CN/handbook/playbooks/doctor-visit-checklist' },
       { text: '家庭健康卡模板', link: '/content/zh-CN/handbook/templates/family-health-card' },
       { text: '家庭健康档案模板', link: '/content/zh-CN/handbook/templates/family-health-record' },

@@ -4,123 +4,143 @@ language: zh-CN
 canonical_slug: checkup-markers
 en_path: ../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md
 translation_status: source
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-04
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
 # 体检指标：不是判决书，而是风险语言
 
-> 本文不是医疗建议。体检报告、化验结果和影像提示需要由医生结合症状、病史、体征和其他检查判断。不要根据本文自行诊断、用药、停药或推迟就医。
+> 本文不是医疗建议。体检报告、化验结果和影像提示需要由医生结合症状、病史、体征、既往结果和其他检查判断。不要根据本文自行诊断、用药、停药或推迟就医。
 
-## 拿到报告，先分三件事
+体检报告最容易让人慌的，不是某个指标，而是报告没有告诉你“下一步该做什么”。一个红色箭头可能只是一次波动，也可能是长期风险的早期信号；一页正常结果也不能解释胸痛、晕厥或突然说话不清。
 
-体检报告最容易把人带到两个极端：一个红色箭头像坏消息已经落地，一页正常值又像拿到了免死金牌。更稳的第一步不是搜索每个缩写，而是先分清它属于哪一类事。
+所以拿到报告后，先不要逐个搜索缩写。先把它翻译成三类事。
+
+## 30 秒先分三类
 
 <div class="decision-grid">
   <section class="decision-card decision-card-red">
     <div class="decision-label">急事</div>
     <h3>有危险信号，报告正常也不能等</h3>
-    <p>胸痛、卒中样症状、严重呼吸困难、意识改变、异常出血、自伤风险等，不要因为近期体检正常就继续观察。</p>
+    <p>胸痛、卒中样症状、严重呼吸困难、晕厥、意识改变、异常出血、严重疼痛、自伤风险等，先处理症状，不要继续研究报告。</p>
   </section>
   <section class="decision-card decision-card-yellow">
-    <div class="decision-label">复查或门诊事</div>
-    <h3>明显异常、持续异常、多个指标一起变坏</h3>
-    <p>这类情况不要在家庭群里猜。把过去结果、近期背景和想问的问题整理好，按医生建议复查或就诊。</p>
+    <div class="decision-label">门诊或复查事</div>
+    <h3>明显异常、持续异常、成组异常</h3>
+    <p>同一指标连续异常，或血压、血脂、血糖、尿酸、肾功能、体重腰围一起变坏，适合整理资料后问医生。</p>
   </section>
   <section class="decision-card decision-card-green decision-card-wide">
-    <div class="decision-label">长期管理事</div>
+    <div class="decision-label">记录观察事</div>
     <h3>单次轻微异常，先看趋势和背景</h3>
-    <p>略高略低不一定代表疾病。先看是不是第一次、有没有同类风险一起出现、最近睡眠饮酒用药运动有没有变化。</p>
+    <p>略高略低不等于疾病。先看是不是第一次、最近有没有熬夜饮酒运动感染用药变化、过去结果是否也这样。</p>
   </section>
 </div>
 
-体检指标的价值，不是替你宣布好坏，而是把风险变成可讨论、可复查、可记录的线索。
+危险信号看 [危险信号速查](../../handbook/playbooks/red-flags.md)。具体症状下一步看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)。如果只是报告看不懂，再往下读。
 
-## 四看法：趋势、组合、背景、行动
+## 一张报告只问五个问题
 
-看到红色箭头，先按这四步扫一遍。
+比起“这个箭头严重吗”，下面五个问题更有用。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-blue">
-    <div class="decision-label">看趋势</div>
-    <h3>第一次，还是连续几次？</h3>
-    <p>找过去 1-3 次同类检查。单次波动和持续变化，意义不一样。血压、血糖、肝肾功能等都可能受测量条件和近期状态影响。</p>
-  </section>
-  <section class="decision-card decision-card-blue">
-    <div class="decision-label">看组合</div>
-    <h3>一个箭头，还是一组风险？</h3>
-    <p>血压、血脂、血糖、尿酸、肾功能、体重、腰围常常要一起看。多个指标同时变坏，比单个轻微异常更值得重视。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">看背景</div>
-    <h3>最近发生了什么？</h3>
-    <p>睡眠、饮酒、感染、疼痛、剧烈运动、脱水、压力、经期、孕产、药物或保健品变化，都可能影响结果。把背景写下来，比临时搜索更有用。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <div class="decision-label">看行动</div>
-    <h3>下一步会改变什么？</h3>
-    <p>是按医生建议复查，带资料去门诊，继续记录趋势，还是先处理危险信号？如果一个指标只制造焦虑，却不改变任何行动，它就没有被用好。</p>
-  </section>
-</div>
+| 问题 | 你要找什么 |
+|---|---|
+| 1. 这是第一次吗 | 找过去 1-3 次同类结果，先看趋势 |
+| 2. 是一个指标，还是一组指标 | 血压、血脂、血糖、尿酸、体重腰围、肾功能常常要一起看 |
+| 3. 最近有什么背景 | 熬夜、饮酒、感染、剧烈运动、脱水、经期、孕产、压力、药物或保健品 |
+| 4. 它会改变什么行动 | 继续记录、按时复查、约门诊、进一步检查，还是马上求助 |
+| 5. 我需要问医生哪三件事 | 代表什么风险、多久复查、什么情况要提前就医 |
 
-## 最容易踩的五个坑
+这五个问题的目的，不是让你自己当医生，而是让报告从“吓人的数字”变成“能带去门诊讨论的信息”。
 
-- **把参考范围当疾病边界。** 参考范围帮助解释结果，不是一条绝对健康线。
+## 常见指标不是孤立数字
+
+体检报告里最常见的箭头，大多可以先归到几条风险线。
+
+| 风险线 | 常见指标 | 先看哪一页 |
+|---|---|---|
+| 心血管和代谢 | 血压、血脂、血糖、A1C、尿酸、体重、腰围 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
+| 肾脏 | 肌酐、eGFR、尿蛋白、尿白蛋白、尿潜血 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
+| 肝胆和药物安全 | ALT、AST、胆红素、白蛋白、脂肪肝提示 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
+| 血液和感染线索 | 白细胞、血红蛋白、血小板等 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
+| 癌症筛查和影像 | 乳腺、宫颈、结直肠、肺癌高风险筛查、结节、肿瘤标志物 | [体检前：到底该查什么](../../handbook/playbooks/checkup-planning-guide.md) |
+
+真正值得警惕的，经常不是“一个箭头”，而是“几个风险线同时指向同一个方向”。
+
+例如：
+
+- 血压高 + 血脂异常：不只是少盐少油，而是心梗、卒中和肾损伤风险；
+- 血糖边缘 + 腰围增加 + 甘油三酯升高：不只是有没有糖尿病，而是胰岛素抵抗和内脏脂肪风险；
+- 尿酸高 + 血压高 + 肾功能边缘：不只是海鲜啤酒，而是肾脏排泄、体重、饮酒和用药一起看；
+- 糖尿病 + 血压/血脂异常：不只是控糖，而是心脑血管、肾脏、眼底、神经和足部并发症一起防。
+
+如果这些组合反复出现，就不要只在家庭群里讨论“吃什么能降”。把它们放进 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)，带着趋势去复诊。
+
+## 体检前不是越多越好
+
+体检前也有一个常见误区：以为项目越多越安心。实际上，体检更像三层组合：
+
+1. **基础信息。** 身高、体重、腰围、血压、用药、既往病、家族史、生活方式和近期症状。
+2. **年龄和性别相关筛查。** 例如血压、糖尿病风险、结直肠癌、乳腺癌、宫颈癌、肺癌高风险、骨质疏松等。
+3. **个人风险加项。** 有症状、既往病、家族史、长期用药、吸烟、肥胖、职业暴露或慢病时，检查项目要跟着风险走。
+
+具体怎么选，先看 [体检前：到底该查什么](../../handbook/playbooks/checkup-planning-guide.md)。这页会把“基础项、年龄性别项、个人风险加项”拆开讲。
+
+## 最容易踩的六个坑
+
+- **把参考范围当疾病边界。** 参考范围不是绝对健康线，结果要结合人和背景。
 - **把单次结果当长期趋势。** 一次异常不等于疾病，一次正常也不等于长期没风险。
-- **只盯一个箭头。** 指标常常是一张风险网，尤其是血压、血脂、血糖、尿酸、体重和腰围。
-- **被产品带着走。** “吃这个就能降指标”不等于长期风险获益，更不等于可以替代诊疗。
-- **用报告解释症状。** 有危险信号时，先按 [医疗边界与危险信号](../medical-boundaries.md) 和 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 处理。
+- **只盯一个指标。** 尤其是血压、血脂、血糖、尿酸、肾功能、体重腰围，要看组合。
+- **用体检替代看病。** 有症状时，体检不是急诊、门诊或专科评估的替代品。
+- **被“全套筛查”带着走。** 肿瘤标志物、全身 CT、PET-CT、多癌种早筛和基因检测，不等于普通人越查越好。
+- **看到异常就乱补乱停药。** 准备开始、停用或更换药物、保健品、草药或治疗时，要问医生或药师。
 
-## 把报告变成一页时间线
+## 拿到报告后的 20 分钟
 
-家庭真正需要的不是每年重新慌一次，而是一张能给医生看的时间线。最小版本只记录这些：
+1. 先看有没有危险信号，有就先就医。
+2. 标出异常项目，但不要立刻下诊断。
+3. 找过去 1-3 次同类检查，看趋势。
+4. 写下近期背景：睡眠、饮食、饮酒、运动、压力、生病、用药、保健品。
+5. 判断它属于哪类：急事、门诊/复查事，还是记录观察事。
+6. 准备 3 个问题：这代表什么风险？多久复查？什么情况需要提前就医？
 
-- 日期、检测机构和是否空腹；
-- 主要异常项目，以及过去 1-3 次同类结果；
-- 近期背景：睡眠、饮食、饮酒、运动、压力、生病、用药或保健品变化；
-- 医生建议、复查时间和下一步检查；
-- 这次最想问医生的 3 个问题。
+可以直接复制下面这段：
 
-对慢病或长期风险人群，可以再加家庭血压、体重、腰围、用药、症状变化和生活方式背景。记录的目标不是每天审判自己，而是让下一次就医不再从零开始。
+```text
+这次主要异常：
 
-## 不要自己解释报告的情况
+过去 1-3 次同类结果：
+
+近期背景：
+
+我最想问医生的 3 个问题：
+```
+
+## 什么时候不要自己解释
 
 下面这些情况，适合交给医生或专业人员判断：
 
 - 指标明显异常、持续异常或短期变化很大；
 - 多个心血管、代谢、肾功能相关指标一起异常；
 - 已经有糖尿病、高血压、心血管病、肾病、癌症、免疫系统疾病等基础病；
-- 正在怀孕、产后、儿童、老人，或正在使用多种药物；
-- 准备因为体检结果开始、停用或更换药物、补剂、草药或治疗；
-- 体检异常伴随胸痛胸闷、呼吸困难、晕厥、意识改变、单侧无力、言语不清、严重疼痛、异常出血或自伤风险。
+- 儿童、老人、孕期、产后，或正在使用多种药物；
+- 体检异常伴随胸痛胸闷、呼吸困难、晕厥、意识改变、单侧无力、言语不清、严重疼痛、异常出血或自伤风险；
+- 报告中出现“阳性”“可疑”“占位”“需进一步检查”“建议专科就诊”等表述，而你不知道下一步。
 
 报告里的“阳性”“可疑”“异常”也不等于最终诊断。它通常意味着需要复查、进一步检查，或由医生结合症状、病史和其他检查判断。
 
-## 拿到报告后的 20 分钟
-
-1. 先看有没有危险信号。有就先就医，不要继续研究报告。
-2. 标出异常项目，但不要立刻下诊断。
-3. 找过去 1-3 次同类检查，看趋势。
-4. 看异常是否集中在同一条风险线上，例如代谢、心血管、肝肾、炎症、血液或内分泌。
-5. 写下近期背景：睡眠、饮食、饮酒、运动、压力、生病、用药。
-6. 准备 3 个问题：这代表什么风险？要不要复查或进一步检查？什么情况需要提前就医？
-
-如果有长期指标需要记录，可以把结果转进 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)。
-
-如果报告反复指向体重、腰围、血压、血糖或血脂风险，第一步可以很小：每天找一个固定时段，走 5-10 分钟，或者饭后下楼转一圈。它不能替代复查、医生判断和治疗，但能让“改变生活方式”从口号变成可执行动作。
-
 ## 可信资料与进一步阅读
 
-以下资料用于校准本章对体检、化验结果和常见慢病指标的解释边界。截至 2026-06-03，本章主要参考：
+以下资料用于校准本章对体检、化验结果、慢病指标和筛查边界的解释。截至 2026-06-04，本章主要参考：
 
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 - MedlinePlus: [Medical Tests](https://medlineplus.gov/lab-tests)
-- CDC: [About High Blood Pressure](https://www.cdc.gov/high-blood-pressure/about/index.html)
-- CDC: [Cholesterol](https://www.cdc.gov/cholesterol/index.html)
+- USPSTF: [Hypertension in Adults: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
-- CDC: [A1C Test for Diabetes and Prediabetes](https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html)
-- CDC: [Benefits of Physical Activity](https://www.cdc.gov/physical-activity-basics/benefits/)
+- CDC: [About Cholesterol](https://www.cdc.gov/cholesterol/about/index.html)
+- CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
+- NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
+- NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

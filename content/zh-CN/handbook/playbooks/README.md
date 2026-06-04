@@ -12,6 +12,8 @@
 |---|---|
 | 已经出现危险信号，不确定能不能等 | [危险信号速查](red-flags.md) |
 | 已经有症状，不知道下一步 | [症状与对应动作速查](symptom-action-guide.md) |
+| 体检前不知道该查什么 | [体检前：到底该查什么](checkup-planning-guide.md) |
+| 体检报告有异常，看不懂下一步 | [常见异常指标速查](common-checkup-markers.md) |
 | 想先约定哪些情况不能拖 | [危险信号速查](red-flags.md) |
 | 准备门诊、复诊或陪诊 | [就医前问题清单](doctor-visit-checklist.md) |
 

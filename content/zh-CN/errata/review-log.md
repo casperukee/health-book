@@ -7,6 +7,36 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：体检前后工具页深化
+
+- 状态：reader feedback + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+  - `content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+  - `content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+  - `content/zh-CN/handbook/templates/chronic-marker-log.md`
+  - `content/zh-CN/book/00-start-here.md`
+  - `content/zh-CN/handbook/README.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据反馈，体检篇只有原则框架，不足以回答“到底该查什么”“常见异常是什么意思”“报告具体怎么看”“慢病指标记录表填完后怎么判断”。本次参考私有库中体检清单、家庭模板包、代谢风险网和家庭指标表，只吸收“基础项 + 年龄性别项 + 个人风险加项”“趋势 + 组合 + 背景 + 行动”“慢病记录服务复诊”的结构，不搬运课程表达、讲次结构、OCR、PDF、图片或本地路径。
+- 使用来源：
+  - MedlinePlus: How to Understand Your Lab Results
+  - MedlinePlus: Complete Blood Count
+  - MedlinePlus: Urinalysis
+  - MedlinePlus: Kidney Tests
+  - MedlinePlus: Liver Function Tests
+  - MedlinePlus: Uric Acid Test
+  - MedlinePlus: Tumor Marker Tests
+  - NIDDK: Chronic Kidney Disease Tests & Diagnosis
+  - USPSTF: Hypertension in Adults: Screening
+  - USPSTF: Prediabetes and Type 2 Diabetes: Screening
+  - CDC: Cancer Screening Tests
+  - USPSTF: Breast Cancer, Cervical Cancer, Colorectal Cancer, Lung Cancer, Prostate Cancer, Osteoporosis, Abdominal Aortic Aneurysm screening pages
+  - NCI: Tumor Markers
+- 处理说明：本次新增筛查项目和常见指标解释，但不生成个体化体检清单，不提供诊断阈值、用药建议、停药建议或治疗目标；具体项目、频率和异常处理仍需医生结合个人风险和当地指南判断。正文特别强调体检不能替代症状就医，肿瘤标志物、全身 CT、PET-CT、多癌种早筛和基因检测不应写成普通人越查越好的项目。
+- 下次建议复查：用一份真实体检报告试跑“30 秒分层 -> 常见异常指标速查 -> 慢病记录表 -> 就医前问题清单”的路径，看读者是否能在 10 分钟内形成一页复诊摘要。
+
 ## 2026-06-04：第二轮核心章节可读性深打磨
 
 - 状态：reader experience + medical boundary patch

@@ -38,12 +38,34 @@
 
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 - MedlinePlus: [Medical Tests](https://medlineplus.gov/lab-tests)
+- MedlinePlus: [Complete Blood Count](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)
+- MedlinePlus: [Urinalysis](https://medlineplus.gov/urinalysis.html)
+- MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
+- MedlinePlus: [Liver Function Tests](https://medlineplus.gov/lab-tests/liver-function-tests/)
 - CDC: [About High Blood Pressure](https://www.cdc.gov/high-blood-pressure/about/index.html)
 - CDC: [Cholesterol](https://www.cdc.gov/cholesterol/index.html)
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - CDC: [A1C Test for Diabetes and Prediabetes](https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html)
+- MedlinePlus: [Uric Acid Test](https://medlineplus.gov/lab-tests/uric-acid-test/)
+- NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 
-使用说明：这些资料用于校准体检指标、化验结果、血压、血脂和血糖检测的基础边界。正文不应替读者解释个人报告，也不应提供用药或停药建议。
+使用说明：这些资料用于校准体检指标、化验结果、血压、血脂、血糖、尿酸、肝肾功能、血常规和尿常规的基础边界。正文不应替读者解释个人报告，也不应提供用药或停药建议。
+
+## 筛查与体检项目选择
+
+- USPSTF: [Hypertension in Adults: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
+- USPSTF: [Prediabetes and Type 2 Diabetes: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/screening-for-prediabetes-and-type-2-diabetes)
+- CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
+- USPSTF: [Breast Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening)
+- USPSTF: [Cervical Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening)
+- USPSTF: [Colorectal Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening)
+- USPSTF: [Lung Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening)
+- USPSTF: [Prostate Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)
+- USPSTF: [Osteoporosis to Prevent Fractures: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening)
+- USPSTF: [Abdominal Aortic Aneurysm: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening)
+- NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
+
+使用说明：这些资料用于校准“体检前到底该查什么”的筛查边界。正文不应把筛查建议改写成个体化检查单，也不应把全身 CT、PET-CT、多癌种早筛、肿瘤标志物或基因检测写成普通人越查越好的项目。
 
 ## 代谢、四高与心血管风险
 

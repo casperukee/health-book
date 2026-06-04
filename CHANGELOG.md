@@ -64,3 +64,4 @@
 - 完成首次使用验收补轮：用 390px 手机视口检查首页、导读、危险信号、症状速查、家庭健康卡和就医清单首屏，并用 5 个真实场景跑通工具路径；修复首页首屏缺少危险信号直达、宽表手机横向溢出和手册健康产品入口点击不稳的问题。
 - 新增页面末尾轻量反馈按钮：有用、没帮上、转发、提意见；点击通过静态资源请求写入镜像站访问日志，先不引入 API、数据库、登录或去重逻辑。
 - 完成第二轮核心章节深打磨：重构 `metabolic-health.md`、`cardiovascular-event-chain.md`、`brain-and-mental-health.md`、`cancer-and-major-illness.md`、`specialty-care-map.md`、`reading-health-news.md` 和 `chronic-marker-log.md`，强化红黄绿分层、阶段判断、症状小卡、慢病复诊记录、低门槛运动/觉察和健康信息慢动作。
+- 根据体检内容反馈，深化体检前后工具链：新增 `checkup-planning-guide.md` 和 `common-checkup-markers.md`，重写 `checkup-markers.md` 为报告阅读入口，并补强 `chronic-marker-log.md` 的趋势、组合和复诊摘要用法；同步接入导读、首页、手册入口、侧边栏和权威来源登记。

@@ -194,9 +194,19 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病指标资料
 - 用途：校准血压波动、长期风险、无症状和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
+
+### USPSTF：Hypertension in Adults: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准成年人血压筛查、诊室测量和诊断前院外确认的边界。
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
 
 ### CDC：Cholesterol
 
@@ -204,7 +214,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病指标资料
 - 用途：校准胆固醇和心血管风险的公众教育表述。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -214,7 +224,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方糖尿病检测资料
 - 用途：校准血糖检测类型、A1C 时间尺度和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -224,9 +234,181 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方糖尿病检测资料
 - 用途：校准 A1C 反映过去数月平均血糖水平的基础解释。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### USPSTF：Prediabetes and Type 2 Diabetes: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/screening-for-prediabetes-and-type-2-diabetes
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准成人糖尿病前期和 2 型糖尿病筛查人群边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Complete Blood Count
+
+- URL: https://medlineplus.gov/lab-tests/complete-blood-count-cbc/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准血常规检测内容、用途和解释边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Urinalysis
+
+- URL: https://medlineplus.gov/urinalysis.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准尿常规可提示的泌尿、肾脏、糖尿病和取样边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Liver Function Tests
+
+- URL: https://medlineplus.gov/lab-tests/liver-function-tests/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准肝功能检测的基础解释和综合代谢面板相关边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Kidney Tests
+
+- URL: https://medlineplus.gov/kidneytests.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准肾功能、肌酐、eGFR、尿白蛋白和影像检查的基础解释。
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### NIDDK：Chronic Kidney Disease Tests & Diagnosis
+
+- URL: https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis
+- 机构：National Institute of Diabetes and Digestive and Kidney Diseases, NIH
+- 类型：美国官方疾病检测资料
+- 用途：校准 eGFR、尿白蛋白和慢性肾病检测/监测边界。
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Uric Acid Test
+
+- URL: https://medlineplus.gov/lab-tests/uric-acid-test/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准尿酸、痛风、肾结石和检测用途的基础解释。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Tumor Marker Tests
+
+- URL: https://medlineplus.gov/lab-tests/tumor-marker-tests
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准肿瘤标志物主要用途、筛查局限和不能单独诊断癌症的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### NCI：Tumor Markers
+
+- URL: https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症资料
+- 用途：校准循环肿瘤标志物不适合作为普通人癌症筛查工具的边界。
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+## 筛查与体检项目选择
+
+### CDC：Cancer Screening Tests
+
+- URL: https://www.cdc.gov/cancer/prevention/screening.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方癌症筛查资料
+- 用途：校准乳腺癌、宫颈癌、结直肠癌和肺癌高风险筛查作为有证据筛查入口的边界。
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Breast Cancer: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准平均风险女性乳腺癌筛查年龄和频率的公众表述。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Cervical Cancer: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准宫颈癌筛查年龄、方法和不要过度筛查的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Colorectal Cancer: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准结直肠癌筛查起始年龄、方法选择和高龄个体化决策边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Lung Cancer: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准低剂量 CT 肺癌筛查只适用于特定年龄和吸烟史高风险人群的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Prostate Cancer: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准 PSA 筛查需要共同决策、不是普通男性自动必查项的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Osteoporosis to Prevent Fractures: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准骨质疏松筛查的人群边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### USPSTF：Abdominal Aortic Aneurysm: Screening
+
+- URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening
+- 机构：U.S. Preventive Services Task Force
+- 类型：独立预防服务建议
+- 用途：校准腹主动脉瘤筛查主要面向 65-75 岁曾吸烟男性的一次性超声筛查边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
 
 ## 代谢、四高与心血管风险
 

@@ -29,7 +29,7 @@ evidence_status: stable
   <section class="decision-card decision-card-yellow">
     <div class="decision-label">要看报告或见医生</div>
     <h3>先整理事实，再讨论判断</h3>
-    <p>体检报告看 <a href="part-1-healthspan-risk-and-markers/checkup-markers.html">体检指标</a>。近期要门诊，先用 <a href="part-3-family-health-os/doctor-visit-preparation.html">就医前如何准备信息</a>。</p>
+    <p>体检前看 <a href="../handbook/playbooks/checkup-planning-guide.html">到底该查什么</a>。报告异常先看 <a href="part-1-healthspan-risk-and-markers/checkup-markers.html">体检指标</a> 和 <a href="../handbook/playbooks/common-checkup-markers.html">常见异常指标速查</a>。近期要门诊，先用 <a href="part-3-family-health-os/doctor-visit-preparation.html">就医前如何准备信息</a>。</p>
   </section>
   <section class="decision-card decision-card-green">
     <div class="decision-label">想给家人做准备</div>
@@ -112,7 +112,8 @@ evidence_status: stable
 | 明天或近期要去门诊 | [就医前问题清单](../handbook/playbooks/doctor-visit-checklist.md) |
 | 想给家人做一张健康信息卡 | [家庭健康卡模板](../handbook/templates/family-health-card.md) |
 | 家里病历、检查、药物资料很散 | [家庭健康档案模板](../handbook/templates/family-health-record.md) |
-| 体检报告有异常 | [体检指标](part-1-healthspan-risk-and-markers/checkup-markers.md) |
+| 体检前不知道该查什么 | [体检前：到底该查什么](../handbook/playbooks/checkup-planning-guide.md) |
+| 体检报告有异常 | [体检指标](part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [常见异常指标速查](../handbook/playbooks/common-checkup-markers.md) |
 | 血压、血脂、血糖、尿酸反复异常 | [代谢与四高](part-2-body-risk-map/metabolic-health.md) |
 | 担心心梗、卒中 | [心血管事件链](part-2-body-risk-map/cardiovascular-event-chain.md) |
 | 睡不好、恢复不过来 | [睡眠与恢复](part-2-body-risk-map/sleep-and-recovery.md) |

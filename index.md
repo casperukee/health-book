@@ -37,7 +37,9 @@ features:
 | 你现在想做什么 | 先打开 |
 |---|---|
 | 身体已经不舒服，不确定能不能等 | [危险信号速查](content/zh-CN/handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](content/zh-CN/handbook/playbooks/symptom-action-guide.md) |
-| 要看报告、复查或见医生 | [体检指标](content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 或 [就医前问题清单](content/zh-CN/handbook/playbooks/doctor-visit-checklist.md) |
+| 体检前不知道该查什么 | [体检前：到底该查什么](content/zh-CN/handbook/playbooks/checkup-planning-guide.md) |
+| 体检报告有异常，看不懂下一步 | [体检指标](content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [常见异常指标速查](content/zh-CN/handbook/playbooks/common-checkup-markers.md) |
+| 要复查、门诊或陪诊 | [就医前问题清单](content/zh-CN/handbook/playbooks/doctor-visit-checklist.md) |
 | 想给家人做准备 | 先做 [家庭健康卡](content/zh-CN/handbook/templates/family-health-card.md)，再看 [手册与模板](content/zh-CN/handbook/README.md) |
 | 想系统读一遍 | 从 [如何使用这本书](content/zh-CN/book/00-start-here.md) 开始，再进入 [中文主书目录](content/zh-CN/book/README.md) |
 
