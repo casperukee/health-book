@@ -7,6 +7,34 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：代谢与心血管两章二次深化
+
+- 状态：reader feedback + evidence boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据用户反馈，`metabolic-health.md` 和 `cardiovascular-event-chain.md` 的深度仍明显不足，读起来只是比体检指标篇稍微丰富，且存在“这不是体检指标的加长版”等内部写作目标外露和模板化框架痕迹。二次修订先吸收私有库中代谢与四高、心血管与心脏健康专题索引和三级卡的结构化整理，再按公开书重写：代谢篇改成“四种身体语言、共同上游、组合风险和心肾代谢风险网”；心血管篇改成“供血网络、事件链、活动耐量、急性时间窗、治疗协作和防复发”的书稿结构。
+- 使用来源：
+  - CDC: About High Blood Pressure
+  - CDC: About Cholesterol
+  - CDC: Diabetes Testing
+  - CDC: A1C Test for Diabetes and Prediabetes
+  - CDC: Gout
+  - American Heart Association: What is Metabolic Syndrome?
+  - American Heart Association: Cardiovascular-Kidney-Metabolic Health
+  - CDC: Heart Disease Risk Factors
+  - CDC: About Coronary Artery Disease
+  - NHLBI/NIH: Atherosclerosis
+  - NHLBI/NIH: Heart Attack Causes and Risk Factors
+  - NHLBI/NIH: Heart Attack Symptoms
+  - CDC: Signs and Symptoms of Stroke
+  - American Heart Association: Heart Attack, Stroke and Cardiac Arrest Symptoms
+  - American Heart Association: Life's Essential 8
+- 处理说明：本次参考私有库中的 `代谢与四高 专题索引`、代谢风险网、高血压、高血脂、高血糖、糖尿病、高尿酸、心血管总索引、心脏供血网络、心血管事件链、猝死危险信号、心脏康复和生活方式等整理卡，只吸收问题结构、风险线、行动模型和医学边界；不搬运课程表达、讲次结构、OCR、PDF、图片或本地路径。正文继续不提供个体诊断、血压/血脂/血糖/尿酸治疗目标、用药选择、停药建议、运动处方或个人心血管风险计算。
+- 下次建议复查：请用手机重点试读两章前 3 屏，判断代谢篇的“四种身体语言”和心血管篇的“供血网络/事件链”是否能自然带读者进入；如果仍显长，优先删掉重复解释，而不是继续增加表格或口号。
+
 ## 2026-06-04：体检前后工具页深化
 
 - 状态：reader feedback + medical boundary patch

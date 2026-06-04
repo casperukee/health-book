@@ -87,9 +87,10 @@
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - CDC: [Gout](https://www.cdc.gov/arthritis/gout/index.html)
 - American Heart Association: [What is Metabolic Syndrome?](https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome)
+- American Heart Association: [Cardiovascular-Kidney-Metabolic Health](https://www.heart.org/en/health-topics/cardiovascular-kidney-metabolic-syndrome)
 - CDC: [Heart Disease Risk Factors](https://www.cdc.gov/heart-disease/risk-factors/index.html)
 - CDC: [About Coronary Artery Disease](https://www.cdc.gov/heart-disease/about/coronary-artery-disease.html)
-- NHLBI/NIH: [Atherosclerosis](https://www.nhlbi.nih.gov/health-topics/atherosclerosis)
+- NHLBI/NIH: [Atherosclerosis](https://www.nhlbi.nih.gov/health/atherosclerosis)
 - NHLBI/NIH: [Heart Attack Causes and Risk Factors](https://www.nhlbi.nih.gov/health/heart-attack/causes)
 - American Heart Association: [Life's Essential 8](https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8)
 
