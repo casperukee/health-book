@@ -64,6 +64,7 @@
 
 ## 筛查与体检项目选择
 
+- 中华医学会健康管理学分会、中华健康管理学杂志编辑委员会：[健康体检基本项目专家共识（2022）](https://rs.yiigle.com/CN115624202309/1473648.htm)
 - USPSTF: [Hypertension in Adults: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
 - USPSTF: [Prediabetes and Type 2 Diabetes: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/screening-for-prediabetes-and-type-2-diabetes)
 - CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
@@ -75,6 +76,7 @@
 - USPSTF: [Osteoporosis to Prevent Fractures: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/osteoporosis-screening)
 - USPSTF: [Abdominal Aortic Aneurysm: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/abdominal-aortic-aneurysm-screening)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
+- 国家卫生健康委员会：[结直肠癌筛查与早诊早治方案（2024 年版）](https://www.jdocn.com/uploads/20241224/7733c5c69f83514903966b236653e4e0.pdf)
 
 使用说明：这些资料用于校准“体检前到底该查什么”的筛查边界。正文不应把筛查建议改写成个体化检查单，也不应把全身 CT、PET-CT、多癌种早筛、肿瘤标志物或基因检测写成普通人越查越好的项目。
 

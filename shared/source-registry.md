@@ -440,6 +440,16 @@
 
 ## 筛查与体检项目选择
 
+### 中华医学会健康管理学分会：健康体检基本项目专家共识（2022）
+
+- URL: https://rs.yiigle.com/CN115624202309/1473648.htm
+- 机构：中华医学会健康管理学分会、中华健康管理学杂志编辑委员会
+- 类型：中国健康体检专家共识
+- 用途：校准中国健康体检“1+X”项目框架、基础体检项目和专项筛查项目的表达。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
 ### CDC：Cancer Screening Tests
 
 - URL: https://www.cdc.gov/cancer/prevention/screening.html
@@ -516,6 +526,16 @@
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
 - 用途：校准腹主动脉瘤筛查主要面向 65-75 岁曾吸烟男性的一次性超声筛查边界。
+- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 国家卫生健康委员会：结直肠癌筛查与早诊早治方案（2024 年版）
+
+- URL: https://www.jdocn.com/uploads/20241224/7733c5c69f83514903966b236653e4e0.pdf
+- 机构：国家卫生健康委员会
+- 类型：中国官方筛查与早诊早治方案
+- 用途：校准中国语境下结直肠癌高风险人群、筛查起始年龄和筛查方法的边界。
 - 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04

@@ -7,6 +7,26 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：体检前选套餐场景补强
+
+- 状态：reader feedback + medical boundary patch
+- 位置：
+  - `content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据读者反馈，原“体检前：到底该查什么”页虽有基础项、年龄性别项和个人风险加项的原则，但没有解决“站在中国体检中心套餐前，具体看哪些项目名称”的问题。最初反馈来自 40 多岁男性场景，但本次不机械新增单一人群小节，而是抽象成“按年龄段抓重点 + 常见项目名翻译”：把 18-30、30-40、40-50、50-65、65 岁以上的重点风险，以及血常规、尿常规、便隐血/FIT、生化、血脂、空腹血糖、A1C、心电图、腹部彩超、低剂量胸部 CT、PSA、前列腺超声等常见菜单名放回实际选择场景。
+- 使用来源：
+  - 中华医学会健康管理学分会、中华健康管理学杂志编辑委员会：健康体检基本项目专家共识（2022）
+  - USPSTF: Hypertension in Adults: Screening
+  - USPSTF: Prediabetes and Type 2 Diabetes: Screening
+  - USPSTF: Colorectal Cancer: Screening
+  - USPSTF: Lung Cancer: Screening
+  - USPSTF: Prostate Cancer: Screening
+  - NCI: Tumor Markers
+  - 国家卫生健康委员会：结直肠癌筛查与早诊早治方案（2024 年版）
+- 处理说明：本次提供“年龄段重点、套餐名翻译”和“常见易混项目边界”，但不生成个人体检处方。特别把肺癌筛查写成“低剂量胸部 CT/低剂量螺旋 CT”，不写成“肺部增强 CT”；把颈动脉体检加项写成“颈动脉彩超”，不把颈动脉 CTA/MRA/造影写成基础体检；PSA 写成共同决策项目，不作为普通男性自动必查。
+- 下次建议复查：请让提出反馈的读者直接用这页对照一个真实体检套餐，看是否能判断“我这个年龄段先抓什么、基础够不够、哪些按风险加、哪些不该盲加”。
+
 ## 2026-06-04：代谢与心血管两章二次深化
 
 - 状态：reader feedback + evidence boundary patch
