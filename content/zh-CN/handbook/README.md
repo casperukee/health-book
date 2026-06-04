@@ -17,11 +17,9 @@
 
 ## 具体工具
 
-| 你现在遇到什么 | 先打开哪一页 |
-|---|---|
-| 想给家里约定“什么情况不能拖” | [危险信号速查](playbooks/red-flags.md) |
-| 有血压、血脂、血糖、尿酸等长期指标 | [慢病指标记录表](templates/chronic-marker-log.md) |
-| 家人准备买保健品、检测、设备或抗衰产品 | [健康产品购买前检查清单](templates/health-product-checklist.md) |
+- 想给家里约定“什么情况不能拖”：先打开 [危险信号速查](playbooks/red-flags.md)。
+- 有血压、血脂、血糖、尿酸等长期指标：用 [慢病指标记录表](templates/chronic-marker-log.md)。
+- 家人准备买保健品、检测、设备或抗衰产品：先看 [健康产品购买前检查清单](templates/health-product-checklist.md)。
 
 ## 这些页面怎么接起来
 

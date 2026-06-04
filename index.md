@@ -7,11 +7,11 @@ hero:
   tagline: 理解风险、准备就医、管理家庭健康信息、识别健康消费陷阱。
   actions:
     - theme: brand
+      text: 危险信号速查
+      link: /content/zh-CN/handbook/playbooks/red-flags
+    - theme: alt
       text: 开始阅读
       link: /content/zh-CN/book/00-start-here
-    - theme: alt
-      text: 中文目录
-      link: /content/zh-CN/book/README
     - theme: alt
       text: 手册与模板
       link: /content/zh-CN/handbook/README

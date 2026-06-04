@@ -45,8 +45,10 @@
 }
 
 .vp-doc table {
-  display: table;
-  width: 100%;
+  display: block;
+  width: max-content;
+  max-width: 100%;
+  overflow-x: auto;
   font-size: 15px;
 }
 
