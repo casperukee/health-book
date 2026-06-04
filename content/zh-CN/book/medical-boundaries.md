@@ -148,7 +148,7 @@ evidence_status: needs_periodic_review
 - NHLBI/NIH: [Heart Attack Symptoms](https://www.nhlbi.nih.gov/health/heart-attack/symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 

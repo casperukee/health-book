@@ -48,6 +48,8 @@ evidence_status: needs_periodic_review
 
 这张表不用于诊断，只用于决定下一步。突然危险先进入专业系统；持续变化先把事实说清楚；长期维护才是平时慢慢做的事。
 
+如果你现在更关心情绪、焦虑、压力、失眠、自伤风险，以及能不能先做一些自我觉察和低风险缓解，可以直接看手册页 [心理健康风险识别与自我照护](../../handbook/playbooks/mental-health-check-in.md)。
+
 ## 容易误解的三件事
 
 **第一，心理问题不是“想不开”。** 抑郁、焦虑、惊恐、长期失眠和持续躯体紧张，会影响睡眠、食欲、动力、注意力、身体感受和安全风险。它们不是道德问题，也不适合只靠劝人坚强。
@@ -148,7 +150,7 @@ evidence_status: needs_periodic_review
 - NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
 - NCCIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

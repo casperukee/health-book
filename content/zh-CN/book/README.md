@@ -15,9 +15,10 @@
 | 你现在想做什么 | 先打开 |
 |---|---|
 | 身体已经不舒服，不确定能不能等 | [危险信号速查](../handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) |
+| 情绪、焦虑、压力、失眠或自伤风险 | [心理健康风险识别与自我照护](../handbook/playbooks/mental-health-check-in.md) |
 | 体检前不知道该查什么 | [体检前：到底该查什么](../handbook/playbooks/checkup-planning-guide.md) |
 | 体检报告有异常，看不懂下一步 | [体检指标](part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [常见异常指标速查](../handbook/playbooks/common-checkup-markers.md) |
-| 要复查、门诊或陪诊 | [就医前问题清单](../handbook/playbooks/doctor-visit-checklist.md) |
+| 要复查、门诊或陪诊 | 不知道挂什么科先看 [急诊、门诊和挂号科室怎么选](../handbook/playbooks/department-navigation-guide.md)，已经确定就医再用 [就医前问题清单](../handbook/playbooks/doctor-visit-checklist.md) |
 | 想给家人做准备 | 先做 [家庭健康卡](../handbook/templates/family-health-card.md)，再看 [手册与模板](../handbook/README.md) |
 | 想系统读一遍 | 从 [如何使用这本书](00-start-here.md) 开始，再按下面目录连续读 |
 

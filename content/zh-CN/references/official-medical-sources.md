@@ -19,7 +19,7 @@
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - NHLBI/NIH: [Heart Attack Symptoms](https://www.nhlbi.nih.gov/health/heart-attack/symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 
@@ -123,7 +123,9 @@
 - NIMH: [Depression](https://www.nimh.nih.gov/health/publications/depression)
 - NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
+- SAMHSA: [Warning Signs of Suicide](https://www.samhsa.gov/mental-health/suicidal-behavior/warning-signs)
+- NIMH: [Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help)
 - CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 
 使用说明：这些资料用于校准认知变化、心理健康求助和危机处理入口。正文不应自测诊断抑郁、焦虑或痴呆，也不应替代心理健康专业评估。
@@ -151,6 +153,7 @@
 ## 专科就医与按需资料入口
 
 - MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
+- MedlinePlus: [Choosing a primary care provider](https://medlineplus.gov/ency/article/001939.htm)
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
@@ -217,7 +220,7 @@
 - MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
 - MedlinePlus: [Older Adult Health](https://medlineplus.gov/olderadulthealth.html)
 - MedlinePlus: [Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
 

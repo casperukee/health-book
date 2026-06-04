@@ -240,6 +240,7 @@ evidence_status: needs_periodic_review
 
 如果是黄色：
 
+- 情绪、焦虑、抑郁、失眠或冲动持续影响生活时，可以先看 [心理健康风险识别与自我照护](mental-health-check-in.md)，同时准备联系专业支持；
 - 用 [就医前问题清单](doctor-visit-checklist.md) 准备信息；
 - 把症状整理成时间线；
 - 带上体检报告、用药清单和最想问的 1-3 个问题；

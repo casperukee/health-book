@@ -53,6 +53,8 @@ const handbookSidebar = [
     items: [
       { text: '危险信号速查', link: '/content/zh-CN/handbook/playbooks/red-flags' },
       { text: '症状与对应动作速查', link: '/content/zh-CN/handbook/playbooks/symptom-action-guide' },
+      { text: '心理健康风险识别与自我照护', link: '/content/zh-CN/handbook/playbooks/mental-health-check-in' },
+      { text: '急诊、门诊和挂号科室怎么选', link: '/content/zh-CN/handbook/playbooks/department-navigation-guide' },
       { text: '体检前：到底该查什么', link: '/content/zh-CN/handbook/playbooks/checkup-planning-guide' },
       { text: '常见异常指标速查', link: '/content/zh-CN/handbook/playbooks/common-checkup-markers' },
       { text: '就医前问题清单', link: '/content/zh-CN/handbook/playbooks/doctor-visit-checklist' },

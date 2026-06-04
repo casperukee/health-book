@@ -160,7 +160,7 @@ evidence_status: needs_periodic_review
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
 ## 最后提醒
 

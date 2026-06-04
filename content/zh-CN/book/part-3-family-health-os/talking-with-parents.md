@@ -191,7 +191,7 @@ evidence_status: stable
 - MedlinePlus: [Eye Emergencies](https://medlineplus.gov/ency/article/000054.htm)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/mental-health/988)
+- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
 

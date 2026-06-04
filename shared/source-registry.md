@@ -10,7 +10,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准心梗、卒中和心脏骤停的公众识别边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-02
 
@@ -30,17 +30,17 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准卒中危险信号、B.E. F.A.S.T. 和症状出现时间记录。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-02
 
 ### SAMHSA：988 Suicide & Crisis Lifeline
 
-- URL: https://www.samhsa.gov/mental-health/988
+- URL: https://www.samhsa.gov/find-help/988
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/red-flags.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -70,7 +70,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准公众识别医疗急症和家庭准备急救信息的基础边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-02
 
@@ -792,7 +792,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准抑郁症状、治疗和求助边界的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -802,7 +802,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准焦虑障碍和专业帮助边界的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -812,7 +812,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准心理健康何时需要求助的公众判断边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -822,9 +822,29 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方心理健康公众资料
 - 用途：校准压力管理、暂停、呼吸和寻求支持的低风险辅助边界。
-- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
+
+### SAMHSA：Warning Signs of Suicide
+
+- URL: https://www.samhsa.gov/mental-health/suicidal-behavior/warning-signs
+- 机构：Substance Abuse and Mental Health Services Administration
+- 类型：美国官方自杀风险警示资料
+- 用途：校准自伤、自杀、告别、准备工具等心理危机红色信号。
+- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-04
+
+### NIMH：Help for Mental Illnesses
+
+- URL: https://www.nimh.nih.gov/health/find-help
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方心理健康求助资料
+- 用途：校准如何寻找心理健康专业帮助、如何和医疗人员讨论心理健康问题。
+- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
 
 ## 癌症筛查和重大疾病
 
@@ -1022,9 +1042,19 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准选择医疗服务、专科就医和患者资料入口。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
+
+### MedlinePlus：Choosing a primary care provider
+
+- URL: https://medlineplus.gov/ency/article/001939.htm
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准 primary care provider、非急症医疗入口和急诊/非急诊服务选择边界。
+- 已用于：`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
 
 ### AHRQ：Be More Engaged in Your Healthcare
 
@@ -1032,7 +1062,7 @@
 - 机构：Agency for Healthcare Research and Quality
 - 类型：美国官方患者沟通资料
 - 用途：校准就医前、中、后的提问、记录和参与医疗团队的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 

@@ -187,6 +187,7 @@ evidence_status: stable
 | 现在卡在哪里 | 下一步 |
 |---|---|
 | 还没分清是不是急事 | 先看 [危险信号速查](red-flags.md) 或 [症状与对应动作速查](symptom-action-guide.md) |
+| 不知道该挂什么科 | 先看 [急诊、门诊和挂号科室怎么选](department-navigation-guide.md)，拿不准时问医院导诊、分诊、全科或普通内科 |
 | 缺基础病、过敏、用药、联系人 | 先填一张 [家庭健康卡](../templates/family-health-card.md)，不用等档案完整 |
 | 看完医生，怕忘记医嘱 | 把用药变化、复查时间、提前就医条件写进 [家庭健康档案](../templates/family-health-record.md) |
 | 有血压、血糖、血脂、尿酸等长期指标 | 用 [慢病指标记录表](../templates/chronic-marker-log.md) 单独记录趋势 |

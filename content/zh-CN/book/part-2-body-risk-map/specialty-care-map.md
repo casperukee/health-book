@@ -41,7 +41,7 @@ evidence_status: needs_periodic_review
   </section>
 </div>
 
-如果拿不准，用 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 先分流；确定要门诊后，再用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 准备资料。
+如果拿不准，用 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 先分流；不知道该急诊、门诊还是挂什么科时，看 [急诊、门诊和挂号科室怎么选](../../handbook/playbooks/department-navigation-guide.md)；确定要门诊后，再用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 准备资料。
 
 ## 别把羞耻感、习惯和忍耐当成医学判断
 
