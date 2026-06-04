@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: family-health-record
 en_path: ../../../en/handbook/templates/family-health-record.md
 translation_status: source
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-04
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -18,6 +18,8 @@ evidence_status: stable
 家庭健康档案不是为了把资料收集得很漂亮，而是为了关键时刻能用。
 
 它应该回答五个问题：这个人是谁，过去有什么病，正在用什么，最近查过什么，紧急时该联系谁。
+
+如果你只是想先给家人做一张能马上用的小卡，不必从完整档案开始。先用 [家庭健康卡模板](family-health-card.md)，10 分钟填出姓名、紧急联系人、重要病史、过敏史、正在用药和资料位置。等这张卡能用起来，再慢慢扩展成完整档案。
 
 ## 一句话原则
 
@@ -158,8 +160,9 @@ evidence_status: stable
 
 ## 可信资料
 
-截至 2026-06-01，本页主要参考：
+截至 2026-06-04，本页主要参考：
 
+- MedlinePlus: [Personal Health Records](https://medlineplus.gov/personalhealthrecords.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)

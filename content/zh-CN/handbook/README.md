@@ -14,6 +14,7 @@
 | 已经有具体症状，不知道要不要去医院 | [症状与对应动作速查](playbooks/symptom-action-guide.md) |
 | 想给家里约定“什么情况不能拖” | [危险信号速查](playbooks/red-flags.md) |
 | 明天或近期要去门诊 | [就医前问题清单](playbooks/doctor-visit-checklist.md) |
+| 想先给家人做一张能马上用的健康卡 | [家庭健康卡模板](templates/family-health-card.md) |
 | 家里资料散在聊天记录、手机相册和抽屉里 | [家庭健康档案模板](templates/family-health-record.md) |
 | 有血压、血脂、血糖、尿酸等长期指标 | [慢病指标记录表](templates/chronic-marker-log.md) |
 | 家人准备买保健品、检测、设备或抗衰产品 | [健康产品购买前检查清单](templates/health-product-checklist.md) |
@@ -24,10 +25,11 @@
 
 1. [危险信号速查](playbooks/red-flags.md)：先约定什么情况不能拖。
 2. [症状与对应动作速查](playbooks/symptom-action-guide.md)：把常见症状先分成急救、门诊和观察三层动作。
-3. [家庭健康档案模板](templates/family-health-record.md)：先为一个家庭成员建最小档案。
-4. [就医前问题清单](playbooks/doctor-visit-checklist.md)：下次门诊前直接照着准备。
-5. [慢病指标记录表](templates/chronic-marker-log.md)：有高血压、血糖、血脂、尿酸等长期指标时使用。
-6. [健康产品购买前检查清单](templates/health-product-checklist.md)：买保健品、检测、设备和抗衰产品前使用。
+3. [家庭健康卡模板](templates/family-health-card.md)：先给一个家人做一张能马上用的小卡。
+4. [家庭健康档案模板](templates/family-health-record.md)：再为一个家庭成员建完整一些的最小档案。
+5. [就医前问题清单](playbooks/doctor-visit-checklist.md)：下次门诊前直接照着准备。
+6. [慢病指标记录表](templates/chronic-marker-log.md)：有高血压、血糖、血脂、尿酸等长期指标时使用。
+7. [健康产品购买前检查清单](templates/health-product-checklist.md)：买保健品、检测、设备和抗衰产品前使用。
 
 ## 维护入口
 

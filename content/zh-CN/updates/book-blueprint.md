@@ -179,6 +179,7 @@
 
 - `red-flags.md`：危险信号速查；
 - `doctor-visit-checklist.md`：就医前问题清单；
+- `family-health-card.md`：家庭健康卡模板；
 - `family-health-record.md`：家庭健康档案模板；
 - `chronic-marker-log.md`：慢病指标记录表；
 - `health-product-checklist.md`：健康产品购买前检查清单；

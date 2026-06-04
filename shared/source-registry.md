@@ -688,9 +688,19 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准就医前准备、问题清单、用药和过敏信息沟通。
-- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-card.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
+
+### MedlinePlus：Personal Health Records
+
+- URL: https://medlineplus.gov/personalhealthrecords.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准个人健康记录中姓名、出生日期、血型、紧急联系人、过敏、用药、病史等基础信息类别。
+- 已用于：`content/zh-CN/handbook/templates/family-health-card.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
 
 ### AHRQ：Questions Are the Answer
 
@@ -708,9 +718,9 @@
 - 机构：Office of the National Coordinator for Health Information Technology
 - 类型：美国官方健康记录资料
 - 用途：校准获取、使用和理解个人健康记录的公众资料。
-- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-card.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ## 专科就医与按需资料入口
 
@@ -896,9 +906,9 @@
 - 机构：Office of the National Coordinator for Health Information Technology
 - 类型：美国官方健康记录资料
 - 用途：校准健康记录中常见信息类别和家庭健康档案的资料边界。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/handbook/templates/family-health-card.md`、`content/zh-CN/handbook/templates/family-health-record.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### CDC：Recommended Vaccines for Adults
 

@@ -7,6 +7,25 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：家庭健康卡模板新增
+
+- 状态：reader feedback patch
+- 位置：
+  - `content/zh-CN/handbook/templates/family-health-card.md`
+  - `content/zh-CN/handbook/templates/family-health-record.md`
+  - `content/zh-CN/handbook/README.md`
+  - `content/zh-CN/handbook/templates/README.md`
+  - `.vitepress/config.mts`
+  - `shared/source-registry.md`
+- 复查内容：根据灰度反馈，读者想“给家里人做健康卡”，但现有入口只有“家庭健康档案模板”，门槛偏高且不够显眼。本次新增轻量家庭健康卡模板，用于先记录姓名、紧急联系人、重要病史、过敏史、正在用药、近期复查和资料位置，再承接到完整家庭健康档案。
+- 使用来源：
+  - MedlinePlus: Personal Health Records
+  - MedlinePlus: Talking With Your Doctor
+  - HealthIT.gov: The Guide to Getting and Using Your Health Records
+  - HealthIT.gov: What's in Your Health Record
+- 处理说明：健康卡只作为家庭信息准备工具，不是正式病历、授权文件、诊断表或治疗建议；出现危险信号时仍应先看危险信号速查并及时求助。正文特别提醒不要把身份证号、医保卡号、完整住址、完整报告和未经本人同意的敏感诊断随意发到普通微信群。
+- 下次建议复查：请真实读者尝试给一位家人填写健康卡，看是否能在 10 分钟内完成；如仍觉得不够“卡片化”，可考虑制作一张正式 PNG 或可打印 A4 小卡。
+
 ## 2026-06-04：健康产品清单工具页降噪
 
 - 状态：reader experience + source check patch

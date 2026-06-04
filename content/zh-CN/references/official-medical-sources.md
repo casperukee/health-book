@@ -163,6 +163,7 @@
 ## 就医沟通与健康档案
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
+- MedlinePlus: [Personal Health Records](https://medlineplus.gov/personalhealthrecords.html)
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)

@@ -52,6 +52,7 @@
 | 草药补剂 | herbal supplements | 含草药或植物成分的补剂 |
 | 产品一致性 | product consistency | 市售产品与研究材料在成分、剂量、纯度上的一致程度 |
 | 就医资料包 | visit prep packet | 就医前准备的症状、资料、用药和问题清单 |
+| 家庭健康卡 | family health card | 家庭成员的最小健康信息卡，用于急诊、门诊、陪诊和日常沟通 |
 | 家庭健康档案 | family health record | 家庭可维护的病史、用药、检查和联系人记录 |
 | 家庭健康操作系统 | family health operating system | 家庭资料、流程、分工和复盘 |
 | 证据边界 | evidence boundary | 某个判断能说到哪里、不能说到哪里 |
