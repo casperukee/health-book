@@ -60,6 +60,40 @@
   border-radius: 8px;
 }
 
+.vp-doc img[alt='症状问诊卡'],
+.vp-doc img[alt='家庭健康小约定卡'] {
+  display: block;
+  width: min(100%, 420px);
+  margin: 18px auto 8px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+}
+
+.vp-doc details {
+  border: 1px solid var(--vp-c-divider);
+  border-left: 4px solid var(--vp-c-brand-2);
+  border-radius: 8px;
+  margin: 12px 0;
+  padding: 0 14px;
+  background: rgba(20, 184, 166, 0.06);
+}
+
+.vp-doc details summary {
+  cursor: pointer;
+  padding: 12px 0;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.vp-doc details[open] {
+  padding-bottom: 10px;
+}
+
+.vp-doc details[open] summary {
+  border-bottom: 1px solid var(--vp-c-divider);
+  margin-bottom: 10px;
+}
+
 .triage-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

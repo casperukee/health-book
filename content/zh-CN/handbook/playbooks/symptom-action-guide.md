@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: symptom-action-guide
 en_path: ../../../en/handbook/playbooks/symptom-action-guide.md
 translation_status: source
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-04
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -17,15 +17,19 @@ evidence_status: needs_periodic_review
 如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险或孕产期危险信号，不要先查完整表格，直接看 [危险信号速查](red-flags.md) 并优先求助。
 :::
 
-## 先记住四句话
+## 30 秒先分层
 
-第一，症状速查不是为了判断“是什么病”，而是判断“现在该做什么”。
+症状速查不是为了判断“是什么病”，而是判断“现在该做什么”。
 
-第二，家庭动作可以先分三层：红色立刻求助，黄色尽快联系医生，绿色先记录观察和基础照护。
+| 现在看到什么 | 先做什么 |
+| --- | --- |
+| 已经有胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、自伤风险等红色信号 | 不看完整表格，先打开 [危险信号速查](red-flags.md)，联系急救、急诊或当地医疗入口 |
+| 没有明显红色信号，但症状持续、反复、加重、第一次出现，或发生在老人、孕产期、婴幼儿、慢病和免疫低下人群身上 | 尽快联系医生、门诊、互联网医院、医生热线或常用医院分诊入口 |
+| 症状轻、短暂、正在改善，没有危险信号，也不是高风险人群 | 先记录观察和基础照护，并提前设好升级条件 |
 
-第三，如果这个人是婴幼儿、孕产期、老人、免疫功能低下者，或有严重心肺肾肝疾病、糖尿病、癌症治疗、近期手术、正在使用抗凝药等情况，要把同样的症状看得更谨慎。
+如果这个人是婴幼儿、孕产期、老人、免疫功能低下者，或有严重心肺肾肝疾病、糖尿病、癌症治疗、近期手术、正在使用抗凝药等情况，要把同样的症状看得更谨慎。
 
-第四，绿色观察只能用于低风险、短暂、正在改善的情况。只要你说不清它是否安全，就不要为了“先观察”而观察。
+绿色观察只能用于低风险、短暂、正在改善的情况。只要你说不清它是否安全，就不要为了“先观察”而观察。
 
 ## 三层动作
 
@@ -72,17 +76,12 @@ evidence_status: needs_periodic_review
 
 如果当事人说不清，可以让旁边的人补充：脸色、说话、走路、呼吸、精神状态和平时有什么不同。
 
-## 可以保存到家庭群的问诊卡
-
-这张卡适合发到家庭群，或放在家庭健康档案首页。它只帮助家人把症状说清楚，不用于在家诊断；红色情况仍然先求助。
-
-![症状问诊卡](/share-cards/zh-CN-symptom-question-card.png)
-
 ## 高频症状可以这样问
 
-这些问法适合子女、伴侣或照护者在电话、视频、当面沟通时使用。它们的目标是**引导描述**，不是让家庭自行诊断。
+这些问法适合子女、伴侣或照护者在电话、视频、当面沟通时使用。它们的目标是**引导描述**，不是让家庭自行诊断。需要时展开看，不需要从头读完。
 
-### 胸痛、胸闷、心悸、气短
+<details>
+<summary>胸痛、胸闷、心悸、气短</summary>
 
 先问：
 
@@ -94,7 +93,10 @@ evidence_status: needs_periodic_review
 
 不要用“刺痛”“点状痛”“休息后好一点”来排除心脏问题。只要胸部不适持续、反复、伴气短出汗恶心头晕，或和平时明显不同，就按红色或黄色处理。
 
-### 头痛、头晕和神经症状
+</details>
+
+<details>
+<summary>头痛、头晕和神经症状</summary>
 
 先问：
 
@@ -106,7 +108,10 @@ evidence_status: needs_periodic_review
 
 疑似卒中时，先记最早出现时间。即使症状缓解，也不要自动当成没事。
 
-### 腹痛、呕吐、腹泻
+</details>
+
+<details>
+<summary>腹痛、呕吐、腹泻</summary>
 
 先问：
 
@@ -118,7 +123,10 @@ evidence_status: needs_periodic_review
 
 腹痛剧烈、持续加重、伴出血或脱水信号时，不要靠止痛药和偏方硬压。
 
-### 发热、感染和状态变差
+</details>
+
+<details>
+<summary>发热、感染和状态变差</summary>
 
 先问：
 
@@ -130,7 +138,10 @@ evidence_status: needs_periodic_review
 
 感染伴意识变化、呼吸急促、皮肤湿冷、极度虚弱或尿量明显减少时，要提高警惕。
 
-### 跌倒、外伤和疼痛
+</details>
+
+<details>
+<summary>跌倒、外伤和疼痛</summary>
 
 先问：
 
@@ -141,6 +152,8 @@ evidence_status: needs_periodic_review
 - 跌倒后和平时比，走路、说话、反应有没有变化？
 
 老人跌倒即使看起来不严重，也更适合谨慎评估；不要只看有没有外伤。
+
+</details>
 
 ## 常见情况怎么分层
 
@@ -225,9 +238,15 @@ evidence_status: needs_periodic_review
 - 有长期指标时，用 [慢病指标记录表](../templates/chronic-marker-log.md) 看趋势；
 - 把本页和 [危险信号速查](red-flags.md) 放在家庭群或档案首页。
 
+## 可以保存到家庭群的问诊卡
+
+这张卡适合发到家庭群，或放在家庭健康档案首页。它只帮助家人把症状说清楚，不用于在家诊断；红色情况仍然先求助。
+
+![症状问诊卡](/share-cards/zh-CN-symptom-question-card.png)
+
 ## 可信资料
 
-截至 2026-06-03，本页主要参考：
+截至 2026-06-04，本页主要参考：
 
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - MedlinePlus: [Chest pain](https://medlineplus.gov/ency/article/003079.htm)

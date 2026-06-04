@@ -7,6 +7,19 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：症状速查工具页降噪
+
+- 状态：reader experience patch
+- 位置：
+  - `content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+  - `.vitepress/theme/custom.css`
+  - `content/zh-CN/updates/roadmap-and-ideas.md`
+- 复查内容：症状速查页已经包含红黄绿分层、问症状 6 件事、高频症状问法、完整分层表和分享卡。本次不新增医学事实，主要把首屏改成“30 秒先分层”，把高频问法改成折叠块，并把症状问诊卡移到后部，减少手机端线性阅读负担。
+- 使用来源：
+  - 沿用本页已登记的 MedlinePlus、AHA、CDC、NHLBI、CDC HEAR HER 等来源。
+- 处理说明：继续保持“问法只用于引导事实，不用于家庭诊断”的边界；折叠块保留关键高风险提醒，例如不能用点状/刺痛排除心脏问题，疑似卒中即使缓解也不要当作没事。
+- 下次建议复查：用手机预览表格和折叠块的实际体验；如完整表格仍过长，可考虑拆出“红黄绿常见情况短表”和“完整表”两个层级。
+
 ## 2026-06-04：老年照护篇结构重构
 
 - 状态：reader experience + medical boundary patch
