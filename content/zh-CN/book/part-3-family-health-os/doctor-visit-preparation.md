@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: doctor-visit-preparation
 en_path: ../../../en/book/part-3-family-health-os/doctor-visit-preparation.md
 translation_status: source
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-04
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -29,7 +29,7 @@ evidence_status: stable
 
 如果你面对的是胸痛、卒中样症状、严重呼吸困难、意识改变、无法控制出血、自伤风险等情况，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [危险信号速查](../../handbook/playbooks/red-flags.md)。急症时，清单服务于带上最小信息，不服务于把资料整理漂亮。
 
-如果已经确定是门诊、复诊或陪诊，这一章才真正派上用场。更短的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
+如果已经确定是门诊、复诊或陪诊，再进入本章更合适。更短的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
 
 ## 准备资料，不是提前查病名
 
@@ -40,6 +40,20 @@ evidence_status: stable
 第三个误解，是陪诊人替患者说完。陪诊可以补充资料，但能表达的人应该先说自己的感受。
 
 第四个误解，是看完医生就结束。真正重要的是离开诊室前确认下一步，回家后把医嘱转成行动。
+
+## 进诊室先讲本次问题
+
+准备再多资料，开头仍然要短。先用 30 秒说清：
+
+```text
+我这次最想解决的是：
+什么时候开始：
+现在最影响的是：
+我带来了哪些资料：
+最想问医生的是：
+```
+
+更完整的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。门诊开场的目标不是把所有细节一次讲完，而是先让医生知道这次就诊的主问题、时间线和最需要帮助判断的地方。
 
 ## 就医资料四包
 
@@ -77,7 +91,7 @@ evidence_status: stable
 - 是否漏服、停用或自行加量；
 - 药物、食物、造影剂或麻醉相关过敏。
 
-不要隐瞒停药、饮酒、吸烟、保健品或真实用药。医生需要事实，不需要表演。
+即使有些信息不太好开口，也尽量如实说：停药、漏服、饮酒、吸烟、保健品或真实用药，都会影响医生判断。
 
 ### 第四包：问题清单
 

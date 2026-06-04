@@ -25,7 +25,7 @@ evidence_status: needs_periodic_review
 
 普通人最重要的不是自己诊断，而是分清急救红线、尽快门诊和记录复查。
 
-如果你已经面对一个具体症状，想直接查下一步动作，可以先看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md)。本章负责解释背后的边界原则。
+如果你已经面对一个具体症状，想直接查下一步动作，可以先看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md)。这一页会先讲清背后的边界原则。
 
 ## 为什么家庭会在关键时刻犹豫
 
