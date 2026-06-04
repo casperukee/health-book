@@ -321,6 +321,76 @@
   border-radius: 8px;
 }
 
+.page-feedback {
+  margin: 44px 0 8px;
+  padding: 16px;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: rgba(20, 184, 166, 0.07);
+}
+
+.page-feedback-copy {
+  display: grid;
+  gap: 4px;
+}
+
+.page-feedback-title {
+  margin: 0;
+  font-weight: 700;
+  color: var(--vp-c-text-1);
+}
+
+.page-feedback-note {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.7;
+  color: var(--vp-c-text-2);
+}
+
+.page-feedback-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.page-feedback-actions button {
+  min-height: 36px;
+  border: 1px solid rgba(15, 118, 110, 0.32);
+  border-radius: 8px;
+  padding: 0 14px;
+  background: var(--vp-c-bg);
+  color: var(--vp-c-brand-1);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.page-feedback-actions button:hover {
+  border-color: var(--vp-c-brand-2);
+  background: rgba(20, 184, 166, 0.12);
+}
+
+.page-feedback-actions button:focus-visible {
+  outline: 2px solid var(--vp-c-brand-2);
+  outline-offset: 2px;
+}
+
+.page-feedback-status {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--vp-c-brand-1);
+}
+
+.dark .page-feedback {
+  background: rgba(20, 184, 166, 0.10);
+}
+
+.dark .page-feedback-actions button {
+  border-color: rgba(94, 234, 212, 0.30);
+  background: rgba(255, 255, 255, 0.04);
+  color: #99f6e4;
+}
+
 @media (max-width: 640px) {
   .vp-doc {
     font-size: 16px;
@@ -333,5 +403,14 @@
 
   .decision-grid {
     grid-template-columns: 1fr;
+  }
+
+  .page-feedback {
+    margin-top: 36px;
+    padding: 14px;
+  }
+
+  .page-feedback-actions button {
+    flex: 1 1 calc(50% - 8px);
   }
 }
