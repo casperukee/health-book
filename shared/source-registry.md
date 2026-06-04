@@ -338,7 +338,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准身体活动对睡眠、大脑、心血管、代谢和长期健康影响的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
 
@@ -454,13 +454,13 @@
 
 ### NCCIH/NIH：Meditation and Mindfulness: Effectiveness and Safety
 
-- URL: https://www.nccih.nih.gov/health/meditation/overview.htm
+- URL: https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety
 - 机构：National Center for Complementary and Integrative Health, NIH
 - 类型：美国官方补充与整合健康资料
 - 用途：校准冥想、正念、呼吸觉察作为辅助练习的定位和安全边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-03
+- 最后复查：2026-06-04
 
 ## 大脑、认知与心理健康
 
@@ -760,9 +760,9 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准眼痛、视力下降、眼部外伤、红眼伴视力变化等需要及时医学判断的边界。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-03
+- 最后复查：2026-06-04
 
 ### NIDDK/NIH：Bladder Control Problems
 

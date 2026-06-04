@@ -179,7 +179,7 @@ evidence_status: needs_periodic_review
 - MedlinePlus: [Neck pain](https://medlineplus.gov/ency/article/003025.htm)
 - FDA: [Sleep Problems](https://www.fda.gov/consumers/womens-health-topics/sleep-problems)
 - NCCIH/NIH: [Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)
-- NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation/overview.htm)
+- NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

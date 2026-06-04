@@ -290,7 +290,7 @@
 - CDC: [STEADI - Older Adult Fall Prevention](https://www.cdc.gov/steadi/index.html)
 - MedlinePlus: [Neck pain](https://medlineplus.gov/ency/article/003025.htm)
 - NCCIH/NIH: [Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)
-- NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation/overview.htm)
+- NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)
 - NCCIH/NIH: [Mind and Body Practices](https://www.nccih.nih.gov/health/mind-and-body-practices)
 - CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 - NIH ODS: [Multivitamin/mineral Supplements](https://ods.od.nih.gov/factsheets/MVMS-Consumer/)

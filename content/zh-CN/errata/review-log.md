@@ -7,6 +7,43 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：第二轮核心章节可读性深打磨
+
+- 状态：reader experience + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+  - `content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+  - `content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+  - `content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+  - `content/zh-CN/handbook/templates/chronic-marker-log.md`
+  - `shared/source-registry.md`
+- 复查内容：把上一轮旗舰入口打磨方法扩展到主书多章。代谢篇改成“不是少吃四样东西，而是看趋势、组合、背景和行动”；心血管篇改成“慢的是风险，快的是求助”；大脑心理篇改成“突然危险、持续变化、长期维护”；癌症篇改成“先判阶段，再问问题”；专科篇补强症状小卡和门诊四问；健康新闻篇改成“先看它想让你做什么”的信息防御动作。
+- 使用来源：
+  - CDC: About High Blood Pressure
+  - CDC: About Cholesterol
+  - CDC: Diabetes Testing
+  - CDC: Gout
+  - AHA: What is Metabolic Syndrome?
+  - CDC: Heart Disease Risk Factors
+  - CDC: About Coronary Artery Disease
+  - NHLBI/NIH: Atherosclerosis
+  - NHLBI/NIH: Heart Attack Causes and Risk Factors
+  - CDC: Reducing Risk for Dementia
+  - CDC: Signs and Symptoms of Dementia
+  - CDC: Health Benefits of Physical Activity for Adults
+  - NIMH: My Mental Health: Do I Need Help?
+  - NCCIH: Meditation and Mindfulness
+  - NCI: Cancer Screening Overview
+  - NCI: Questions and Answers about Multi-Cancer Detection Tests
+  - MedlinePlus: Choosing a Doctor or Health Care Service
+  - MedlinePlus: Eye Emergencies
+  - MedlinePlus: Evaluating Health Information
+  - NCCIH: How To Make Sense of a Scientific Journal Article
+- 处理说明：本次重点是重写结构和手机扫读体验，不新增具体诊断、用药、筛查年龄、治疗方案或运动处方。参考私有库中的代谢、心血管、大脑、癌症、专科和信息判断相关三级卡，只吸收问题结构、风险线和家庭行动模型，不搬运课程表达、讲次结构、OCR、PDF、图片或本地路径。所有高风险判断继续指向症状速查、危险信号、医生评估或急诊边界。
+- 下次建议复查：请优先用手机试读上述 6 篇主书章节的前 3 屏，判断是否比旧版更能读下去；若仍显啰嗦，优先删掉解释性段落，而不是继续加内容。
+
 ## 2026-06-04：家庭健康卡模板新增
 
 - 状态：reader feedback patch
