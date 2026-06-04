@@ -7,4 +7,4 @@
 - [家庭健康到底要管理什么](what-to-manage.md)
 - [就医前如何准备信息](doctor-visit-preparation.md)
 - [父母沟通：把关心变成一家人的安心准备](talking-with-parents.md)
-- [老年健康和照护](elder-care-basics.md)
+- [老年健康和照护：守住行动、认知、用药和生活能力](elder-care-basics.md)

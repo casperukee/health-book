@@ -142,7 +142,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方健康老龄化资料
 - 用途：校准健康老龄化从较早人生阶段开始、生活方式和健康维护相关表述。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -906,7 +906,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方成人疫苗资料
 - 用途：校准家庭健康系统中“疫苗和随访安排”只能作为资料入口和提醒，不写个体化接种建议。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 

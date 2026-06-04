@@ -7,6 +7,26 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：老年照护篇结构重构
+
+- 状态：reader experience + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+  - `content/zh-CN/updates/roadmap-and-ideas.md`
+  - `shared/source-registry.md`
+- 复查内容：把老年照护篇从“跌倒、认知、用药、生活能力”的主题列表，改成“守住行动、认知、用药和生活能力”的家庭观察路径。前置三类变化：突然变先求助，慢慢变安排评估，还没出事先准备；补强跌倒后五问、每月 15 分钟观察和 30 分钟家庭准备。
+- 使用来源：
+  - CDC: Healthy Aging at Any Age
+  - CDC: About Older Adult Fall Prevention
+  - CDC: STEADI - Older Adult Fall Prevention
+  - NIA/NIH: Cognitive Health and Older Adults
+  - MedlinePlus: Taking Multiple Medicines Safely
+  - CDC: Recommended Vaccines for Adults
+  - MedlinePlus: Older Adult Health
+  - MedlinePlus: Fall Risk Assessment
+- 处理说明：本次参考私有库“长寿与父母健康”和家庭健康模板包中的结构化整理，吸收活动能力、目标感/社会连接、生病流程、慢病协作和资料包模型；不搬运课程表达、讲次结构、OCR、图片、PDF 或本地路径。正文继续保持不诊断、不调整用药、不做跌倒或认知评估结论，只帮助家庭识别变化、准备资料和及时求助。
+- 下次建议复查：用真实照护父母的读者测试本章前 3 屏是否能让人继续读；如果仍偏长，可考虑把“跌倒后五问”做成独立分享卡或手册短页。
+
 ## 2026-06-03：症状速查问诊话术与高发急症入口补强
 
 - 状态：reader feedback patch
