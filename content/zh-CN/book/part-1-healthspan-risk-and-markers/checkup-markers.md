@@ -23,11 +23,11 @@ evidence_status: needs_periodic_review
 
 | 风险线 | 常见指标 | 先看哪一页 |
 |---|---|---|
-| 心血管和代谢 | 血压、血脂、血糖、A1C、尿酸、体重、腰围 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
-| 肾脏 | 肌酐、eGFR、尿蛋白、尿白蛋白、尿潜血 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
-| 肝胆和药物安全 | ALT、AST、胆红素、白蛋白、脂肪肝提示 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
-| 血液和感染线索 | 白细胞、血红蛋白、血小板等 | [常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md) |
-| 癌症筛查和影像 | 乳腺、宫颈、结直肠、肺癌高风险筛查、结节、肿瘤标志物 | [体检前：到底该查什么](../../handbook/playbooks/checkup-planning-guide.md) |
+| 心血管和代谢 | 血压、血脂、血糖、A1C、尿酸、体重、腰围 | [血压](../../handbook/playbooks/common-checkup-markers.md#blood-pressure)、[血脂](../../handbook/playbooks/common-checkup-markers.md#blood-lipids)、[血糖/A1C](../../handbook/playbooks/common-checkup-markers.md#blood-glucose-a1c)、[尿酸](../../handbook/playbooks/common-checkup-markers.md#uric-acid) |
+| 肾脏 | 肌酐、eGFR、尿蛋白、尿白蛋白、尿潜血 | [肾功能和尿检](../../handbook/playbooks/common-checkup-markers.md#kidney-urine) |
+| 肝胆和药物安全 | ALT、AST、胆红素、白蛋白、脂肪肝提示 | [肝功能](../../handbook/playbooks/common-checkup-markers.md#liver-function) |
+| 血液和感染线索 | 白细胞、血红蛋白、血小板等 | [血常规](../../handbook/playbooks/common-checkup-markers.md#blood-count) |
+| 癌症筛查和影像 | 乳腺、宫颈、结直肠、肺癌高风险筛查、结节、肿瘤标志物 | [肿瘤标志物和影像结节](../../handbook/playbooks/common-checkup-markers.md#tumor-imaging)，筛查项目看 [体检前：到底该查什么](../../handbook/playbooks/checkup-planning-guide.md) |
 
 真正值得警惕的，经常不是“一个箭头”，而是“几个风险线同时指向同一个方向”。
 

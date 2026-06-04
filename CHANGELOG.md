@@ -66,3 +66,4 @@
 - 完成第二轮核心章节深打磨：重构 `metabolic-health.md`、`cardiovascular-event-chain.md`、`brain-and-mental-health.md`、`cancer-and-major-illness.md`、`specialty-care-map.md`、`reading-health-news.md` 和 `chronic-marker-log.md`，强化红黄绿分层、阶段判断、症状小卡、慢病复诊记录、低门槛运动/觉察和健康信息慢动作。
 - 根据体检内容反馈，深化体检前后工具链：新增 `checkup-planning-guide.md` 和 `common-checkup-markers.md`，重写 `checkup-markers.md` 为报告阅读入口，并补强 `chronic-marker-log.md` 的趋势、组合和复诊摘要用法；同步接入导读、首页、手册入口、侧边栏和权威来源登记。
 - 继续根据体检试读反馈优化：把 `checkup-markers.md` 的“先看组合，后看箭头”提前到首屏附近，并将 `common-checkup-markers.md` 从短表格扩展为科普型报告说明书，补强血脂、血压、血糖/A1C、尿酸、肾功能/尿检、肝功能、血常规、甲状腺、肿瘤标志物和影像结节的细项含义、高低值影响和下一步问法。
+- 继续优化 `common-checkup-markers.md`：增加页内目录和折叠分项，主书体检页可直接跳到血压、血脂、血糖/A1C、尿酸、肾功能、肝功能、血常规和肿瘤/影像等指定位置；新增“数字范围怎么写才合适”和“怎么组合看”，只保留少量权威资料支持的参考分层，不写个体化治疗目标。

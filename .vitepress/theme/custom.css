@@ -96,6 +96,16 @@
   margin-bottom: 10px;
 }
 
+.vp-doc details.marker-section {
+  border-left-color: #0f766e;
+  background: rgba(20, 184, 166, 0.05);
+}
+
+.vp-doc details.marker-section summary {
+  font-size: 18px;
+  line-height: 1.45;
+}
+
 .triage-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

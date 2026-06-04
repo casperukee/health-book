@@ -198,6 +198,16 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
+### American Heart Association：Understanding Blood Pressure Readings
+
+- URL: https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings
+- 机构：American Heart Association
+- 类型：专业协会患者教育资料
+- 用途：校准血压分层数字、收缩压/舒张压解释和严重升高时的公众行动边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
 ### USPSTF：Hypertension in Adults: Screening
 
 - URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening
@@ -224,6 +234,16 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方医学检测资料
 - 用途：校准血脂检测包含总胆固醇、LDL、HDL 和甘油三酯，以及化验结果解释边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Cholesterol Levels: What You Need to Know
+
+- URL: https://medlineplus.gov/cholesterollevelswhatyouneedtoknow.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料
+- 用途：校准总胆固醇、LDL、HDL、甘油三酯和血脂数字参考入口的公众解释。
 - 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
@@ -365,6 +385,16 @@
 - 类型：美国官方疾病检测资料
 - 用途：校准 eGFR、尿白蛋白和慢性肾病检测/监测边界。
 - 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### NIDDK：Quick Reference on UACR & GFR
+
+- URL: https://www.niddk.nih.gov/health-information/professionals/advanced-search/quick-reference-uacr-gfr
+- 机构：National Institute of Diabetes and Digestive and Kidney Diseases, NIH
+- 类型：美国官方专业速查资料
+- 用途：校准 eGFR、UACR 和尿白蛋白/肌酐比的数字参考入口。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
