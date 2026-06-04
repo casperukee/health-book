@@ -17,7 +17,7 @@ evidence_status: stable
 
 这页适用于准备购买：
 
-- 保健品、草药、营养补剂；
+- 保健食品、草药、营养补剂；
 - 健康设备、睡眠仪、家用检测、可穿戴设备；
 - 基因检测、微生态检测、抗衰检测；
 - 抗衰产品、美容仪、疗程、养生服务；
@@ -41,7 +41,7 @@ evidence_status: stable
     <div class="decision-label">红色：先阻断</div>
     <h3>不要马上付款</h3>
     <p>要求停药、拒绝复查、替代治疗、承诺治愈重大疾病，或出现贷款、返利、拉人、保密、高价入会。</p>
-    <p><strong>动作：</strong>停下交易，保留产品信息和付款记录，联系医生、药师、家人或消费者保护渠道。</p>
+    <p><strong>动作：</strong>停下交易，保留产品信息和付款记录，联系医生、药师、家人、市场监管或 12315。</p>
   </section>
   <section class="decision-card decision-card-yellow">
     <div class="decision-label">黄色：先问专业人士</div>
@@ -115,7 +115,8 @@ evidence_status: stable
 
 ### 1. 它到底是什么？
 
-- 食品/保健品；
+- 普通食品/保健食品；
+- 有“小蓝帽”的保健食品；
 - 药品；
 - 医疗器械；
 - 家用监测设备；
@@ -123,7 +124,7 @@ evidence_status: stable
 - 美容/抗衰/养生服务；
 - 课程、社群或会员。
 
-如果商家自己说不清类别，先暂停。
+如果商家自己说不清类别，或者把普通食品说成能治病，先暂停。保健食品的“小蓝帽”、注册号或备案号只能说明类别和合规线索，不等于能治疗疾病。
 
 ### 2. 它是在补充，还是在治疗？
 
@@ -152,6 +153,7 @@ evidence_status: stable
 - 纯度和批次清楚；
 - 产品形态和研究一致；
 - 标签、禁忌、风险提示清楚；
+- 在中国销售时，药品、医疗器械、保健食品等类别和注册/备案信息说得清楚；
 - 没有混合很多难以判断的成分。
 
 从实验室到购物车，中间可能断裂。
@@ -255,6 +257,10 @@ evidence_status: stable
 
 截至 2026-06-04，本页主要参考：
 
+- 市场监管总局: [保健食品标注警示用语指南](https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html)
+- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
+- 全国 12315 平台: [投诉举报入口](https://www.12315.cn/)
+- 国家药监局政务服务平台: [境内医疗器械注册查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/apigcylqxcpzccx/index.html)
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
 - FDA: [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)

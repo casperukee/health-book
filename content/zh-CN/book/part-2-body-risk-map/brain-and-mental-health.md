@@ -123,7 +123,7 @@ evidence_status: needs_periodic_review
 - 老人认知、性格、判断或日常能力明显变化；
 - 新药、多药、饮酒、感染、脱水、低血糖或跌倒后出现意识、记忆、情绪或行动变化。
 
-在美国，心理危机可拨打或短信联系 988；其他地区请使用所在地危机热线或急救服务。
+在中国大陆，如果当下有自伤、伤人、冲动失控或无法保证安全，先联系 120、110、急诊或精神专科急诊；12356 心理援助热线可以作为支持入口。美国可联系 988；其他地区请使用所在地危机热线或急救服务。
 
 ## 这个星期做一张“大脑观察卡”
 
@@ -149,6 +149,7 @@ evidence_status: needs_periodic_review
 - NIMH: [Depression](https://www.nimh.nih.gov/health/publications/depression)
 - NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
+- 国家卫生健康委: [关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
 - NCCIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 

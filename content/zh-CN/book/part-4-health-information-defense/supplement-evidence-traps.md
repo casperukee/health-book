@@ -27,6 +27,8 @@ evidence_status: needs_periodic_review
 
 保健品最危险的地方，不是“没那么有用”，而是悄悄跨过边界。
 
+在中国语境里，先记住一句最硬的边界：**保健食品不是药物，不能代替药物治疗疾病。** 包装上有“小蓝帽”、注册号或备案号，只说明它属于特定监管类别，不等于能治疗高血压、糖尿病、肿瘤、失眠、肝肾问题或其他疾病。
+
 | 宣称类型 | 风险判断 |
 |---|---|
 | 补充某种营养素 | 先看是否真的缺乏、剂量是否安全 |
@@ -90,7 +92,7 @@ evidence_status: needs_periodic_review
 :::
 
 ::: danger 高风险干预层
-产品承诺治疗疾病、要求停药、推迟检查、替代正规治疗、高价充值、入会返利、拉人头，或者销售方阻止家人咨询医生。这时要主动干预，并引入医生、社区、反诈或消费者保护资源。
+产品承诺治疗疾病、要求停药、推迟检查、替代正规治疗、高价充值、入会返利、拉人头，或者销售方阻止家人咨询医生。这时要主动干预，并引入医生、药师、社区工作人员、反诈渠道、市场监管或 12315。
 :::
 
 ## 和家人沟通时，不要只拆希望
@@ -133,6 +135,9 @@ evidence_status: needs_periodic_review
 
 截至 2026-06-02，本章主要参考：
 
+- 市场监管总局: [保健食品标注警示用语指南](https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html)
+- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
+- 全国 12315 平台: [投诉举报入口](https://www.12315.cn/)
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
 - FDA: [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)
 - NIH Office of Dietary Supplements: [Dietary Supplements: What You Need to Know](https://ods.od.nih.gov/factsheets/WYNTK/)

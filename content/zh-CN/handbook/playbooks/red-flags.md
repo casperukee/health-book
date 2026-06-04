@@ -29,7 +29,7 @@ evidence_status: needs_periodic_review
 
 可以把下面这段放进家庭群或健康档案首页：
 
-> 胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险、孕产期危险信号，不在群里投票，不等明天。即使一阵缓解，也先联系急救、急诊或医生热线确认。
+> 胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险、孕产期危险信号，不在群里投票，不等明天。即使一阵缓解，也先联系急救、急诊或医院分诊入口确认。
 
 紧急时只做三件事：
 
@@ -39,7 +39,7 @@ evidence_status: needs_periodic_review
 
 ## 求助时，30 秒说清
 
-拨急救电话、联系急诊分诊或医生热线时，不需要先讲完整病史。先说最能帮助对方判断急缓的事实：
+拨急救电话、联系急诊分诊或医院导诊入口时，不需要先讲完整病史。先说最能帮助对方判断急缓的事实：
 
 ```text
 地点：
@@ -50,7 +50,7 @@ evidence_status: needs_periodic_review
 重要背景：心脏病、卒中、糖尿病、肾病、癌症治疗、抗凝药、过敏
 ```
 
-接线员、急诊分诊或医生热线给出具体指引时，按当地流程做。不要为了把资料补齐而挂断电话、等待家人回复或继续搜索。
+接线员、急诊分诊或医院入口给出具体指引时，按当地流程做。不要为了把资料补齐而挂断电话、等待家人回复或继续搜索。
 
 ## 高发急症，先抓入口信号
 
@@ -109,7 +109,7 @@ evidence_status: needs_periodic_review
 - 告别、交代后事、寻找工具等危险行为；
 - 严重精神症状导致无法保证自己或他人安全。
 
-在美国可拨打或短信联系 988；其他地区请联系所在地危机热线、急救服务或急诊。
+在中国大陆，如果当下有自伤、伤人、冲动失控或无法保证安全，先联系 120、110、急诊或精神专科急诊；也可拨打 12356 心理援助热线寻求支持。美国可联系 988；其他地区请联系所在地危机热线、急救服务或急诊。
 
 ### 孕期和产后危险信号
 
@@ -137,7 +137,7 @@ evidence_status: needs_periodic_review
 
 如果没有时间整理，先求助。资料服务于救治，不服务于拖延。
 
-如果急救电话、医生热线或急诊分诊给出具体指引，以现场专业人员的判断和当地流程为准。
+如果急救电话、急诊分诊或医院入口给出具体指引，以现场专业人员的判断和当地流程为准。
 
 如果不是红色急症，但你还在犹豫下一步，可以回到 [症状与对应动作速查](symptom-action-guide.md)，按红色、黄色、绿色三层动作分流。
 
@@ -160,6 +160,7 @@ evidence_status: needs_periodic_review
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
+- 国家卫生健康委: [关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
 ## 最后提醒

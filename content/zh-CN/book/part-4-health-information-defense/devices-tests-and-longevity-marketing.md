@@ -37,7 +37,7 @@ evidence_status: needs_periodic_review
 
 第一个误解，是把“有数字”当成“有医学价值”。很多数字只是估算、趋势或行为提醒，不等于诊断。
 
-第二个误解，是把“FDA 注册”“备案”“实验室检测”当成疗效背书。监管状态有不同含义，不能自动等同于适合你使用。
+第二个误解，是把“国家药监局注册/备案”“FDA 注册”“实验室检测”当成疗效背书。监管状态有不同含义，只能说明它处在某类合规或监管路径里，不能自动等同于效果好、适合你，或可以替代医生。
 
 第三个误解，是把检测当成安心。检测可能带来假阳性、假阴性、过度诊断、焦虑和后续检查风险。
 
@@ -56,6 +56,8 @@ evidence_status: needs_periodic_review
 - 抗衰或美容消费：补剂、疗程、仪器、检测包、会员服务。
 
 类别不同，证据要求和风险边界也不同。
+
+在中国，药品、医疗器械、保健食品、普通食品、美容仪器和养生服务不是一回事。能在国家药监局或市场监管相关系统查到注册/备案，是第一层合规线索；但“能查到”不等于“能治疗”，更不等于“适合这个人现在用”。
 
 ### 第二问：它准不准？
 
@@ -118,7 +120,7 @@ evidence_status: needs_periodic_review
 ## 付款前的冷静清单
 
 - 写下产品最终要你买什么：硬件、检测、课程、会员、疗程还是补剂；
-- 查它的监管状态，但不要把“注册”当成“有效”；
+- 查它在中国属于药品、医疗器械、保健食品、普通食品还是普通服务，但不要把“注册/备案”当成“有效”；
 - 问清测量对象、准确性、适用人群和结果解释方式；
 - 先问“测完我会做什么”，再决定要不要测；
 - 超过家庭约定金额的健康消费，设 24 小时冷静期；
@@ -130,6 +132,9 @@ evidence_status: needs_periodic_review
 
 截至 2026-06-01，本章主要参考：
 
+- 国家药监局政务服务平台: [境内医疗器械注册查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/apigcylqxcpzccx/index.html)
+- 国家药监局: [医疗器械唯一标识数据库](https://udi.nmpa.gov.cn/)
+- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
 - FDA: [Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)
 - FDA: [Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)
 - FDA: [Are There "FDA Registered" or "FDA Certified" Medical Devices?](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)

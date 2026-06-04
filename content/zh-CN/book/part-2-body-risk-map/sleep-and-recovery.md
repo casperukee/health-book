@@ -157,7 +157,7 @@ evidence_status: needs_periodic_review
 - 睡眠问题出现在重大疾病、孕产期或新用药之后；
 - 颈肩、腰背或其他疼痛持续影响睡眠，或伴随麻木、无力、外伤后疼痛、发热头痛并颈部僵硬、吞咽或呼吸困难、夜间痛醒、走路和平衡异常。
 
-出现自伤自杀风险时，请优先联系当地危机热线、急救服务或急诊。
+出现自伤自杀风险时，请不要独处；中国大陆优先联系 120、110、急诊或精神专科急诊，也可同时拨打 12356 心理援助热线。其他地区请联系所在地危机热线、急救服务或急诊。
 
 如果你已经准备买助眠设备、检测或补剂，先用 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md) 判断它是否会替代真正该做的事。
 
@@ -177,6 +177,7 @@ evidence_status: needs_periodic_review
 - NIH Research Matters: [Lack of sleep in middle age may increase dementia risk](https://www.nih.gov/news-events/nih-research-matters/lack-sleep-middle-age-may-increase-dementia-risk)
 - MedlinePlus: [Insomnia](https://medlineplus.gov/insomnia.html)
 - MedlinePlus: [Neck pain](https://medlineplus.gov/ency/article/003025.htm)
+- 国家卫生健康委: [关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
 - FDA: [Sleep Problems](https://www.fda.gov/consumers/womens-health-topics/sleep-problems)
 - NCCIH/NIH: [Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)
 - NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)

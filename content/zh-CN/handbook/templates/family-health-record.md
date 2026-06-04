@@ -33,7 +33,7 @@ evidence_status: stable
 姓名：
 出生日期：
 紧急联系人：
-常去医院/医生：
+常去医院/科室/医生：
 
 重要病史：
 过敏史：
@@ -64,7 +64,7 @@ evidence_status: stable
 - **最近专科记录：** 最近一次眼科、心内科、神经内科、骨科等专科就诊时间、医生说法、检查项目和下一步。
 - **报销资料位置：** 医保卡、商业保险保单、发票、费用清单、出院小结和常用官方查询入口放在哪里。
 
-这些不是为了替医生判断，而是为了让陪诊、急诊、复诊和报销时少漏信息。
+这些不是为了替医生判断，而是为了让陪诊、急诊、复诊和报销时少漏信息。在中国家庭里，还可以把医保电子凭证、门诊病历、电子处方、检查报告、影像云链接或光盘、出院小结、病理报告、费用明细、异地就医备案、门特/门慢和商保理赔材料放在同一个资料夹里。
 
 ## 最小模板
 
@@ -78,7 +78,7 @@ evidence_status: stable
 - 血型（如明确知道）：
 - 常用语言：
 - 紧急联系人：
-- 常去医院/家庭医生：
+- 常去医院/科室/医生：
 - 医保/保险信息位置：
 
 ### 2. 重要病史
@@ -172,6 +172,7 @@ evidence_status: stable
 截至 2026-06-04，本页主要参考：
 
 - MedlinePlus: [Personal Health Records](https://medlineplus.gov/personalhealthrecords.html)
+- 中国政府网: [《居民电子健康档案首页基本内容（试行）》政策解读](https://www.gov.cn/zhengce/202406/content_6958728.htm)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)

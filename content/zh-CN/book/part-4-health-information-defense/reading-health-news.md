@@ -85,7 +85,7 @@ MedlinePlus 对健康信息评估的建议很朴素：先问问题，再在依�
 可以换成更温和的替代动作：
 
 - “这个先别买，我们把它放进下次复诊问题里。”
-- “我查一下有没有 CDC、NIH、NCI、MedlinePlus 这类资料。”
+- “我先查国家卫健委、中国疾控、国家药监局、市场监管总局、中华医学会/专科协会或正规医院资料；再看 CDC、NIH、NCI、MedlinePlus 这类国际资料。”
 - “它如果让我们停药或推迟复查，就一定要先问医生。”
 - “我们先看它有没有原始来源、日期和医生能接上的后续动作。”
 
@@ -117,6 +117,9 @@ MedlinePlus 对健康信息评估的建议很朴素：先问问题，再在依�
 
 截至 2026-06-04，本章主要参考：
 
+- 国家卫生健康委: [健康中国行动](https://www.nhc.gov.cn/)
+- 国家药监局政务服务平台: [药品、医疗器械和化妆品相关查询入口](https://zwfw.nmpa.gov.cn/)
+- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
 - MedlinePlus: [Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)
 - NCCIH: [Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)
 - NCCIH: [How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)

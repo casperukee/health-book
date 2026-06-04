@@ -2,6 +2,12 @@
 
 本页待逐步维护。写作时优先选择官方机构、专业协会和临床指南入口。
 
+中文版写作时，先查中国读者实际能用的资料入口，再用国际资料补充校准：
+
+- 中国来源优先看：国家卫生健康委、国家疾控局/中国疾控、国家药监局、市场监管总局、中华医学会和相关专科协会、国家癌症中心、正规三甲医院患者教育资料；
+- 国际来源可继续使用：WHO、CDC、NIH、NCI、MedlinePlus、USPSTF、FDA、FTC 等；
+- 如果中国指南和美国指南口径不同，中文版正文必须先说明中国口径，不能把美国阈值、热线、监管术语或保险路径直接移植。
+
 初始类别：
 
 - 急症与危险信号；
@@ -19,6 +25,8 @@
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - NHLBI/NIH: [Heart Attack Symptoms](https://www.nhlbi.nih.gov/health/heart-attack/symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
+- 国家卫生健康委: [关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
+- 国家卫生健康委: [心理援助热线技术指南（试行）](https://www.nhc.gov.cn/jkj/c100063/202101/74ada48ed1cd4e7f93c39db57cff0b4b.shtml)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
@@ -37,6 +45,9 @@
 ## 体检指标与实验室检测
 
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+- 中国高血压防治指南修订委员会: [中国高血压防治指南（2024 年修订版）](https://cjournal.hep.com.cn/1673-7245/CN/1160171857581368285)
+- 中国血脂管理指南修订联合专家委员会: [中国血脂管理指南（2023 年）](https://rs.yiigle.com/CN2021/1449955.htm)
+- 中华医学会糖尿病学分会: [中国 2 型糖尿病防治指南（2020 年版）](https://studite.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD2%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E9%98%B2%E6%B2%BB%E6%8C%87%E5%8D%97%EF%BC%882020%E5%B9%B4%E7%89%88%EF%BC%89%20-%20%E4%B8%AD%E5%8D%8E%E7%B3%96%E5%B0%BF%E7%97%85%E6%9D%82%E5%BF%97.html)
 - MedlinePlus: [Medical Tests](https://medlineplus.gov/lab-tests)
 - MedlinePlus: [Complete Blood Count](https://medlineplus.gov/lab-tests/complete-blood-count-cbc/)
 - MedlinePlus: [Urinalysis](https://medlineplus.gov/urinalysis.html)
@@ -136,6 +147,7 @@
 ## 癌症筛查和重大疾病
 
 - NCI: [Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)
+- 国家卫生健康委员会: [结直肠癌筛查与早诊早治方案（2024 年版）](https://www.jdocn.com/uploads/20241224/7733c5c69f83514903966b236653e4e0.pdf)
 - NCI: [What Cancer Screening Tests Check for Cancer?](https://www.cancer.gov/about-cancer/screening/screening-tests)
 - CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
 - NCI: [Types of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types)
@@ -150,6 +162,7 @@
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+- 中国政府网: [《居民电子健康档案首页基本内容（试行）》政策解读](https://www.gov.cn/zhengce/202406/content_6958728.htm)
 
 使用说明：这些资料用于校准家庭测量、化验结果理解和健康记录管理。模板页不应提供个人目标值，也不应允许读者根据记录自行调整治疗。
 
@@ -169,6 +182,9 @@
 ## 健康设备、检测和抗衰消费
 
 - FDA: [Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)
+- 国家药监局政务服务平台: [境内医疗器械注册查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/apigcylqxcpzccx/index.html)
+- 国家药监局: [医疗器械唯一标识数据库](https://udi.nmpa.gov.cn/)
+- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
 - FDA: [Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)
 - FDA: [Are There "FDA Registered" or "FDA Certified" Medical Devices?](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)
 - FDA: [Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)
@@ -181,6 +197,9 @@
 ## 健康信息与新研究阅读
 
 - MedlinePlus: [Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)
+- 国家卫生健康委: [官方网站](https://www.nhc.gov.cn/)
+- 国家药监局政务服务平台: [药品、医疗器械和化妆品相关查询入口](https://zwfw.nmpa.gov.cn/)
+- 市场监管总局: [官方网站](https://www.samr.gov.cn/)
 - NCCIH: [Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)
 - NCCIH: [How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)
 - NIH: [Health Information](https://www.nih.gov/health-information)
@@ -192,6 +211,9 @@
 ## 保健品与健康消费
 
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
+- 市场监管总局: [保健食品标注警示用语指南](https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html)
+- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
+- 全国 12315 平台: [投诉举报入口](https://www.12315.cn/)
 - FDA: [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)
 - NIH Office of Dietary Supplements: [Dietary Supplements: What You Need to Know](https://ods.od.nih.gov/factsheets/WYNTK/)
 - NIH Office of Dietary Supplements: [Dietary Supplement Fact Sheets](https://ods.od.nih.gov/factsheets/)
@@ -207,6 +229,7 @@
 - MedlinePlus: [Personal Health Records](https://medlineplus.gov/personalhealthrecords.html)
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+- 中国政府网: [《居民电子健康档案首页基本内容（试行）》政策解读](https://www.gov.cn/zhengce/202406/content_6958728.htm)
 - HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
 
 使用说明：这些资料用于校准就医前准备、医生沟通、问题清单和健康记录使用。模板页不应替代正式病历、授权文件或医生建议。

@@ -47,7 +47,7 @@ evidence_status: needs_periodic_review
 
 这一层的关键词是：可能危及生命、可能造成不可逆损害、正在快速加重，或者你无法保证等待是安全的。出现这类情况时，不要把本书、搜索、短视频或亲友经验当作处理方案。应联系当地急救服务或尽快进入急诊系统。
 
-在中国大陆，常见急救入口是 120；在美国，常见急救入口是 911，心理健康危机可拨打或短信联系 988，或使用 988 在线聊天。其他地区请使用所在地急救电话、医生热线、危机热线或急诊入口。
+在中国大陆，常见急救入口是 120；如果当下有自伤、伤人、冲动失控或无法保证安全，也可以同时联系 110、急诊或精神专科急诊。心理援助热线可以作为支持入口，但不能替代急救和现场安全处置。美国常见急救入口是 911，心理健康危机可联系 988。其他地区请使用所在地急救电话、危机热线或急诊入口。
 
 需要特别警惕的急救红线包括：
 
@@ -79,7 +79,7 @@ evidence_status: needs_periodic_review
 - 老年人跌倒、食欲和体重明显改变、认知和生活能力明显下降；
 - 慢病指标反复异常，或者家庭不知道该如何复查和长期记录。
 
-这一层的正确动作不是“查到答案”，而是“准备信息，安排医生判断”。你可以记录症状时间线、既往病史、用药、过敏、检查结果和最想问的问题，再联系医生、门诊、医生热线或常用医院分诊入口。
+这一层的正确动作不是“查到答案”，而是“准备信息，安排医生判断”。你可以记录症状时间线、既往病史、用药、过敏、检查结果和最想问的问题，再联系医生、门诊、互联网医院、社区卫生服务中心、医院导诊或常用医院分诊入口。
 
 ### 绿色：记录复查
 
@@ -128,13 +128,13 @@ evidence_status: needs_periodic_review
 
 只要出现胸痛胸闷、卒中样症状、严重呼吸困难、晕厥或意识改变、无法控制出血、突然剧烈疼痛、严重创伤、中毒、严重过敏、自伤自杀风险、孕产期危险信号，或感染后状态迅速变差，就不要用“再观察看看”替代专业帮助。
 
-如果你不确定是否达到急救程度，也应优先联系当地急救电话、医生热线或急诊系统获得分诊建议。
+如果你不确定是否达到急救程度，也应优先联系当地急救电话、急诊系统、医院导诊或分诊入口获得建议。
 
 ## 今天就能准备好的三件事
 
 今天可以做三件小事：
 
-- 把所在地急救电话、附近急诊入口、家庭医生或常用医院联系方式、心理危机热线写进家庭紧急信息页；
+- 把所在地急救电话、附近急诊入口、常用医院、社区卫生服务中心、心理危机热线或心理援助热线写进家庭紧急信息页；
 - 给每个家庭成员整理一份最小医疗信息：基础病、过敏、长期用药、重大病史、紧急联系人；
 - 在家庭群里约定一句话：红色触发器不争论，先求助。
 
@@ -148,6 +148,7 @@ evidence_status: needs_periodic_review
 - NHLBI/NIH: [Heart Attack Symptoms](https://www.nhlbi.nih.gov/health/heart-attack/symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
+- 国家卫生健康委：[关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)

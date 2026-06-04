@@ -7,6 +7,35 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：中国国情口径校准
+
+- 状态：reader feedback + medical boundary patch
+- 位置：
+  - `content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+  - `content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+  - `content/zh-CN/book/medical-boundaries.md`
+  - `content/zh-CN/handbook/playbooks/red-flags.md`
+  - `content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+  - `content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+  - `content/zh-CN/handbook/templates/health-product-checklist.md`
+  - `content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据读者反馈，体检套餐页的年龄段表格和“认真讨论”“PSA”等说法在手机上难读，也不够接近中国医院/体检中心菜单语言；同时全书复查发现部分页面仍偏美国口径，包括 AHA 血压分层、mg/dL 单位、988 心理危机入口、FDA/FTC 监管入口和 HealthIT.gov 健康记录来源。
+- 使用来源：
+  - 中国高血压防治指南（2024 年修订版）
+  - 中国血脂管理指南（2023 年）
+  - 中国 2 型糖尿病防治指南（2020 年版）
+  - 国家卫生健康委：关于应用“12356”全国统一心理援助热线电话号码的通知
+  - 国家卫生健康委：心理援助热线技术指南（试行）
+  - 市场监管总局：保健食品标注警示用语指南
+  - 市场监管总局、中消协：普通食品别信“保健”“治病”宣传
+  - 全国 12315 平台
+  - 国家药监局政务服务平台：境内医疗器械注册查询
+  - 中国政府网：《居民电子健康档案首页基本内容（试行）》政策解读
+- 处理说明：体检套餐页改成分年龄段折叠块和项目名解释；常见指标速查改用中国报告常见单位和诊室/家庭血压口径；心理危机改为中国大陆 120/110/急诊/精神专科急诊优先，12356 作为心理援助入口；保健食品和医疗器械相关页面加入“保健食品不是药物”“注册/备案不等于疗效保证”“12315/市场监管/药监查询”等中国语境边界。
+- 下次建议复查：请用真实中国体检套餐、国内保健品页面、医疗器械宣传页和心理危机场景各跑一遍，重点看读者是否知道“下一步找谁、查哪里、不能做什么”。
+
 ## 2026-06-04：体检前选套餐场景补强
 
 - 状态：reader feedback + medical boundary patch
@@ -24,7 +53,7 @@
   - USPSTF: Prostate Cancer: Screening
   - NCI: Tumor Markers
   - 国家卫生健康委员会：结直肠癌筛查与早诊早治方案（2024 年版）
-- 处理说明：本次提供“年龄段重点、套餐名翻译”和“常见易混项目边界”，但不生成个人体检处方。特别把肺癌筛查写成“低剂量胸部 CT/低剂量螺旋 CT”，不写成“肺部增强 CT”；把颈动脉体检加项写成“颈动脉彩超”，不把颈动脉 CTA/MRA/造影写成基础体检；PSA 写成共同决策项目，不作为普通男性自动必查。
+- 处理说明：本次提供“年龄段重点、套餐名翻译”和“常见易混项目边界”，但不生成个人体检处方。特别把肺癌筛查写成“低剂量胸部 CT/低剂量螺旋 CT”，不写成“肺部增强 CT”；把颈动脉体检加项写成“颈动脉彩超”，不把颈动脉 CTA/MRA/造影写成基础体检；PSA 写成有泌尿症状、家族史、年龄增长或套餐提示时可问医生的项目，不作为普通男性自动必查。
 - 下次建议复查：请让提出反馈的读者直接用这页对照一个真实体检套餐，看是否能判断“我这个年龄段先抓什么、基础够不够、哪些按风险加、哪些不该盲加”。
 
 ## 2026-06-04：代谢与心血管两章二次深化

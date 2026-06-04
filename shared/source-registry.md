@@ -204,7 +204,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准血压分层数字、收缩压/舒张压解释和严重升高时的公众行动边界。
-- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -234,7 +234,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方医学检测资料
 - 用途：校准血脂检测包含总胆固醇、LDL、HDL 和甘油三酯，以及化验结果解释边界。
-- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -244,7 +244,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准总胆固醇、LDL、HDL、甘油三酯和血脂数字参考入口的公众解释。
-- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -505,7 +505,7 @@
 - URL: https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
-- 用途：校准 PSA 筛查需要共同决策、不是普通男性自动必查项的边界。
+- 用途：校准 PSA 筛查不是普通男性自动必查项，需要结合年龄、症状、家族史和医生判断的边界。
 - 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
@@ -1321,6 +1321,148 @@
 - 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
+
+## 中国国情校准来源
+
+### 国家卫生健康委：12356 全国统一心理援助热线
+
+- URL: https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml
+- 机构：国家卫生健康委员会
+- 类型：中国官方心理援助热线资料
+- 用途：校准中国大陆心理援助热线入口；正文必须写清当下安全风险优先 120、110、急诊或精神专科急诊，热线不替代急救。
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 国家卫生健康委：心理援助热线技术指南（试行）
+
+- URL: https://www.nhc.gov.cn/jkj/c100063/202101/74ada48ed1cd4e7f93c39db57cff0b4b.shtml
+- 机构：国家卫生健康委员会
+- 类型：中国官方心理援助热线技术资料
+- 用途：校准心理援助热线的服务定位、危机评估和专业转介边界。
+- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### 中国高血压防治指南（2024 年修订版）
+
+- URL: https://cjournal.hep.com.cn/1673-7245/CN/1160171857581368285
+- 机构：中国高血压防治指南修订委员会
+- 类型：中国专业指南
+- 用途：校准中国语境下诊室血压、家庭血压和动态血压的公众解释边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 中国血脂管理指南（2023 年）
+
+- URL: https://rs.yiigle.com/CN2021/1449955.htm
+- 机构：中国血脂管理指南修订联合专家委员会
+- 类型：中国专业指南
+- 用途：校准中国报告常见血脂单位、TC、LDL-C、HDL-C、TG 和风险分层边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 中国 2 型糖尿病防治指南（2020 年版）
+
+- URL: https://studite.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD2%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E9%98%B2%E6%B2%BB%E6%8C%87%E5%8D%97%EF%BC%882020%E5%B9%B4%E7%89%88%EF%BC%89%20-%20%E4%B8%AD%E5%8D%8E%E7%B3%96%E5%B0%BF%E7%97%85%E6%9D%82%E5%BF%97.html
+- 机构：中华医学会糖尿病学分会
+- 类型：中国专业指南
+- 用途：校准空腹血糖、HbA1c 等糖代谢指标的中国公众解释边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 市场监管总局：保健食品标注警示用语指南
+
+- URL: https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html
+- 机构：国家市场监督管理总局
+- 类型：中国官方监管资料
+- 用途：校准“保健食品不是药物，不能代替药物治疗疾病”的中国监管口径。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 市场监管总局、中消协：普通食品别信“保健”“治病”宣传
+
+- URL: https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html
+- 机构：国家市场监督管理总局、中国消费者协会
+- 类型：中国官方消费提示
+- 用途：校准普通食品、保健食品、药品的区分，以及健康消费虚假宣传边界。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 全国 12315 平台
+
+- URL: https://www.12315.cn/
+- 机构：市场监管投诉举报平台
+- 类型：中国消费者投诉举报入口
+- 用途：为健康产品高风险消费、虚假宣传和售后争议提供消费者保护入口。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 国家卫生健康委官方网站
+
+- URL: https://www.nhc.gov.cn/
+- 机构：国家卫生健康委员会
+- 类型：中国官方卫生健康资料入口
+- 用途：为中文版读者提供中国卫生健康政策、健康科普、疾病防控和官方通知的基础入口。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### 国家药监局政务服务门户
+
+- URL: https://zwfw.nmpa.gov.cn/
+- 机构：国家药品监督管理局
+- 类型：中国官方药品、医疗器械和化妆品政务服务入口
+- 用途：为健康产品、设备、检测和健康新闻核查提供中国监管查询入口。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### 市场监管总局官方网站
+
+- URL: https://www.samr.gov.cn/
+- 机构：国家市场监督管理总局
+- 类型：中国官方市场监管资料入口
+- 用途：为健康消费、广告宣传、保健食品、消费者保护和市场监管资料提供中国官方入口。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### 国家药监局政务服务平台：境内医疗器械注册查询
+
+- URL: https://app.gjzwfw.gov.cn/jmopen/webapp/html5/apigcylqxcpzccx/index.html
+- 机构：国家药品监督管理局、国家政务服务平台
+- 类型：中国官方医疗器械注册查询入口
+- 用途：校准医疗器械注册/备案查询入口；正文必须说明注册/备案不等于疗效保证或适合个人使用。
+- 已用于：`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 国家药监局：医疗器械唯一标识数据库
+
+- URL: https://udi.nmpa.gov.cn/
+- 机构：国家药品监督管理局
+- 类型：中国官方医疗器械唯一标识查询入口
+- 用途：为医疗器械身份识别和注册备案信息核查提供入口；不作为疗效背书。
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### 中国政府网：居民电子健康档案首页基本内容政策解读
+
+- URL: https://www.gov.cn/zhengce/202406/content_6958728.htm
+- 机构：中国政府网、国家卫生健康委等
+- 类型：中国官方政策解读
+- 用途：校准中国居民电子健康档案、基层健康档案和家庭健康资料整理的本土语境。
+- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
 
 ## 后续待补类别
 
