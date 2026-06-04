@@ -638,7 +638,7 @@
 - 用途：校准膳食补充剂监管边界和产品类别。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### FDA：FDA 101: Dietary Supplements
 
@@ -648,7 +648,7 @@
 - 用途：校准膳食补充剂不是药品、FDA 监管方式和消费提醒。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### NIH ODS：Dietary Supplements: What You Need to Know
 
@@ -658,7 +658,7 @@
 - 用途：校准补剂定义、潜在益处、风险、相互作用和医生沟通边界。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### NCCIH：Using Dietary Supplements Wisely
 
@@ -668,7 +668,7 @@
 - 用途：校准草药和补剂安全性、相互作用和证据边界。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### FTC：Dietary Supplements
 
@@ -676,9 +676,9 @@
 - 机构：Federal Trade Commission
 - 类型：美国官方消费者保护资料
 - 用途：校准补剂广告、消费欺诈和购买前核查边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ## 就医沟通与健康档案
 
@@ -784,7 +784,7 @@
 - 用途：校准家用和消费者医疗设备的监管与安全使用边界。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### FDA：Medical Devices
 
@@ -814,7 +814,7 @@
 - 用途：校准直接面向消费者检测、遗传风险、检测局限和医生沟通边界。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### FDA：Health Fraud Scams
 
@@ -824,7 +824,7 @@
 - 用途：校准健康欺诈、未证实疗效和延误正规诊疗风险。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### FTC：Common Health Scams
 
@@ -834,7 +834,7 @@
 - 用途：校准健康骗局、奇迹疗法、抗衰和高风险健康产品营销。
 - 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-04
 
 ### NIH：Clinical Research Trials and You
 

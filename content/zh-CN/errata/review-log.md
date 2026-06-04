@@ -7,6 +7,27 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-04：健康产品清单工具页降噪
+
+- 状态：reader experience + source check patch
+- 位置：
+  - `content/zh-CN/handbook/templates/health-product-checklist.md`
+  - `content/zh-CN/updates/roadmap-and-ideas.md`
+  - `shared/source-registry.md`
+- 复查内容：健康产品清单已包含产品信息、风险分级、证据核查、决策和替代行动，但手机端线性阅读偏长。本次把首屏改成红黄蓝绿四类购买分层，保留 3 分钟暂停和“四句话”，并将完整核查表改成折叠块，减少读者一进入页面就被长表格压住。
+- 使用来源：
+  - FDA: Health Fraud Scams
+  - FDA: Dietary Supplements
+  - FDA: FDA 101: Dietary Supplements
+  - FDA: Home Health and Consumer Devices
+  - FDA: Direct-to-Consumer Tests
+  - FTC: Common Health Scams
+  - FTC: Dietary Supplements
+  - NIH Office of Dietary Supplements: Dietary Supplements: What You Need to Know
+  - NCCIH: Using Dietary Supplements Wisely
+- 处理说明：本次不新增具体产品、补剂剂量、检测推荐或治疗建议；只把购买前判断改成更适合家庭使用的安全阀。继续强调补剂、草药、设备、检测和抗衰服务不能替代正规诊断、治疗、复查、用药或急救判断；涉及用药、慢病、孕产、儿童、老人、肝肾问题、手术和癌症治疗时先问医生或药师。
+- 下次建议复查：用手机预览红黄蓝绿卡片和折叠块；如读者仍觉得表格太长，可考虑把“30 秒先分层”做成独立分享卡。
+
 ## 2026-06-04：症状速查工具页降噪
 
 - 状态：reader experience patch
