@@ -42,11 +42,19 @@
 - MedlinePlus: [Urinalysis](https://medlineplus.gov/urinalysis.html)
 - MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
 - MedlinePlus: [Liver Function Tests](https://medlineplus.gov/lab-tests/liver-function-tests/)
+- MedlinePlus: [Cholesterol Levels](https://medlineplus.gov/lab-tests/cholesterol-levels/)
 - CDC: [About High Blood Pressure](https://www.cdc.gov/high-blood-pressure/about/index.html)
 - CDC: [Cholesterol](https://www.cdc.gov/cholesterol/index.html)
+- American Heart Association: [HDL, LDL Cholesterol and Triglycerides](https://www.heart.org/en/health-topics/cholesterol/hdl-good-ldl-bad-cholesterol-and-triglycerides)
+- CDC: [About Lipoprotein(a)](https://www.cdc.gov/heart-disease-family-history/about/about-lipoprotein-a.html)
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - CDC: [A1C Test for Diabetes and Prediabetes](https://www.cdc.gov/diabetes/diabetes-testing/prediabetes-a1c-test.html)
+- MedlinePlus: [Diabetes Tests](https://medlineplus.gov/lab-tests/diabetes-tests/)
+- MedlinePlus: [Hemoglobin A1C Test](https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/)
 - MedlinePlus: [Uric Acid Test](https://medlineplus.gov/lab-tests/uric-acid-test/)
+- MedlinePlus: [Platelet Tests](https://medlineplus.gov/lab-tests/platelet-tests/)
+- MedlinePlus: [Ketones in Urine](https://medlineplus.gov/lab-tests/ketones-in-urine/)
+- MedlinePlus: [Thyroid Tests](https://medlineplus.gov/thyroidtests.html)
 - NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 
 使用说明：这些资料用于校准体检指标、化验结果、血压、血脂、血糖、尿酸、肝肾功能、血常规和尿常规的基础边界。正文不应替读者解释个人报告，也不应提供用药或停药建议。
@@ -71,6 +79,8 @@
 
 - CDC: [About High Blood Pressure](https://www.cdc.gov/high-blood-pressure/about/index.html)
 - CDC: [About Cholesterol](https://www.cdc.gov/cholesterol/about/index.html)
+- American Heart Association: [HDL, LDL Cholesterol and Triglycerides](https://www.heart.org/en/health-topics/cholesterol/hdl-good-ldl-bad-cholesterol-and-triglycerides)
+- CDC: [About Lipoprotein(a)](https://www.cdc.gov/heart-disease-family-history/about/about-lipoprotein-a.html)
 - CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
 - CDC: [Gout](https://www.cdc.gov/arthritis/gout/index.html)
 - American Heart Association: [What is Metabolic Syndrome?](https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome)

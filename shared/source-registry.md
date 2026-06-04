@@ -218,6 +218,36 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
+### MedlinePlus：Cholesterol Levels
+
+- URL: https://medlineplus.gov/lab-tests/cholesterol-levels/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准血脂检测包含总胆固醇、LDL、HDL 和甘油三酯，以及化验结果解释边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### American Heart Association：HDL, LDL Cholesterol and Triglycerides
+
+- URL: https://www.heart.org/en/health-topics/cholesterol/hdl-good-ldl-bad-cholesterol-and-triglycerides
+- 机构：American Heart Association
+- 类型：专业协会患者教育资料
+- 用途：校准 LDL、HDL、甘油三酯与心血管风险关系的公众解释。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### CDC：About Lipoprotein(a)
+
+- URL: https://www.cdc.gov/heart-disease-family-history/about/about-lipoprotein-a.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方心血管家族史资料
+- 用途：校准 Lp(a)、家族史和进一步风险评估的公众解释边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
 ### CDC：Diabetes Testing
 
 - URL: https://www.cdc.gov/diabetes/diabetes-testing/index.html
@@ -237,6 +267,26 @@
 - 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### MedlinePlus：Diabetes Tests
+
+- URL: https://medlineplus.gov/lab-tests/diabetes-tests/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准空腹血糖、口服葡萄糖耐量测试、随机血糖、尿糖和 A1C 等糖尿病检测的基础解释。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Hemoglobin A1C Test
+
+- URL: https://medlineplus.gov/lab-tests/hemoglobin-a1c-hba1c-test/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准 A1C 的时间尺度、常见诊断参考范围和需要医生确认的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-04
 
 ### USPSTF：Prediabetes and Type 2 Diabetes: Screening
 
@@ -258,6 +308,16 @@
 - 复查频率：12 个月
 - 最后复查：2026-06-04
 
+### MedlinePlus：Platelet Tests
+
+- URL: https://medlineplus.gov/lab-tests/platelet-tests/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准血小板计数、血小板功能和高低值可能影响出血/凝血风险的基础解释。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
 ### MedlinePlus：Urinalysis
 
 - URL: https://medlineplus.gov/urinalysis.html
@@ -265,6 +325,16 @@
 - 类型：美国官方医学检测资料
 - 用途：校准尿常规可提示的泌尿、肾脏、糖尿病和取样边界。
 - 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Ketones in Urine
+
+- URL: https://medlineplus.gov/lab-tests/ketones-in-urine/
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准尿酮、糖尿病酮症酸中毒风险和尿酮不能孤立解释的边界。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-04
 
@@ -304,6 +374,16 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方医学检测资料
 - 用途：校准尿酸、痛风、肾结石和检测用途的基础解释。
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-04
+
+### MedlinePlus：Thyroid Tests
+
+- URL: https://medlineplus.gov/thyroidtests.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方医学检测资料
+- 用途：校准 TSH、T3/T4、甲状腺抗体和甲状腺影像检查的基础解释。
 - 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-04

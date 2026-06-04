@@ -19,7 +19,7 @@
   - `content/zh-CN/handbook/README.md`
   - `content/zh-CN/references/official-medical-sources.md`
   - `shared/source-registry.md`
-- 复查内容：根据反馈，体检篇只有原则框架，不足以回答“到底该查什么”“常见异常是什么意思”“报告具体怎么看”“慢病指标记录表填完后怎么判断”。本次参考私有库中体检清单、家庭模板包、代谢风险网和家庭指标表，只吸收“基础项 + 年龄性别项 + 个人风险加项”“趋势 + 组合 + 背景 + 行动”“慢病记录服务复诊”的结构，不搬运课程表达、讲次结构、OCR、PDF、图片或本地路径。
+- 复查内容：根据反馈，体检篇只有原则框架，不足以回答“到底该查什么”“常见异常是什么意思”“报告具体怎么看”“慢病指标记录表填完后怎么判断”。本次参考私有库中体检清单、家庭模板包、代谢风险网和家庭指标表，只吸收“基础项 + 年龄性别项 + 个人风险加项”“趋势 + 组合 + 背景 + 行动”“慢病记录服务复诊”的结构，不搬运课程表达、讲次结构、OCR、PDF、图片或本地路径。二次反馈指出“常见指标不是孤立数字”是主章亮点但埋得太深，且“常见异常指标速查”每项信息量不足；本次继续把主章亮点提前，并把速查页从短表格扩展为分项说明。三次反馈进一步明确希望速查页更细，能解释重要细项的含义、高低值影响和普通读者可以先怎么理解；本次将速查页扩展为科普型报告说明书，增加血压、血脂、血糖/A1C、尿酸、肾功能/尿检、肝功能、血常规、甲状腺、肿瘤标志物和影像结节的细项读法。
 - 使用来源：
   - MedlinePlus: How to Understand Your Lab Results
   - MedlinePlus: Complete Blood Count
@@ -28,6 +28,14 @@
   - MedlinePlus: Liver Function Tests
   - MedlinePlus: Uric Acid Test
   - MedlinePlus: Tumor Marker Tests
+  - MedlinePlus: Cholesterol Levels
+  - American Heart Association: HDL, LDL Cholesterol and Triglycerides
+  - CDC: About Lipoprotein(a)
+  - MedlinePlus: Diabetes Tests
+  - MedlinePlus: Hemoglobin A1C Test
+  - MedlinePlus: Platelet Tests
+  - MedlinePlus: Ketones in Urine
+  - MedlinePlus: Thyroid Tests
   - NIDDK: Chronic Kidney Disease Tests & Diagnosis
   - USPSTF: Hypertension in Adults: Screening
   - USPSTF: Prediabetes and Type 2 Diabetes: Screening
