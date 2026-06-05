@@ -33,10 +33,19 @@
 
 - [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](http://health.mindarae.com)
+- [GitHub Pages](https://casperukee.github.io/health-book/)
 - [参考资料机制](content/zh-CN/references/README.md)
 - [勘误与复查](content/zh-CN/errata/README.md)
 
 如果仓库已启用 GitHub Pages，建议优先使用网页阅读版：它会提供侧边栏、搜索、页面大纲和上一章/下一章。
+
+## 支持这个开源项目
+
+如果这本小册子对你有帮助，欢迎在 GitHub 点 Star、clone 项目，或把它转给会用 GitHub 的朋友。Star 不是形式感，它能让更多人看到这个项目，也方便你后续回来查看更新。
+
+```bash
+git clone https://github.com/casperukee/health-book.git
+```
 
 ## 阅读边界
 

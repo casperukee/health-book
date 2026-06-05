@@ -6,6 +6,8 @@ const route = useRoute()
 const { page } = useData()
 const statusText = ref('')
 const pixels: HTMLImageElement[] = []
+const githubRepoUrl = 'https://github.com/casperukee/health-book'
+const githubCloneCommand = 'git clone https://github.com/casperukee/health-book.git'
 
 const shouldShow = computed(() => {
   const path = route.path || ''
@@ -85,6 +87,23 @@ function handleComment() {
   feedbackUrl.searchParams.set('from', route.path || window.location.pathname)
   window.location.href = feedbackUrl.toString()
 }
+
+function handleGithub(action: string) {
+  record(action)
+}
+
+async function handleCopyClone() {
+  record('github_clone')
+
+  if (typeof window === 'undefined') return
+
+  try {
+    await navigator.clipboard.writeText(githubCloneCommand)
+    setStatus('已复制 clone 命令。')
+  } catch {
+    setStatus(githubCloneCommand)
+  }
+}
 </script>
 
 <template>
@@ -100,6 +119,33 @@ function handleComment() {
       <button type="button" data-feedback-action="not_useful" @click="handleSimple('not_useful')">没帮上</button>
       <button type="button" data-feedback-action="share" @click="handleShare">转发</button>
       <button type="button" data-feedback-action="comment" @click="handleComment">提意见</button>
+    </div>
+    <div class="page-feedback-divider" aria-hidden="true"></div>
+    <div class="open-source-support">
+      <div class="open-source-copy">
+        <p class="open-source-title">喜欢这个开源小册子？</p>
+        <p class="open-source-note">
+          国内镜像方便阅读，GitHub 用来关注更新、Star 支持和 clone 项目。
+        </p>
+      </div>
+      <div class="open-source-actions" aria-label="开源项目支持">
+        <a
+          :href="githubRepoUrl"
+          target="_blank"
+          rel="noreferrer"
+          data-feedback-action="github_repo"
+          @click="handleGithub('github_repo')"
+        >GitHub 项目</a>
+        <a
+          :href="githubRepoUrl"
+          target="_blank"
+          rel="noreferrer"
+          data-feedback-action="github_star"
+          data-primary-action="true"
+          @click="handleGithub('github_star')"
+        >去 Star</a>
+        <button type="button" data-feedback-action="github_clone" @click="handleCopyClone">复制 clone</button>
+      </div>
     </div>
     <p v-if="statusText" class="page-feedback-status" aria-live="polite">{{ statusText }}</p>
   </section>

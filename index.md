@@ -18,6 +18,9 @@ hero:
     - theme: alt
       text: 灰度试读
       link: /content/zh-CN/feedback/gray-trial-guide
+    - theme: alt
+      text: GitHub 项目
+      link: https://github.com/casperukee/health-book
 
 features:
   - title: 连续阅读
@@ -31,6 +34,10 @@ features:
 ## 当前状态
 
 项目处于 v0.8 小范围灰度阶段。中文主书和核心手册页已经可连续试读，本轮重点强化了高风险医学边界、症状分流、筛查与诊断边界和老年照护提醒。英文版目前只保留结构占位。
+
+## 支持开源
+
+如果这本小册子对你有帮助，欢迎到 [GitHub 项目页](https://github.com/casperukee/health-book) 点 Star、clone 或转给会用 GitHub 的朋友。国内镜像负责更顺畅的阅读体验，GitHub 负责开源协作、版本记录和长期维护。
 
 ## 先选你现在的场景
 
@@ -51,5 +58,6 @@ features:
 - [手册与模板](content/zh-CN/handbook/README.md)
 - [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](http://health.mindarae.com)
+- [GitHub 开源项目](https://github.com/casperukee/health-book)
 
 > 本项目不是医疗建议，不替代医生诊断、治疗、用药、停药、筛查或急救判断。

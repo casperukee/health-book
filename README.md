@@ -12,9 +12,16 @@ English edition is planned. The Chinese edition, 健康有谱, is the source edi
 - [中文主书目录](content/zh-CN/book/README.md)
 - [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](http://health.mindarae.com)
+- [GitHub Pages](https://casperukee.github.io/health-book/)
 - [Medical disclaimer](DISCLAIMER.md)
 
 For a better reading experience with sidebar navigation and previous/next links, use the GitHub Pages site after Pages is enabled for this repository.
+
+If this open book is useful to you, please consider starring or cloning the GitHub project:
+
+```bash
+git clone https://github.com/casperukee/health-book.git
+```
 
 ## License
 
