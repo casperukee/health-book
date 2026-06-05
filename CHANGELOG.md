@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- 增强页尾反馈统计：将“转发”改为复制带页面标题和链接的转发文案，并新增 `pageview` 日志事件，用同一套镜像站静态资源请求统计页面阅读、转发复制和按钮点击。
 - 增加英文预览包以支持开源项目展示：重写 root `README.md`，新增英文总入口、Start Here、医疗边界、症状动作、就医清单和家庭健康卡英文代表页，并将英文预览接入 VitePress 导航与侧边栏。
 - 强化开源维护入口：将 `CONTRIBUTING.md` 改为英文优先的双语贡献指南，新增 reader feedback 和 medical boundary feedback 两个 GitHub issue 模板，方便外部读者和专业人士反馈。
 - 增强开源项目传播入口：在首页和页尾反馈区增加 GitHub 项目、Star 和复制 clone 入口，并在 README 中补充 GitHub Pages 与 clone 命令，方便国内镜像读者回到开源仓库支持项目。

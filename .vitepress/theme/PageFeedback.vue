@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useData, useRoute, withBase } from 'vitepress'
 
 const route = useRoute()
@@ -8,10 +8,16 @@ const statusText = ref('')
 const pixels: HTMLImageElement[] = []
 const githubRepoUrl = 'https://github.com/casperukee/health-book'
 const githubCloneCommand = 'git clone https://github.com/casperukee/health-book.git'
+let lastPageviewPath = ''
 
 const shouldShow = computed(() => {
   const path = route.path || ''
   return path.includes('/content/zh-CN/') && !path.includes('/feedback/gray-trial-guide')
+})
+
+const shouldRecordPageview = computed(() => {
+  const path = route.path || ''
+  return path.includes('/content/zh-CN/') || path.includes('/content/en/')
 })
 
 function getSource() {
@@ -48,7 +54,19 @@ function record(action: string) {
   img.referrerPolicy = 'strict-origin-when-cross-origin'
   img.src = url.toString()
   pixels.push(img)
-  if (pixels.length > 8) pixels.shift()
+  if (pixels.length > 16) pixels.shift()
+}
+
+function recordPageview() {
+  if (typeof window === 'undefined' || !shouldRecordPageview.value) return
+
+  window.setTimeout(() => {
+    const currentPath = route.path || window.location.pathname
+    if (!currentPath || currentPath === lastPageviewPath) return
+
+    lastPageviewPath = currentPath
+    record('pageview')
+  }, 0)
 }
 
 function handleSimple(action: string) {
@@ -56,26 +74,63 @@ function handleSimple(action: string) {
   setStatus('已记录，谢谢。')
 }
 
+async function copyText(text: string) {
+  if (typeof window === 'undefined') return false
+
+  if (navigator.clipboard?.writeText && window.isSecureContext) {
+    try {
+      await navigator.clipboard.writeText(text)
+      return true
+    } catch {
+      // Fall through to the textarea fallback below.
+    }
+  }
+
+  const textarea = document.createElement('textarea')
+  textarea.value = text
+  textarea.setAttribute('readonly', '')
+  textarea.style.position = 'fixed'
+  textarea.style.top = '0'
+  textarea.style.left = '-9999px'
+  textarea.style.opacity = '0'
+
+  document.body.appendChild(textarea)
+  textarea.focus()
+  textarea.select()
+  textarea.setSelectionRange(0, textarea.value.length)
+
+  try {
+    return document.execCommand('copy')
+  } catch {
+    return false
+  } finally {
+    document.body.removeChild(textarea)
+  }
+}
+
+function buildShareText() {
+  if (typeof window === 'undefined') return ''
+
+  const title = page.value.title || document.title || '健康有谱'
+  const shareUrl = window.location.href
+
+  return [
+    `我在看《健康有谱》这本开源家庭健康小册子，这页可能对你有用：${title}`,
+    shareUrl,
+    '',
+    '它不做诊断、不替代医生，主要帮普通家庭分清什么时候记录观察、什么时候联系医生、什么时候不能再等。'
+  ].join('\n')
+}
+
 async function handleShare() {
   record('share')
 
   if (typeof window === 'undefined') return
 
-  const shareUrl = window.location.href
-  const title = page.value.title || document.title || '健康有谱'
+  const shareText = buildShareText()
 
-  try {
-    if (navigator.share) {
-      await navigator.share({ title, url: shareUrl })
-      setStatus('已打开分享。')
-      return
-    }
-
-    await navigator.clipboard.writeText(shareUrl)
-    setStatus('已复制链接。')
-  } catch {
-    setStatus('已记录，可手动复制链接。')
-  }
+  const copied = await copyText(shareText)
+  setStatus(copied ? '已复制转发文案，可粘贴发送。' : '已记录，可手动复制链接。')
 }
 
 function handleComment() {
@@ -97,13 +152,11 @@ async function handleCopyClone() {
 
   if (typeof window === 'undefined') return
 
-  try {
-    await navigator.clipboard.writeText(githubCloneCommand)
-    setStatus('已复制 clone 命令。')
-  } catch {
-    setStatus(githubCloneCommand)
-  }
+  const copied = await copyText(githubCloneCommand)
+  setStatus(copied ? '已复制 clone 命令。' : githubCloneCommand)
 }
+
+watch(() => route.path, recordPageview, { immediate: true })
 </script>
 
 <template>
