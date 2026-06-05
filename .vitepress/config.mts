@@ -75,6 +75,27 @@ const feedbackSidebar = [
   }
 ]
 
+const englishPreviewSidebar = [
+  {
+    text: 'English Preview',
+    items: [
+      { text: 'Overview', link: '/content/en/README' },
+      { text: 'Start Here', link: '/content/en/book/00-start-here' },
+      { text: 'Medical Boundaries', link: '/content/en/book/medical-boundaries' },
+      { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
+      { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
+      { text: 'Family Health Card', link: '/content/en/handbook/templates/family-health-card' }
+    ]
+  },
+  {
+    text: 'Source Edition',
+    items: [
+      { text: 'Chinese Home', link: '/content/zh-CN/book/00-start-here' },
+      { text: 'Chinese Handbook', link: '/content/zh-CN/handbook/README' }
+    ]
+  }
+]
+
 export default defineConfig({
   title: '健康有谱',
   description: '给家庭的长期健康读本',
@@ -89,7 +110,14 @@ export default defineConfig({
     'local-notes/**',
     'promo/**',
     'content/zh-CN/updates/**',
-    'content/en/**'
+    'content/en/book/part-*/**',
+    'content/en/errata/**',
+    'content/en/references/**',
+    'content/en/updates/**',
+    'content/en/handbook/playbooks/red-flags.md',
+    'content/en/handbook/templates/chronic-marker-log.md',
+    'content/en/handbook/templates/family-health-record.md',
+    'content/en/handbook/templates/health-product-checklist.md'
   ],
   lastUpdated: true,
   ignoreDeadLinks: [
@@ -108,12 +136,14 @@ export default defineConfig({
       { text: '手册', link: '/content/zh-CN/handbook/README' },
       { text: '灰度试读', link: '/content/zh-CN/feedback/gray-trial-guide' },
       { text: '参考资料', link: '/content/zh-CN/references/README' },
+      { text: 'English Preview', link: '/content/en/README' },
       { text: 'GitHub', link: 'https://github.com/casperukee/health-book' }
     ],
     sidebar: {
       '/content/zh-CN/book/': bookSidebar,
       '/content/zh-CN/handbook/': handbookSidebar,
-      '/content/zh-CN/feedback/': feedbackSidebar
+      '/content/zh-CN/feedback/': feedbackSidebar,
+      '/content/en/': englishPreviewSidebar
     },
     outline: {
       level: [2, 3],

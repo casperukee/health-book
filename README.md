@@ -1,30 +1,79 @@
-# 健康有谱
+# Health Youpu / 健康有谱
 
-English edition is planned. The Chinese edition, 健康有谱, is the source edition for now:
+**Health Youpu** is an open-source health literacy book for families.
 
-- [中文 README](README.zh-CN.md)
-- [开始阅读中文版](content/zh-CN/book/00-start-here.md)
-- [手册与模板](content/zh-CN/handbook/README.md)
-- [危险信号速查](content/zh-CN/handbook/playbooks/red-flags.md)
-- [体检前：到底该查什么](content/zh-CN/handbook/playbooks/checkup-planning-guide.md)
-- [常见异常指标速查](content/zh-CN/handbook/playbooks/common-checkup-markers.md)
-- [家庭健康卡模板](content/zh-CN/handbook/templates/family-health-card.md)
-- [中文主书目录](content/zh-CN/book/README.md)
-- [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
-- [国内镜像](http://health.mindarae.com)
-- [GitHub Pages](https://casperukee.github.io/health-book/)
-- [Medical disclaimer](DISCLAIMER.md)
+The Chinese title, **健康有谱**, roughly means “having a clearer sense of what to do.” The project helps ordinary families sort health questions into safer next actions: when to seek urgent care, when to contact a doctor, how to prepare for a visit, how to keep basic family health records, and how to avoid being pushed around by health misinformation.
 
-For a better reading experience with sidebar navigation and previous/next links, use the GitHub Pages site after Pages is enabled for this repository.
+This project is **not medical advice**. It does not diagnose, prescribe, recommend stopping medication, or replace professional care. When warning signs appear, readers should contact local emergency services, urgent care, or qualified clinicians.
 
-If this open book is useful to you, please consider starring or cloning the GitHub project:
+## Read Online
+
+- Chinese mirror for mainland-friendly reading: [health.mindarae.com](http://health.mindarae.com)
+- GitHub Pages: [casperukee.github.io/health-book](https://casperukee.github.io/health-book/)
+- Chinese README: [README.zh-CN.md](README.zh-CN.md)
+- Medical disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
+
+## English Preview
+
+The Chinese edition is the source edition. A small English preview is available so open-source reviewers and international readers can understand the project direction:
+
+- [English overview](content/en/README.md)
+- [Start Here](content/en/book/00-start-here.md)
+- [Medical Boundaries and Warning Signs](content/en/book/medical-boundaries.md)
+- [Symptom Action Guide](content/en/handbook/playbooks/symptom-action-guide.md)
+- [Doctor Visit Checklist](content/en/handbook/playbooks/doctor-visit-checklist.md)
+- [Family Health Card](content/en/handbook/templates/family-health-card.md)
+
+These pages are adaptations, not literal translations. They preserve the same product idea and medical boundaries while using language that fits English-speaking reviewers.
+
+## Why This Project Exists
+
+Many families do not need to become medical experts. They need a calmer way to answer practical questions:
+
+- Is this a red flag, a doctor visit, or something to record and watch?
+- What facts should we bring to the doctor?
+- How do we help parents or family members without turning care into control?
+- How do we keep medications, allergies, reports, and follow-up instructions from disappearing into chat history?
+- How do we avoid confusing health marketing with evidence?
+
+The book is designed as a **family health decision support layer**, not as a clinical guideline.
+
+## What The Project Contains
+
+The Chinese source edition currently includes:
+
+- a structured book on healthspan, risk, checkup markers, metabolic health, cardiovascular risk, sleep, mental health, cancer screening boundaries, elder care, and health misinformation;
+- practical handbook pages for warning signs, symptoms, doctor visits, department navigation, checkups, family health cards, health records, chronic marker logs, and health product checks;
+- a source registry, review log, changelog, roadmap, and correction workflow.
+
+## Maintenance Model
+
+The project is actively maintained by casper.
+
+Codex is used as a maintenance assistant for:
+
+- drafting and refactoring VitePress pages;
+- improving navigation and mobile reading experience;
+- turning reader and clinician feedback into scoped revisions;
+- checking links, builds, and changelog entries;
+- maintaining bilingual structure and source metadata.
+
+Editorial decisions, medical boundaries, source selection, and final publication choices remain human-maintained.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution boundaries and issue templates for reader feedback or medical-boundary feedback.
+
+## Clone
 
 ```bash
 git clone https://github.com/casperukee/health-book.git
 ```
 
+If this project is useful, starring the repository helps others discover it.
+
 ## License
 
 Content is licensed under [CC BY-NC-SA 4.0](LICENSE). Attribution: casper.
 
-This project is a draft-stage open health literacy book. It is not medical advice, a diagnosis tool, or a replacement for professional care.
+Any reuse of medical content should preserve the disclaimer and should not be presented as diagnosis, treatment, prescription, or individualized medical advice.
