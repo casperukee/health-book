@@ -85,6 +85,28 @@ systemctl list-timers --all | grep health-book
 journalctl -u health-book-mirror.service -n 80 --no-pager
 ```
 
+## 反馈统计
+
+站点正文页末尾的轻量反馈按钮和页面路由访问会通过 `logo.svg` 静态资源请求写入 Nginx access log，例如：
+
+```text
+/logo.svg?hb_feedback=1&action=pageview&page=...
+```
+
+本仓库提供一个本地聚合脚本，用于统计国内镜像站的页面阅读、点赞、转发复制、意见入口和 GitHub CTA 点击：
+
+```bash
+npm run feedback:summary -- /var/log/nginx/access.log /var/log/nginx/access.log.1
+```
+
+支持 `.gz` 轮转日志：
+
+```bash
+npm run feedback:summary -- /var/log/nginx/access.log /var/log/nginx/access.log.1 /var/log/nginx/access.log.2.gz
+```
+
+这个脚本只做聚合统计，不引入 API、数据库、登录或个人健康信息收集。GitHub Pages 的服务器日志不可用，因此主要统计对象是 `health.mindarae.com` 镜像站。
+
 默认每 5 分钟检查一次 `main`。如果 GitHub Pages 部署成功后 `main` 没有新提交，镜像不会重复构建；如果有新提交，服务器会拉取、构建、生成新 release，并切换 `current`。
 
 ## Nginx

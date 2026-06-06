@@ -16,6 +16,7 @@ What is usable today:
 - A structured Chinese book covering healthspan, checkups, metabolic health, cardiovascular risk, sleep, mental health, cancer screening boundaries, elder care, and health misinformation.
 - Practical handbook pages for warning signs, symptoms, doctor visits, department navigation, checkups, family health cards, chronic marker logs, and health product checks.
 - A lightweight page feedback layer on the mirror site for pageviews, useful/not-useful clicks, copied share text, and comment-entry clicks.
+- An aggregate log summary script for reviewing mirror-site feedback without adding accounts, an API, or a database.
 - An English preview package for the project overview, medical boundaries, symptom guide, doctor visit checklist, and family health card.
 
 ## Maintenance Model

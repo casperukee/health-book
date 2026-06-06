@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- 增加镜像站反馈日志汇总工具：新增 `scripts/summarize-feedback-logs.mjs` 与 `npm run feedback:summary`，可聚合 Nginx access log 中的 `pageview`、有用/没帮上、转发复制、意见入口和 GitHub CTA 点击；同步补充脚本文档、部署说明和项目状态说明。
+
 ## v0.8-preview - 2026-06-06
 
 - 增加公开项目维护材料：新增 `PROJECT_STATUS.md`、`SUPPORT.md`、`SECURITY.md` 和 `PRIVACY.md`，说明当前状态、支持边界、安全/医学安全报告方式和镜像站轻量统计机制；同时将 `promo/` 加入 `.gitignore`，避免本地制图草稿误提交。
