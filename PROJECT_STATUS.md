@@ -17,7 +17,7 @@ What is usable today:
 - Practical handbook pages for warning signs, symptoms, doctor visits, department navigation, checkups, family health cards, chronic marker logs, and health product checks.
 - A lightweight page feedback layer on the mirror site for pageviews, useful/not-useful clicks, copied share text, and comment-entry clicks.
 - An aggregate log summary script for reviewing mirror-site feedback without adding accounts, an API, or a database.
-- An English preview package for the project overview, medical boundaries, symptom guide, doctor visit checklist, and family health card.
+- An English preview package for the project overview, medical boundaries, symptom guide, department navigation, checkup planning, checkup markers, sleep and recovery, family communication, doctor visit preparation, family health card, and health product checks.
 
 ## Maintenance Model
 
@@ -30,6 +30,7 @@ Codex helps with:
 - turning reader and clinician feedback into scoped revisions;
 - checking build output, links, changelog entries, and bilingual structure;
 - keeping internal writing rules, public boundaries, and source metadata consistent.
+- keeping preview releases and public maintenance notes aligned with `RELEASE_PROCESS.md`.
 
 Human maintenance remains responsible for:
 
@@ -55,7 +56,8 @@ The next maintenance cycle focuses on:
 
 - inviting clinician feedback on the handbook pages that may affect care-seeking behavior;
 - strengthening China-specific wording for checkups, hospital departments, and emergency-vs-outpatient decisions;
-- expanding the English preview without turning it into a literal translation;
+- reviewing the expanded English preview without turning it into a literal translation;
+- documenting release checkpoints and correction decisions clearly enough for outside contributors to follow;
 - improving the most-used handbook pages based on mirror-site pageviews and reader feedback;
 - keeping the main book concise while moving larger future ideas into the roadmap first.
 

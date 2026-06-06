@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- 增加项目分享预览图素材：新增 `public/social-preview.svg` / `social-preview.png`，并为 VitePress 配置 Open Graph 与 Twitter preview 图片，方便网页和仓库分享时展示项目定位。
+- 扩展英文 preview：新增/改写美国本土化的体检前 preventive visit 选择、急诊/门诊/科室入口、体检指标、睡眠与恢复、父母沟通和健康产品核查英文预览页，并接入英文首页、手册目录和 VitePress 侧边栏。
+- 沉淀下一阶段内容与工具 brief：新增体检工具页真实场景验收记录、长期健康底座专题 brief，以及家庭医疗记录整理 Agent 边界 brief，先进入路线板而不是直接扩正文。
+- 增加公开发布流程文档：新增 `RELEASE_PROCESS.md`，说明 preview tag、勘误修订、英文预览同步、镜像反馈统计和发布前检查；同步接入 README 与项目状态说明。
 - 增加镜像站反馈日志汇总工具：新增 `scripts/summarize-feedback-logs.mjs` 与 `npm run feedback:summary`，可聚合 Nginx access log 中的 `pageview`、有用/没帮上、转发复制、意见入口和 GitHub CTA 点击；同步补充脚本文档、部署说明和项目状态说明。
 
 ## v0.8-preview - 2026-06-06

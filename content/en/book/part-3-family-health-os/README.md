@@ -2,7 +2,7 @@
 
 English chapters are planned after the Chinese source chapters become stable.
 
-- [What to Manage](what-to-manage.md)
-- [Doctor Visit Preparation](doctor-visit-preparation.md)
+- What to Manage: planned
+- Doctor Visit Preparation: planned
 - [Talking With Parents](talking-with-parents.md)
-- [Elder Care Basics](elder-care-basics.md)
+- Elder Care Basics: planned

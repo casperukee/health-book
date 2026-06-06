@@ -83,6 +83,12 @@ const englishPreviewSidebar = [
       { text: 'Start Here', link: '/content/en/book/00-start-here' },
       { text: 'Medical Boundaries', link: '/content/en/book/medical-boundaries' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
+      { text: 'Department Navigation', link: '/content/en/handbook/playbooks/department-navigation-guide' },
+      { text: 'Before A Checkup', link: '/content/en/handbook/playbooks/checkup-planning-guide' },
+      { text: 'Checkup Markers', link: '/content/en/book/part-1-healthspan-risk-and-markers/checkup-markers' },
+      { text: 'Sleep And Recovery', link: '/content/en/book/part-2-body-risk-map/sleep-and-recovery' },
+      { text: 'Talking With Parents', link: '/content/en/book/part-3-family-health-os/talking-with-parents' },
+      { text: 'Health Product Checklist', link: '/content/en/handbook/templates/health-product-checklist' },
       { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
       { text: 'Family Health Card', link: '/content/en/handbook/templates/family-health-card' }
     ]
@@ -103,21 +109,35 @@ export default defineConfig({
   base: siteBase,
   cleanUrls: false,
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: `${siteBase}logo.svg` }]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: `${siteBase}logo.svg` }],
+    ['meta', { property: 'og:title', content: 'Health Youpu / 健康有谱' }],
+    ['meta', { property: 'og:description', content: 'An open-source health literacy book for families.' }],
+    ['meta', { property: 'og:image', content: 'https://casperukee.github.io/health-book/social-preview.png' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
+    ['meta', { name: 'twitter:image', content: 'https://casperukee.github.io/health-book/social-preview.png' }]
   ],
   srcExclude: [
     'AGENTS.md',
     'local-notes/**',
     'promo/**',
     'content/zh-CN/updates/**',
-    'content/en/book/part-*/**',
+    'content/en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md',
+    'content/en/book/part-2-body-risk-map/metabolic-health.md',
+    'content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md',
+    'content/en/book/part-2-body-risk-map/brain-and-mental-health.md',
+    'content/en/book/part-2-body-risk-map/cancer-and-major-illness.md',
+    'content/en/book/part-2-body-risk-map/specialty-care-map.md',
+    'content/en/book/part-3-family-health-os/what-to-manage.md',
+    'content/en/book/part-3-family-health-os/doctor-visit-preparation.md',
+    'content/en/book/part-3-family-health-os/elder-care-basics.md',
+    'content/en/book/part-4-health-information-defense/supplement-evidence-traps.md',
+    'content/en/book/part-4-health-information-defense/reading-health-news.md',
     'content/en/errata/**',
     'content/en/references/**',
     'content/en/updates/**',
     'content/en/handbook/playbooks/red-flags.md',
     'content/en/handbook/templates/chronic-marker-log.md',
-    'content/en/handbook/templates/family-health-record.md',
-    'content/en/handbook/templates/health-product-checklist.md'
+    'content/en/handbook/templates/family-health-record.md'
   ],
   lastUpdated: true,
   ignoreDeadLinks: [

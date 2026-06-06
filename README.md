@@ -13,6 +13,7 @@ This project is **not medical advice**. It does not diagnose, prescribe, recomme
 - Chinese README: [README.zh-CN.md](README.zh-CN.md)
 - Medical disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
 - Project status: [PROJECT_STATUS.md](PROJECT_STATUS.md)
+- Release process: [RELEASE_PROCESS.md](RELEASE_PROCESS.md)
 
 ## English Preview
 
@@ -22,6 +23,12 @@ The Chinese edition is the source edition. A small English preview is available 
 - [Start Here](content/en/book/00-start-here.md)
 - [Medical Boundaries and Warning Signs](content/en/book/medical-boundaries.md)
 - [Symptom Action Guide](content/en/handbook/playbooks/symptom-action-guide.md)
+- [Emergency, Clinic, or Which Department?](content/en/handbook/playbooks/department-navigation-guide.md)
+- [Before a Checkup](content/en/handbook/playbooks/checkup-planning-guide.md) (U.S.-oriented preventive visit preview)
+- [Checkup Markers](content/en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)
+- [Sleep and Recovery](content/en/book/part-2-body-risk-map/sleep-and-recovery.md)
+- [Talking With Parents](content/en/book/part-3-family-health-os/talking-with-parents.md)
+- [Health Product Checklist](content/en/handbook/templates/health-product-checklist.md)
 - [Doctor Visit Checklist](content/en/handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](content/en/handbook/templates/family-health-card.md)
 
@@ -70,6 +77,7 @@ For support, privacy, and security:
 - [SUPPORT.md](SUPPORT.md)
 - [SECURITY.md](SECURITY.md)
 - [PRIVACY.md](PRIVACY.md)
+- [RELEASE_PROCESS.md](RELEASE_PROCESS.md)
 
 ## Clone
 

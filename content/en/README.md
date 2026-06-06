@@ -25,6 +25,12 @@ It is not a medical guideline, diagnostic tool, treatment plan, or substitute fo
 | The overall reading path | [Start Here](book/00-start-here.md) |
 | The project’s medical safety boundary | [Medical Boundaries and Warning Signs](book/medical-boundaries.md) |
 | A practical triage-style tool | [Symptom Action Guide](handbook/playbooks/symptom-action-guide.md) |
+| Emergency, outpatient, and department entry points | [Emergency, Clinic, or Which Department?](handbook/playbooks/department-navigation-guide.md) |
+| A U.S.-oriented preventive visit example | [Before a Checkup](handbook/playbooks/checkup-planning-guide.md) |
+| How the book explains checkup reports | [Checkup Markers](book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
+| A lifestyle chapter with medical boundaries | [Sleep and Recovery](book/part-2-body-risk-map/sleep-and-recovery.md) |
+| A family communication example | [Talking With Parents](book/part-3-family-health-os/talking-with-parents.md) |
+| A health-marketing safety tool | [Health Product Checklist](handbook/templates/health-product-checklist.md) |
 | A clinic-visit preparation tool | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | A family record template | [Family Health Card](handbook/templates/family-health-card.md) |
 
@@ -46,6 +52,7 @@ The English edition should eventually be adapted, reviewed, and synchronized wit
 - family-centered health decision support;
 - clear emergency and clinical-care boundaries;
 - practical records and doctor-communication tools;
+- a few representative source-chapter adaptations;
 - open maintenance through changelog, roadmap, source registry, and reader feedback.
 
 ## Project Links
