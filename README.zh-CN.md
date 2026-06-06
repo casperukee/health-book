@@ -34,6 +34,9 @@
 - [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](http://health.mindarae.com)
 - [GitHub Pages](https://casperukee.github.io/health-book/)
+- [项目状态](PROJECT_STATUS.md)
+- [支持与反馈边界](SUPPORT.md)
+- [安全与隐私说明](SECURITY.md) / [PRIVACY.md](PRIVACY.md)
 - [参考资料机制](content/zh-CN/references/README.md)
 - [勘误与复查](content/zh-CN/errata/README.md)
 

@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- 增加公开项目维护材料：新增 `PROJECT_STATUS.md`、`SUPPORT.md`、`SECURITY.md` 和 `PRIVACY.md`，说明当前状态、支持边界、安全/医学安全报告方式和镜像站轻量统计机制；同时将 `promo/` 加入 `.gitignore`，避免本地制图草稿误提交。
 - 增强页尾反馈统计：将“转发”改为复制带页面标题和链接的转发文案，并新增 `pageview` 日志事件，用同一套镜像站静态资源请求统计页面阅读、转发复制和按钮点击。
 - 增加英文预览包以支持开源项目展示：重写 root `README.md`，新增英文总入口、Start Here、医疗边界、症状动作、就医清单和家庭健康卡英文代表页，并将英文预览接入 VitePress 导航与侧边栏。
 - 强化开源维护入口：将 `CONTRIBUTING.md` 改为英文优先的双语贡献指南，新增 reader feedback 和 medical boundary feedback 两个 GitHub issue 模板，方便外部读者和专业人士反馈。

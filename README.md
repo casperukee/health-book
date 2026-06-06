@@ -12,10 +12,11 @@ This project is **not medical advice**. It does not diagnose, prescribe, recomme
 - GitHub Pages: [casperukee.github.io/health-book](https://casperukee.github.io/health-book/)
 - Chinese README: [README.zh-CN.md](README.zh-CN.md)
 - Medical disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
+- Project status: [PROJECT_STATUS.md](PROJECT_STATUS.md)
 
 ## English Preview
 
-The Chinese edition is the source edition. A small English preview is available so open-source reviewers and international readers can understand the project direction:
+The Chinese edition is the source edition. A small English preview is available so international readers and contributors can understand the project direction:
 
 - [English overview](content/en/README.md)
 - [Start Here](content/en/book/00-start-here.md)
@@ -24,7 +25,7 @@ The Chinese edition is the source edition. A small English preview is available 
 - [Doctor Visit Checklist](content/en/handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](content/en/handbook/templates/family-health-card.md)
 
-These pages are adaptations, not literal translations. They preserve the same product idea and medical boundaries while using language that fits English-speaking reviewers.
+These pages are adaptations, not literal translations. They preserve the same product idea and medical boundaries while using language that fits English-speaking readers.
 
 ## Why This Project Exists
 
@@ -63,6 +64,12 @@ Editorial decisions, medical boundaries, source selection, and final publication
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution boundaries and issue templates for reader feedback or medical-boundary feedback.
+
+For support, privacy, and security:
+
+- [SUPPORT.md](SUPPORT.md)
+- [SECURITY.md](SECURITY.md)
+- [PRIVACY.md](PRIVACY.md)
 
 ## Clone
 

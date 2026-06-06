@@ -4,6 +4,7 @@ node_modules/
 .vitepress/cache/
 .vitepress/dist/
 .chrome-profile/
+promo/
 promo/**/.chrome-profile/
 
 # Local scratch files and temporary scripts
