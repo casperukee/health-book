@@ -5,10 +5,10 @@ GitHub Pages 继续作为海外和开源主站。`health.mindarae.com` 用阿里
 当前镜像入口：
 
 ```text
-http://health.mindarae.com
+https://health.mindarae.com
 ```
 
-服务器上已有 xray 代理服务占用 `443`，因此当前镜像先使用 HTTP。Let's Encrypt 证书可以签发，但 HTTPS 入口需要和 xray 做 SNI / fallback 共存设计，或调整代理端口后再启用。
+当前系统已迁移到新的阿里云吉隆坡服务器，生产入口支持 HTTPS。公开传播、二维码和分享卡片优先使用 `https://health.mindarae.com`。
 
 ## 目录设计
 
@@ -124,15 +124,7 @@ deploy/nginx-health-book.conf
 /etc/nginx/sites-enabled/health-book.conf -> /etc/nginx/sites-available/health-book.conf
 ```
 
-当前模板只监听 `80`，适合和服务器上已有的 443 代理服务共存。
-
-如果服务器的 `443` 已被 xray、Trojan、VLESS、Reality 或其他代理服务占用，不要直接让 Nginx 监听 `443`，否则可能导致代理中断。HTTPS 有三种后续方案：
-
-1. 保持镜像站先走 `http://health.mindarae.com`；
-2. 让 xray 按 SNI / fallback 把 `health.mindarae.com` 的普通 HTTPS 流量转发给本地 Nginx；
-3. 把代理迁移到其他端口、其他域名或其他服务器，让 Nginx 接管 `443`。
-
-其中第 2 种最适合共用一台服务器，但需要读取并谨慎修改 `/usr/local/etc/xray/config.json`，不要在不了解现有代理协议和客户端配置的情况下直接改。
+当前仓库模板仍保留最小 HTTP server block，便于作为 Nginx 基础配置参考。生产服务器已经具备 HTTPS 能力；如果后续重建服务器，应优先恢复 `https://health.mindarae.com`，再确认是否由 Nginx、反向代理或其他入口组件负责 TLS。
 
 ## 可选方式：GitHub Actions SSH 部署
 
@@ -142,7 +134,7 @@ deploy/nginx-health-book.conf
 MIRROR_SSH_KEY
 ```
 
-内容是允许登录 `root@47.250.162.60` 的私钥。
+内容是允许登录 `root@47.250.208.249` 的私钥。
 
 GitHub repository variables:
 

@@ -50,9 +50,9 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方孕产危险信号资料
 - 用途：校准孕期和产后一年内需要立即就医的危险信号。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-02
+- 最后复查：2026-06-10
 
 ### CDC：About Sepsis
 
@@ -846,13 +846,33 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
+### NIMH：Children and Mental Health
+
+- URL: https://www.nimh.nih.gov/health/publications/children-and-mental-health
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方儿童心理健康资料
+- 用途：校准儿童和青少年情绪、行为、学习、睡眠、自伤风险和何时寻求专业评估的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-10
+
+### WHO：Adolescent mental health
+
+- URL: https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health
+- 机构：World Health Organization
+- 类型：国际官方青少年心理健康资料
+- 用途：校准青少年心理健康、常见风险、社会功能和自伤/自杀风险边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-10
+
 ### CDC：Managing Stress
 
 - URL: https://www.cdc.gov/mental-health/living-with/index.html
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方心理健康公众资料
 - 用途：校准压力管理、暂停、呼吸和寻求支持的低风险辅助边界。
-- 已用于：`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
 
@@ -865,6 +885,16 @@
 - 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
+
+### NIMH：Suicide Prevention
+
+- URL: https://www.nimh.nih.gov/health/topics/suicide-prevention
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方自杀预防资料
+- 用途：校准自杀风险、危机求助和家庭不能继续单独观察的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：3-6 个月
+- 最后复查：2026-06-10
 
 ### NIMH：Help for Mental Illnesses
 
@@ -947,6 +977,36 @@
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### NCI：Side Effects of Cancer Treatment
+
+- URL: https://www.cancer.gov/about-cancer/treatment/side-effects
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症治疗资料
+- 用途：校准癌症治疗副作用应由医疗团队管理、治疗中异常情况需及时联系医疗团队的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-10
+
+### NCI：Support for Caregivers of Cancer Patients
+
+- URL: https://www.cancer.gov/about-cancer/coping/caregiver-support
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症照护者资料
+- 用途：校准癌症家庭照护、照护者压力、远程照护和照护分工相关表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-10
+
+### NCI：Financial Toxicity and Cancer Treatment
+
+- URL: https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-pdq
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症治疗费用资料
+- 用途：校准癌症治疗相关经济压力、费用记录和家庭沟通边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-10
 
 ## 家庭测量与慢病记录
 
@@ -1135,6 +1195,26 @@
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
+
+### MedlinePlus：Children's Health
+
+- URL: https://medlineplus.gov/childrenshealth.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方儿童健康资料入口
+- 用途：提供儿童健康、儿科问题和家庭就医资料入口，校准儿童问题不应按成人经验简单处理的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-10
+
+### HealthyChildren.org / AAP：Health Issues
+
+- URL: https://www.healthychildren.org/English/health-issues/Pages/default.aspx
+- 机构：American Academy of Pediatrics
+- 类型：专业协会儿童健康资料入口
+- 用途：提供儿科健康主题入口，校准儿童和青少年健康问题需要儿科/专业入口的公众表达。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-10
 
 ## 健康设备、检测和抗衰消费
 

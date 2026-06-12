@@ -168,7 +168,7 @@ function requestPath(request) {
 
 function parseUrl(path) {
   try {
-    return new URL(path, 'http://health.mindarae.com');
+    return new URL(path, 'https://health.mindarae.com');
   } catch {
     return null;
   }
@@ -177,7 +177,7 @@ function parseUrl(path) {
 function normalizePath(value) {
   if (!value || value === '-') return '';
   try {
-    const url = new URL(value, 'http://health.mindarae.com');
+    const url = new URL(value, 'https://health.mindarae.com');
     return url.pathname.replace(/\/index\.html$/, '/');
   } catch {
     return String(value).split('?')[0].replace(/\/index\.html$/, '/');
@@ -305,10 +305,9 @@ function formatCell(value) {
 
 function sampleLines() {
   return [
-    '203.0.113.10 - - [06/Jun/2026:08:15:00 +0800] "GET /logo.svg?hb_feedback=1&action=pageview&page=%2Fcontent%2Fzh-CN%2Fbook%2F00-start-here.html&title=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8&source=mirror&ts=1780704900000 HTTP/1.1" 200 123 "http://health.mindarae.com/content/zh-CN/book/00-start-here.html" "Mozilla/5.0 Sample"',
-    '203.0.113.10 - - [06/Jun/2026:08:16:00 +0800] "GET /logo.svg?hb_feedback=1&action=useful&page=%2Fcontent%2Fzh-CN%2Fbook%2F00-start-here.html&source=mirror HTTP/1.1" 200 123 "http://health.mindarae.com/content/zh-CN/book/00-start-here.html" "Mozilla/5.0 Sample"',
+    '203.0.113.10 - - [06/Jun/2026:08:15:00 +0800] "GET /logo.svg?hb_feedback=1&action=pageview&page=%2Fcontent%2Fzh-CN%2Fbook%2F00-start-here.html&title=%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8&source=mirror&ts=1780704900000 HTTP/1.1" 200 123 "https://health.mindarae.com/content/zh-CN/book/00-start-here.html" "Mozilla/5.0 Sample"',
+    '203.0.113.10 - - [06/Jun/2026:08:16:00 +0800] "GET /logo.svg?hb_feedback=1&action=useful&page=%2Fcontent%2Fzh-CN%2Fbook%2F00-start-here.html&source=mirror HTTP/1.1" 200 123 "https://health.mindarae.com/content/zh-CN/book/00-start-here.html" "Mozilla/5.0 Sample"',
     '203.0.113.11 - - [06/Jun/2026:08:17:00 +0800] "GET /content/zh-CN/handbook/playbooks/symptom-action-guide.html HTTP/1.1" 200 456 "-" "Mozilla/5.0 Sample 2"',
-    '203.0.113.11 - - [06/Jun/2026:08:18:00 +0800] "GET /logo.svg?hb_feedback=1&action=share&page=%2Fcontent%2Fzh-CN%2Fhandbook%2Fplaybooks%2Fsymptom-action-guide.html&source=mirror HTTP/1.1" 200 123 "http://health.mindarae.com/content/zh-CN/handbook/playbooks/symptom-action-guide.html" "Mozilla/5.0 Sample 2"',
+    '203.0.113.11 - - [06/Jun/2026:08:18:00 +0800] "GET /logo.svg?hb_feedback=1&action=share&page=%2Fcontent%2Fzh-CN%2Fhandbook%2Fplaybooks%2Fsymptom-action-guide.html&source=mirror HTTP/1.1" 200 123 "https://health.mindarae.com/content/zh-CN/handbook/playbooks/symptom-action-guide.html" "Mozilla/5.0 Sample 2"',
   ];
 }
-

@@ -32,7 +32,7 @@
 其他入口：
 
 - [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
-- [国内镜像](http://health.mindarae.com)
+- [国内镜像](https://health.mindarae.com)
 - [GitHub Pages](https://casperukee.github.io/health-book/)
 - [项目状态](PROJECT_STATUS.md)
 - [发布流程](RELEASE_PROCESS.md)

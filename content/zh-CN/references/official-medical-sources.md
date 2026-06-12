@@ -137,12 +137,15 @@
 - NIMH: [Depression](https://www.nimh.nih.gov/health/publications/depression)
 - NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
+- NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
+- WHO: [Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - SAMHSA: [Warning Signs of Suicide](https://www.samhsa.gov/mental-health/suicidal-behavior/warning-signs)
+- NIMH: [Suicide Prevention](https://www.nimh.nih.gov/health/topics/suicide-prevention)
 - NIMH: [Help for Mental Illnesses](https://www.nimh.nih.gov/health/find-help)
 - CDC: [Managing Stress](https://www.cdc.gov/mental-health/living-with/index.html)
 
-使用说明：这些资料用于校准认知变化、心理健康求助和危机处理入口。正文不应自测诊断抑郁、焦虑或痴呆，也不应替代心理健康专业评估。
+使用说明：这些资料用于校准认知变化、心理健康求助、儿童青少年心理健康和危机处理入口。正文不应自测诊断抑郁、焦虑、痴呆或儿童精神心理问题，也不应替代心理健康专业评估。
 
 ## 癌症筛查和重大疾病
 
@@ -152,8 +155,11 @@
 - CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
 - NCI: [Types of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types)
 - NCI: [Treatment for Cancer](https://www.cancer.gov/about-cancer/treatment)
+- NCI: [Side Effects of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/side-effects)
+- NCI: [Support for Caregivers of Cancer Patients](https://www.cancer.gov/about-cancer/coping/caregiver-support)
+- NCI: [Financial Toxicity and Cancer Treatment](https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-pdq)
 
-使用说明：这些资料用于校准癌症筛查收益与伤害、诊断治疗边界和重大疾病家庭支持。正文不应给出个体化筛查计划、治疗优先级或替代疗法建议。
+使用说明：这些资料用于校准癌症筛查收益与伤害、诊断治疗边界、治疗副作用、照护者支持和重大疾病经济压力。正文不应给出个体化筛查计划、治疗优先级、费用决策或替代疗法建议。
 
 ## 家庭测量与慢病记录
 
@@ -173,11 +179,14 @@
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
+- NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
+- MedlinePlus: [Children's Health](https://medlineplus.gov/childrenshealth.html)
+- HealthyChildren.org/AAP: [Health Issues](https://www.healthychildren.org/English/health-issues/Pages/default.aspx)
 - National Eye Institute: [Eye Health Information](https://www.nei.nih.gov/eye-health-information)
 - NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
 - NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
 
-使用说明：这些资料用于校准专科就医入口、患者沟通、资料准备和若干专科资料入口。正文不应替代眼科、骨科、泌尿、产科或妇科医生判断。
+使用说明：这些资料用于校准专科就医入口、患者沟通、资料准备、孕产危险信号、儿童青少年问题和若干专科资料入口。正文不应替代眼科、骨科、泌尿、产科、妇科、儿科或儿童精神心理专业判断。
 
 ## 健康设备、检测和抗衰消费
 

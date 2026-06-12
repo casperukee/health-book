@@ -59,6 +59,6 @@ The English edition should eventually be adapted, reviewed, and synchronized wit
 
 - [GitHub repository](https://github.com/casperukee/health-book)
 - [GitHub Pages](https://casperukee.github.io/health-book/)
-- [Mainland-friendly mirror](http://health.mindarae.com)
+- [Mainland-friendly mirror](https://health.mindarae.com)
 - [Root README](../../README.md)
 - [License](https://github.com/casperukee/health-book/blob/main/LICENSE)

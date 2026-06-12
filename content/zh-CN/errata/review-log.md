@@ -7,6 +7,52 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-10：v0.9 P0 薄弱章节扩写与边界复查
+
+- 状态：editor feedback + source-of-truth upgrade
+- 位置：
+  - `content/zh-CN/updates/book-blueprint.md`
+  - `content/zh-CN/book/README.md`
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/README.md`
+  - `content/zh-CN/book/part-2-body-risk-map/README.md`
+  - `content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+  - `content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+  - `content/zh-CN/book/part-3-family-health-os/README.md`
+  - `content/zh-CN/book/part-4-health-information-defense/README.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据编辑对读书版 v0.8 的意见，网页版先升级为 v0.9 源稿，强化“给全家健康守门人的判断指南”定位和“身体信号 -> 主风险线 -> 家庭协作 -> 信息防御”的阅读旅程。P0 重点扩写大脑与心理健康、癌症与重大疾病、专科问题三章，加入合成家庭场景、阶段判断、儿童青少年/孕产/照护者/重大疾病家庭分工等高风险场景。
+- 使用来源：
+  - NIA/NIH: Cognitive Health and Older Adults
+  - CDC: Reducing Risk for Dementia
+  - CDC: Signs and Symptoms of Dementia
+  - NIMH: Depression
+  - NIMH: Anxiety Disorders
+  - NIMH: My Mental Health: Do I Need Help?
+  - NIMH: Children and Mental Health
+  - WHO: Adolescent mental health
+  - NIMH: Suicide Prevention
+  - SAMHSA: 988 Suicide & Crisis Lifeline
+  - NCI: Cancer Screening Overview
+  - NCI: What Cancer Screening Tests Check for Cancer?
+  - NCI: Questions and Answers about Multi-Cancer Detection Tests
+  - NCI: Tests and Procedures Used to Diagnose Cancer
+  - NCI: Types of Cancer Treatment
+  - NCI: Treatment for Cancer
+  - NCI: Side Effects of Cancer Treatment
+  - NCI: Support for Caregivers of Cancer Patients
+  - NCI: Financial Toxicity and Cancer Treatment
+  - CDC HEAR HER: Urgent Maternal Warning Signs and Symptoms
+  - MedlinePlus: Children's Health
+  - HealthyChildren.org/AAP: Health Issues
+  - National Eye Institute: Eye Health Information
+  - MedlinePlus: Eye Emergencies
+  - NIDDK/NIH: Bladder Control Problems
+  - NIAMS/NIH: Back Pain
+- 处理说明：本次扩写只提供家庭分层、资料准备、问医生问题和就医入口，不提供心理诊断、儿童精神心理诊断、癌症个体化筛查计划、治疗方案排序、用药建议、费用决策、孕产处理方案或专科自诊。案例均为合成场景，用于展示判断过程，不写成疗效故事。
+- 下次建议复查：请用手机连续试读 Part 2 后三章，重点看是否仍有“资料页”感；若继续转写读书版 v0.9，应以本轮网页版为源头，重新安排章节转场和附录工具密度。
+
 ## 2026-06-04：中国国情口径校准
 
 - 状态：reader feedback + medical boundary patch

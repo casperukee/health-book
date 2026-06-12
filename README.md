@@ -8,7 +8,7 @@ This project is **not medical advice**. It does not diagnose, prescribe, recomme
 
 ## Read Online
 
-- Chinese mirror for mainland-friendly reading: [health.mindarae.com](http://health.mindarae.com)
+- Chinese mirror for mainland-friendly reading: [health.mindarae.com](https://health.mindarae.com)
 - GitHub Pages: [casperukee.github.io/health-book](https://casperukee.github.io/health-book/)
 - Chinese README: [README.zh-CN.md](README.zh-CN.md)
 - Medical disclaimer: [DISCLAIMER.md](DISCLAIMER.md)
