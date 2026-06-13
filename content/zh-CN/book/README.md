@@ -54,6 +54,7 @@
 - [睡眠与恢复](part-2-body-risk-map/sleep-and-recovery.md)
 - [大脑与心理健康](part-2-body-risk-map/brain-and-mental-health.md)
 - [癌症与重大疾病](part-2-body-risk-map/cancer-and-major-illness.md)
+- [儿童与青少年健康](part-2-body-risk-map/children-and-adolescent-health.md)
 - [专科问题](part-2-body-risk-map/specialty-care-map.md)
 
 ## Part 3：家庭健康操作系统

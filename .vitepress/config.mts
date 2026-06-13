@@ -25,6 +25,7 @@ const bookSidebar = [
       { text: '睡眠与恢复', link: '/content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery' },
       { text: '大脑与心理健康', link: '/content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health' },
       { text: '癌症与重大疾病', link: '/content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness' },
+      { text: '儿童与青少年健康', link: '/content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health' },
       { text: '专科问题', link: '/content/zh-CN/book/part-2-body-risk-map/specialty-care-map' }
     ]
   },

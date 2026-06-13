@@ -7,6 +7,27 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-13：新增儿童与青少年健康独立章
+
+- 状态：private-source synthesis + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据用户要求，将“儿童与青少年健康”从专科总章拆出，写成健康书里的儿童青少年章。新章避免做成儿科速查或育儿书，主线改为理解孩子身体和心理一起发育，并用“身体、功能、关系、安全”四条线串起青春期、心理健康、学校和手机、父母反应、性与隐私、常见身体问题、观察卡和就医入口。用户指出心理健康部分过简、四条线与后文没有真正对齐后，本轮进一步扩写调节能力、连接能力、胜任感、求助能力、功能受损信号和家庭支持动作，并把后文标题改为身体线、功能线、关系线和安全线。
+- 使用来源：
+  - HealthyChildren.org/AAP: Teen
+  - HealthyChildren.org/AAP: Health Issues
+  - MedlinePlus: Teen Health
+  - MedlinePlus: Children's Health
+  - CDC: Youth Mental Health
+  - NIMH: Children and Mental Health
+  - WHO: Adolescent mental health
+  - SAMHSA: 988 Suicide & Crisis Lifeline
+- 处理说明：本次参考私有素材库中儿童青少年发展、青春期、亲子关系和父母自我觉察相关结构化材料，只吸收问题结构和家庭健康视角；不搬运原文、课程结构、脑图、图片或本地路径。正文继续不提供儿科诊断、儿童精神心理诊断、用药建议、性教育替代方案、心理治疗方案或学校事件处理结论。
+- 下次建议复查：用家长读者视角连续试读，重点看本章是否像书稿而不是工具页；同时邀请儿科、儿童青少年精神心理、学校心理或教育工作者查看危险边界和入口表述。
+
 ## 2026-06-13：大脑与心理健康章节心理地图深化
 
 - 状态：private-source synthesis + medical boundary patch

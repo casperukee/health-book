@@ -88,6 +88,7 @@ evidence_status: stable
 - [睡眠与恢复](part-2-body-risk-map/sleep-and-recovery.md)：睡眠不是空白时间，而是大脑、血管、代谢和白天状态的恢复时间。
 - [大脑与心理健康](part-2-body-risk-map/brain-and-mental-health.md)：情绪、认知和长期风险怎么放在一起看。
 - [癌症与重大疾病](part-2-body-risk-map/cancer-and-major-illness.md)：筛查、治疗和家庭支持各自该站在哪个位置。
+- [儿童与青少年健康](part-2-body-risk-map/children-and-adolescent-health.md)：孩子的身体发育、心理变化、学校和同伴关系怎么一起看。
 - [专科问题](part-2-body-risk-map/specialty-care-map.md)：怎样提高看病质量，而不是自己当医生。
 
 ### 第三段：把它变成家庭流程
@@ -117,6 +118,7 @@ evidence_status: stable
 | 血压、血脂、血糖、尿酸反复异常 | [代谢与四高](part-2-body-risk-map/metabolic-health.md) |
 | 担心心梗、卒中 | [心血管事件链](part-2-body-risk-map/cardiovascular-event-chain.md) |
 | 睡不好、恢复不过来 | [睡眠与恢复](part-2-body-risk-map/sleep-and-recovery.md) |
+| 孩子身体、心理或上学状态明显变化 | [儿童与青少年健康](part-2-body-risk-map/children-and-adolescent-health.md) |
 | 父母健康问题经常聊崩 | [父母沟通](part-3-family-health-os/talking-with-parents.md) |
 | 准备买保健品、检测、设备或抗衰产品 | [健康产品购买前检查清单](../handbook/templates/health-product-checklist.md) |
 

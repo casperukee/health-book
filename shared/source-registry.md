@@ -862,7 +862,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方儿童心理健康资料
 - 用途：校准儿童和青少年情绪、行为、学习、睡眠、自伤风险和何时寻求专业评估的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-10
 
@@ -872,9 +872,19 @@
 - 机构：World Health Organization
 - 类型：国际官方青少年心理健康资料
 - 用途：校准青少年心理健康、常见风险、社会功能和自伤/自杀风险边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-10
+
+### CDC：Youth Mental Health
+
+- URL: https://www.cdc.gov/healthy-youth/mental-health/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方青少年心理健康与学校健康资料
+- 用途：校准青少年心理健康、学校连接感、家庭和学校支持、风险识别和求助边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-13
 
 ### CDC：Managing Stress
 
@@ -1212,9 +1222,19 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方儿童健康资料入口
 - 用途：提供儿童健康、儿科问题和家庭就医资料入口，校准儿童问题不应按成人经验简单处理的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-10
+
+### MedlinePlus：Teen Health
+
+- URL: https://medlineplus.gov/teenhealth.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方青少年健康资料入口
+- 用途：提供青少年身体、心理、发育和生活方式健康主题入口，校准青春期不应只按成人经验或管教问题处理的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-13
 
 ### HealthyChildren.org / AAP：Health Issues
 
@@ -1222,9 +1242,19 @@
 - 机构：American Academy of Pediatrics
 - 类型：专业协会儿童健康资料入口
 - 用途：提供儿科健康主题入口，校准儿童和青少年健康问题需要儿科/专业入口的公众表达。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-10
+
+### HealthyChildren.org / AAP：Teen
+
+- URL: https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx
+- 机构：American Academy of Pediatrics
+- 类型：专业协会青少年健康资料入口
+- 用途：提供青春期、青少年健康、家庭沟通和年龄阶段健康主题入口，校准青少年不是“小号成人”的公众表达。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-13
 
 ## 健康设备、检测和抗衰消费
 

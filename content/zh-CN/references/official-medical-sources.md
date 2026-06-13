@@ -139,6 +139,7 @@
 - NIMH: [Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
 - NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
+- CDC: [Youth Mental Health](https://www.cdc.gov/healthy-youth/mental-health/index.html)
 - WHO: [Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - SAMHSA: [Warning Signs of Suicide](https://www.samhsa.gov/mental-health/suicidal-behavior/warning-signs)
@@ -181,13 +182,16 @@
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
+- CDC: [Youth Mental Health](https://www.cdc.gov/healthy-youth/mental-health/index.html)
+- MedlinePlus: [Teen Health](https://medlineplus.gov/teenhealth.html)
 - MedlinePlus: [Children's Health](https://medlineplus.gov/childrenshealth.html)
+- HealthyChildren.org/AAP: [Teen](https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx)
 - HealthyChildren.org/AAP: [Health Issues](https://www.healthychildren.org/English/health-issues/Pages/default.aspx)
 - National Eye Institute: [Eye Health Information](https://www.nei.nih.gov/eye-health-information)
 - NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
 - NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
 
-使用说明：这些资料用于校准专科就医入口、患者沟通、资料准备、孕产危险信号、儿童青少年问题和若干专科资料入口。正文不应替代眼科、骨科、泌尿、产科、妇科、儿科或儿童精神心理专业判断。
+使用说明：这些资料用于校准专科就医入口、患者沟通、资料准备、孕产危险信号、儿童青少年身体/心理/学校功能变化和若干专科资料入口。正文不应替代眼科、骨科、泌尿、产科、妇科、儿科或儿童精神心理专业判断。
 
 ## 健康设备、检测和抗衰消费
 

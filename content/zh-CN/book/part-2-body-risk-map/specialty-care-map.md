@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: specialty-care-map
 en_path: ../../../en/book/part-2-body-risk-map/specialty-care-map.md
 translation_status: source
-last_reviewed: 2026-06-10
+last_reviewed: 2026-06-13
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -15,7 +15,7 @@ evidence_status: needs_periodic_review
 
 ## 专科问题最容易卡在“忍”和“猜”之间
 
-眼睛不舒服，觉得少看手机就好；腰腿痛，靠按摩和膏药撑着；尿频尿急，不好意思说；皮肤反复长痘，网上买一堆产品；孕期或产后不适，被一句“都这样”盖过去；孩子情绪和行为明显变化，家里先争论是不是手机害的。
+眼睛不舒服，觉得少看手机就好；腰腿痛，靠按摩和膏药撑着；尿频尿急，不好意思说；皮肤反复长痘，网上买一堆产品；孕期或产后不适，被一句“都这样”盖过去；孩子身体、情绪或上学状态明显变化，家里先争论是不是手机害的。
 
 专科问题有两个常见极端：
 
@@ -32,7 +32,7 @@ evidence_status: needs_periodic_review
 
 - 腰腿痛要看功能、神经信号、外伤和红旗症状，可能从骨科、康复医学、疼痛科或全科/普通内科入口开始；
 - 尿频尿急和尿血要把排尿时间线、发热腰痛、用药和既往检查说清，必要时看泌尿外科或肾内/妇科等相关入口；
-- 孩子的安全风险优先级最高，先确认是否能保证安全，再联系学校心理支持、儿童青少年精神心理、急诊或当地危机支持。
+- 孩子的安全风险优先级最高，先确认是否能保证安全，再联系儿科、学校心理支持、儿童青少年精神心理、急诊或当地危机支持。更完整的家庭判断见 [儿童与青少年健康](children-and-adolescent-health.md)。
 
 专科导航不是“猜挂哪个科最准”，而是先把急缓、事实和入口分清。
 
@@ -88,11 +88,11 @@ evidence_status: needs_periodic_review
 
 不要让“不好意思”和“都这样”替代医学判断。
 
-## 儿童和青少年：症状常常要靠家长翻译
+## 儿童和青少年：先看独立章节
 
 孩子不一定能准确说清身体和心理感受。腹痛、头痛、疲惫、拒学、失眠、暴躁、沉默、成绩下降、进食变化、沉迷网络或社交退缩，都可能是身体、心理、家庭、学校和同伴问题交织出来的信号。
 
-家庭先看三类边界：
+这个主题已经独立成章：[儿童与青少年健康：身体和心理一起长大](children-and-adolescent-health.md)。这里先保留专科导航里的三类入口：
 
 | 场景 | 先看什么 | 入口 |
 |---|---|---|
@@ -220,5 +220,5 @@ NIMH 的儿童心理健康资料提醒，如果孩子的行为或情绪持续数
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[癌症与重大疾病](cancer-and-major-illness.md)
+- 上一章：[儿童与青少年健康](children-and-adolescent-health.md)
 - 下一章：[家庭健康到底要管理什么](../part-3-family-health-os/what-to-manage.md)
