@@ -864,7 +864,7 @@
 - 用途：校准儿童和青少年情绪、行为、学习、睡眠、自伤风险和何时寻求专业评估的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
 
 ### WHO：Adolescent mental health
 
@@ -874,7 +874,7 @@
 - 用途：校准青少年心理健康、常见风险、社会功能和自伤/自杀风险边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
 
 ### CDC：Youth Mental Health
 
@@ -914,7 +914,7 @@
 - 用途：校准自杀风险、危机求助和家庭不能继续单独观察的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
 
 ### NIMH：Help for Mental Illnesses
 

@@ -7,6 +7,22 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-14：大脑与心理健康章节儿童青少年段落关系边界修订
+
+- 状态：reader-feedback patch + official-source verification + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+  - `content/zh-CN/updates/book-blueprint.md`
+  - `content/zh-CN/updates/writing-packets/brain-and-mental-health.md`
+  - `shared/source-registry.md`
+- 复查内容：根据读者反馈，原章节前半部分“定位、稳态、为什么问题越解决越糟”可读性较好，但儿童青少年段落仍可能让家长读成“把孩子当问题去讨论和解决”，尤其在自伤风险场景中容易滑向长期监控、追问、翻手机、堵门和把孩子当作需要被看守的危险对象。本次将该段标题改为“孩子状态变差时，先看见这个人”，强化“孩子不是家庭要修复的故障，也不是全天看管的风险清单”；保留自伤自杀风险的直接询问和危机求助边界，同时明确安全措施不是长期监控许可证，危机缓解后应和专业人员一起恢复孩子的隐私、选择感和基本尊严。新增“把环境也纳入问题”小节，提醒家庭关注羞辱、威胁、暴力、冷暴力、学校欺凌、孤立和长期压力等环境因素，避免只盯着孩子本人。
+- 使用来源：
+  - NIMH: Children and Mental Health
+  - NIMH: Suicide Prevention
+  - WHO: Adolescent mental health
+- 处理说明：本次是读者体验和关系边界修订，不提供儿童青少年心理诊断、治疗方案、用药建议、学校事件处理结论或家庭监控方案。自伤自杀风险仍按高风险边界处理：有明确即时风险时，优先联系急诊、精神专科急诊、120/110、学校应急支持或当地危机入口；无明确即时风险时，不把“安全”写成长期监视和控制。
+- 下次建议复查：邀请儿童青少年精神心理、学校心理或心理咨询相关读者重点检查：这一节是否既守住自伤风险边界，又不会鼓励家长以爱和安全之名扩大控制。
+
 ## 2026-06-14：癌症与重大疾病章节出版向重写
 
 - 状态：private-source synthesis + official-source verification + medical boundary patch
