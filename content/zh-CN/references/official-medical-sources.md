@@ -136,6 +136,7 @@
 - CDC: [Signs and Symptoms of Dementia](https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html)
 - NIMH: [Depression](https://www.nimh.nih.gov/health/publications/depression)
 - NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
+- NIMH: [Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies)
 - NIMH: [My Mental Health: Do I Need Help?](https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help)
 - NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
 - WHO: [Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)

@@ -7,6 +7,29 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-13：大脑与心理健康章节心理地图深化
+
+- 状态：private-source synthesis + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据用户要求，重新参考私有素材库中“大脑与心理健康”相关结构化整理，重点吸收“心理学通识：从稳态到改变的心理地图”“抑郁症：从识别治疗到复发支持”“焦虑与情绪管理：从警报信息到行动恢复”三张卡的框架，而不是沿用原公开章的风险清单结构。本次将章节主线调整为“安全、功能、模式、支持”：先保留卒中和心理危机边界，再补入定位、稳态、图式、焦虑警报翻译、抑郁功能与未来感、儿童青少年困扰下的家长动作、关系系统、心理治疗和自助边界。
+- 使用来源：
+  - NIMH: Depression
+  - NIMH: Anxiety Disorders
+  - NIMH: Psychotherapies
+  - NIMH: My Mental Health: Do I Need Help?
+  - NIMH: Children and Mental Health
+  - WHO: Adolescent mental health
+  - NIMH: Suicide Prevention
+  - SAMHSA: 988 Suicide & Crisis Lifeline
+  - CDC: Reducing Risk for Dementia
+  - CDC: Signs and Symptoms of Dementia
+  - NIA/NIH: Cognitive Health and Older Adults
+- 处理说明：本次只吸收私有卡中的问题结构、判断框架和家庭行动模型，不搬运课程表达、讲次结构、OCR、PDF、图片、本地路径或源作者独特叙述。正文继续不提供心理诊断、量表阈值、用药建议、停药建议、治疗方案排序或儿童青少年精神心理诊断；焦虑自助和正念/呼吸/身体动作只作为低风险辅助入口，不替代专业治疗。
+- 下次建议复查：用手机连续试读本章，重点看“心理地图”是否比原来的风险清单更有深度，同时确认篇幅没有压过 Part 2 的阅读节奏。
+
 ## 2026-06-10：v0.9 P0 薄弱章节扩写与边界复查
 
 - 状态：editor feedback + source-of-truth upgrade

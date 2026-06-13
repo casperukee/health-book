@@ -836,6 +836,16 @@
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
+### NIMH：Psychotherapies
+
+- URL: https://www.nimh.nih.gov/health/topics/psychotherapies
+- 机构：National Institute of Mental Health, NIH
+- 类型：美国官方心理健康资料
+- 用途：校准心理治疗的公众表述，避免把心理治疗简化为聊天、开导或自助技巧。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-13
+
 ### NIMH：My Mental Health: Do I Need Help?
 
 - URL: https://www.nimh.nih.gov/health/publications/my-mental-health-do-i-need-help
