@@ -151,17 +151,30 @@
 
 ## 癌症筛查和重大疾病
 
+- NCI: [What Is Cancer?](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)
+- CDC: [Preventing Cancer](https://www.cdc.gov/cancer/prevention/index.html)
+- CDC: [Cancer Risk Factors](https://www.cdc.gov/cancer/risk-factors/index.html)
+- CDC: [Healthy Choices](https://www.cdc.gov/cancer/prevention/healthy-choices.html)
 - NCI: [Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)
 - 国家卫生健康委员会: [结直肠癌筛查与早诊早治方案（2024 年版）](https://www.jdocn.com/uploads/20241224/7733c5c69f83514903966b236653e4e0.pdf)
 - NCI: [What Cancer Screening Tests Check for Cancer?](https://www.cancer.gov/about-cancer/screening/screening-tests)
 - CDC: [Cancer Screening Tests](https://www.cdc.gov/cancer/prevention/screening.html)
+- USPSTF: [Breast Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/breast-cancer-screening)
+- USPSTF: [Cervical Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening)
+- USPSTF: [Colorectal Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/colorectal-cancer-screening)
+- USPSTF: [Lung Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/lung-cancer-screening)
+- USPSTF: [Prostate Cancer: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/prostate-cancer-screening)
+- NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
+- NCI: [Biomarker Testing for Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment)
 - NCI: [Types of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types)
 - NCI: [Treatment for Cancer](https://www.cancer.gov/about-cancer/treatment)
 - NCI: [Side Effects of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/side-effects)
+- NCI: [Cancer Clinical Trial Information for Patients and Caregivers](https://www.cancer.gov/research/participate/clinical-trials)
+- NCI: [Palliative Care in Cancer](https://www.cancer.gov/about-cancer/advanced-cancer/care-choices/palliative-care-fact-sheet)
 - NCI: [Support for Caregivers of Cancer Patients](https://www.cancer.gov/about-cancer/coping/caregiver-support)
 - NCI: [Financial Toxicity and Cancer Treatment](https://www.cancer.gov/about-cancer/managing-care/track-care-costs/financial-toxicity-pdq)
 
-使用说明：这些资料用于校准癌症筛查收益与伤害、诊断治疗边界、治疗副作用、照护者支持和重大疾病经济压力。正文不应给出个体化筛查计划、治疗优先级、费用决策或替代疗法建议。
+使用说明：这些资料用于校准癌症基础概念、癌症预防、筛查收益与伤害、常见癌种筛查讨论起点、诊断治疗边界、肿瘤标志物和生物标志物检测、治疗副作用、临床试验、缓和医疗、照护者支持和重大疾病经济压力。正文不应给出个体化筛查计划、诊断结论、治疗优先级、临床试验推荐、费用决策或替代疗法建议。
 
 ## 家庭测量与慢病记录
 

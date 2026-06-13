@@ -434,9 +434,9 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症资料
 - 用途：校准循环肿瘤标志物不适合作为普通人癌症筛查工具的边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-13
 
 ## 筛查与体检项目选择
 
@@ -456,9 +456,9 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方癌症筛查资料
 - 用途：校准乳腺癌、宫颈癌、结直肠癌和肺癌高风险筛查作为有证据筛查入口的边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### USPSTF：Breast Cancer: Screening
 
@@ -466,9 +466,9 @@
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
 - 用途：校准平均风险女性乳腺癌筛查年龄和频率的公众表述。
-- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### USPSTF：Cervical Cancer: Screening
 
@@ -476,9 +476,9 @@
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
 - 用途：校准宫颈癌筛查年龄、方法和不要过度筛查的边界。
-- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### USPSTF：Colorectal Cancer: Screening
 
@@ -486,9 +486,9 @@
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
 - 用途：校准结直肠癌筛查起始年龄、方法选择和高龄个体化决策边界。
-- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### USPSTF：Lung Cancer: Screening
 
@@ -496,9 +496,9 @@
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
 - 用途：校准低剂量 CT 肺癌筛查只适用于特定年龄和吸烟史高风险人群的边界。
-- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### USPSTF：Prostate Cancer: Screening
 
@@ -506,9 +506,9 @@
 - 机构：U.S. Preventive Services Task Force
 - 类型：独立预防服务建议
 - 用途：校准 PSA 筛查不是普通男性自动必查项，需要结合年龄、症状、家族史和医生判断的边界。
-- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### USPSTF：Osteoporosis to Prevent Fractures: Screening
 
@@ -536,9 +536,9 @@
 - 机构：国家卫生健康委员会
 - 类型：中国官方筛查与早诊早治方案
 - 用途：校准中国语境下结直肠癌高风险人群、筛查起始年龄和筛查方法的边界。
-- 已用于：`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ## 代谢、四高与心血管风险
 
@@ -928,6 +928,46 @@
 
 ## 癌症筛查和重大疾病
 
+### NCI：What Is Cancer?
+
+- URL: https://www.cancer.gov/about-cancer/understanding/what-is-cancer
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症基础资料
+- 用途：校准癌症、良性和恶性肿瘤、转移、基因变化、年龄相关风险和肿瘤微环境的基础表述。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
+
+### CDC：Preventing Cancer
+
+- URL: https://www.cdc.gov/cancer/prevention/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方癌症预防资料
+- 用途：校准癌症预防、疫苗、筛查和健康选择相关公众健康边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
+
+### CDC：Cancer Risk Factors
+
+- URL: https://www.cdc.gov/cancer/risk-factors/index.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方癌症风险因素资料
+- 用途：校准烟草、饮酒、感染、日晒、肥胖、家族史等常见癌症风险因素的公众健康表达。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
+
+### CDC：Healthy Choices
+
+- URL: https://www.cdc.gov/cancer/prevention/healthy-choices.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方癌症预防生活方式资料
+- 用途：校准不吸烟、少饮酒、防晒、身体活动、体重管理和疫苗等低风险长期健康行动。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
+
 ### NCI：Cancer Screening Overview
 
 - URL: https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq
@@ -936,7 +976,7 @@
 - 用途：校准癌症筛查的收益、局限、假阳性、假阴性和过度诊断边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-02
+- 最后复查：2026-06-14
 
 ### NCI：What Cancer Screening Tests Check for Cancer?
 
@@ -946,7 +986,7 @@
 - 用途：提供常见癌症筛查测试入口和患者教育边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-02
+- 最后复查：2026-06-14
 
 ### NCI：Questions and Answers about Multi-Cancer Detection Tests
 
@@ -956,7 +996,7 @@
 - 用途：校准多癌种检测、液体活检类早筛产品仍需研究验证、阳性后需要后续诊断路径的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-02
+- 最后复查：2026-06-14
 
 ### NCI：Tests and Procedures Used to Diagnose Cancer
 
@@ -966,7 +1006,7 @@
 - 用途：校准有症状或筛查异常时进入诊断评估，而不是继续按普通筛查处理的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-02
+- 最后复查：2026-06-14
 
 ### CDC：Cancer Screening Tests
 
@@ -976,7 +1016,7 @@
 - 用途：校准公众癌症筛查测试入口和筛查不是越多越好的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-02
+- 最后复查：2026-06-14
 
 ### NCI：Types of Cancer Treatment
 
@@ -986,7 +1026,7 @@
 - 用途：校准癌症治疗类型和治疗决策需由专业团队判断的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
 
 ### NCI：Treatment for Cancer
 
@@ -996,7 +1036,17 @@
 - 用途：提供癌症治疗、随访和患者沟通的资料入口。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
+
+### NCI：Biomarker Testing for Cancer Treatment
+
+- URL: https://www.cancer.gov/about-cancer/treatment/types/biomarker-testing-cancer-treatment
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症治疗资料
+- 用途：校准生物标志物检测与靶向、免疫等治疗选择之间的关系，以及检测结果不等于一定有可用治疗的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
 
 ### NCI：Side Effects of Cancer Treatment
 
@@ -1006,7 +1056,27 @@
 - 用途：校准癌症治疗副作用应由医疗团队管理、治疗中异常情况需及时联系医疗团队的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
+
+### NCI：Cancer Clinical Trial Information for Patients and Caregivers
+
+- URL: https://www.cancer.gov/research/participate/clinical-trials
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症临床试验患者资料
+- 用途：校准临床试验是正规医学研究的一部分，但不等同于保证疗效或适合所有患者的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
+
+### NCI：Palliative Care in Cancer
+
+- URL: https://www.cancer.gov/about-cancer/advanced-cancer/care-choices/palliative-care-fact-sheet
+- 机构：National Cancer Institute, NIH
+- 类型：美国官方癌症缓和医疗资料
+- 用途：校准缓和医疗可以和抗癌治疗并行、重点处理症状和生活质量，而不是等同于放弃治疗的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-14
 
 ### NCI：Support for Caregivers of Cancer Patients
 
@@ -1016,7 +1086,7 @@
 - 用途：校准癌症家庭照护、照护者压力、远程照护和照护分工相关表述。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
 
 ### NCI：Financial Toxicity and Cancer Treatment
 
@@ -1026,7 +1096,7 @@
 - 用途：校准癌症治疗相关经济压力、费用记录和家庭沟通边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
 
 ## 家庭测量与慢病记录
 

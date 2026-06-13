@@ -7,6 +7,41 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-14：癌症与重大疾病章节出版向重写
+
+- 状态：private-source synthesis + official-source verification + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+  - `content/zh-CN/updates/book-blueprint.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据用户补充的私有素材和微信读书编辑反馈，将癌症章继续从“主书化短章”扩展为出版阅读方向长章。新稿以中年人自己和父母老人两条家庭暗线贯穿，避免机械工具页感；前半部分加入癌症基础理解、良恶性肿瘤、转移、基因变化、年龄相关、敌我难分、异质性、耐药和肿瘤微环境等读者先理解癌症所需的科普；中段重写降低可改变风险、筛查收益与伤害、常见癌种筛查讨论起点和异常报告诊断链；后段重写确诊后的病理/分期/生物标志物画像、治疗目标沟通、第二意见、临床试验、父母老人生活质量、缓和医疗、副作用边界、家庭心理支持、治疗相关费用压力和照护分工。正文适度加入“我更倾向于”的作者判断，但继续不制造医生权威身份。
+- 使用来源：
+  - NCI: What Is Cancer?
+  - CDC: Preventing Cancer
+  - CDC: Cancer Risk Factors
+  - CDC: Healthy Choices
+  - CDC: Cancer Screening Tests
+  - NCI: Cancer Screening Overview
+  - NCI: What Cancer Screening Tests Check for Cancer?
+  - NCI: Questions and Answers about Multi-Cancer Detection Tests
+  - NCI: Tests and Procedures Used to Diagnose Cancer
+  - NCI: Tumor Markers
+  - NCI: Biomarker Testing for Cancer Treatment
+  - NCI: Types of Cancer Treatment
+  - NCI: Side Effects of Cancer Treatment
+  - NCI: Cancer Clinical Trial Information for Patients and Caregivers
+  - NCI: Palliative Care in Cancer
+  - NCI: Support for Caregivers of Cancer Patients
+  - NCI: Financial Toxicity and Cancer Treatment
+  - USPSTF: Breast Cancer: Screening
+  - USPSTF: Cervical Cancer: Screening
+  - USPSTF: Colorectal Cancer: Screening
+  - USPSTF: Lung Cancer: Screening
+  - USPSTF: Prostate Cancer: Screening
+- 处理说明：本次参考私有素材库中《众病之王：癌症传》《癌症真相》《110 众病之王的解决方案》和癌症重大疾病专题索引，只吸收癌症基础理解、历史感、治疗演进、误区结构、筛查取舍和家庭协作框架；不搬运原文、课程结构、脑图、图片、私有文本、PDF 或本地路径。正文继续不提供个体化筛查计划、诊断结论、治疗方案排序、用药建议、费用决策、临床试验推荐或替代疗法建议；常见筛查表只作为与医生讨论的起点，不作为中国读者个人处方。
+- 下次建议复查：请肿瘤科、全科/家庭医生或体检中心医生重点看癌症基础科普、筛查讨论起点、肿瘤标志物、父母老人筛查和治疗目标表述是否稳妥；请普通中年读者重点看这一章是否能从头读到尾、是否减少恐惧而不诱导自诊。
+
 ## 2026-06-13：新增儿童与青少年健康独立章
 
 - 状态：private-source synthesis + medical boundary patch
