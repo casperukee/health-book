@@ -201,6 +201,7 @@
 - HealthyChildren.org/AAP: [Teen](https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx)
 - HealthyChildren.org/AAP: [Health Issues](https://www.healthychildren.org/English/health-issues/Pages/default.aspx)
 - National Eye Institute: [Eye Health Information](https://www.nei.nih.gov/eye-health-information)
+- MedlinePlus: [Eye Emergencies](https://medlineplus.gov/ency/article/000054.htm)
 - NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
 - NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
 

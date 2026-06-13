@@ -7,6 +7,29 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-14：专科问题章节出版向重写
+
+- 状态：private-source synthesis + official-source verification + medical boundary patch
+- 位置：
+  - `content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+  - `content/zh-CN/updates/book-blueprint.md`
+  - `content/zh-CN/updates/writing-packets/specialty-care-map.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：根据用户要求继续下钻专科医学私有分卡，将专科章从“常见专科入口清单”重写为出版阅读方向的家庭判断章。新稿主线改为专科问题最容易被忍耐、猜测、羞耻和经验拖住；用女性/孕产、眼科、泌尿、骨科和其他专科五类代表场景展示同一个判断动作：先看危险信号，再看功能影响，整理时间线，门诊问清下一步。女性和孕产部分加入生命周期、去羞耻、去道德化、产后不只看伤口、更年期不是只能忍；眼科强调视觉功能；泌尿强调生活质量和排尿记录；骨科强调行动能力、神经信号和长期康复边界。儿童青少年已独立成章，本章只保留入口提示，避免重复展开。
+- 使用来源：
+  - MedlinePlus: Choosing a Doctor or Health Care Service
+  - AHRQ: Be More Engaged in Your Healthcare
+  - HealthIT.gov: The Guide to Getting and Using Your Health Records
+  - CDC HEAR HER: Urgent Maternal Warning Signs and Symptoms
+  - National Eye Institute: Eye Health Information
+  - MedlinePlus: Eye Emergencies
+  - NIDDK/NIH: Bladder Control Problems
+  - NIAMS/NIH: Back Pain
+  - NIMH: Children and Mental Health
+- 处理说明：本次只提供家庭识别边界、整理症状、选择入口、陪诊记录和门诊提问，不提供专科诊断、检查选择、手术判断、孕产处理、用药建议、康复处方、个体化运动方案、生育治疗方案或妇科治疗取舍。私有库仅作为结构和场景启发，公开稿不保留课程名、讲次、OCR、PDF、图片、本地路径或 Obsidian 双链。
+- 下次建议复查：邀请妇产科、眼科、泌尿、骨科/康复和全科相关读者检查：代表场景是否足够贴近普通家庭，同时是否避免读者误读为自诊或治疗指南。
+
 ## 2026-06-14：大脑与心理健康章节儿童青少年段落关系边界修订
 
 - 状态：reader-feedback patch + official-source verification + medical boundary patch

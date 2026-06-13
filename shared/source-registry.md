@@ -52,7 +52,7 @@
 - 用途：校准孕期和产后一年内需要立即就医的危险信号。
 - 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
 - 复查频率：3-6 个月
-- 最后复查：2026-06-10
+- 最后复查：2026-06-14
 
 ### CDC：About Sepsis
 
@@ -1212,7 +1212,7 @@
 - 用途：校准获取、使用和理解个人健康记录的公众资料。
 - 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-card.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/zh-CN/handbook/templates/chronic-marker-log.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ## 专科就医与按需资料入口
 
@@ -1224,7 +1224,7 @@
 - 用途：校准选择医疗服务、专科就医和患者资料入口。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
 
 ### MedlinePlus：Choosing a primary care provider
 
@@ -1244,7 +1244,7 @@
 - 用途：校准就医前、中、后的提问、记录和参与医疗团队的边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
 
 ### National Eye Institute：Eye Health Information
 
@@ -1254,7 +1254,7 @@
 - 用途：校准眼科资料入口、眼病信息和视觉健康边界。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
 
 ### MedlinePlus：Eye Emergencies
 
@@ -1264,7 +1264,7 @@
 - 用途：校准眼痛、视力下降、眼部外伤、红眼伴视力变化等需要及时医学判断的边界。
 - 已用于：`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
-- 最后复查：2026-06-04
+- 最后复查：2026-06-14
 
 ### NIDDK/NIH：Bladder Control Problems
 
@@ -1274,7 +1274,7 @@
 - 用途：校准膀胱控制、尿失禁和泌尿生活质量资料入口。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
 
 ### NIAMS/NIH：Back Pain
 
@@ -1284,7 +1284,7 @@
 - 用途：校准腰背痛、运动系统症状和就医边界资料入口。
 - 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
-- 最后复查：2026-06-01
+- 最后复查：2026-06-14
 
 ### MedlinePlus：Children's Health
 
