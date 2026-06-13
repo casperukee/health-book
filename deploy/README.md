@@ -134,12 +134,13 @@ deploy/nginx-health-book.conf
 MIRROR_SSH_KEY
 ```
 
-内容是允许登录 `root@47.250.208.249` 的私钥。
+内容是允许登录 `root@<mirror-host>` 的私钥。
 
 GitHub repository variables:
 
 ```text
 MIRROR_DEPLOY_ENABLED=true
+MIRROR_HOST=<mirror-host>
 ```
 
 未启用该变量时，镜像部署 job 不会运行。

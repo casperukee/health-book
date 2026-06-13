@@ -10,13 +10,13 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  MIRROR_HOST: 47.250.162.60
+  MIRROR_HOST: ${{ vars.MIRROR_HOST }}
   MIRROR_USER: root
   MIRROR_ROOT: /srv/health-book
 
 jobs:
   deploy:
-    if: ${{ vars.MIRROR_DEPLOY_ENABLED == 'true' }}
+    if: ${{ vars.MIRROR_DEPLOY_ENABLED == 'true' && vars.MIRROR_HOST != '' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
