@@ -6,6 +6,8 @@ The Chinese title, **健康有谱**, roughly means “having a clearer sense of 
 
 This project is **not medical advice**. It does not diagnose, prescribe, recommend stopping medication, or replace professional care. When warning signs appear, readers should contact local emergency services, urgent care, or qualified clinicians.
 
+Current preview: `v0.9-preview`. The Chinese source edition is the most complete version; English pages remain a limited preview.
+
 ## Read Online
 
 - Chinese mirror for mainland-friendly reading: [health.mindarae.com](https://health.mindarae.com)
@@ -50,7 +52,7 @@ The book is designed as a **family health decision support layer**, not as a cli
 
 The Chinese source edition currently includes:
 
-- a structured book on healthspan, risk, checkup markers, metabolic health, cardiovascular risk, sleep, mental health, cancer screening boundaries, elder care, and health misinformation;
+- a structured book on healthspan, risk, checkup markers, metabolic health, cardiovascular risk, sleep, mental health, children and adolescents, cancer and major illness, specialty care, family health operations, elder care, and health misinformation;
 - practical handbook pages for warning signs, symptoms, doctor visits, department navigation, checkups, family health cards, health records, chronic marker logs, and health product checks;
 - a source registry, review log, changelog, roadmap, and correction workflow.
 

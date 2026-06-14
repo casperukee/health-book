@@ -42,8 +42,8 @@ npm run docs:build
 Example:
 
 ```bash
-git tag -a v0.8-preview -m "Health Youpu v0.8 preview"
-git push origin v0.8-preview
+git tag -a v0.9-preview -m "Health Youpu v0.9 preview"
+git push origin v0.9-preview
 ```
 
 ## Correction Releases

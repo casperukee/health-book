@@ -33,7 +33,7 @@ features:
 
 ## 当前状态
 
-项目处于 v0.8 小范围灰度阶段。中文主书和核心手册页已经可连续试读，本轮重点强化了高风险医学边界、症状分流、筛查与诊断边界和老年照护提醒。英文版目前只保留结构占位。
+项目处于 v0.9-preview 小范围试读阶段。中文主书已经从“工具箱”进一步升级为“给全家健康守门人的判断指南”，本轮重点重写了大脑与心理健康、儿童与青少年健康、癌症与重大疾病、专科问题等高风险章节，并继续强化症状分流、体检/筛查边界、就医准备、家庭协作和健康信息防御。英文版目前保留少量预览页，用于展示项目方向和医学边界。
 
 ## 支持开源
 
@@ -56,7 +56,7 @@ features:
 - [医疗边界与危险信号](content/zh-CN/book/medical-boundaries.md)
 - [中文主书目录](content/zh-CN/book/README.md)
 - [手册与模板](content/zh-CN/handbook/README.md)
-- [v0.8 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
+- [v0.9 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](https://health.mindarae.com)
 - [GitHub 开源项目](https://github.com/casperukee/health-book)
 

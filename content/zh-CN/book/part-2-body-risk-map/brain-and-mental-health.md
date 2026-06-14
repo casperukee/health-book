@@ -75,7 +75,7 @@ evidence_status: needs_periodic_review
   </section>
 </div>
 
-如果你现在主要关心情绪、焦虑、压力、失眠、自伤风险和低风险稳定动作，可以直接看手册页 [心理健康风险识别与自我照护](../../handbook/playbooks/mental-health-check-in.md)。
+需要更短的工具页时，可以把 [心理健康风险识别与自我照护](../../handbook/playbooks/mental-health-check-in.md) 和本章配合使用：正文负责理解安全、功能、模式和支持系统，手册页负责把风险识别、自我观察和求助边界压缩成可操作清单。
 
 ## 定位：先把问题从羞耻里拿出来
 
@@ -484,6 +484,7 @@ NIMH 的儿童心理健康资料提醒，如果孩子的情绪或行为持续数
 | 身体症状明显，尚未排除身体问题 | 全科/普通内科或相应专科 |
 
 如果不确定先挂哪里，可以先看 [急诊、门诊和挂号科室怎么选](../../handbook/playbooks/department-navigation-guide.md)。
+如果只是想把眼前情况先压缩成一页风险判断和观察动作，可以回到 [心理健康风险识别与自我照护](../../handbook/playbooks/mental-health-check-in.md)。
 
 ## 本章带走
 
