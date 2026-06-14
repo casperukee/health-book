@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: reading-health-news
 en_path: ../../../en/book/part-4-health-information-defense/reading-health-news.md
 translation_status: source
-last_reviewed: 2026-06-04
+last_reviewed: 2026-06-14
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -25,18 +25,23 @@ evidence_status: stable
 
 <div class="decision-grid">
   <section class="decision-card decision-card-green">
-    <div class="decision-label">只是了解</div>
+    <div class="decision-label">收藏</div>
     <h3>可以收藏，不急着改变生活</h3>
     <p>解释一个概念、介绍一个公共健康建议、没有让你立刻花钱或改变治疗。先收藏，之后看是否有权威来源支持。</p>
   </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">关系到自己</div>
-    <h3>查权威资料，带问题问医生</h3>
-    <p>涉及你的疾病、用药、筛查、父母慢病或孩子健康。先查官方机构、专业协会或医院资料，再写进就医问题清单。</p>
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">查证</div>
+    <h3>先找原始来源和权威资料</h3>
+    <p>涉及饮食禁忌、食品安全、筛查、疾病风险或新研究时，不只看二次转述，先找日期、原文和官方机构或专业协会资料。</p>
   </section>
-  <section class="decision-card decision-card-red decision-card-wide">
-    <div class="decision-label">催你高风险行动</div>
-    <h3>先按暂停键</h3>
+  <section class="decision-card decision-card-yellow">
+    <div class="decision-label">问医生</div>
+    <h3>关系到自己，就写成问题</h3>
+    <p>涉及你的疾病、用药、筛查、父母慢病、孩子健康、孕产或重大疾病时，把它变成就医问题，而不是自己立刻执行。</p>
+  </section>
+  <section class="decision-card decision-card-red">
+    <div class="decision-label">暂停</div>
+    <h3>催你高风险行动，先停手</h3>
     <p>让你停药、换药、拒绝治疗、推迟复查、购买高价检测/补剂/设备，或者承诺逆转、治愈、抗衰、排毒。这类信息必须提高证据要求。</p>
   </section>
 </div>
@@ -48,14 +53,14 @@ evidence_status: stable
 | 问题 | 一眼看哪里 |
 | --- | --- |
 | 谁说的？ | 官方机构、专业协会、医院大学、医学期刊，还是营销号、带货号、匿名剪辑号 |
-| 它想干什么？ | 提供信息、建议问医生，还是导向产品、课程、私域、检测、会员 |
+| 它想干什么？ | 提供信息、建议问医生，还是导向产品、训练营、私域、检测、会员 |
 | 研究对象是谁？ | 细胞、动物、健康人、病人、老人、儿童、孕妇，不能随便互推 |
 | 看到的是什么结果？ | 是真实健康结果，还是指标、通路、菌群、睡眠分数这类中间数字 |
 | 我现在要不要行动？ | 收藏、查证、问医生，还是停止执行并远离购买入口 |
 
 MedlinePlus 对健康信息评估的建议很朴素：先问问题，再在依赖它之前和医生讨论它是否适合你。这个原则比“看起来像科普”可靠得多。
 
-## 最常见的四种变形
+## 最常见的五种变形
 
 **标题变形。** 标题为了传播，常常比研究本身更确定、更刺激。看到“颠覆认知”“首次证实”“医生不会告诉你”，先别跟着情绪走。
 
@@ -64,6 +69,8 @@ MedlinePlus 对健康信息评估的建议很朴素：先问问题，再在依�
 **中间指标变长期获益。** 某个指标下降、某条通路激活、某个菌群变化、某个设备分数改善，不等于心梗减少、癌症死亡减少、认知保持或生活质量提高。
 
 **研究对象被偷换。** 动物实验、细胞实验、少量志愿者、特定疾病人群，不能直接外推到老人、儿童、孕妇、慢病患者或正在用药的人。
+
+**检出变风险。** 食品安全和环境健康内容常把“检测到某物质”直接说成“实际有害”。真正要看的是剂量、暴露频率、监管限值、适用人群和真实风险排序。
 
 ## 遇到“最新研究”，这样慢下来
 
@@ -115,7 +122,7 @@ MedlinePlus 对健康信息评估的建议很朴素：先问问题，再在依�
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-04，本章主要参考：
+截至 2026-06-14，本章主要参考：
 
 - 国家卫生健康委: [健康中国行动](https://www.nhc.gov.cn/)
 - 国家药监局政务服务平台: [药品、医疗器械和化妆品相关查询入口](https://zwfw.nmpa.gov.cn/)

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: devices-tests-and-longevity-marketing
 en_path: ../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-14
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -33,6 +33,33 @@ evidence_status: needs_periodic_review
 
 如果你已经有症状或指标异常，先处理身体问题，再研究产品。工具只有在帮助你更清楚行动时才有价值。
 
+## 四层判断：能测、测准、有用、值得
+
+健康设备和检测项目最容易把四件事揉在一起。拆开看，会清楚很多。
+
+<div class="decision-grid">
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">能测</div>
+    <h3>它真的测到了声称的东西吗？</h3>
+    <p>传感器、算法估算、问卷、家用采样和实验室检测不是一回事。先弄清楚它测的是身体信号、间接指标，还是模型推算。</p>
+  </section>
+  <section class="decision-card decision-card-yellow">
+    <div class="decision-label">测准</div>
+    <h3>准确性适合用来做决定吗？</h3>
+    <p>有些数字适合看趋势，不适合诊断；有些检测在实验室里准确，但普通人拿到结果后很难正确解释。</p>
+  </section>
+  <section class="decision-card decision-card-green">
+    <div class="decision-label">有用</div>
+    <h3>结果能带来更好的行动吗？</h3>
+    <p>如果测完只是焦虑、反复加测或购买套餐，却不能改变医生认可的复查、就医、生活方式或治疗计划，价值就很有限。</p>
+  </section>
+  <section class="decision-card decision-card-red">
+    <div class="decision-label">值得</div>
+    <h3>它有没有替代更重要的事？</h3>
+    <p>如果产品让你少复查、少看医生、少运动睡觉，或者进入高价会员和长期续费，就不是单纯“买不买”的问题。</p>
+  </section>
+</div>
+
 ## 科技感最容易遮住的几个问题
 
 第一个误解，是把“有数字”当成“有医学价值”。很多数字只是估算、趋势或行为提醒，不等于诊断。
@@ -42,6 +69,8 @@ evidence_status: needs_periodic_review
 第三个误解，是把检测当成安心。检测可能带来假阳性、假阴性、过度诊断、焦虑和后续检查风险。
 
 第四个误解，是把抗衰机制当成个人处方。通路、细胞、动物、短期指标和商业产品之间有很长距离。
+
+抗衰产品还要额外加一层谨慎。正在研究的机制，不等于健康人可以长期自用；药物、保健品、生活方式和医疗项目也不能混成一类。一个项目越承诺延寿、逆龄、清除衰老细胞或重启代谢，越应该要求长期人体获益、安全性和利益冲突说明。
 
 ## 购买前五问
 
@@ -119,7 +148,7 @@ evidence_status: needs_periodic_review
 
 ## 付款前的冷静清单
 
-- 写下产品最终要你买什么：硬件、检测、课程、会员、疗程还是补剂；
+- 写下产品最终要你买什么：硬件、检测、训练营、会员、疗程还是补剂；
 - 查它在中国属于药品、医疗器械、保健食品、普通食品还是普通服务，但不要把“注册/备案”当成“有效”；
 - 问清测量对象、准确性、适用人群和结果解释方式；
 - 先问“测完我会做什么”，再决定要不要测；
@@ -130,7 +159,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-14，本章主要参考：
 
 - 国家药监局政务服务平台: [境内医疗器械注册查询](https://app.gjzwfw.gov.cn/jmopen/webapp/html5/apigcylqxcpzccx/index.html)
 - 国家药监局: [医疗器械唯一标识数据库](https://udi.nmpa.gov.cn/)

@@ -1,6 +1,6 @@
 # 来源登记
 
-本页维护公开项目使用的权威资料来源。私有资料只作为写作参考，不登记为公开可点击来源。
+本页维护公开项目使用的权威资料来源。非公开参考资料只作为写作参考，不登记为公开可点击来源。
 
 ## 急症与危险信号
 
@@ -165,6 +165,16 @@
 - 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
+
+### MedlinePlus：Caregiver Health
+
+- URL: https://medlineplus.gov/caregiverhealth.html
+- 机构：National Library of Medicine, NIH
+- 类型：美国官方患者教育资料聚合页
+- 用途：校准家庭照护者压力、照护者健康风险、寻求帮助和分工支持相关表述。
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 复查频率：12 个月
+- 最后复查：2026-06-14
 
 ## 体检指标与实验室检测
 

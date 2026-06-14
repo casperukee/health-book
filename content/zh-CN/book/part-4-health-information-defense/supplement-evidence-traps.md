@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: supplement-evidence-traps
 en_path: ../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md
 translation_status: source
-last_reviewed: 2026-06-02
+last_reviewed: 2026-06-14
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -23,19 +23,36 @@ evidence_status: needs_periodic_review
 
 > 购买前，普通家庭怎样判断一个保健品的风险级别？
 
+我的判断会偏保守：凡是把保健品说成治疗方案、让家人推迟复查、绕开医生、高价连续购买，或者把质疑者说成“不懂前沿”的营销，都不适合成为家庭健康决策的入口。
+
 ## 先看它有没有越界
 
 保健品最危险的地方，不是“没那么有用”，而是悄悄跨过边界。
 
 在中国语境里，先记住一句最硬的边界：**保健食品不是药物，不能代替药物治疗疾病。** 包装上有“小蓝帽”、注册号或备案号，只说明它属于特定监管类别，不等于能治疗高血压、糖尿病、肿瘤、失眠、肝肾问题或其他疾病。
 
-| 宣称类型 | 风险判断 |
-|---|---|
-| 补充某种营养素 | 先看是否真的缺乏、剂量是否安全 |
-| 改善疲劳、睡眠、免疫、精力 | 需要看人体证据和是否掩盖疾病 |
-| 降糖、降压、护肝、通血管、抗癌 | 已接近治疗宣称，证据门槛应显著提高 |
-| 替代药物、停药、不开刀、不化疗 | 高风险，不能按普通消费处理 |
-| 限时高价、会员返利、拉人头 | 同时进入健康风险和消费风险 |
+<div class="decision-grid">
+  <section class="decision-card decision-card-green">
+    <div class="decision-label">营养补充</div>
+    <h3>先看是否真的缺乏</h3>
+    <p>维生素、矿物质、蛋白粉、膳食纤维这类产品，重点看适用人群、剂量、安全上限和是否需要医生确认。</p>
+  </section>
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">改善状态</div>
+    <h3>别把疲劳、睡眠和免疫全交给产品</h3>
+    <p>如果宣称改善疲劳、睡眠、精力或免疫，先看人体证据，也要小心它掩盖贫血、甲状腺、睡眠障碍、焦虑抑郁或慢病问题。</p>
+  </section>
+  <section class="decision-card decision-card-yellow">
+    <div class="decision-label">接近治疗</div>
+    <h3>越像药，证据门槛越高</h3>
+    <p>降糖、降压、护肝、通血管、抗癌这类说法已经接近治疗宣称，不能只看体验、机制和广告截图。</p>
+  </section>
+  <section class="decision-card decision-card-red">
+    <div class="decision-label">高风险</div>
+    <h3>替代药物、停药和拉人头要阻断</h3>
+    <p>如果要求停药、不开刀、不化疗，或者出现限时高价、会员返利、拉人头，就同时进入医疗风险和消费风险。</p>
+  </section>
+</div>
 
 越像治疗，越不能只按食品或普通消费看。
 
@@ -49,7 +66,7 @@ evidence_status: needs_periodic_review
 
 任何一个问题答不清，就先暂停购买，把产品名称、成分、宣称、价格和销售话术写进 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md)。争论“有没有用”之前，先确认它会不会让家庭承担不必要的医疗风险和消费风险。
 
-## 四个常见证据陷阱
+## 五个常见证据陷阱
 
 ### 陷阱一：把机制当疗效
 
@@ -75,7 +92,13 @@ evidence_status: needs_periodic_review
 
 “有论文”只是起点，不是结论。
 
-### 陷阱四：把天然当安全
+### 陷阱四：把研究材料当市售产品
+
+某个分子、某个剂量、某种纯度、某个研究场景里出现信号，不等于货架上的复方胶囊就是同一个东西。
+
+保健品营销很擅长把实验室里的可能性搬到购物车里。真正要问的是：市售产品的成分、剂量、纯度、分子形态、质量控制和研究材料是不是一致？
+
+### 陷阱五：把天然当安全
 
 天然不等于安全。草药、植物提取物、维生素、矿物质和运动补剂都可能产生副作用，也可能影响处方药、手术出血风险、肝肾功能、血糖血压或精神状态。
 
@@ -133,7 +156,7 @@ evidence_status: needs_periodic_review
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-02，本章主要参考：
+截至 2026-06-14，本章主要参考：
 
 - 市场监管总局: [保健食品标注警示用语指南](https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html)
 - 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)

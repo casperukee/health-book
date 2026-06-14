@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: doctor-visit-preparation
 en_path: ../../../en/book/part-3-family-health-os/doctor-visit-preparation.md
 translation_status: source
-last_reviewed: 2026-06-04
+last_reviewed: 2026-06-14
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -19,17 +19,15 @@ evidence_status: stable
 
 医生问什么时候开始，家属说“挺久了”；问吃什么药，老人说“白色那片”；问有没有报告，大家开始翻聊天记录；门诊快结束，才想起来最想问的问题。
 
-这不是谁不认真，而是就医本来就是高压场景。越高压，越需要提前准备。
+问题不在于谁不认真。就医本来就是高压场景，越高压，越需要提前准备。
 
-就医前准备可以拆成四包：症状时间线、既往资料、用药过敏和问题清单。它不教你替医生诊断，而是让医生更快看到真实情况。
-
-就医准备不是替医生判断，而是把事实、资料和问题带进诊室。
+就医前准备的最小目标，是把四包东西带进诊室：症状时间线、既往资料、用药过敏和问题清单。它不教你替医生诊断，而是让医生更快看到真实情况。
 
 ## 先确认是不是该准备门诊
 
 如果你面对的是胸痛、卒中样症状、严重呼吸困难、意识改变、无法控制出血、自伤风险等情况，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [危险信号速查](../../handbook/playbooks/red-flags.md)。急症时，清单服务于带上最小信息，不服务于把资料整理漂亮。
 
-如果已经确定是门诊、复诊或陪诊，再进入本章更合适。更短的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
+如果已经确定是门诊、复诊或陪诊，比如陪父母复查、带孩子看反复不适、自己拿体检异常去咨询医生，再进入本页更合适。更短的可复制版本见 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md)。
 
 ## 准备资料，不是提前查病名
 
@@ -141,7 +139,7 @@ evidence_status: stable
 - 问清复查和用药；
 - 回家后把医嘱写进家庭健康档案。
 
-陪诊不是抢话，而是让真实信息不丢。
+陪诊不是抢话，而是让真实信息不丢。老人能说的，让老人先说；孩子能描述的，也尽量让孩子先说。陪诊人补充时间线、用药、既往资料和医生听不清的细节，不要把患者本人变成“被讨论的问题”。
 
 ## 危险信号先就医，不要为了整理而延误
 
@@ -171,7 +169,7 @@ evidence_status: stable
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-01，本章主要参考：
+截至 2026-06-14，本章主要参考：
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
 - MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)

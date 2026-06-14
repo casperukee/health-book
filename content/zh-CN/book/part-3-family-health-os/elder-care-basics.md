@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: elder-care-basics
 en_path: ../../../en/book/part-3-family-health-os/elder-care-basics.md
 translation_status: source
-last_reviewed: 2026-06-04
+last_reviewed: 2026-06-14
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -137,14 +137,47 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 不需要把父母生活变成检查表。每月 15 分钟，轻轻问一次四件事就够。
 
-| 这件事 | 问什么 | 如果有变化 |
-| --- | --- | --- |
-| 行动 | 最近有没有差点摔、走慢、不敢出门、夜里起身不稳？ | 先改环境；跌倒、疼痛、不能负重或突然变差时联系医生 |
-| 认知 | 做饭、用药、付费、出门、找路、接电话有没有明显出错？ | 记录例子和时间；突然糊涂先就医，逐渐影响生活也安排评估 |
-| 用药 | 药有没有新增、停用、漏服、重复吃？有没有保健品或草药？ | 更新药单；带给医生或药师，不自行停药换药 |
-| 生活 | 吃睡排、洗澡如厕、买菜做饭、社交和心情有没有不同？ | 看是否需要照护支持、复查、心理支持或家庭分工调整 |
+<div class="decision-grid">
+  <section class="decision-card decision-card-red">
+    <div class="decision-label">行动</div>
+    <h3>最近有没有差点摔、走慢、不敢出门？</h3>
+    <p>先改环境；如果已经跌倒、疼痛、不能负重，或行动能力突然变差，及时联系医生或急诊系统。</p>
+  </section>
+  <section class="decision-card decision-card-yellow">
+    <div class="decision-label">认知</div>
+    <h3>做饭、用药、付费、出门有没有明显出错？</h3>
+    <p>记录具体例子和发生时间。突然糊涂先就医；逐渐影响生活，也适合安排医生评估。</p>
+  </section>
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">用药</div>
+    <h3>药有没有新增、停用、漏服、重复吃？</h3>
+    <p>把处方药、非处方药、眼药水、保健品和草药都放进药单。怀疑药物问题时，带给医生或药师，不自行停药换药。</p>
+  </section>
+  <section class="decision-card decision-card-green">
+    <div class="decision-label">生活</div>
+    <h3>吃睡排、洗澡如厕、社交和心情有没有不同？</h3>
+    <p>看是否需要照护支持、复查、心理支持或家庭分工调整。生活能力变差，本身就是重要健康信号。</p>
+  </section>
+</div>
 
 记录时尽量写事实，不写评价。比如“这周两次忘记关火”“近一个月不敢独自下楼”“新药后白天很困、走路晃”，比“他变糊涂了”“她不配合”更有用，也更容易带给医生判断。
+
+## 照护者也需要被看见
+
+照护不是一个人有爱心就能无限承担的事。
+
+父母需要陪诊、做饭、洗澡、翻身、处理报销、解释医嘱、夜里看护时，家里往往会默认某一个人“最方便”“最细心”“最懂”。但长期照护会消耗睡眠、工作、情绪和身体。照护者如果已经长期疲惫、易怒、失眠、胸闷、头痛，或者开始害怕接电话、害怕回家，这说明系统正在超载。
+
+照护者超载以后，风险会同时落在两边：老人可能得不到稳定照护，照护者自己也可能出现健康和情绪问题。
+
+可以先把照护拆小：
+
+- 谁负责陪诊，谁负责资料，谁负责报销和交通；
+- 谁每周固定替主要照护者休息半天；
+- 哪些任务可以请社区、护理、康复、家政或亲友帮忙；
+- 哪些情况已经超出家庭能力，需要医生、社工、护理或长期照护资源参与。
+
+如果照护者已经无法安全照护，或者出现持续绝望、自伤想法、伤害他人的冲动，就不要再只靠家庭内部硬撑，要尽快寻求专业帮助。
 
 ## 这些变化不要拖
 
@@ -157,7 +190,8 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 - 短时间内认知或行动能力明显下降；
 - 新药后出现明显头晕、跌倒、意识变化、严重胃肠反应、异常出血；
 - 无法进食饮水、无法起身、无法安全如厕；
-- 照护者已经明显耗竭，无法继续安全照护。
+- 照护者已经明显耗竭，无法继续安全照护；
+- 照护者出现持续绝望、自伤想法，或担心自己会伤害被照护者。
 
 老年问题常常牵一发而动全身，早一点求助通常比硬扛更安全。
 
@@ -181,7 +215,7 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-04，本章主要参考：
+截至 2026-06-14，本章主要参考：
 
 - CDC: [Healthy Aging at Any Age](https://www.cdc.gov/healthy-aging/about/index.html)
 - CDC: [About Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)
@@ -191,6 +225,7 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 - CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
 - MedlinePlus: [Older Adult Health](https://medlineplus.gov/olderadulthealth.html)
 - MedlinePlus: [Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)
+- MedlinePlus: [Caregiver Health](https://medlineplus.gov/caregiverhealth.html)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 

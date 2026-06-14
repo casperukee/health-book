@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: talking-with-parents
 en_path: ../../../en/book/part-3-family-health-os/talking-with-parents.md
 translation_status: source
-last_reviewed: 2026-06-03
+last_reviewed: 2026-06-14
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -20,6 +20,8 @@ evidence_status: stable
 可以先从几个具体问题开始：哪些变化不能拖，药和报告放在哪里，复查怎么记，买健康产品前先问谁。把这些小事提前说清楚，真遇到情况时就少一点慌乱。
 
 我们真正想守住的，不是指标永远漂亮，也不是一定活到多少岁。更实在的是：还能走得动、睡得好、吃得下、出得门，身体有变化时说得清，真要看病时资料找得到。
+
+如果前一页讲的是怎样把事实带进诊室，这里要往前一步：怎样在还没有急起来的时候，和父母把事实、资料和边界说开。好的沟通通常不是从“你要听我的”开始，而是从“以后真要看病，我们别临时翻聊天记录”开始。
 
 ## 一家人先约四件事
 
@@ -160,7 +162,7 @@ evidence_status: stable
 
 ## 可以直接转给家人的小卡
 
-这张卡适合发到家庭群，先把最重要的四个约定说清楚。完整解释、边界和资料入口，仍以本章为准。
+如果父母不愿意读长文，可以先发这张图片卡。它适合放到家庭群里，先把最重要的四个约定说清楚。完整解释、边界和资料入口，仍以本章为准。
 
 ![家庭健康小约定卡](/share-cards/zh-CN-family-health-card.png)
 
@@ -182,7 +184,7 @@ evidence_status: stable
 
 ## 可信资料与进一步阅读
 
-截至 2026-06-03，本章主要参考：
+截至 2026-06-14，本章主要参考：
 
 - CDC: [Healthy Aging at Any Age](https://www.cdc.gov/healthy-aging/about/index.html)
 - MedlinePlus: [Healthy Aging](https://medlineplus.gov/healthyaging.html)
