@@ -31,27 +31,15 @@
 | 想给家人做准备 | 先做 [家庭健康卡](content/zh-CN/handbook/templates/family-health-record.md#_1-一页家庭健康卡)，再看 [手册与模板](content/zh-CN/handbook/README.md) |
 | 想系统读一遍 | 从 [开始连续阅读](content/zh-CN/book/00-start-here.md) 开始，再进入 [主书目录](content/zh-CN/book/README.md) |
 
-其他入口：
+更多信息：
 
 - [v0.9 试读与反馈说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](https://health.mindarae.com)
 - [GitHub Pages](https://casperukee.github.io/health-book/)
-- [项目状态](PROJECT_STATUS.md)
-- [发布流程](RELEASE_PROCESS.md)
-- [支持与反馈边界](SUPPORT.md)
-- [安全与隐私说明](SECURITY.md) / [PRIVACY.md](PRIVACY.md)
 - [参考资料机制](content/zh-CN/references/README.md)
 - [勘误与复查](content/zh-CN/errata/README.md)
 
 如果仓库已启用 GitHub Pages，建议优先使用网页阅读版：它会提供侧边栏、搜索、页面大纲和上一章/下一章。
-
-## 支持这个开源项目
-
-如果这本小册子对你有帮助，欢迎在 GitHub 点 Star、clone 项目，或把它转给会用 GitHub 的朋友。Star 不是形式感，它能让更多人看到这个项目，也方便你后续回来查看更新。
-
-```bash
-git clone https://github.com/casperukee/health-book.git
-```
 
 ## 阅读边界
 

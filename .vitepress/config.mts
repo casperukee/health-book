@@ -151,12 +151,7 @@ export default defineConfig({
     nav: [
       { text: '开始阅读', link: '/content/zh-CN/book/00-start-here' },
       { text: '危险信号', link: '/content/zh-CN/handbook/playbooks/red-flags' },
-      { text: '主书目录', link: '/content/zh-CN/book/README' },
-      { text: '手册', link: '/content/zh-CN/handbook/README' },
-      { text: 'v0.9 反馈', link: '/content/zh-CN/feedback/gray-trial-guide' },
-      { text: '参考资料', link: '/content/zh-CN/references/README' },
-      { text: 'English Preview', link: '/content/en/README' },
-      { text: 'GitHub', link: 'https://github.com/casperukee/health-book' }
+      { text: '手册', link: '/content/zh-CN/handbook/README' }
     ],
     sidebar: {
       '/content/zh-CN/book/': bookSidebar,

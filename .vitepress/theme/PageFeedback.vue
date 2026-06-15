@@ -6,8 +6,6 @@ const route = useRoute()
 const { page } = useData()
 const statusText = ref('')
 const pixels: HTMLImageElement[] = []
-const githubRepoUrl = 'https://github.com/casperukee/health-book'
-const githubCloneCommand = 'git clone https://github.com/casperukee/health-book.git'
 let lastPageviewPath = ''
 
 const shouldShow = computed(() => {
@@ -108,18 +106,14 @@ async function copyText(text: string) {
   }
 }
 
-function buildShareText() {
-  if (typeof window === 'undefined') return ''
+function buildSharePayload() {
+  if (typeof window === 'undefined') return { title: '健康有谱', text: '', url: '' }
 
   const title = page.value.title || document.title || '健康有谱'
-  const shareUrl = window.location.href
+  const url = window.location.href
+  const text = '《健康有谱》是一本文明一点的家庭健康判断小册子：先分急缓，整理事实，准备就医，不替代医生。'
 
-  return [
-    `我在看《健康有谱》这本开源家庭健康小册子，这页可能对你有用：${title}`,
-    shareUrl,
-    '',
-    '它不做诊断、不替代医生，主要帮普通家庭分清什么时候记录观察、什么时候联系医生、什么时候不能再等。'
-  ].join('\n')
+  return { title, text, url }
 }
 
 async function handleShare() {
@@ -127,10 +121,23 @@ async function handleShare() {
 
   if (typeof window === 'undefined') return
 
-  const shareText = buildShareText()
+  const payload = buildSharePayload()
 
-  const copied = await copyText(shareText)
-  setStatus(copied ? '已复制转发文案，可粘贴发送。' : '已记录，可手动复制链接。')
+  if (navigator.share && window.isSecureContext) {
+    try {
+      await navigator.share(payload)
+      setStatus('已打开系统分享。')
+      return
+    } catch (error) {
+      if (error instanceof DOMException && error.name === 'AbortError') {
+        setStatus('已取消分享。')
+        return
+      }
+    }
+  }
+
+  const copied = await copyText(`${payload.text}\n${payload.title}\n${payload.url}`)
+  setStatus(copied ? '已复制链接。' : '已记录，可手动复制链接。')
 }
 
 function handleComment() {
@@ -143,19 +150,6 @@ function handleComment() {
   window.location.href = feedbackUrl.toString()
 }
 
-function handleGithub(action: string) {
-  record(action)
-}
-
-async function handleCopyClone() {
-  record('github_clone')
-
-  if (typeof window === 'undefined') return
-
-  const copied = await copyText(githubCloneCommand)
-  setStatus(copied ? '已复制 clone 命令。' : githubCloneCommand)
-}
-
 watch(() => route.path, recordPageview, { immediate: true })
 </script>
 
@@ -164,41 +158,22 @@ watch(() => route.path, recordPageview, { immediate: true })
     <div class="page-feedback-copy">
       <p id="page-feedback-title" class="page-feedback-title">这页有帮到你吗？</p>
       <p class="page-feedback-note">
-        点击不需要登录，只做按钮计数，帮助后续优先打磨内容。请不要提交病历、电话、身份证等敏感信息。
+        不提交病历等敏感信息。
       </p>
     </div>
-    <div class="page-feedback-actions" aria-label="页面反馈">
-      <button type="button" data-feedback-action="useful" @click="handleSimple('useful')">有用</button>
-      <button type="button" data-feedback-action="not_useful" @click="handleSimple('not_useful')">没帮上</button>
-      <button type="button" data-feedback-action="share" @click="handleShare">转发</button>
-      <button type="button" data-feedback-action="comment" @click="handleComment">提意见</button>
-    </div>
-    <div class="page-feedback-divider" aria-hidden="true"></div>
-    <div class="open-source-support">
-      <div class="open-source-copy">
-        <p class="open-source-title">喜欢这个开源小册子？</p>
-        <p class="open-source-note">
-          国内镜像方便阅读，GitHub 用来关注更新、Star 支持和 clone 项目。
-        </p>
-      </div>
-      <div class="open-source-actions" aria-label="开源项目支持">
-        <a
-          :href="githubRepoUrl"
-          target="_blank"
-          rel="noreferrer"
-          data-feedback-action="github_repo"
-          @click="handleGithub('github_repo')"
-        >GitHub 项目</a>
-        <a
-          :href="githubRepoUrl"
-          target="_blank"
-          rel="noreferrer"
-          data-feedback-action="github_star"
-          data-primary-action="true"
-          @click="handleGithub('github_star')"
-        >去 Star</a>
-        <button type="button" data-feedback-action="github_clone" @click="handleCopyClone">复制 clone</button>
-      </div>
+    <div class="page-feedback-actions" aria-label="页面反馈和分享">
+      <button type="button" data-feedback-action="useful" aria-label="有用" title="有用" @click="handleSimple('useful')">
+        <span aria-hidden="true">✓</span>
+      </button>
+      <button type="button" data-feedback-action="not_useful" aria-label="没帮上" title="没帮上" @click="handleSimple('not_useful')">
+        <span aria-hidden="true">×</span>
+      </button>
+      <button type="button" data-feedback-action="share" aria-label="转发" title="转发" @click="handleShare">
+        <span aria-hidden="true">↗</span>
+      </button>
+      <button type="button" data-feedback-action="comment" aria-label="提意见" title="提意见" @click="handleComment">
+        <span aria-hidden="true">✎</span>
+      </button>
     </div>
     <p v-if="statusText" class="page-feedback-status" aria-live="polite">{{ statusText }}</p>
   </section>

@@ -295,7 +295,7 @@ evidence_status: needs_periodic_review
 
 - 中华医学会健康管理学分会、中华健康管理学杂志编辑委员会：[健康体检基本项目专家共识（2022）](https://rs.yiigle.com/CN115624202309/1473648.htm)
 - 中国高血压防治指南修订委员会：[中国高血压防治指南（2024 年修订版）](https://cjournal.hep.com.cn/1673-7245/CN/1160171857581368285)
-- 中国血脂管理指南修订联合专家委员会：[中国血脂管理指南（2023 年）](https://rs.yiigle.com/CN2021/1449955.htm)
+- 中国血脂管理指南修订联合专家委员会：[中国血脂管理指南（2023 年）](https://doi.org/10.3760/cma.j.cn112148-20230119-00038)
 - 中华医学会糖尿病学分会：[中国 2 型糖尿病防治指南（2020 年版）](https://studite.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD2%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E9%98%B2%E6%B2%BB%E6%8C%87%E5%8D%97%EF%BC%882020%E5%B9%B4%E7%89%88%EF%BC%89%20-%20%E4%B8%AD%E5%8D%8E%E7%B3%96%E5%B0%BF%E7%97%85%E6%9D%82%E5%BF%97.html)
 - USPSTF: [Hypertension in Adults: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/hypertension-in-adults-screening)
 - USPSTF: [Prediabetes and Type 2 Diabetes: Screening](https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/screening-for-prediabetes-and-type-2-diabetes)

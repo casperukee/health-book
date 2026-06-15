@@ -9,6 +9,30 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-16：v0.9 网页版来源登记校准
+
+- 状态：fixed
+- 位置：
+  - `shared/source-registry.md`
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+  - `content/zh-CN/book/part-3-family-health-os/what-to-manage.md`
+  - `content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+  - `content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+  - `content/zh-CN/handbook/templates/family-health-record.md`
+- 复查内容：按 v0.9 网页版全篇回写后的当前页面，重新核对章末参考资料与共享来源登记的对应关系。重点修正手册页合并后仍指向 `chronic-marker-log.md`、`family-health-card.md` 的旧路径；补登记 Part 3 总纲新增的 WHO 健康定义和非传染性疾病来源；同步更新心理危机、体检指标、家庭健康档案、就医沟通和老人跌倒相关来源的“已用于”位置。
+- 使用来源：
+  - WHO: Constitution of the World Health Organization
+  - WHO: Noncommunicable diseases
+  - CDC: About Cholesterol
+  - MedlinePlus: How to Understand Your Lab Results
+  - CDC: Diabetes Testing
+  - NIDDK: Chronic Kidney Disease Tests & Diagnosis
+  - AHRQ: Be More Engaged in Your Healthcare
+  - SAMHSA: 988 Suicide & Crisis Lifeline
+  - 中国血脂管理指南（2023 年）
+- 处理说明：本次只校准公开参考链接和来源登记，不改变正文医学判断、不新增诊断、用药、停药、治疗方案、个体化筛查或个体化健康方案。原中国血脂管理指南页面对命令行直接访问返回 401，改用 DOI 解析链接作为可点击公开落点；AHRQ 和 SAMHSA 页面命令行请求返回 403，但浏览器/网页抓取可正常打开，暂保留。
+- 下次建议复查：下一轮发布前可用自动脚本同时检查“章末参考资料 URL 是否在 source registry 登记”和“source registry 的已用于路径是否存在”，避免内容回写后台账滞后。
+
 ## 2026-06-14：Part 3/4 网页版 v0.9 收口
 
 - 状态：reader experience patch + official-source verification + copyright boundary cleanup

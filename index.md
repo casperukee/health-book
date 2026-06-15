@@ -12,15 +12,6 @@ hero:
     - theme: alt
       text: 危险信号速查
       link: /content/zh-CN/handbook/playbooks/red-flags
-    - theme: alt
-      text: 手册与模板
-      link: /content/zh-CN/handbook/README
-    - theme: alt
-      text: v0.9 试读与反馈
-      link: /content/zh-CN/feedback/gray-trial-guide
-    - theme: alt
-      text: GitHub 项目
-      link: https://github.com/casperukee/health-book
 
 features:
   - title: 先分急缓
@@ -56,18 +47,12 @@ features:
 
 英文版目前保留少量预览页，用于展示项目方向和医学边界；中文仍是源版本。
 
-## 核心入口
+## 更多入口
 
 - [如何使用《健康有谱》](content/zh-CN/book/00-start-here.md)
-- [危险信号：先分急缓，不要先搜病名](content/zh-CN/book/medical-boundaries.md)
 - [中文主书目录](content/zh-CN/book/README.md)
 - [手册与模板](content/zh-CN/handbook/README.md)
-- [v0.9 试读与反馈说明](content/zh-CN/feedback/gray-trial-guide.md)
-- [权威医学资料入口](content/zh-CN/references/official-medical-sources.md)
-- [勘误、更新与反馈](content/zh-CN/errata/README.md)
-- [国内镜像](https://health.mindarae.com)
-- [GitHub 开源项目](https://github.com/casperukee/health-book)
 
-## 支持开源
+## 反馈与维护
 
-如果这本小册子对你有帮助，欢迎到 [GitHub 项目页](https://github.com/casperukee/health-book) 点 Star、clone 或转给会用 GitHub 的朋友。国内镜像负责更顺畅的阅读体验，GitHub 负责开源协作、版本记录和长期维护。
+读者反馈、参考资料和开源协作放在阅读之后处理： [v0.9 试读与反馈说明](content/zh-CN/feedback/gray-trial-guide.md)、[权威医学资料入口](content/zh-CN/references/official-medical-sources.md)、[勘误、更新与反馈](content/zh-CN/errata/README.md)、[GitHub 开源项目](https://github.com/casperukee/health-book)。
