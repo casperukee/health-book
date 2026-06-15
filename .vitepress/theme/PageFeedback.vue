@@ -163,16 +163,16 @@ watch(() => route.path, recordPageview, { immediate: true })
     </div>
     <div class="page-feedback-actions" aria-label="页面反馈和分享">
       <button type="button" data-feedback-action="useful" aria-label="有用" title="有用" @click="handleSimple('useful')">
-        <span aria-hidden="true">✓</span>
+        有用
       </button>
       <button type="button" data-feedback-action="not_useful" aria-label="没帮上" title="没帮上" @click="handleSimple('not_useful')">
-        <span aria-hidden="true">×</span>
+        没帮上
       </button>
       <button type="button" data-feedback-action="share" aria-label="转发" title="转发" @click="handleShare">
-        <span aria-hidden="true">↗</span>
+        转发
       </button>
       <button type="button" data-feedback-action="comment" aria-label="提意见" title="提意见" @click="handleComment">
-        <span aria-hidden="true">✎</span>
+        提意见
       </button>
     </div>
     <p v-if="statusText" class="page-feedback-status" aria-live="polite">{{ statusText }}</p>

@@ -30,14 +30,29 @@ features:
 
 ## 从这里进入
 
-| 你现在想做什么 | 先打开 |
-|---|---|
-| 身体或情绪已经不舒服，不确定能不能等 | [危险信号速查](content/zh-CN/handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](content/zh-CN/handbook/playbooks/symptom-action-guide.md) 或 [心理健康风险识别与支持](content/zh-CN/handbook/playbooks/mental-health-check-in.md) |
-| 要看报告、复查或见医生 | 先看 [体检指标](content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md)，再用 [常见异常指标速查](content/zh-CN/handbook/playbooks/common-checkup-markers.md) 和 [就医前问题清单](content/zh-CN/handbook/playbooks/doctor-visit-checklist.md) |
-| 体检前不知道该查什么 | [体检项目选择指南](content/zh-CN/handbook/playbooks/checkup-planning-guide.md) |
-| 想给家人做准备 | 先做 [一页家庭健康卡](content/zh-CN/handbook/templates/family-health-record.md#_1-一页家庭健康卡)，再扩展到 [家庭健康档案与慢病记录](content/zh-CN/handbook/templates/family-health-record.md) |
-| 被保健品、检测、设备、抗衰或短视频困扰 | 先用 [健康产品购买前检查清单](content/zh-CN/handbook/templates/health-product-checklist.md)，再读 [保健品证据陷阱](content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md) |
-| 想系统读一遍 | 从 [如何使用《健康有谱》](content/zh-CN/book/00-start-here.md) 开始，再进入 [中文主书目录](content/zh-CN/book/README.md) |
+<div class="home-scenario-grid">
+  <a class="home-scenario-card home-scenario-card-urgent" href="content/zh-CN/handbook/playbooks/red-flags.html">
+    <span class="home-scenario-kicker">现在不舒服</span>
+    <strong>先分急缓</strong>
+    <span>胸痛、气短、意识改变、疑似卒中、自伤风险等，不从搜索病名开始。</span>
+  </a>
+  <a class="home-scenario-card" href="content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.html">
+    <span class="home-scenario-kicker">看报告 / 见医生</span>
+    <strong>把事实带进诊室</strong>
+    <span>体检报告、异常指标、复查和门诊问题，先整理成医生能接住的信息。</span>
+  </a>
+  <a class="home-scenario-card" href="content/zh-CN/handbook/templates/family-health-record.html#_1-一页家庭健康卡">
+    <span class="home-scenario-kicker">给家人建档</span>
+    <strong>先做一页健康卡</strong>
+    <span>紧急联系人、病史、过敏、用药和资料位置，关键时刻不从零开始找。</span>
+  </a>
+</div>
+
+其他常见情况：
+
+- 体检前不知道该查什么：看 [体检项目选择指南](content/zh-CN/handbook/playbooks/checkup-planning-guide.md)。
+- 被保健品、检测、设备、抗衰或短视频困扰：先用 [健康产品购买前检查清单](content/zh-CN/handbook/templates/health-product-checklist.md)。
+- 想系统读一遍：从 [如何使用《健康有谱》](content/zh-CN/book/00-start-here.md) 开始，再进入 [中文主书目录](content/zh-CN/book/README.md)。
 
 ## 当前版本
 

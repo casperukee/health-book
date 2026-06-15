@@ -1,7 +1,8 @@
 <script setup lang="ts">
 import { computed } from 'vue'
-import { useData } from 'vitepress'
+import { useData, useRoute } from 'vitepress'
 
+const route = useRoute()
 const { frontmatter } = useData()
 
 const lastReviewed = computed(() => {
@@ -12,10 +13,15 @@ const lastReviewed = computed(() => {
 
   return String(value).split('T')[0]
 })
+
+const shouldShow = computed(() => {
+  const path = route.path || ''
+  return !(path.includes('/content/zh-CN/') && frontmatter.value.evidence_status === 'needs_periodic_review')
+})
 </script>
 
 <template>
-  <p v-if="lastReviewed" class="last-reviewed">
+  <p v-if="shouldShow && lastReviewed" class="last-reviewed">
     最后更新：<time :datetime="lastReviewed">{{ lastReviewed }}</time>
   </p>
 </template>

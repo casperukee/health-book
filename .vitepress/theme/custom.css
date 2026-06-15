@@ -331,6 +331,129 @@
   border-radius: 8px;
 }
 
+.home-scenario-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 18px 0 18px;
+}
+
+.home-scenario-card {
+  display: flex;
+  min-height: 158px;
+  flex-direction: column;
+  gap: 8px;
+  border: 1px solid rgba(37, 99, 235, 0.22);
+  border-left: 6px solid #2563eb;
+  border-radius: 8px;
+  padding: 18px;
+  background: rgba(37, 99, 235, 0.06);
+  color: var(--vp-c-text-1);
+  text-decoration: none;
+}
+
+.home-scenario-card:hover {
+  border-color: rgba(37, 99, 235, 0.42);
+  background: rgba(37, 99, 235, 0.09);
+  text-decoration: none;
+}
+
+.home-scenario-card strong {
+  font-size: 20px;
+  line-height: 1.35;
+}
+
+.home-scenario-card span:not(.home-scenario-kicker) {
+  color: var(--vp-c-text-2);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.home-scenario-kicker {
+  display: inline-flex;
+  width: fit-content;
+  border-radius: 999px;
+  padding: 2px 9px;
+  background: rgba(37, 99, 235, 0.12);
+  color: #1d4ed8;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.home-scenario-card-urgent {
+  border-color: rgba(220, 38, 38, 0.24);
+  border-left-color: #dc2626;
+  background: rgba(220, 38, 38, 0.06);
+}
+
+.home-scenario-card-urgent:hover {
+  border-color: rgba(220, 38, 38, 0.44);
+  background: rgba(220, 38, 38, 0.09);
+}
+
+.home-scenario-card-urgent .home-scenario-kicker {
+  background: rgba(220, 38, 38, 0.14);
+  color: #991b1b;
+}
+
+.home-scenario-card:nth-child(3) {
+  border-color: rgba(5, 150, 105, 0.24);
+  border-left-color: #059669;
+  background: rgba(16, 185, 129, 0.07);
+}
+
+.home-scenario-card:nth-child(3):hover {
+  border-color: rgba(5, 150, 105, 0.42);
+  background: rgba(16, 185, 129, 0.10);
+}
+
+.home-scenario-card:nth-child(3) .home-scenario-kicker {
+  background: rgba(16, 185, 129, 0.16);
+  color: #065f46;
+}
+
+.medical-status-card {
+  margin: 28px 0 8px;
+  border: 1px solid rgba(15, 118, 110, 0.22);
+  border-left: 5px solid var(--vp-c-brand-1);
+  border-radius: 8px;
+  padding: 14px 16px;
+  background: rgba(20, 184, 166, 0.06);
+}
+
+.medical-status-title {
+  margin: 0 0 10px;
+  color: var(--vp-c-text-1);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.medical-status-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.medical-status-item {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.medical-status-item span {
+  color: var(--vp-c-text-2);
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.medical-status-item strong {
+  color: var(--vp-c-text-1);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 .page-feedback {
   display: flex;
   align-items: center;
@@ -372,19 +495,18 @@
 
 .page-feedback-actions button {
   display: inline-flex;
-  width: 32px;
-  height: 32px;
+  min-height: 32px;
   align-items: center;
   justify-content: center;
   border: 1px solid rgba(15, 118, 110, 0.32);
   border-radius: 999px;
-  padding: 0;
+  padding: 0 12px;
   background: var(--vp-c-bg);
   color: var(--vp-c-brand-1);
   font: inherit;
-  font-size: 15px;
+  font-size: 13px;
   font-weight: 700;
-  line-height: 1;
+  line-height: 1.4;
   cursor: pointer;
 }
 
@@ -414,6 +536,60 @@
   color: #99f6e4;
 }
 
+.dark .home-scenario-card {
+  border-color: rgba(96, 165, 250, 0.26);
+  border-left-color: #60a5fa;
+  background: rgba(37, 99, 235, 0.14);
+}
+
+.dark .home-scenario-card:hover {
+  border-color: rgba(96, 165, 250, 0.42);
+  background: rgba(37, 99, 235, 0.20);
+}
+
+.dark .home-scenario-kicker {
+  color: #bfdbfe;
+  background: rgba(96, 165, 250, 0.22);
+}
+
+.dark .home-scenario-card-urgent {
+  border-color: rgba(248, 113, 113, 0.28);
+  border-left-color: #f87171;
+  background: rgba(220, 38, 38, 0.14);
+}
+
+.dark .home-scenario-card-urgent:hover {
+  border-color: rgba(248, 113, 113, 0.46);
+  background: rgba(220, 38, 38, 0.20);
+}
+
+.dark .home-scenario-card-urgent .home-scenario-kicker {
+  color: #fecaca;
+  background: rgba(248, 113, 113, 0.22);
+}
+
+.dark .home-scenario-card:nth-child(3) {
+  border-color: rgba(52, 211, 153, 0.28);
+  border-left-color: #34d399;
+  background: rgba(16, 185, 129, 0.13);
+}
+
+.dark .home-scenario-card:nth-child(3):hover {
+  border-color: rgba(52, 211, 153, 0.44);
+  background: rgba(16, 185, 129, 0.19);
+}
+
+.dark .home-scenario-card:nth-child(3) .home-scenario-kicker {
+  color: #a7f3d0;
+  background: rgba(52, 211, 153, 0.20);
+}
+
+.dark .medical-status-card {
+  border-color: rgba(94, 234, 212, 0.24);
+  border-left-color: #5eead4;
+  background: rgba(20, 184, 166, 0.10);
+}
+
 .last-reviewed {
   margin: 28px 0 0;
   color: var(--vp-c-text-2);
@@ -438,13 +614,32 @@
     grid-template-columns: 1fr;
   }
 
+  .home-scenario-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .home-scenario-card {
+    min-height: auto;
+  }
+
+  .medical-status-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
   .page-feedback {
     align-items: flex-start;
+    flex-direction: column;
     margin-top: 28px;
     padding-top: 10px;
   }
 
   .page-feedback-actions button {
-    flex: 0 0 32px;
+    flex: 0 0 auto;
+  }
+}
+
+@media (max-width: 420px) {
+  .medical-status-grid {
+    grid-template-columns: 1fr;
   }
 }
