@@ -4,14 +4,14 @@ language: zh-CN
 canonical_slug: specialty-care-map
 en_path: ../../../en/book/part-2-body-risk-map/specialty-care-map.md
 translation_status: source
-last_reviewed: 2026-06-14
+last_reviewed: 2026-06-15
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 专科问题：如何提高看病质量，而不是自己当医生
+# 常见专科问题：提高看病质量，而不是自己当医生
 
-> 视力突然下降、眼外伤、孕期或产后一年内危险信号、严重外伤、剧烈疼痛、尿血发热、排尿困难、意识改变、麻木无力或自伤自杀风险等情况，请及时就医或急诊。本文帮助你准备信息和选择入口，不做专科诊断。
+> 视力突然下降、眼外伤、孕期或产后一年内危险信号、严重外伤、剧烈疼痛、尿血发热、明显排尿困难、意识改变、麻木无力、自伤自杀风险等情况，请及时联系急救、急诊或当地专业支持。本文帮助你准备信息和选择入口，不做专科诊断。
 
 ## 不是所有病都会先显得很严重
 
@@ -59,7 +59,7 @@ evidence_status: needs_periodic_review
   </section>
 </div>
 
-如果你拿不准急诊、门诊还是观察，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)；如果不知道挂号入口，看 [急诊、门诊和挂号科室怎么选](../../handbook/playbooks/department-navigation-guide.md)；确定要去门诊后，再用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 准备。
+如果你拿不准急诊、门诊还是观察，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)；如果不知道挂号入口，看 [就医科室与专科导航](../../handbook/playbooks/department-navigation-guide.md)；确定要去门诊后，再用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 准备。
 
 ## 一张症状小卡，比十个病名猜测更有用
 
@@ -104,10 +104,6 @@ CDC HEAR HER 把孕期和产后一年内的若干信号列为需要立即就医�
 
 产后也不是只看伤口恢复。睡眠、情绪、喂养压力、疼痛、漏尿、盆底不适、出血、发热、家庭分工和复查，都可以进入门诊讨论。照护者的任务不是监督产妇“按规矩坐月子”，而是帮助她把身体、情绪和照护压力说出来。
 
-### 更年期不是只能忍过去
-
-更年期不是一个单纯的脾气问题。潮热、睡眠变差、情绪波动、月经变化、泌尿生殖不适、骨骼和心血管风险，都可能影响一个人的生活质量。它不等于必须治疗，也不等于只能忍。更稳的做法是记录症状和影响，再和妇科、全科/普通内科或相关专科讨论风险、选择和边界。
-
 ## 眼科：看得见，是一种功能能力
 
 眼科问题很容易被简化成两个消费动作：配眼镜，买眼药水。但“看得见”不是一个小功能，它关系到学习、工作、开车、照护老人、跌倒风险和生活独立性。
@@ -140,7 +136,7 @@ CDC HEAR HER 把孕期和产后一年内的若干信号列为需要立即就医�
 
 NIDDK 的患者资料也提醒，即使觉得尴尬，也应该和健康专业人员谈膀胱控制问题。尿血、发热伴腰痛、明显排尿困难、剧烈疼痛，尤其不适合只靠喝水、清热、补肾或自行用药来处理。
 
-## 骨科和运动系统：疼痛的终点不是不疼，而是能不能动
+## 骨科和运动系统：疼痛的终点不是不疼
 
 颈肩腰腿痛、膝痛、扭伤、跌倒、关节响、手麻脚麻，常常被家庭放进一个大筐里：贴膏药、按摩、热敷、忍一忍。问题是，运动系统不只负责“不疼”，它负责行动能力。
 
@@ -156,7 +152,7 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 
 长期疼痛也不等于只能在止痛和硬扛之间二选一。和医生讨论康复、物理治疗、动作模式、肌力和生活方式调整，往往比反复寻找一次性“治好”的手法更接近长期管理。
 
-## 皮肤、牙科、耳鼻喉和其他专科：照片、时间线和功能影响
+## 其他专科：照片、时间线和功能影响
 
 不是每个专科问题都需要在主书里展开。但同一个方法仍然有用：把症状从“我觉得”变成“我看到了什么、持续多久、影响什么”。
 
@@ -164,7 +160,7 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 
 牙痛、牙龈出血、口腔溃疡、耳鸣、鼻炎、咽喉异物感、甲状腺、消化、乳腺、肛肠和疼痛问题，也不需要一开始就懂专业诊断。先记录持续多久、反复频率、用过什么、是否影响睡眠工作和生活。如果出现快速加重、发热、严重疼痛、吞咽或呼吸困难、明显出血、体重下降或全身状态变差，要提高急缓等级。
 
-儿童和青少年的身体与心理变化已经独立成章，见 [儿童与青少年健康：身体和心理一起长大](children-and-adolescent-health.md)。在本章里只保留一句原则：孩子不是缩小版成年人；如果身体不适、睡眠、学校功能、情绪行为和安全风险交织在一起，不要只按成人经验或管教问题处理。
+儿童和青少年的身体与心理变化已经独立成章，见 [儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)。在本章里只保留一句原则：孩子不是缩小版成年人；如果身体不适、睡眠、学校功能、情绪行为和安全风险交织在一起，不要只按成人经验或管教问题处理。
 
 ## 同一个症状，不同人要更谨慎
 
@@ -196,22 +192,14 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 ## 今天可以做的准备
 
 - 选一个正在困扰你的专科问题，写一张症状小卡；
-- 把既往检查、用药、外用产品、保健品、照片和报告整理到 [家庭健康档案模板](../../handbook/templates/family-health-record.md)；
+- 把既往检查、用药、外用产品、保健品、照片和报告整理到 [家庭健康档案与慢病记录](../../handbook/templates/family-health-record.md)；
 - 门诊前只准备 3 个最重要的问题；
 - 看完医生后记录：医生的判断、检查安排、用药或处理说明、复查时间、提前就医边界；
 - 如果你是陪父母或伴侣看病，先问对方愿不愿意让你帮忙记录，不要把陪诊变成接管。
 
-## 本章带走
+## 参考资料
 
-专科判断力不是自己下诊断，而是知道何时不能等、该找什么入口、该带什么事实。
-
-女性和孕产问题不要被“都这样”盖过去；眼科要看视觉功能；泌尿问题不要被羞耻挡住；骨科和运动系统要看行动能力；其他专科也可以先用照片、时间线和功能影响来准备。
-
-羞耻感、习惯性忍耐和网上自诊，都会降低看病质量。一张症状小卡和四个门诊问题，往往比十个病名猜测更有用。
-
-## 可信资料与进一步阅读
-
-截至 2026-06-14，本章主要参考：
+截至 2026-06-15，本章主要参考：
 
 - MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
@@ -221,18 +209,23 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 - MedlinePlus: [Eye Emergencies](https://medlineplus.gov/ency/article/000054.htm)
 - NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
 - NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
-- NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
+
+这些资料用于校准专科问题的就医准备、健康记录、孕产危险信号、眼部急症、泌尿生活质量和背痛边界。本文不提供专科诊断、用药、停药、治疗优先级、个体化筛查或个体化治疗方案。
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 最后提醒
+## 本章带走
 
-专科问题不要求家庭先懂病名。更可靠的做法是：先看红旗，选对入口，带上事实，问清下一步。
+专科判断力不是自己下诊断，而是知道何时不能等、该找什么入口、该带什么事实。
+
+女性和孕产问题不要被“都这样”盖过去；眼科要看视觉功能；泌尿问题不要被羞耻挡住；骨科和运动系统要看行动能力；其他专科也可以先用照片、时间线和功能影响来准备。
+
+羞耻感、习惯性忍耐和网上自诊，都会降低看病质量。一张症状小卡和四个门诊问题，往往比十个病名猜测更有用。
 
 ---
 
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[儿童与青少年健康](children-and-adolescent-health.md)
-- 下一章：[家庭健康到底要管理什么](../part-3-family-health-os/what-to-manage.md)
+- 上一章：[儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)
+- 下一章：[家庭健康到底要管理什么：不是管人，是管事实和边界](../part-3-family-health-os/what-to-manage.md)

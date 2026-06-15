@@ -4,14 +4,14 @@ language: zh-CN
 canonical_slug: gray-trial-guide
 en_path: ../../en/feedback/gray-trial-guide.md
 translation_status: source
-last_reviewed: 2026-06-14
+last_reviewed: 2026-06-16
 medical_review_status: not_applicable
 evidence_status: not_applicable
 ---
 
-# v0.9 灰度试读说明
+# v0.9 试读与反馈说明
 
-谢谢你愿意帮忙试读《健康有谱》。这是一本文字和结构都还在打磨中的开源健康读本，目前处于 v0.9-preview 小范围试读阶段，适合帮忙挑问题、看阅读体验、看医学边界是否稳妥，不适合作为医疗建议传播。
+谢谢你愿意帮忙试读《健康有谱》。当前版本是 v0.9，可以连续阅读，也可以按场景查工具页。它适合帮忙挑问题、看阅读体验、看医学边界是否稳妥，不适合作为医疗建议传播。
 
 ## 先看边界
 
@@ -27,13 +27,13 @@ evidence_status: not_applicable
 |---|---|
 | 身体已经不舒服，不确定能不能等 | [危险信号速查](../handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) |
 | 要看报告、复查或见医生 | [体检指标](../book/part-1-healthspan-risk-and-markers/checkup-markers.md) 或 [就医前问题清单](../handbook/playbooks/doctor-visit-checklist.md) |
-| 想给家人做准备 | [家庭健康卡模板](../handbook/templates/family-health-card.md)，再看 [家庭健康档案模板](../handbook/templates/family-health-record.md) |
-| 想系统读一遍 | [如何使用这本书](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
+| 想给家人做准备 | [一页家庭健康卡](../handbook/templates/family-health-record.md#_1-一页家庭健康卡)，再看 [家庭健康档案与慢病记录](../handbook/templates/family-health-record.md) |
+| 想系统读一遍 | [如何使用《健康有谱》](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
 | 家里有人买保健品、检测或抗衰产品 | [健康产品购买前检查清单](../handbook/templates/health-product-checklist.md)，再看 [保健品证据陷阱](../book/part-4-health-information-defense/supplement-evidence-traps.md) |
 
 如果只能读 20 分钟，优先读：
 
-1. [如何使用这本书](../book/00-start-here.md)
+1. [如何使用《健康有谱》](../book/00-start-here.md)
 2. 选择一个最贴近你生活的章节或工具页；
 3. 读完后反馈：入口是否顺、下一步是否清楚、哪里还像套话，哪里读起来不像一本书。
 
@@ -129,4 +129,4 @@ evidence_status: not_applicable
 
 ## 当前版本说明
 
-v0.9-preview 仍是试读版本。中文主书已经形成可连续阅读的完整路径，本轮重点把大脑与心理健康、儿童与青少年健康、癌症与重大疾病、专科问题升级成更接近出版阅读的章节，同时保留危险信号、症状速查、体检工具、就医清单、家庭健康卡和健康产品核查等工具页。它仍不是医疗建议，也还没有完成专业医学审稿；后续会根据试读反馈继续打磨 Part 3 家庭健康操作系统、Part 4 健康信息防御系统、英文预览和高风险医学边界。
+v0.9 已经形成可连续阅读的中文主书和可按场景使用的手册页。本轮重点统一了正文内容、医学边界、案例表达和网页阅读体验，同时保留危险信号、症状速查、体检工具、就医清单、家庭健康卡和健康产品核查等工具入口。它仍不是医疗建议，也还没有完成正式专业医学审稿；后续会根据读者和专业人士反馈继续打磨全书阅读体验、英文预览和高风险医学边界。

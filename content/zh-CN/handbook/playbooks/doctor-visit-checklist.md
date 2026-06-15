@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: doctor-visit-checklist
 en_path: ../../../en/handbook/playbooks/doctor-visit-checklist.md
 translation_status: source
-last_reviewed: 2026-06-04
+last_reviewed: 2026-06-15
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -13,18 +13,11 @@ evidence_status: stable
 
 > 本页不是医疗建议。出现危险信号时，请优先急救或急诊，不要为了整理清单而延误就医。
 
-## 这页怎么用
-
 门诊时间通常很短。你不需要把自己训练成医生，但可以把医生最需要的信息准备好。
 
 就医准备的目标只有一个：让真实情况更快进入诊室。
 
-如果已经有胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血等情况，先看 [危险信号速查](red-flags.md)，不要为了整理清单而延误。  
-如果你还没确定“现在该急诊、尽快联系医生，还是先观察记录”，先看 [症状与对应动作速查](symptom-action-guide.md)。这页适合在已经决定要联系医生或准备门诊时使用。
-
-## 一句话原则
-
-就医准备不是替医生诊断，而是把事实、资料和问题带进诊室。
+如果已经有胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血等情况，先求助，不要为了整理清单而延误。如果拿不准现在该急诊、尽快联系医生，还是先观察记录，优先联系急救、急诊分诊、医生或当地医疗入口；[危险信号速查](red-flags.md) 和 [症状与对应动作速查](symptom-action-guide.md) 只帮助你把信号说清、做初步分层，不是让你在家继续硬扛。
 
 ## 进诊室，先用 30 秒开场
 
@@ -94,7 +87,7 @@ evidence_status: stable
 
 ## 就医资料四包
 
-### 1. 症状时间线
+### 第一包：症状时间线
 
 - 什么时候开始？
 - 是突然出现，还是慢慢加重？
@@ -105,7 +98,7 @@ evidence_status: stable
 
 尽量讲事实，少讲猜测。比如“走两层楼会胸闷，休息 5 分钟缓解”比“我是不是心脏不好”更有用。
 
-### 2. 既往资料
+### 第二包：既往资料
 
 - 既往疾病、手术、住院、急诊；
 - 最近体检、化验、影像、病理、出院小结；
@@ -114,7 +107,7 @@ evidence_status: stable
 
 资料不必全部打印，但关键报告最好能快速打开。
 
-### 3. 用药和过敏
+### 第三包：用药和过敏
 
 - 正在使用的处方药：药名、剂量、频次、开始时间；
 - 非处方药、保健品、草药、外用药；
@@ -124,25 +117,27 @@ evidence_status: stable
 
 即使有些信息不太好开口，也尽量如实说：保健品、饮酒、吸烟、停药、漏服或自行加量，都会影响医生判断。
 
-### 4. 想问的问题
+### 第四包：想问的问题
 
-建议最多准备 3-5 个问题，按重要性排序：
+建议最多准备 3-5 个问题，按重要性排序。
 
-- 现在最可能的问题方向是什么？
-- 还需要哪些检查？这些检查要回答什么问题？
-- 我应该观察什么变化？
-- 什么时候复查？
-- 哪些情况需要提前就医或急诊？
-- 药物怎么用？如果漏服、出现副作用或买不到药怎么办？
-- 有没有需要家人配合的生活、康复或照护动作？
+判断方向：
 
-如果问题很多，先把它们分成三类：
+- 现在最需要排除什么？
+- 目前更像哪些可能？
+- 哪些暂时还不能确定？
 
-| 类型 | 该问什么 |
-|---|---|
-| 判断方向 | 现在最需要排除什么？最可能是什么范围？哪些还不确定？ |
-| 下一步动作 | 今天要做检查、用药、观察还是转诊？每一步是为了解决什么问题？ |
-| 回家边界 | 什么情况算正常恢复？什么情况要提前复诊或急诊？ |
+下一步动作：
+
+- 今天要做检查、用药、观察还是转诊？
+- 每一步是为了解决什么问题？
+- 药怎么用？如果漏服、出现副作用或买不到药怎么办？
+
+回家边界：
+
+- 什么情况算正常恢复？
+- 什么情况要提前复诊或急诊？
+- 多久没有好转需要回来？
 
 ## 陪诊分工
 
@@ -180,17 +175,13 @@ evidence_status: stable
 
 回家后把医生建议写入家庭健康档案，不要只留在记忆里。
 
-如果家里还没有统一记录入口，可以直接用 [家庭健康档案模板](../templates/family-health-record.md) 建一页最小档案。
-
 ## 这页和其他工具怎么接上
 
-| 现在卡在哪里 | 下一步 |
-|---|---|
-| 还没分清是不是急事 | 先看 [危险信号速查](red-flags.md) 或 [症状与对应动作速查](symptom-action-guide.md) |
-| 不知道该挂什么科 | 先看 [急诊、门诊和挂号科室怎么选](department-navigation-guide.md)，拿不准时问医院导诊、分诊、全科或普通内科 |
-| 缺基础病、过敏、用药、联系人 | 先填一张 [家庭健康卡](../templates/family-health-card.md)，不用等档案完整 |
-| 看完医生，怕忘记医嘱 | 把用药变化、复查时间、提前就医条件写进 [家庭健康档案](../templates/family-health-record.md) |
-| 有血压、血糖、血脂、尿酸等长期指标 | 用 [慢病指标记录表](../templates/chronic-marker-log.md) 单独记录趋势 |
+- 已经有明显危险信号：先求助；没有明显危险信号但拿不准急缓，再用 [危险信号速查](red-flags.md) 或 [症状与对应动作速查](symptom-action-guide.md) 帮助说清情况和初步分层。
+- 不知道该挂什么科：先看 [就医科室与专科导航](department-navigation-guide.md)，拿不准时问医院导诊、分诊、全科或普通内科。
+- 缺基础病、过敏、用药、联系人：先填 [一页家庭健康卡](../templates/family-health-record.md#_1-一页家庭健康卡)。
+- 有血压、血糖、血脂、尿酸等长期指标：用 [慢病指标记录表](../templates/family-health-record.md#_2-慢病指标记录) 单独记录趋势。
+- 买了或准备买保健品、检测、设备：用 [健康产品购买前检查清单](../templates/health-product-checklist.md) 先排风险。
 
 ## 急症例外
 
@@ -198,14 +189,16 @@ evidence_status: stable
 
 清单服务于沟通，不服务于拖延。
 
-## 可信资料
+## 参考资料
 
-截至 2026-06-01，本页主要参考：
+截至 2026-06-15，本页主要参考：
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 
-## 最后提醒
+更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-把时间线、资料、用药和问题准备好，就是普通人能给医生最大的帮助之一。
+## 一句话
+
+就医准备不是替医生诊断，而是把事实、资料和问题带进诊室。

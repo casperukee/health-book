@@ -16,10 +16,10 @@
 
 ## 章节
 
-- [代谢与四高](metabolic-health.md)
-- [心血管事件链](cardiovascular-event-chain.md)
-- [睡眠与恢复](sleep-and-recovery.md)
-- [大脑与心理健康](brain-and-mental-health.md)
-- [癌症与重大疾病](cancer-and-major-illness.md)
-- [儿童与青少年健康](children-and-adolescent-health.md)
-- [专科问题](specialty-care-map.md)
+- [代谢与四高：四套有用系统，为什么会失衡](metabolic-health.md)
+- [心血管事件链：从血压到心梗的连锁反应](cardiovascular-event-chain.md)
+- [睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)
+- [大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)
+- [癌症与重大疾病：分清阶段，别让恐惧替你决定](cancer-and-major-illness.md)
+- [儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)
+- [常见专科问题：提高看病质量，而不是自己当医生](specialty-care-map.md)

@@ -4,26 +4,36 @@ language: zh-CN
 canonical_slug: elder-care-basics
 en_path: ../../../en/book/part-3-family-health-os/elder-care-basics.md
 translation_status: source
-last_reviewed: 2026-06-14
+last_reviewed: 2026-06-15
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 老年健康和照护：守住行动、认知、用药和生活能力
+# 老年健康和照护：守住还能生活的能力
 
-> 本文不是医疗建议。老人跌倒受伤、意识改变、突然认知或行动能力下降、胸痛、呼吸困难、卒中样症状、严重疼痛、异常出血或药物严重反应时，请及时就医或急诊。
+> 老人跌倒受伤、意识改变、突然认知或行动能力下降、胸痛、呼吸困难、卒中样症状、严重疼痛、异常出血或药物严重反应时，请及时就医或急诊。本文只帮助家庭观察变化、整理信息和准备照护协作，不替代医生诊断、治疗、用药、停药、康复方案或照护等级判断。
 
-## 真正要守住的，是还能安全地生活
+和父母谈健康，不是为了把父母管得更紧。真正要谈清楚的是：随着年龄增长，家里到底要一起守住什么。
 
 很多家庭以为“老年照护”是父母不能自理以后才会遇到的事。其实更早的信号，往往藏在日常里。
 
-走路慢了，不太敢下楼；夜里起身怕摔；药盒越来越多，自己也说不清哪种药为什么吃；做饭、买菜、用钱、复查开始出错；一天一天少出门，也不太有想做的事。
+父亲以前出门买菜很利索，现在总说“楼下太麻烦”；母亲夜里起身要扶墙，嘴上却说“没事”；药盒越来越多，自己也说不清哪一种为什么吃；做饭、付费、复查开始出错；一天一天少出门，也不太有想做的事。
 
 这些变化不一定马上是疾病，但它们在提示同一件事：父母的独立生活能力正在承受压力。
 
-老年健康不能只看“有没有病”和“指标好不好”。更实际的问题是：还能不能安全走动、清楚判断、正确用药、照顾日常生活，并且和真实世界保持连接。
+这些变化不一定马上是疾病，但它们在提示同一件事：父母的独立生活能力正在承受压力。
 
-这章不讲老年疾病诊疗，也不替家庭决定照护等级。它只给一个家庭观察框架：先分清哪些变化不能拖，哪些变化需要安排评估，哪些事情可以现在就准备。
+## 老年健康，先看还能不能生活
+
+照顾老人时，家庭很容易盯住两个东西：疾病名称和化验指标。
+
+血压多少，血糖多少，骨密度怎样，脑梗有没有，心脏好不好。这些当然重要，但老年健康还有一个更日常、也更容易被忽视的问题：老人还能不能安全、体面、尽量自主地生活。
+
+能不能走路，能不能洗澡，能不能按时吃药，能不能做饭，能不能判断骗局，能不能出门见人，能不能从床上起身，能不能在夜里安全去厕所。
+
+这些不是“小事”。它们决定了父母能不能继续生活在熟悉环境里，也决定家庭照护会不会突然崩掉。
+
+所以，老年健康不能只问“有没有病”。更好的问题是：哪些能力正在变弱？哪些变化不能拖？哪些准备现在就能做？
 
 ## 先分清三类变化
 
@@ -47,7 +57,7 @@ evidence_status: needs_periodic_review
 
 老年人的同一个症状，常常比中青年更值得谨慎。不是因为“老人都脆弱”，而是因为跌倒、感染、脱水、药物反应、卒中、骨折和慢病失控，可能先表现为“状态不对”“突然糊涂”“走不动了”。
 
-家里可以先把 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [家庭健康档案模板](../../handbook/templates/family-health-record.md) 放在一起：一个负责判断下一步动作，一个负责把病史、用药、过敏、复查和紧急联系人留住。
+家里可以先把 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md) 和 [家庭健康档案与慢病记录](../../handbook/templates/family-health-record.md) 放在一起：一个负责判断下一步动作，一个负责把病史、用药、过敏、复查和紧急联系人留住。
 
 ## 四件事，比单次指标更能说明问题
 
@@ -109,7 +119,7 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 - 有没有长期孤独、沉默、烦躁、睡不好或明显情绪低落；
 - 照护者是否已经明显疲惫，开始无法安全照护。
 
-有盼头和不孤单不是鸡汤。NIA 的认知健康资料也把身体活动、慢病管理、睡眠、社交活动、情绪和用药影响放在同一张大脑健康图里。对家庭来说，不要只把父母健康聊成指标和吃药，也要看他们还想做什么、能不能出门见人、生活里有没有稳定连接。
+有盼头和不孤单不是鸡汤。对家庭来说，不要只把父母健康聊成指标和吃药，也要看他们还想做什么、能不能出门见人、生活里有没有稳定连接。一个人如果还愿意养花、买菜、见朋友、学点东西，健康动作就更容易长在生活里。
 
 ## 跌倒后，先问五件事
 
@@ -195,17 +205,21 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 老年问题常常牵一发而动全身，早一点求助通常比硬扛更安全。
 
-## 这个月先做 30 分钟
+## 先做一次小整理
 
-不用等全家有空开会。这个月先做 30 分钟：
+不用等全家有空开会。一次小整理就够：
 
-1. **清一条安全路线：** 从床到厕所、从客厅到门口，先把灯、地面、鞋和绊脚物处理掉。
-2. **拍一组药物照片：** 长期药、眼药水、外用药、保健品、草药和药盒正反面，放进家庭健康档案。
-3. **写一页能力变化：** 走路、洗澡、做饭、用药、用钱、出门、社交，最近有没有和平时不同。
-4. **标一个复查日历：** 慢病随访、眼科、牙科、听力、疫苗和医生交代的复查，不靠记忆。
-5. **问一个生活目标：** 父母最想保住什么能力？出门散步、自己做饭、见朋友、带孙辈、旅行，还是能安稳睡觉？
+清一条从床到厕所、从客厅到门口的安全路线。
 
-如果老人有血压、血糖、血脂、尿酸或肾功能等长期指标，把复查结果放进 [慢病指标记录表](../../handbook/templates/chronic-marker-log.md)，不要让每次复诊都从零开始。
+拍一组长期药、眼药水、外用药、保健品、草药和药盒正反面的照片。
+
+写一页能力变化，看看走路、洗澡、做饭、用药、用钱、出门、社交有没有和平时不同。
+
+标一个复查日历。
+
+最后问父母一个生活目标：最想保住什么能力，是出门散步、自己做饭、见朋友、带孙辈、旅行，还是能安稳睡觉？
+
+如果老人有血压、血糖、血脂、尿酸或肾功能等长期指标，把复查结果放进 [慢病指标记录表](../../handbook/templates/family-health-record.md#_2-慢病指标记录)，不要让每次复诊都从零开始。
 
 和父母聊这些时，不必从“以后需要照护怎么办”开始。可以更自然一点：
 
@@ -213,30 +227,31 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 能让父母继续安全做自己的事，才是老年照护最好的起点。
 
-## 可信资料与进一步阅读
+## 参考资料
 
-截至 2026-06-14，本章主要参考：
+截至 2026-06-15，本章主要参考：
 
 - CDC: [Healthy Aging at Any Age](https://www.cdc.gov/healthy-aging/about/index.html)
 - CDC: [About Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)
 - CDC: [STEADI - Older Adult Fall Prevention](https://www.cdc.gov/steadi/index.html)
-- NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
-- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
-- CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
 - MedlinePlus: [Older Adult Health](https://medlineplus.gov/olderadulthealth.html)
 - MedlinePlus: [Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)
+- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
 - MedlinePlus: [Caregiver Health](https://medlineplus.gov/caregiverhealth.html)
+- CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 最后提醒
+## 本章带走
 
 老年照护最重要的不是替父母决定一切，而是提前保护他们还能行动、判断、选择和生活的能力。
+
+当一家人开始有协作，外部信息的诱惑也会变多：保健品、检测、抗衰和新研究，都需要另一套判断。
 
 ---
 
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[父母沟通](talking-with-parents.md)
-- 下一章：[保健品证据陷阱](../part-4-health-information-defense/supplement-evidence-traps.md)
+- 上一章：[如何和父母谈健康：不把关心变成控制](talking-with-parents.md)
+- 下一章：[保健品证据陷阱：试试也没坏处吗](../part-4-health-information-defense/supplement-evidence-traps.md)

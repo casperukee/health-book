@@ -14,6 +14,6 @@
 
 ## 章节
 
-- [保健品最常见的证据陷阱](supplement-evidence-traps.md)
-- [健康设备、检测项目和抗衰营销](devices-tests-and-longevity-marketing.md)
-- [健康新闻、新研究和短视频科普](reading-health-news.md)
+- [保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)
+- [健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
+- [健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来](reading-health-news.md)

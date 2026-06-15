@@ -1,13 +1,12 @@
 # Release Process
 
-This project uses small, transparent preview releases rather than large, infrequent drops.
+This project uses small, transparent releases rather than large, infrequent drops.
 
 The Chinese edition is the source edition. English pages are adapted after selected Chinese pages become stable enough to represent the project safely.
 
 ## Version Labels
 
-- `v0.x-preview`: public preview releases used for reader testing, clinician feedback, and workflow validation.
-- `v0.x`: stable preview releases after the same content cycle has received enough cleanup and review.
+- `v0.x`: public reader and clinician feedback releases used to validate structure, wording, tools, and medical boundaries.
 - `v1.0`: the first release where the main Chinese book is considered structurally stable.
 - `v1.x`: maintenance releases for corrections, medical-boundary wording, links, sources, templates, and translations.
 
@@ -37,13 +36,13 @@ npm run docs:build
 4. Commit and push to `main`.
 5. Confirm GitHub Pages builds successfully.
 6. Trigger or wait for the mirror sync.
-7. If the change represents a preview checkpoint, create an annotated tag and GitHub release.
+7. If the change represents a version checkpoint, create an annotated tag and GitHub release.
 
 Example:
 
 ```bash
-git tag -a v0.9-preview -m "Health Youpu v0.9 preview"
-git push origin v0.9-preview
+git tag -a v0.9 -m "Health Youpu v0.9"
+git push origin v0.9
 ```
 
 ## Correction Releases

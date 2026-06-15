@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -552,6 +552,16 @@
 
 ## 代谢、四高与心血管风险
 
+### WHO：Cardiovascular diseases (CVDs)
+
+- URL: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-%28cvds%29
+- 机构：World Health Organization
+- 类型：国际官方疾病负担和风险因素资料
+- 用途：校准心血管病全球负担、心梗和卒中占比、常见风险因素和急性症状边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-16
+
 ### CDC：About Cholesterol
 
 - URL: https://www.cdc.gov/cholesterol/about/index.html
@@ -937,6 +947,36 @@
 - 最后复查：2026-06-04
 
 ## 癌症筛查和重大疾病
+
+### WHO：Cancer
+
+- URL: https://www.who.int/news-room/fact-sheets/detail/cancer
+- 机构：World Health Organization
+- 类型：国际官方癌症事实页
+- 用途：校准癌症定义、全球负担、风险因素、预防、早诊、筛查、治疗和缓和医疗等公共健康边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-15
+
+### IARC/GLOBOCAN：All cancers fact sheet, 2022
+
+- URL: https://gco.iarc.who.int/media/globocan/factsheets/cancers/39-all-cancers-fact-sheet.pdf
+- 机构：International Agency for Research on Cancer / Global Cancer Observatory
+- 类型：国际官方癌症负担统计资料
+- 用途：校准 2022 年全球癌症新发病例和死亡负担等章节背景数据。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-15
+
+### IARC/GLOBOCAN：China fact sheet, 2022
+
+- URL: https://gco.iarc.who.int/media/globocan/factsheets/populations/160-china-fact-sheet.pdf
+- 机构：International Agency for Research on Cancer / Global Cancer Observatory
+- 类型：国际官方癌症负担统计资料
+- 用途：校准 2022 年中国癌症新发病例和死亡负担等章节背景数据。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-15
 
 ### NCI：What Is Cancer?
 
@@ -1530,7 +1570,7 @@
 - 机构：国家卫生健康委员会
 - 类型：中国官方心理援助热线资料
 - 用途：校准中国大陆心理援助热线入口；正文必须写清当下安全风险优先 120、110、急诊或精神专科急诊，热线不替代急救。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 

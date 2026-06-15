@@ -6,7 +6,7 @@ The Chinese title, **健康有谱**, roughly means “having a clearer sense of 
 
 This project is **not medical advice**. It does not diagnose, prescribe, recommend stopping medication, or replace professional care. When warning signs appear, readers should contact local emergency services, urgent care, or qualified clinicians.
 
-Current preview: `v0.9-preview`. The Chinese source edition is the most complete version; English pages remain a limited preview.
+Current version: `v0.9`. The Chinese source edition is the most complete version; English pages remain a limited preview.
 
 ## Read Online
 

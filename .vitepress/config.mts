@@ -7,43 +7,43 @@ const bookSidebar = [
     text: '进入方式和边界',
     items: [
       { text: '如何使用这本书', link: '/content/zh-CN/book/00-start-here' },
-      { text: '医疗边界与危险信号', link: '/content/zh-CN/book/medical-boundaries' }
+      { text: '危险信号：先分急缓，不要先搜病名', link: '/content/zh-CN/book/medical-boundaries' }
     ]
   },
   {
     text: 'Part 1：健康寿命、风险曲线与体检指标',
     items: [
-      { text: '健康寿命与风险曲线', link: '/content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve' },
-      { text: '体检指标', link: '/content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers' }
+      { text: '健康寿命：你的身体在替谁倒数', link: '/content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve' },
+      { text: '体检指标：不是判决书，而是风险语言', link: '/content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers' }
     ]
   },
   {
     text: 'Part 2：身体的几条主风险线',
     items: [
-      { text: '代谢与四高', link: '/content/zh-CN/book/part-2-body-risk-map/metabolic-health' },
-      { text: '心血管事件链', link: '/content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain' },
-      { text: '睡眠与恢复', link: '/content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery' },
-      { text: '大脑与心理健康', link: '/content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health' },
-      { text: '癌症与重大疾病', link: '/content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness' },
-      { text: '儿童与青少年健康', link: '/content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health' },
-      { text: '专科问题', link: '/content/zh-CN/book/part-2-body-risk-map/specialty-care-map' }
+      { text: '代谢与四高：四套有用系统，为什么会失衡', link: '/content/zh-CN/book/part-2-body-risk-map/metabolic-health' },
+      { text: '心血管事件链：从血压到心梗的连锁反应', link: '/content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain' },
+      { text: '睡眠与恢复：身体修复的隐形工程', link: '/content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery' },
+      { text: '大脑与心理健康：先看安全、功能和支持', link: '/content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health' },
+      { text: '癌症与重大疾病：分清阶段，别让恐惧替你决定', link: '/content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness' },
+      { text: '儿童与青少年：身体和心理一起长大', link: '/content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health' },
+      { text: '常见专科问题：提高看病质量，而不是自己当医生', link: '/content/zh-CN/book/part-2-body-risk-map/specialty-care-map' }
     ]
   },
   {
     text: 'Part 3：家庭健康操作系统',
     items: [
-      { text: '家庭健康到底要管理什么', link: '/content/zh-CN/book/part-3-family-health-os/what-to-manage' },
-      { text: '就医前如何准备信息', link: '/content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation' },
-      { text: '父母沟通', link: '/content/zh-CN/book/part-3-family-health-os/talking-with-parents' },
-      { text: '老年照护：守住生活能力', link: '/content/zh-CN/book/part-3-family-health-os/elder-care-basics' }
+      { text: '家庭健康到底要管理什么：不是管人，是管事实和边界', link: '/content/zh-CN/book/part-3-family-health-os/what-to-manage' },
+      { text: '就医前如何准备信息：把事实带进诊室', link: '/content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation' },
+      { text: '如何和父母谈健康：不把关心变成控制', link: '/content/zh-CN/book/part-3-family-health-os/talking-with-parents' },
+      { text: '老年健康和照护：守住还能生活的能力', link: '/content/zh-CN/book/part-3-family-health-os/elder-care-basics' }
     ]
   },
   {
     text: 'Part 4：健康信息防御系统',
     items: [
-      { text: '保健品证据陷阱', link: '/content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps' },
-      { text: '设备、检测和抗衰营销', link: '/content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
-      { text: '健康新闻和新研究', link: '/content/zh-CN/book/part-4-health-information-defense/reading-health-news' }
+      { text: '保健品证据陷阱：试试也没坏处吗', link: '/content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps' },
+      { text: '健康设备、检测项目和抗衰营销：有数字，也不等于值得买', link: '/content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
+      { text: '健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来', link: '/content/zh-CN/book/part-4-health-information-defense/reading-health-news' }
     ]
   }
 ]
@@ -54,14 +54,12 @@ const handbookSidebar = [
     items: [
       { text: '危险信号速查', link: '/content/zh-CN/handbook/playbooks/red-flags' },
       { text: '症状与对应动作速查', link: '/content/zh-CN/handbook/playbooks/symptom-action-guide' },
-      { text: '心理健康风险识别与自我照护', link: '/content/zh-CN/handbook/playbooks/mental-health-check-in' },
-      { text: '急诊、门诊和挂号科室怎么选', link: '/content/zh-CN/handbook/playbooks/department-navigation-guide' },
-      { text: '体检前：到底该查什么', link: '/content/zh-CN/handbook/playbooks/checkup-planning-guide' },
+      { text: '心理健康风险识别与支持', link: '/content/zh-CN/handbook/playbooks/mental-health-check-in' },
+      { text: '就医科室与专科导航', link: '/content/zh-CN/handbook/playbooks/department-navigation-guide' },
+      { text: '体检项目选择指南', link: '/content/zh-CN/handbook/playbooks/checkup-planning-guide' },
       { text: '常见异常指标速查', link: '/content/zh-CN/handbook/playbooks/common-checkup-markers' },
       { text: '就医前问题清单', link: '/content/zh-CN/handbook/playbooks/doctor-visit-checklist' },
-      { text: '家庭健康卡模板', link: '/content/zh-CN/handbook/templates/family-health-card' },
-      { text: '家庭健康档案模板', link: '/content/zh-CN/handbook/templates/family-health-record' },
-      { text: '慢病指标记录表', link: '/content/zh-CN/handbook/templates/chronic-marker-log' },
+      { text: '家庭健康档案与慢病记录', link: '/content/zh-CN/handbook/templates/family-health-record' },
       { text: '健康产品购买前检查清单', link: '/content/zh-CN/handbook/templates/health-product-checklist' }
     ]
   }
@@ -71,7 +69,7 @@ const feedbackSidebar = [
   {
     text: '试读与反馈',
     items: [
-      { text: 'v0.9 灰度试读说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
+      { text: 'v0.9 试读与反馈说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
     ]
   }
 ]
@@ -140,7 +138,7 @@ export default defineConfig({
     'content/en/handbook/templates/chronic-marker-log.md',
     'content/en/handbook/templates/family-health-record.md'
   ],
-  lastUpdated: true,
+  lastUpdated: false,
   ignoreDeadLinks: [
     /^https?:\/\//,
     'LICENSE',
@@ -155,7 +153,7 @@ export default defineConfig({
       { text: '危险信号', link: '/content/zh-CN/handbook/playbooks/red-flags' },
       { text: '主书目录', link: '/content/zh-CN/book/README' },
       { text: '手册', link: '/content/zh-CN/handbook/README' },
-      { text: '灰度试读', link: '/content/zh-CN/feedback/gray-trial-guide' },
+      { text: 'v0.9 反馈', link: '/content/zh-CN/feedback/gray-trial-guide' },
       { text: '参考资料', link: '/content/zh-CN/references/README' },
       { text: 'English Preview', link: '/content/en/README' },
       { text: 'GitHub', link: 'https://github.com/casperukee/health-book' }

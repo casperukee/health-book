@@ -41,7 +41,7 @@ The Chinese source edition is here:
 - [中文导读](../zh-CN/book/00-start-here.md)
 - [中文主书目录](../zh-CN/book/README.md)
 - [中文手册与模板](../zh-CN/handbook/README.md)
-- [中文灰度试读说明](../zh-CN/feedback/gray-trial-guide.md)
+- [中文 v0.9 试读与反馈说明](../zh-CN/feedback/gray-trial-guide.md)
 
 ## Why Only A Preview?
 

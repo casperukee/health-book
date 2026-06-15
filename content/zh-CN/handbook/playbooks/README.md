@@ -12,9 +12,9 @@
 |---|---|
 | 已经出现危险信号，不确定能不能等 | [危险信号速查](red-flags.md) |
 | 已经有症状，不知道下一步 | [症状与对应动作速查](symptom-action-guide.md) |
-| 情绪、焦虑、压力、失眠或自伤风险 | [心理健康风险识别与自我照护](mental-health-check-in.md) |
-| 不知道该急诊、门诊还是挂什么科 | [急诊、门诊和挂号科室怎么选](department-navigation-guide.md) |
-| 体检前不知道该查什么 | [体检前：到底该查什么](checkup-planning-guide.md) |
+| 情绪、焦虑、压力、失眠或自伤风险 | [心理健康风险识别与支持](mental-health-check-in.md) |
+| 不知道该急诊、门诊还是挂什么科 | [就医科室与专科导航](department-navigation-guide.md) |
+| 体检前不知道该查什么 | [体检项目选择指南](checkup-planning-guide.md) |
 | 体检报告有异常，看不懂下一步 | [常见异常指标速查](common-checkup-markers.md) |
 | 想先约定哪些情况不能拖 | [危险信号速查](red-flags.md) |
 | 准备门诊、复诊或陪诊 | [就医前问题清单](doctor-visit-checklist.md) |

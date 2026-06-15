@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: common-checkup-markers
 en_path: ../../../en/handbook/playbooks/common-checkup-markers.md
 translation_status: source
-last_reviewed: 2026-06-04
+last_reviewed: 2026-06-15
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -13,9 +13,22 @@ evidence_status: needs_periodic_review
 
 > 本页不是医疗建议，不能替你解释个人报告、诊断疾病、决定用药或停药。化验结果需要结合症状、病史、体征、既往结果、用药和医生判断。
 
-这页适合拿到体检报告后快速扫一遍：这个指标大概是什么意思，偏高或偏低常见提示什么，应该和哪些指标一起看，下一步是记录、复查，还是准备资料问医生。
+这份速查适合拿到体检报告后快速扫一遍：这个指标大概是什么意思，偏高或偏低常见提示什么，应该和哪些指标一起看，下一步是记录、复查，还是准备资料问医生。
 
 不要把它当成诊断表。它更像一张“读报告路线图”：先知道往哪条风险线想，再决定下一步。
+
+本页里出现的数字分层，来自公开指南、机构资料或常见报告口径，只用于帮你读懂报告语言。它们不是个人治疗目标、用药阈值、停药依据或复查间隔。
+
+## 怎么查这一页
+
+这页适合按问题跳读：
+
+- 先判断能不能等，看“30 秒先分层”；
+- 想理解常见阈值，看“先看分层，不急着定性”；
+- 不知道多个箭头怎么放在一起看，看“怎么组合看”；
+- 查血压、血脂、血糖、尿酸、肾功能、肝功能、血常规、甲状腺或肿瘤标志物，直接翻到对应小节；
+- 准备复查或门诊，看“复查前问医生的 6 句话”；
+- 任何指标伴随胸痛、卒中样症状、严重气短、晕厥、意识改变、异常出血、严重疼痛或自伤风险，先不要查表，先求助。
 
 ## 30 秒先分层
 
@@ -24,7 +37,7 @@ evidence_status: needs_periodic_review
     <span class="triage-label">红色</span>
     <h3>有症状或危险信号</h3>
     <p>胸痛、卒中样症状、严重气短、晕厥、意识改变、异常出血、严重疼痛、自伤风险等，不要继续研究指标。</p>
-    <p>先看 <a href="red-flags.html">危险信号速查</a>。</p>
+    <p>先求助、急诊或联系当地急救服务；需要最小说明时再看 <a href="red-flags.html">危险信号速查</a>。</p>
   </section>
   <section class="triage-card triage-card-yellow">
     <span class="triage-label">黄色</span>
@@ -34,7 +47,7 @@ evidence_status: needs_periodic_review
   <section class="triage-card triage-card-green">
     <span class="triage-label">绿色</span>
     <h3>单次轻微异常</h3>
-    <p>先看测量条件、近期状态和既往趋势。按报告或医生建议复查，不要立刻自我诊断或乱补乱停药。</p>
+    <p>先看测量条件、近期状态和既往趋势。按报告或医生建议复查，不要立刻自我诊断，也不要乱补、乱停药、乱加药。</p>
   </section>
 </div>
 
@@ -429,12 +442,12 @@ FT4、FT3 是甲状腺激素相关指标，用来进一步判断甲状腺功能�
 2. 需要多久复查？复查前要不要空腹、停某些保健品或避免剧烈运动？
 3. 这个指标要和哪些指标一起看？
 4. 有没有必要进一步做影像、内镜、尿检、家庭血压或专科检查？
-5. 我现在需要先改变生活方式，还是已经需要药物或专科判断？
+5. 我是否需要由医生评估生活方式、药物或专科处理？
 6. 什么症状或数值变化出现时，要提前就医？
 
-## 可信资料
+## 参考资料
 
-截至 2026-06-04，本页主要参考：
+截至 2026-06-15，本页主要参考以下资料。它们用于校准常见指标含义和边界，不构成个人诊断、治疗目标或用药建议：
 
 - 中国高血压防治指南修订委员会: [中国高血压防治指南（2024 年修订版）](https://cjournal.hep.com.cn/1673-7245/CN/1160171857581368285)
 - 中国血脂管理指南修订联合专家委员会: [中国血脂管理指南（2023 年）](https://rs.yiigle.com/CN2021/1449955.htm)
@@ -460,7 +473,9 @@ FT4、FT3 是甲状腺激素相关指标，用来进一步判断甲状腺功能�
 - CDC: [About Lipoprotein(a)](https://www.cdc.gov/heart-disease-family-history/about/about-lipoprotein-a.html)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
-## 最后提醒
+更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+
+## 一句话
 
 指标不是判决书。它最有用的时候，是帮你看见趋势、组合、背景和下一步该问谁。
 
@@ -468,6 +483,6 @@ FT4、FT3 是甲状腺激素相关指标，用来进一步判断甲状腺功能�
 
 ## 下一步
 
-- [体检前：到底该查什么](checkup-planning-guide.md)
-- [慢病指标记录表](../templates/chronic-marker-log.md)
+- [体检项目选择指南](checkup-planning-guide.md)
+- [慢病指标记录表](../templates/family-health-record.md#_2-慢病指标记录)
 - [就医前问题清单](doctor-visit-checklist.md)

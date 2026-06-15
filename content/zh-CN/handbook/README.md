@@ -1,63 +1,63 @@
-# 手册、模板与速查
+# 手册与模板
 
-这些页面是动态维护部分，服务于家庭实际操作。主书负责解释为什么，手册负责让你立刻能做。
+这里是《健康有谱》的工具区。主书负责解释为什么、怎么判断、边界在哪里；手册负责在具体场景里帮你立刻做下一步。
 
 ::: danger 先看危险信号
-如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤自杀风险或孕产期危险信号，先打开 [危险信号速查](playbooks/red-flags.md)。
+如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤或自杀风险、孕产期危险信号等情况，不要从手册慢慢翻，先联系急救、急诊或当地医疗入口。可以同时打开 [危险信号速查](playbooks/red-flags.md)，帮助家人说清发生了什么。
 :::
 
 ## 先选你现在的场景
 
 | 你现在想做什么 | 先打开 |
 |---|---|
-| 身体已经不舒服，不确定能不能等 | [危险信号速查](playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](playbooks/symptom-action-guide.md) |
-| 情绪、焦虑、压力、失眠或自伤风险 | [心理健康风险识别与自我照护](playbooks/mental-health-check-in.md) |
-| 不知道该急诊、门诊还是挂什么科 | [急诊、门诊和挂号科室怎么选](playbooks/department-navigation-guide.md) |
-| 体检前不知道该查什么 | [体检前：到底该查什么](playbooks/checkup-planning-guide.md) |
-| 体检报告有异常，看不懂下一步 | 先看 [体检指标](../book/part-1-healthspan-risk-and-markers/checkup-markers.md)，再用 [常见异常指标速查](playbooks/common-checkup-markers.md) |
-| 要复查、门诊或陪诊 | [就医前问题清单](playbooks/doctor-visit-checklist.md) |
-| 想给家人做准备 | 先做 [家庭健康卡模板](templates/family-health-card.md)，再扩展到 [家庭健康档案模板](templates/family-health-record.md) |
-| 想系统读一遍 | 先回到 [如何使用这本书](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
+| 身体或情绪已经不舒服，不确定能不能等 | [危险信号速查](playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](playbooks/symptom-action-guide.md) 或 [心理健康风险识别与支持](playbooks/mental-health-check-in.md) |
+| 不知道该急诊、门诊还是挂什么科 | [就医科室与专科导航](playbooks/department-navigation-guide.md) |
+| 要看报告、复查或见医生 | 先看 [体检指标](../book/part-1-healthspan-risk-and-markers/checkup-markers.md)，再用 [常见异常指标速查](playbooks/common-checkup-markers.md) 和 [就医前问题清单](playbooks/doctor-visit-checklist.md) |
+| 体检前不知道该查什么 | [体检项目选择指南](playbooks/checkup-planning-guide.md) |
+| 想给家人做准备 | 先做 [一页家庭健康卡](templates/family-health-record.md#_1-一页家庭健康卡)，再扩展到 [家庭健康档案与慢病记录](templates/family-health-record.md) |
+| 被保健品、检测、设备、抗衰或短视频困扰 | 先用 [健康产品购买前检查清单](templates/health-product-checklist.md)，再读 [保健品证据陷阱](../book/part-4-health-information-defense/supplement-evidence-traps.md) |
+| 想系统读一遍 | 先回到 [如何使用《健康有谱》](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
 
-## 具体工具
+## 工具分组
 
-- 想给家里约定“什么情况不能拖”：先打开 [危险信号速查](playbooks/red-flags.md)。
-- 情绪、焦虑、压力、失眠或自伤风险：看 [心理健康风险识别与自我照护](playbooks/mental-health-check-in.md)。
-- 不知道该急诊、门诊还是挂什么科：看 [急诊、门诊和挂号科室怎么选](playbooks/department-navigation-guide.md)。
-- 体检前不知道该查什么：用 [体检前：到底该查什么](playbooks/checkup-planning-guide.md)。
-- 拿到报告看不懂：先看 [常见异常指标速查](playbooks/common-checkup-markers.md)。
-- 有血压、血脂、血糖、尿酸等长期指标：用 [慢病指标记录表](templates/chronic-marker-log.md)。
-- 家人准备买保健品、检测、设备或抗衰产品：先看 [健康产品购买前检查清单](templates/health-product-checklist.md)。
+| 分组 | 页面 |
+|---|---|
+| 急缓和症状 | [危险信号速查](playbooks/red-flags.md)、[症状与对应动作速查](playbooks/symptom-action-guide.md)、[心理健康风险识别与支持](playbooks/mental-health-check-in.md)、[就医科室与专科导航](playbooks/department-navigation-guide.md) |
+| 体检和就医 | [体检项目选择指南](playbooks/checkup-planning-guide.md)、[常见异常指标速查](playbooks/common-checkup-markers.md)、[就医前问题清单](playbooks/doctor-visit-checklist.md) |
+| 家庭资料 | [一页家庭健康卡](templates/family-health-record.md#_1-一页家庭健康卡)、[家庭健康档案与慢病记录](templates/family-health-record.md)、[慢病指标记录表](templates/family-health-record.md#_2-慢病指标记录) |
+| 健康消费 | [健康产品购买前检查清单](templates/health-product-checklist.md) |
 
 ## 这些页面怎么接起来
 
 | 从哪一页出发 | 下一步 |
 |---|---|
 | [危险信号速查](playbooks/red-flags.md) | 如果没有命中红色危险信号，但仍不确定下一步，转到 [症状与对应动作速查](playbooks/symptom-action-guide.md) |
-| [症状与对应动作速查](playbooks/symptom-action-guide.md) | 情绪和心理风险转到 [心理健康风险识别与自我照护](playbooks/mental-health-check-in.md)；黄色情况如果不知道挂什么科，先看 [急诊、门诊和挂号科室怎么选](playbooks/department-navigation-guide.md)，再用 [就医前问题清单](playbooks/doctor-visit-checklist.md) 准备；绿色情况把背景写进 [家庭健康卡](templates/family-health-card.md) |
-| [体检前：到底该查什么](playbooks/checkup-planning-guide.md) | 体检后用 [常见异常指标速查](playbooks/common-checkup-markers.md) 分层，再把长期指标放进 [慢病指标记录表](templates/chronic-marker-log.md) |
+| [症状与对应动作速查](playbooks/symptom-action-guide.md) | 情绪和心理风险转到 [心理健康风险识别与支持](playbooks/mental-health-check-in.md)；黄色情况如果不知道挂什么科，先看 [就医科室与专科导航](playbooks/department-navigation-guide.md)，再用 [就医前问题清单](playbooks/doctor-visit-checklist.md) 准备；绿色情况把背景写进 [一页家庭健康卡](templates/family-health-record.md#_1-一页家庭健康卡) |
+| [体检项目选择指南](playbooks/checkup-planning-guide.md) | 体检后用 [常见异常指标速查](playbooks/common-checkup-markers.md) 分层，再把长期指标放进 [慢病指标记录表](templates/family-health-record.md#_2-慢病指标记录) |
 | [常见异常指标速查](playbooks/common-checkup-markers.md) | 需要复查或门诊时，用 [就医前问题清单](playbooks/doctor-visit-checklist.md) 准备问题 |
-| [就医前问题清单](playbooks/doctor-visit-checklist.md) | 看完医生后，把用药、复查和提前就医条件更新到 [家庭健康档案](templates/family-health-record.md) |
-| [家庭健康卡模板](templates/family-health-card.md) | 如果家人慢病多、用药多、资料多，再升级到 [家庭健康档案模板](templates/family-health-record.md) |
-| [家庭健康档案模板](templates/family-health-record.md) | 有长期指标时，用 [慢病指标记录表](templates/chronic-marker-log.md) 单独看趋势 |
+| [就医前问题清单](playbooks/doctor-visit-checklist.md) | 看完医生后，把用药、复查和提前就医条件更新到 [家庭健康档案与慢病记录](templates/family-health-record.md) |
+| [一页家庭健康卡](templates/family-health-record.md#_1-一页家庭健康卡) | 如果家人慢病多、用药多、资料多，再升级到 [家庭健康档案与慢病记录](templates/family-health-record.md) |
+| [家庭健康档案与慢病记录](templates/family-health-record.md) | 有长期指标时，用 [慢病指标记录表](templates/family-health-record.md#_2-慢病指标记录) 单独看趋势 |
+| [健康产品购买前检查清单](templates/health-product-checklist.md) | 如果问题不只是买不买，还涉及证据、营销话术和家庭沟通，再读 [保健品证据陷阱](../book/part-4-health-information-defense/supplement-evidence-traps.md) 和 [健康设备、检测项目和抗衰营销](../book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |
 
-## 推荐使用顺序
+## 如果只想先搭一个家庭流程
 
-如果你只是想先把家里的健康流程搭起来，可以按这个顺序：
+不要从完整工具目录开始。先搭一个能反复使用的最小闭环就够了：
 
-1. [危险信号速查](playbooks/red-flags.md)：先约定什么情况不能拖。
-2. [症状与对应动作速查](playbooks/symptom-action-guide.md)：把常见症状先分成急救、门诊和观察三层动作。
-3. [心理健康风险识别与自我照护](playbooks/mental-health-check-in.md)：压力、情绪、焦虑、失眠或自伤风险时使用。
-4. [急诊、门诊和挂号科室怎么选](playbooks/department-navigation-guide.md)：不确定看急诊还是门诊、不知道挂什么科时使用。
-5. [体检前：到底该查什么](playbooks/checkup-planning-guide.md)：体检前先分基础项、年龄性别项和个人风险加项。
-6. [常见异常指标速查](playbooks/common-checkup-markers.md)：拿到报告后先分层，不被红箭头带着走。
-7. [家庭健康卡模板](templates/family-health-card.md)：先给一个家人做一张能马上用的小卡。
-8. [家庭健康档案模板](templates/family-health-record.md)：再为一个家庭成员建完整一些的最小档案。
-9. [就医前问题清单](playbooks/doctor-visit-checklist.md)：下次门诊前直接照着准备。
-10. [慢病指标记录表](templates/chronic-marker-log.md)：有高血压、血糖、血脂、尿酸等长期指标时使用。
-11. [健康产品购买前检查清单](templates/health-product-checklist.md)：买保健品、检测、设备和抗衰产品前使用。
+1. [危险信号速查](playbooks/red-flags.md)：全家先约定哪些情况不能等。
+2. [一页家庭健康卡](templates/family-health-record.md#_1-一页家庭健康卡)：先给最需要照护的一个家人填一张小卡。
+3. [症状与对应动作速查](playbooks/symptom-action-guide.md)：日常不舒服时，先分急救、尽快门诊和观察记录。
+4. [就医前问题清单](playbooks/doctor-visit-checklist.md)：真正要看医生时，把时间线、检查、用药和问题带上。
+
+其他工具不用提前做完，遇到对应情况再加：
+
+- 体检前后：用 [体检项目选择指南](playbooks/checkup-planning-guide.md)、[常见异常指标速查](playbooks/common-checkup-markers.md) 和 [慢病指标记录](templates/family-health-record.md#_2-慢病指标记录)。
+- 不知道挂什么科：用 [就医科室与专科导航](playbooks/department-navigation-guide.md)。
+- 情绪、失眠、焦虑或自伤风险：用 [心理健康风险识别与支持](playbooks/mental-health-check-in.md)。
+- 买保健品、检测、设备或抗衰产品前：用 [健康产品购买前检查清单](templates/health-product-checklist.md)。
 
 ## 维护入口
 
+- [v0.9 试读与反馈说明](../feedback/gray-trial-guide.md)
 - [权威医学资料入口](../references/official-medical-sources.md)
-- [勘误与更新记录](../errata/README.md)
+- [勘误、更新与反馈](../errata/README.md)

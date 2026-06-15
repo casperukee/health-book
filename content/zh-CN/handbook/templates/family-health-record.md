@@ -4,179 +4,142 @@ language: zh-CN
 canonical_slug: family-health-record
 en_path: ../../../en/handbook/templates/family-health-record.md
 translation_status: source
-last_reviewed: 2026-06-04
+last_reviewed: 2026-06-15
 medical_review_status: needs_review
 evidence_status: stable
 ---
 
-# 家庭健康档案模板
+# 家庭健康档案与慢病记录
 
-> 本模板不是正式病历，也不是医疗建议。敏感健康信息应妥善保存；涉及授权、急救、保险和医疗记录访问时，请遵循当地法律和医疗机构流程。
+> 这页是家庭协作用的小工具，不替代病历，也不替代医生判断。涉及个人隐私的信息，应征得本人同意，并妥善保存。
 
-## 这页怎么用
+这页只做三件事：
 
-家庭健康档案不是为了把资料收集得很漂亮，而是为了关键时刻能用。
+1. 一页家庭健康卡；
+2. 慢病指标记录；
+3. 复诊前摘要。
 
-它应该回答五个问题：这个人是谁，过去有什么病，正在用什么，最近查过什么，紧急时该联系谁。
+不用一次填完。先让下一次就医少一点混乱，就已经有价值。
 
-如果你只是想先给家人做一张能马上用的小卡，不必从完整档案开始。先用 [家庭健康卡模板](family-health-card.md)，10 分钟填出姓名、紧急联系人、重要病史、过敏史、正在用药和资料位置。等这张卡能用起来，再慢慢扩展成完整档案。
+## 1. 一页家庭健康卡
 
-## 一句话原则
-
-健康档案不是收藏资料，而是让家庭在就医、复查和照护时少漏关键信息。
-
-## 先建最小档案
-
-不要一开始就追求完整。先为一个家庭成员填下面这一小段：
+每个家庭成员一页。先填最关键的信息，放在手机备忘录、家庭共享文件夹或纸质资料夹第一页。
 
 ```text
 姓名：
-出生日期：
+出生年份：
+常住城市：
 紧急联系人：
+
+主要疾病或长期问题：
+药物过敏或严重不良反应：
+正在长期使用的药物：
+重要手术、住院或重大检查：
 常去医院/科室/医生：
+医保、商业保险或重要证件位置：
 
-重要病史：
-过敏史：
-长期用药：
-保健品/草药：
-
-最近一次体检或复查：
-下次复查时间：
-医生特别交代：
-
-危险触发器：
-资料放在哪里：
-谁负责更新：
+最近一次重要复查：
+下次复查或随访时间：
 ```
 
-这份最小档案能在急诊、门诊、陪诊和家庭沟通中先发挥作用。之后再逐步补充检查、影像、出院小结、授权和照护偏好。
+如果信息太多，只先填三项：主要疾病、过敏、长期用药。急事发生时，这三项最容易帮上忙。
 
-建议把 [危险信号速查](../playbooks/red-flags.md) 和 [症状与对应动作速查](../playbooks/symptom-action-guide.md) 放在档案首页附近。真正紧急时，家人先看动作，不翻长资料。
+## 2. 慢病指标记录
 
-家庭档案首页可以单独放一行红色入口：**出现危险信号，先看 [危险信号速查](../playbooks/red-flags.md)，再找资料。** 资料服务于就医，不服务于拖延。
+适合高血压、糖尿病、高血脂、尿酸异常、肾功能异常、心血管病、癌症随访、精神心理问题等长期复诊场景。
 
-## 如果父母独居或异地，再补四项
+不要记录成一堆截图。每次只写一条：
 
-异地照护最怕信息断在路上。平时多补四项，关键时刻会少很多混乱。
+```text
+日期：
+记录场景：家庭测量 / 体检复查 / 门诊复诊 / 症状变化
+指标或问题：
+结果：
+单位和参考范围：
+与上次相比：
+当时背景：熬夜 / 饮酒 / 感染 / 疼痛 / 压力 / 运动 / 其他
+用药、漏服或保健品变化：
+症状或生活功能变化：
+医生交代的下一步：
+```
 
-- **药物照片：** 长期药、眼药水、外用药、保健品和药盒正反面照片，最好能看到药名、剂量和有效期。
-- **沟通情况：** 父母是否方言重、听力差、视力差、容易紧张，谁最能听懂和转述。
-- **最近专科记录：** 最近一次眼科、心内科、神经内科、骨科等专科就诊时间、医生说法、检查项目和下一步。
-- **报销资料位置：** 医保卡、商业保险保单、发票、费用清单、出院小结和常用官方查询入口放在哪里。
+复诊前重点看三件事：
 
-这些不是为了替医生判断，而是为了让陪诊、急诊、复诊和报销时少漏信息。在中国家庭里，还可以把医保电子凭证、门诊病历、电子处方、检查报告、影像云链接或光盘、出院小结、病理报告、费用明细、异地就医备案、门特/门慢和商保理赔材料放在同一个资料夹里。
+<div class="decision-grid">
+  <section class="decision-card decision-card-green">
+    <div class="decision-label">趋势</div>
+    <h3>是不是连续变化</h3>
+    <p>同一指标是第一次异常，还是连续异常？是慢慢变化，还是突然变化？</p>
+  </section>
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">组合</div>
+    <h3>是不是一起变坏</h3>
+    <p>血压、血脂、血糖、尿酸、肾功能、体重腰围是不是一起变坏？</p>
+  </section>
+  <section class="decision-card decision-card-yellow">
+    <div class="decision-label">背景</div>
+    <h3>变化前后发生了什么</h3>
+    <p>异常前后有没有漏药、熬夜、饮酒、感染、疼痛、压力、换药或保健品？</p>
+  </section>
+</div>
 
-## 最小模板
+出现胸痛胸闷、严重呼吸困难、晕厥、意识改变、卒中样症状、严重低血糖或高血糖相关不适，不要等记录表，先求助或就医。
 
-每位家庭成员建一页即可。
+## 3. 复诊前摘要
 
-### 1. 基本信息
+复诊前 10 分钟，把最近的情况压成一页。可以直接复制下面这段：
 
-- 姓名：
-- 出生日期：
-- 身高/体重/腰围：
-- 血型（如明确知道）：
-- 常用语言：
-- 紧急联系人：
-- 常去医院/科室/医生：
-- 医保/保险信息位置：
+```text
+这次复诊主要因为：
 
-### 2. 重要病史
+过去 1-3 个月最重要的变化：
 
-- 慢性病：
-- 重大疾病：
-- 手术史：
-- 住院史：
-- 急诊史：
-- 家族史：
-- 孕产史（如适用）：
-- 需要特别说明的身体状况：
+最近最需要医生看的指标：
 
-### 3. 过敏和禁忌
+异常出现时的背景：
 
-- 药物过敏：
-- 食物过敏：
-- 造影剂或麻醉相关反应：
-- 其他严重过敏：
-- 医生明确提醒不能使用的药物或操作：
+新增症状或生活功能变化：
 
-如果这个人有医生特别交代的提前就医条件，也写进下面的“风险触发器”，不要只靠家属记忆。
+用药、漏服、停用或保健品变化：
 
-### 4. 正在使用的东西
+上次医生交代的事完成了吗：
 
-| 名称 | 类型 | 剂量/频次 | 开始时间 | 开具医生/来源 | 备注 |
-|---|---|---|---|---|---|
-|  | 处方药 |  |  |  |  |
-|  | 非处方药 |  |  |  |  |
-|  | 保健品/草药 |  |  |  |  |
+这次最想问医生的 3 个问题：
 
-类型可以写：处方药、非处方药、外用药、注射药、保健品、草药、临时用药。
+已带材料：检查报告 / 家庭测量记录 / 药盒或药单 / 影像资料 / 其他
+```
 
-### 5. 检查和复查
+这张摘要的目标不是替医生下判断，而是让门诊沟通更快进入重点。准备就诊问题时，可以配合 [就医前问题清单](../playbooks/doctor-visit-checklist.md) 使用。
 
-| 日期 | 项目 | 机构 | 主要结果 | 医生建议 | 下次动作 |
-|---|---|---|---|---|---|
-|  | 体检/化验/影像/专科检查 |  |  |  |  |
+## 保存规则
 
-不要只保存聊天里的照片。尽量保留原报告、医生解释和下一步安排。
+纸质版放在固定位置，家里实际照护者知道在哪里；电子版放在可靠位置，别把完整隐私信息随意发到大群。
 
-### 6. 风险触发器
+成年人的检查、用药和心理健康信息，原则上由本人决定谁能看。老人、儿童或需要照护者的信息，也尽量只共享给实际照护和就医协作需要的人。
 
-写下这个人特别需要警惕的情况：
+## 下一步
 
-- 已知基础病相关危险信号：
-- 医生特别交代的提前就医条件：
-- 近期最需要复查的指标：
-- 容易漏服或误用的药：
-- 跌倒、认知、情绪、自伤风险等家庭关注点：
-
-### 7. 授权和偏好
-
-- 谁可以陪诊和了解病情：
-- 谁保管重要资料：
-- 是否有医疗授权、预立医疗照护文件或其他法律文件：
-- 重大疾病时本人最在意的生活目标：
-- 不希望家人替自己做什么：
-
-这部分不必一次写完，但越早沟通，关键时刻越少混乱。
-
-## 更新节奏
-
-- 每次体检后更新；
-- 每次新增、停用或调整长期药物后更新；
-- 每次住院、手术或急诊后更新；
-- 每 3-6 个月检查一次药物、过敏和紧急联系人；
-- 老人、慢病患者和多药使用者可以更频繁复查。
-
-## 隐私提醒
-
-健康档案很有用，也很敏感。
-
-- 不要随意发到公开群；
-- 手机、网盘或共享文档要设置权限；
-- 给陪诊人共享时，只共享必要信息；
-- 纸质版本放在家人知道但不易丢失的位置；
-- 处理他人健康信息前，尽量征得本人同意。
-
-## 建完档案，下一步
-
-| 现在要做什么 | 下一步 |
+| 现在遇到什么情况 | 可以接着看 |
 |---|---|
-| 只是想给家人一个随身小入口 | 从档案里抽出一张 [家庭健康卡](family-health-card.md)，放到手机、纸上或家庭群收藏 |
-| 家人已经不舒服，不确定下一步 | 先看 [危险信号速查](../playbooks/red-flags.md) 和 [症状与对应动作速查](../playbooks/symptom-action-guide.md)，不要翻档案翻到误事 |
-| 近期要门诊、复查或陪诊 | 用 [就医前问题清单](../playbooks/doctor-visit-checklist.md) 把档案里的资料压缩成一页 |
-| 有长期指标 | 用 [慢病指标记录表](chronic-marker-log.md) 从档案里单独拉出趋势 |
+| 只想先做一张最小入口 | [一页家庭健康卡](family-health-record.md#_1-一页家庭健康卡) |
+| 有长期指标要看趋势 | [慢病指标记录表](family-health-record.md#_2-慢病指标记录) |
+| 准备门诊或复诊 | [就医前问题清单](../playbooks/doctor-visit-checklist.md) |
+| 现在出现明显危险信号 | 先求助或就医，需要分工时再看 [危险信号速查](../playbooks/red-flags.md) |
 
-## 可信资料
+## 参考资料
 
-截至 2026-06-04，本页主要参考：
+截至 2026-06-15，本页主要参考：
 
-- MedlinePlus: [Personal Health Records](https://medlineplus.gov/personalhealthrecords.html)
-- 中国政府网: [《居民电子健康档案首页基本内容（试行）》政策解读](https://www.gov.cn/zhengce/202406/content_6958728.htm)
+- CDC: [Measuring Your Blood Pressure](https://www.cdc.gov/high-blood-pressure/measure/index.html)
+- CDC: [Diabetes Testing](https://www.cdc.gov/diabetes/diabetes-testing/index.html)
+- American Heart Association: [Home Blood Pressure Monitoring](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home)
+- MedlinePlus: [How to Understand Your Lab Results](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/)
+- MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
+- NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
-- HealthIT.gov: [What's in Your Health Record](https://www.healthit.gov/how-to-get-your-health-record/whats-in-it/)
-- MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
 
-## 最后提醒
+更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-一份好用的家庭健康档案，不是替医生判断，而是在关键时刻把真实信息带到医生面前。
+## 一句话
+
+家庭健康档案不是把生活变成表格，而是让关键时刻少问十个“东西在哪”。

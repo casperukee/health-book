@@ -6,9 +6,9 @@
 
 | 场景 | 模板 |
 |---|---|
-| 想先给家人做一张能马上用的健康卡 | [家庭健康卡模板](family-health-card.md) |
-| 想先为一个家庭成员建最小档案 | [家庭健康档案模板](family-health-record.md) |
-| 想把长期指标按趋势整理给医生看 | [慢病指标记录表](chronic-marker-log.md) |
+| 想先给家人做一张能马上用的健康卡 | [一页家庭健康卡](family-health-record.md#_1-一页家庭健康卡) |
+| 想先为一个家庭成员建最小档案 | [家庭健康档案与慢病记录](family-health-record.md) |
+| 想把长期指标按趋势整理给医生看 | [慢病指标记录表](family-health-record.md#_2-慢病指标记录) |
 | 体检报告有异常，想先看怎么分层 | [常见异常指标速查](../playbooks/common-checkup-markers.md) |
 | 买健康产品前想先判断风险 | [健康产品购买前检查清单](health-product-checklist.md) |
 

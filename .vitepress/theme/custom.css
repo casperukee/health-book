@@ -490,6 +490,12 @@
   color: #ecfeff;
 }
 
+.last-reviewed {
+  margin: 28px 0 0;
+  color: var(--vp-c-text-2);
+  font-size: 13px;
+}
+
 @media (max-width: 640px) {
   .vp-doc {
     font-size: 16px;

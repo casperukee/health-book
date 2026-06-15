@@ -16,9 +16,9 @@
 
 ## 当前状态
 
-项目处于 v0.9-preview 小范围试读阶段：主书已经从“工具箱”进一步升级为“给全家健康守门人的判断指南”，本轮重点重写了大脑与心理健康、儿童与青少年健康、癌症与重大疾病、专科问题等高风险章节，并继续强化症状分流、体检/筛查边界、就医准备、家庭协作和健康信息防御。
+当前版本为 v0.9：主书已经从“工具箱”进一步升级为“给全家健康守门人的判断指南”，本轮重点统一了正文内容、医学边界和网页版阅读体验，并继续强化症状分流、体检/筛查边界、就医准备、家庭协作和健康信息防御。
 
-当前版本可以连续阅读，也可以按场景查工具页；但它仍不是医疗建议，也尚未完成专业医学审稿。后续会继续根据读者、医生和相关专业人士反馈打磨 Part 3 家庭健康操作系统、Part 4 健康信息防御系统和英文预览。
+当前版本可以连续阅读，也可以按场景查工具页；但它仍不是医疗建议，也尚未完成正式专业医学审稿。后续会继续根据读者、医生和相关专业人士反馈打磨全书阅读体验、医学边界和英文预览。
 
 中文主书从这里开始：
 
@@ -28,12 +28,12 @@
 | 体检前不知道该查什么 | [体检前：到底该查什么](content/zh-CN/handbook/playbooks/checkup-planning-guide.md) |
 | 体检报告有异常，看不懂下一步 | [体检指标](content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [常见异常指标速查](content/zh-CN/handbook/playbooks/common-checkup-markers.md) |
 | 要复查、门诊或陪诊 | [就医前问题清单](content/zh-CN/handbook/playbooks/doctor-visit-checklist.md) |
-| 想给家人做准备 | 先做 [家庭健康卡](content/zh-CN/handbook/templates/family-health-card.md)，再看 [手册与模板](content/zh-CN/handbook/README.md) |
+| 想给家人做准备 | 先做 [家庭健康卡](content/zh-CN/handbook/templates/family-health-record.md#_1-一页家庭健康卡)，再看 [手册与模板](content/zh-CN/handbook/README.md) |
 | 想系统读一遍 | 从 [开始连续阅读](content/zh-CN/book/00-start-here.md) 开始，再进入 [主书目录](content/zh-CN/book/README.md) |
 
 其他入口：
 
-- [v0.9 灰度试读说明](content/zh-CN/feedback/gray-trial-guide.md)
+- [v0.9 试读与反馈说明](content/zh-CN/feedback/gray-trial-guide.md)
 - [国内镜像](https://health.mindarae.com)
 - [GitHub Pages](https://casperukee.github.io/health-book/)
 - [项目状态](PROJECT_STATUS.md)
