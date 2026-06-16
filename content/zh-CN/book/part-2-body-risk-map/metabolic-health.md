@@ -9,6 +9,8 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
+> 第二章 · 你最该盯住的几条线
+
 # 1. 代谢与四高：四套有用系统，为什么会失衡
 
 > 本文不是医疗建议。血压、血脂、血糖、尿酸等指标的诊断、复查、治疗目标、用药、停药和急症处理，需要由医生结合个人情况判断。不要根据本文自行设定目标、调整药物或推迟就医。
