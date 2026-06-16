@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 癌症与重大疾病：分清阶段，别让恐惧替你决定
+# 5. 癌症与重大疾病：分清阶段，别让恐惧替你决定
 
 > 癌症筛查、诊断、分期、治疗、随访和照护必须由专业医疗团队结合个人情况判断。本文帮助家庭理解问题、准备资料、问清目标和守住边界，不替代医生建议，也不用于推迟正规诊疗。
 
@@ -285,5 +285,5 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)
-- 下一章：[儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)
+- 上一章：[4. 大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)
+- 下一章：[6. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)

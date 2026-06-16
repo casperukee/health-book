@@ -22,6 +22,11 @@ scripts/scratch/
 *.local
 *.local.*
 
+# Codex working files
+.reasonix/
+.codegraph/
+reasonix.toml
+
 # Local environment files
 .env
 .env.*

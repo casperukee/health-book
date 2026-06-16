@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 心血管事件链：从血压到心梗的连锁反应
+# 2. 心血管事件链：从血压到心梗的连锁反应
 
 > 本文不是医疗建议。它不能替代医生诊断、检查、用药、停药、介入或手术判断，也不能替代心脏康复和卒中康复方案。出现胸痛、胸闷、卒中样症状、严重呼吸困难、晕厥或意识改变时，请及时就医或联系当地急救服务。
 
@@ -74,7 +74,7 @@ evidence_status: needs_periodic_review
 
 四高之所以值得放在一起看，是因为它们最后常常汇到同一条路上：血管长期承压，斑块形成，供血安全被慢慢推到更危险的位置。
 
-这也是 [代谢与四高：四套有用系统，为什么会失衡](metabolic-health.md) 和本章必须连起来读的原因：四高告诉你上游出了哪些信号，心血管事件链告诉你这些信号为什么不能只被理解成“体检单不好看”。
+这也是 [1. 代谢与四高：四套有用系统，为什么会失衡](metabolic-health.md) 和本章必须连起来读的原因：四高告诉你上游出了哪些信号，心血管事件链告诉你这些信号为什么不能只被理解成“体检单不好看”。
 
 家庭在上游阶段最有价值的工作，不是替医生下结论，而是把散乱风险合到一起：
 
@@ -223,6 +223,6 @@ NHLBI 对动脉粥样硬化的介绍中，重点是斑块在动脉壁内逐渐�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[代谢与四高：四套有用系统，为什么会失衡](metabolic-health.md)
-- 下一章：[睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)
+- 上一章：[1. 代谢与四高：四套有用系统，为什么会失衡](metabolic-health.md)
+- 下一章：[3. 睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)
 - 相关工具：[危险信号速查](../../handbook/playbooks/red-flags.md)、[症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)、[慢病指标记录表](../../handbook/templates/family-health-record.md#_2-慢病指标记录)

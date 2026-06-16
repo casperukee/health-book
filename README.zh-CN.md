@@ -29,7 +29,7 @@
 | 体检报告有异常，看不懂下一步 | [体检指标](content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [常见异常指标速查](content/zh-CN/handbook/playbooks/common-checkup-markers.md) |
 | 要复查、门诊或陪诊 | [就医前问题清单](content/zh-CN/handbook/playbooks/doctor-visit-checklist.md) |
 | 想给家人做准备 | 先做 [家庭健康卡](content/zh-CN/handbook/templates/family-health-record.md#_1-一页家庭健康卡)，再看 [手册与模板](content/zh-CN/handbook/README.md) |
-| 想系统读一遍 | 从 [开始连续阅读](content/zh-CN/book/00-start-here.md) 开始，再进入 [主书目录](content/zh-CN/book/README.md) |
+| 想系统读一遍 | 从 [写在前面](content/zh-CN/book/00-start-here.md) 开始，再进入 [主书目录](content/zh-CN/book/README.md) |
 
 更多信息：
 

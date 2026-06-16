@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: stable
 ---
 
-# 如何和父母谈健康：不把关心变成控制
+# 3. 如何和父母谈健康：不把关心变成控制
 
 > 出现胸痛、卒中样症状、严重呼吸困难、意识改变、突然看不清、严重疼痛、自伤自杀风险，或用药、治疗、复查出现重大变化时，请及时联系医生、急救或相关专业帮助。本文帮助家庭沟通事实、资料和边界，不替代医疗判断。
 
@@ -285,5 +285,5 @@ evidence_status: stable
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)
-- 下一章：[老年健康和照护：守住还能生活的能力](elder-care-basics.md)
+- 上一章：[2. 就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)
+- 下一章：[4. 老年健康和照护：守住还能生活的能力](elder-care-basics.md)

@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 保健品证据陷阱：试试也没坏处吗
+# 1. 保健品证据陷阱：试试也没坏处吗
 
 > 保健品、草药、补剂可能和药物、疾病、手术、孕产、肝肾功能相互影响。不要用任何产品替代正规诊断、治疗、复查或急救。正在用药、有慢病、准备手术、孕产、儿童、老人或肝肾功能异常时，先问医生或药师。
 
@@ -231,5 +231,5 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[老年健康和照护：守住还能生活的能力](../part-3-family-health-os/elder-care-basics.md)
-- 下一章：[健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
+- 上一章：[4. 老年健康和照护：守住还能生活的能力](../part-3-family-health-os/elder-care-basics.md)
+- 下一章：[2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)

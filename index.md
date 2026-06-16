@@ -7,19 +7,19 @@ hero:
   tagline: 先分急缓，整理事实，准备就医，管理家庭健康信息，识别健康消费陷阱。
   actions:
     - theme: brand
-      text: 开始阅读
-      link: /content/zh-CN/book/00-start-here
+      text: 阅读主书
+      link: /content/zh-CN/book/README
     - theme: alt
       text: 危险信号速查
       link: /content/zh-CN/handbook/playbooks/red-flags
 
 features:
-  - title: 先分急缓
-    details: 身体或情绪已经出问题时，先看危险信号和下一步动作，不从搜索病名开始。
-  - title: 把事实带进诊室
-    details: 体检报告、症状时间线、用药、过敏、病史和问题清单，都有对应工具页。
-  - title: 不被健康信息带着走
-    details: 保健品、检测、设备、抗衰营销和短视频科普，先问证据、风险、成本和替代了什么。
+  - title: 理解风险语言
+    details: 从危险信号、健康寿命、风险曲线和体检指标开始，把健康问题从恐慌变成可讨论的事实。
+  - title: 建立家庭协作
+    details: 把病史、用药、过敏、检查、症状时间线和门诊问题放进家庭能反复使用的流程里。
+  - title: 识别信息陷阱
+    details: 面对保健品、检测、设备、抗衰营销和短视频科普，先问证据、风险、成本和边界。
 ---
 
 ## 先看边界
@@ -28,45 +28,24 @@ features:
 
 如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒外伤、自伤或自杀风险、孕产期危险信号等情况，不要从首页慢慢读，先联系急救、急诊或当地医疗入口，同时打开 [危险信号速查](content/zh-CN/handbook/playbooks/red-flags.md) 帮家人说清发生了什么。
 
-## 从这里进入
+## 先把它当成一本书读
 
-<div class="home-scenario-grid">
-  <a class="home-scenario-card home-scenario-card-urgent" href="content/zh-CN/handbook/playbooks/red-flags.html">
-    <span class="home-scenario-kicker">现在不舒服</span>
-    <strong>先分急缓</strong>
-    <span>胸痛、气短、意识改变、疑似卒中、自伤风险等，不从搜索病名开始。</span>
-  </a>
-  <a class="home-scenario-card" href="content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.html">
-    <span class="home-scenario-kicker">看报告 / 见医生</span>
-    <strong>把事实带进诊室</strong>
-    <span>体检报告、异常指标、复查和门诊问题，先整理成医生能接住的信息。</span>
-  </a>
-  <a class="home-scenario-card" href="content/zh-CN/handbook/templates/family-health-record.html#_1-一页家庭健康卡">
-    <span class="home-scenario-kicker">给家人建档</span>
-    <strong>先做一页健康卡</strong>
-    <span>紧急联系人、病史、过敏、用药和资料位置，关键时刻不从零开始找。</span>
-  </a>
-</div>
+《健康有谱》的主线不是按疾病名或工具页展开，而是按一个家庭真正建立健康判断力的顺序展开：
 
-其他常见情况：
+1. 先知道什么情况不能等；
+2. 再理解健康寿命、风险曲线和体检指标；
+3. 然后把就医、记录、陪诊和照护变成家庭流程；
+4. 最后学会辨认健康产品、检测、设备、抗衰营销和短视频科普里的证据陷阱。
 
-- 体检前不知道该查什么：看 [体检项目选择指南](content/zh-CN/handbook/playbooks/checkup-planning-guide.md)。
-- 被保健品、检测、设备、抗衰或短视频困扰：先用 [健康产品购买前检查清单](content/zh-CN/handbook/templates/health-product-checklist.md)。
-- 想系统读一遍：从 [如何使用《健康有谱》](content/zh-CN/book/00-start-here.md) 开始，再进入 [中文主书目录](content/zh-CN/book/README.md)。
+如果你现在没有急事，建议直接进入 [中文主书](content/zh-CN/book/README.md)，从序章开始连续读。手册和模板不用提前翻完，遇到具体问题时再打开 [手册与模板](content/zh-CN/handbook/README.md)。
 
 ## 当前版本
 
 当前版本：**v0.9**。
 
-中文主书和手册已经完成一轮 v0.9 内容回写，可以连续阅读，也可以按场景查工具页。它仍不是医疗建议，也还没有完成正式专业医学审稿；欢迎读者、医生和相关专业人士继续反馈入口是否顺、工具是否能用、医学边界是否稳妥。
+中文主书和手册已经完成一轮 v0.9 内容回写。主书适合连续阅读，手册适合遇到具体事情时查用。它仍不是医疗建议，也还没有完成正式专业医学审稿；欢迎读者、医生和相关专业人士继续反馈阅读顺序是否顺、工具是否能用、医学边界是否稳妥。
 
 英文版目前保留少量预览页，用于展示项目方向和医学边界；中文仍是源版本。
-
-## 更多入口
-
-- [如何使用《健康有谱》](content/zh-CN/book/00-start-here.md)
-- [中文主书目录](content/zh-CN/book/README.md)
-- [手册与模板](content/zh-CN/handbook/README.md)
 
 ## 反馈与维护
 

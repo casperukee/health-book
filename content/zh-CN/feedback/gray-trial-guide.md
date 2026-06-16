@@ -28,12 +28,12 @@ evidence_status: not_applicable
 | 身体已经不舒服，不确定能不能等 | [危险信号速查](../handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md) |
 | 要看报告、复查或见医生 | [体检指标](../book/part-1-healthspan-risk-and-markers/checkup-markers.md) 或 [就医前问题清单](../handbook/playbooks/doctor-visit-checklist.md) |
 | 想给家人做准备 | [一页家庭健康卡](../handbook/templates/family-health-record.md#_1-一页家庭健康卡)，再看 [家庭健康档案与慢病记录](../handbook/templates/family-health-record.md) |
-| 想系统读一遍 | [如何使用《健康有谱》](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
+| 想系统读一遍 | [写在前面](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
 | 家里有人买保健品、检测或抗衰产品 | [健康产品购买前检查清单](../handbook/templates/health-product-checklist.md)，再看 [保健品证据陷阱](../book/part-4-health-information-defense/supplement-evidence-traps.md) |
 
 如果只能读 20 分钟，优先读：
 
-1. [如何使用《健康有谱》](../book/00-start-here.md)
+1. [写在前面](../book/00-start-here.md)
 2. 选择一个最贴近你生活的章节或工具页；
 3. 读完后反馈：入口是否顺、下一步是否清楚、哪里还像套话，哪里读起来不像一本书。
 

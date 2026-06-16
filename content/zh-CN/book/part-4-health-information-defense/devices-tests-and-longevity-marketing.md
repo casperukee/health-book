@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 健康设备、检测项目和抗衰营销：有数字，也不等于值得买
+# 2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买
 
 > 健康设备、消费级检测和抗衰产品不能替代医生诊断、筛查、治疗、用药、停药、复查或急救判断。出现胸痛、呼吸困难、晕厥、卒中样症状、严重疼痛、异常出血，或设备读数异常并伴随明显不适时，请及时就医或联系当地急救服务。
 
@@ -205,7 +205,7 @@ evidence_status: needs_periodic_review
 
 如果写出来的只是“让我安心一点”“看看有没有问题”“据说能抗衰”，也先别急。再往下问：异常后是记录、复测和问医生，还是继续购买？它替代的是睡眠、运动、复查和用药安全，还是只是在替代刷手机和不记录？高价、长期、侵入性、收集敏感数据或影响医疗决策的项目，一律先问专业人士。
 
-如果产品也涉及保健品、补剂或草药，可以同时阅读 [保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)。
+如果产品也涉及保健品、补剂或草药，可以同时阅读 [1. 保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)。
 
 ## 参考资料
 
@@ -231,5 +231,5 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)
-- 下一章：[健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来](reading-health-news.md)
+- 上一章：[1. 保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)
+- 下一章：[3. 健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来](reading-health-news.md)

@@ -1,4 +1,4 @@
-# Part 3：家庭健康操作系统
+# 第三章 变成一家人的事：家庭健康守门人
 
 本部分把健康判断转成家庭可执行流程。
 
@@ -15,7 +15,7 @@
 
 ## 章节
 
-- [家庭健康到底要管理什么：不是管人，是管事实和边界](what-to-manage.md)
-- [就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)
-- [如何和父母谈健康：不把关心变成控制](talking-with-parents.md)
-- [老年健康和照护：守住还能生活的能力](elder-care-basics.md)
+- [1. 家庭健康到底要管理什么：不是管人，是管事实和边界](what-to-manage.md)
+- [2. 就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)
+- [3. 如何和父母谈健康：不把关心变成控制](talking-with-parents.md)
+- [4. 老年健康和照护：守住还能生活的能力](elder-care-basics.md)

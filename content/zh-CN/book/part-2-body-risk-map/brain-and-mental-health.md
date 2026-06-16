@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 大脑与心理健康：先看安全、功能和支持
+# 4. 大脑与心理健康：先看安全、功能和支持
 
 > 本文不是医疗建议。出现卒中样症状、意识改变、自伤或自杀风险、严重抑郁焦虑、幻觉妄想、明显认知或行为变化时，请及时寻求专业帮助或急救服务。本文帮助家庭识别边界、整理信息和建立支持，不做诊断、用药、停药、心理治疗或个体化干预建议。
 
@@ -177,7 +177,7 @@ evidence_status: needs_periodic_review
 
 第二，守住睡眠和恢复。
 
-长期睡眠不足会让注意力、情绪和判断变差，也可能加重已有问题。睡眠异常如果持续影响白天功能，要认真处理。更完整的方法见 [睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)。
+长期睡眠不足会让注意力、情绪和判断变差，也可能加重已有问题。睡眠异常如果持续影响白天功能，要认真处理。更完整的方法见 [3. 睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)。
 
 第三，动起来。
 
@@ -285,5 +285,5 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)
-- 下一章：[癌症与重大疾病：分清阶段，别让恐惧替你决定](cancer-and-major-illness.md)
+- 上一章：[3. 睡眠与恢复：身体修复的隐形工程](sleep-and-recovery.md)
+- 下一章：[5. 癌症与重大疾病：分清阶段，别让恐惧替你决定](cancer-and-major-illness.md)

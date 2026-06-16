@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: stable
 ---
 
-# 健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来
+# 3. 健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来
 
 > 不要根据单篇新闻、短视频、社交媒体帖子或单项研究自行停药、改药、拒绝治疗、改变筛查计划或购买高风险产品。涉及疾病、用药、筛查、治疗、孕产、儿童、老人或重大健康消费时，请先查权威资料并咨询医生、药师或相关专业人员。
 
@@ -216,4 +216,4 @@ evidence_status: stable
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
+- 上一章：[2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)

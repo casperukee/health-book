@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 代谢与四高：四套有用系统，为什么会失衡
+# 1. 代谢与四高：四套有用系统，为什么会失衡
 
 > 本文不是医疗建议。血压、血脂、血糖、尿酸等指标的诊断、复查、治疗目标、用药、停药和急症处理，需要由医生结合个人情况判断。不要根据本文自行设定目标、调整药物或推迟就医。
 
@@ -74,7 +74,7 @@ evidence_status: needs_periodic_review
 2. **这是单项异常，还是多项一起变坏？** 血压、血脂、血糖、尿酸、体重腰围、肾功能、脂肪肝、家族史放在一起，意义会完全不同。
 3. **它正在指向哪条长期风险？** 是血管承压、斑块风险、胰岛素系统吃力、糖尿病慢病管理，还是尿酸和肾脏排泄问题？
 
-如果面对的是具体不舒服，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)。如果命中危险信号，直接看 [危险信号速查](../../handbook/playbooks/red-flags.md)。如果只是想理解报告红箭头，先回到 [体检指标：不是判决书，而是风险语言](../part-1-healthspan-risk-and-markers/checkup-markers.md)。
+如果面对的是具体不舒服，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)。如果命中危险信号，直接看 [危险信号速查](../../handbook/playbooks/red-flags.md)。如果只是想理解报告红箭头，先回到 [3. 体检指标：不是判决书，而是风险语言](../part-1-healthspan-risk-and-markers/checkup-markers.md)。
 
 ## 血压：供血系统长期绷紧
 
@@ -279,6 +279,6 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[体检指标：不是判决书，而是风险语言](../part-1-healthspan-risk-and-markers/checkup-markers.md)
-- 下一章：[心血管事件链：从血压到心梗的连锁反应](cardiovascular-event-chain.md)
+- 上一章：[3. 体检指标：不是判决书，而是风险语言](../part-1-healthspan-risk-and-markers/checkup-markers.md)
+- 下一章：[2. 心血管事件链：从血压到心梗的连锁反应](cardiovascular-event-chain.md)
 - 相关工具：[慢病指标记录表](../../handbook/templates/family-health-record.md#_2-慢病指标记录)、[常见异常指标速查](../../handbook/playbooks/common-checkup-markers.md)

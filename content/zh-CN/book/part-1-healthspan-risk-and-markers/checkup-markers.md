@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 体检指标：不是判决书，而是风险语言
+# 3. 体检指标：不是判决书，而是风险语言
 
 > 本文不是医疗建议。体检报告、化验结果、筛查结果和影像提示，需要由医生结合症状、病史、体征、既往结果和其他检查判断。不要根据本文自行诊断、用药、停药或推迟就医。
 
@@ -225,5 +225,5 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[健康寿命：你的身体在替谁倒数](healthspan-and-risk-curve.md)
-- 下一章：[代谢与四高：四套有用系统，为什么会失衡](../part-2-body-risk-map/metabolic-health.md)
+- 上一章：[2. 健康寿命：你的身体在替谁倒数](healthspan-and-risk-curve.md)
+- 下一章：[1. 代谢与四高：四套有用系统，为什么会失衡](../part-2-body-risk-map/metabolic-health.md)

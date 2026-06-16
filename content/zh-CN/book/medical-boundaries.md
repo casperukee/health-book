@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 危险信号：先分急缓，不要先搜病名
+# 1. 危险信号：先分急缓，不要先搜病名
 
 > 本文不是医疗建议，不能替代医生诊断、治疗、用药、停药、筛查或急救判断。出现胸痛、晕厥、卒中症状、严重疼痛、异常出血、呼吸困难、自伤或自杀风险等危险信号时，请及时就医或联系当地急救服务。
 
@@ -157,5 +157,5 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](README.md)
-- 上一章：[如何使用这本书](00-start-here.md)
-- 下一章：[健康寿命：你的身体在替谁倒数](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
+- 上一章：[写在前面](00-start-here.md)
+- 下一章：[2. 健康寿命：你的身体在替谁倒数](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)

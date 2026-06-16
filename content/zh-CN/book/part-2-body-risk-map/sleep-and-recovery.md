@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 睡眠与恢复：身体修复的隐形工程
+# 3. 睡眠与恢复：身体修复的隐形工程
 
 > 本文不是医疗建议，不能替代医生诊断、治疗、用药、停药或睡眠障碍评估。长期失眠、明显日间功能受损、疑似睡眠呼吸暂停、重大疾病相关睡眠问题、自伤或自杀风险，请及时寻求医生或专业睡眠/心理健康帮助。
 
@@ -231,5 +231,5 @@ evidence_status: needs_periodic_review
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[心血管事件链：从血压到心梗的连锁反应](cardiovascular-event-chain.md)
-- 下一章：[大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)
+- 上一章：[2. 心血管事件链：从血压到心梗的连锁反应](cardiovascular-event-chain.md)
+- 下一章：[4. 大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)

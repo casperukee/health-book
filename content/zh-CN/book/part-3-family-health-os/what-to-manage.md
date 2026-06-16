@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: stable
 ---
 
-# 家庭健康到底要管理什么：不是管人，是管事实和边界
+# 1. 家庭健康到底要管理什么：不是管人，是管事实和边界
 
 > 家庭记录和协作流程不能替代医生诊断、治疗、用药、停药、筛查或急救判断。出现胸痛、呼吸困难、卒中样症状、意识改变、严重外伤、异常出血、自伤自杀风险等危险信号时，请及时就医或联系当地急救服务。
 
@@ -250,5 +250,5 @@ AHRQ 和 MedlinePlus 的患者沟通资料都强调，患者要准备问题、�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[常见专科问题：提高看病质量，而不是自己当医生](../part-2-body-risk-map/specialty-care-map.md)
-- 下一章：[就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)
+- 上一章：[7. 常见专科问题：提高看病质量，而不是自己当医生](../part-2-body-risk-map/specialty-care-map.md)
+- 下一章：[2. 就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)

@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 老年健康和照护：守住还能生活的能力
+# 4. 老年健康和照护：守住还能生活的能力
 
 > 老人跌倒受伤、意识改变、突然认知或行动能力下降、胸痛、呼吸困难、卒中样症状、严重疼痛、异常出血或药物严重反应时，请及时就医或急诊。本文只帮助家庭观察变化、整理信息和准备照护协作，不替代医生诊断、治疗、用药、停药、康复方案或照护等级判断。
 
@@ -253,5 +253,5 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[如何和父母谈健康：不把关心变成控制](talking-with-parents.md)
-- 下一章：[保健品证据陷阱：试试也没坏处吗](../part-4-health-information-defense/supplement-evidence-traps.md)
+- 上一章：[3. 如何和父母谈健康：不把关心变成控制](talking-with-parents.md)
+- 下一章：[1. 保健品证据陷阱：试试也没坏处吗](../part-4-health-information-defense/supplement-evidence-traps.md)

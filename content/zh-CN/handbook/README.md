@@ -16,7 +16,6 @@
 | 体检前不知道该查什么 | [体检项目选择指南](playbooks/checkup-planning-guide.md) |
 | 想给家人做准备 | 先做 [一页家庭健康卡](templates/family-health-record.md#_1-一页家庭健康卡)，再扩展到 [家庭健康档案与慢病记录](templates/family-health-record.md) |
 | 被保健品、检测、设备、抗衰或短视频困扰 | 先用 [健康产品购买前检查清单](templates/health-product-checklist.md)，再读 [保健品证据陷阱](../book/part-4-health-information-defense/supplement-evidence-traps.md) |
-| 想系统读一遍 | 先回到 [如何使用《健康有谱》](../book/00-start-here.md)，再进入 [中文主书目录](../book/README.md) |
 
 ## 工具分组
 

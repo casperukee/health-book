@@ -1,4 +1,4 @@
-# Part 4：健康信息防御系统
+# 第四章 别被忽悠：健康信息防御系统
 
 本部分处理健康判断的外部干扰。
 
@@ -14,6 +14,6 @@
 
 ## 章节
 
-- [保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)
-- [健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
-- [健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来](reading-health-news.md)
+- [1. 保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)
+- [2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
+- [3. 健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来](reading-health-news.md)
