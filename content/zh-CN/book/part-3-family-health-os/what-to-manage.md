@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: stable
 ---
 
-> 第三章 · 变成一家人的事：家庭健康守门人
+<p class="chapter-subtitle">第三章 · 变成一家人的事：家庭健康守门人</p>
 
 # 1. 家庭健康到底要管理什么：不是管人，是管事实和边界
 

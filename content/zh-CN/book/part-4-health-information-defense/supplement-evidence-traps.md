@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-> 第四章 · 别被忽悠：健康信息防御系统
+<p class="chapter-subtitle">第四章 · 别被忽悠：健康信息防御系统</p>
 
 # 1. 保健品证据陷阱：试试也没坏处吗
 

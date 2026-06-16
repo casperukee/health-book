@@ -25,6 +25,18 @@
   line-height: 1.25;
 }
 
+.chapter-subtitle {
+  margin: 0 0 6px;
+  font-size: 15px;
+  font-weight: 600;
+  color: var(--vp-c-text-2);
+  letter-spacing: 0.03em;
+}
+
+.dark .chapter-subtitle {
+  color: var(--vp-c-text-3);
+}
+
 .vp-doc h2 {
   margin-top: 40px;
   border-top: 1px solid var(--vp-c-divider);

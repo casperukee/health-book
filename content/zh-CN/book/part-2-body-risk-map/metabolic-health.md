@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-> 第二章 · 你最该盯住的几条线
+<p class="chapter-subtitle">第二章 · 你最该盯住的几条线</p>
 
 # 1. 代谢与四高：四套有用系统，为什么会失衡
 

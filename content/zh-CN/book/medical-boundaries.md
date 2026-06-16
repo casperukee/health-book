@@ -9,7 +9,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-> 第一章 · 身体在说什么：从信号到指标
+<p class="chapter-subtitle">第一章 · 身体在说什么：从信号到指标</p>
 
 # 1. 危险信号：先分急缓，不要先搜病名
 
