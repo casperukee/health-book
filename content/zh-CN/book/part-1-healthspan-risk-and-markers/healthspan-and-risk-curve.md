@@ -31,6 +31,10 @@ evidence_status: stable
 
 真正值得延长的，不是单纯年龄，而是能行动、能思考、能连接、少被重大疾病过早打断的时间。
 
+<figure class="book-figure">
+  <img src="../assets/figures/fig-01-healthspan-risk-curve.svg" alt="健康寿命：拉长可行动的时间">
+</figure>
+
 ## 长寿话题最容易偏到哪里
 
 第一个误解，是把“寿命”当成唯一目标。多活几年当然珍贵，但家庭真正在意的不是日历上多翻了几页，而是这些时间还能不能被使用：能不能出门，能不能吃饭睡觉，能不能表达自己的意思，能不能参与生活。
@@ -195,7 +199,7 @@ evidence_status: stable
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 - 我们真正想延长的不是单纯年龄，而是能行动、能思考、能连接、能参与生活的时间。
 - 健康寿命可以先看三层：功能能力、重大风险延后、家庭协作能力。

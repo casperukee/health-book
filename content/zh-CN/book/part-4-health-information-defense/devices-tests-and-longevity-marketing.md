@@ -222,7 +222,7 @@ evidence_status: needs_periodic_review
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 好的健康工具帮你读懂身体信号，走向低风险行动；坏的健康营销把信号包装成结论，再把结论卖给你。
 

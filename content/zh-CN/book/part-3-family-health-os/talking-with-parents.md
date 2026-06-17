@@ -276,7 +276,7 @@ evidence_status: stable
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 健康沟通最好的样子，是平时说得开，资料找得到，关键时候不耽误。和父母谈健康，最好的结果不是他们终于听你的，而是全家知道关键时刻怎么一起行动。
 

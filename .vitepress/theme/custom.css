@@ -83,6 +83,30 @@
   border-radius: 8px;
 }
 
+.book-figure {
+  margin: 26px 0 34px;
+}
+
+.book-figure img {
+  display: block;
+  width: 100%;
+  max-width: 760px;
+  margin: 0 auto;
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  background: #f8fbf8;
+}
+
+@media (max-width: 640px) {
+  .book-figure {
+    margin: 22px -2px 28px;
+  }
+
+  .book-figure img {
+    border-radius: 6px;
+  }
+}
+
 .vp-doc details {
   border: 1px solid var(--vp-c-divider);
   border-left: 4px solid var(--vp-c-brand-2);

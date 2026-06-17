@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: department-navigation-guide
 en_path: ../../../en/handbook/playbooks/department-navigation-guide.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-17
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -120,6 +120,7 @@ evidence_status: needs_periodic_review
 
 - 常见入口：口腔科。
 - 更急情况：面部肿胀、发热、吞咽或呼吸受影响。
+- 特别提醒：拔牙、种牙、牙周手术、口腔颌面手术等可能涉及出血、感染和骨愈合。正在使用影响凝血、免疫、骨代谢或肿瘤治疗相关药物的人，就诊前要主动说明基础病和用药史，不要自行停药。
 
 ### 耳鸣、听力、鼻塞、咽喉问题
 

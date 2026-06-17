@@ -241,7 +241,7 @@ AHRQ 和 MedlinePlus 的患者沟通资料都强调，患者要准备问题、�
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 家庭健康管理不是管住每个人，而是让关键时刻不从零开始。
 

@@ -221,7 +221,7 @@ HealthIT.gov 的健康记录指南强调，健康记录可以帮助患者和照�
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 就医准备不是替医生判断，而是把医生需要判断的事实带到现场。
 

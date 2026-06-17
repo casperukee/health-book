@@ -266,7 +266,7 @@ evidence_status: needs_periodic_review
 
 这些资料用于理解四高如何共同影响长期风险，不应用来替个人计算风险、解释检查、设定治疗目标或决定用药。更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 - 四高不是四个孤立数字，而是一张心、脑、肾、血管和代谢相连的风险网。
 - 单次异常先看趋势，多项异常要看组合。

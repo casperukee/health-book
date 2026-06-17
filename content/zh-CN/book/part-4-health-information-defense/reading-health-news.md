@@ -205,7 +205,7 @@ evidence_status: stable
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 健康信息读得好，不是反应更快，而是更知道什么时候该收藏、查证、问医生或直接停手。
 

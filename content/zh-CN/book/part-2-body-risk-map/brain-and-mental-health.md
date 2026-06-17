@@ -274,7 +274,7 @@ evidence_status: needs_periodic_review
 
 这些资料用于校准卒中、认知变化、抑郁焦虑和心理危机边界。本文不提供诊断、用药、停药、心理治疗方案、个体化筛查或个体化干预建议。更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 大脑和心理健康的第一步，不是贴标签，而是认真看见安全、功能、模式和支持。
 

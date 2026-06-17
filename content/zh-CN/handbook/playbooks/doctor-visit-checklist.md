@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: doctor-visit-checklist
 en_path: ../../../en/handbook/playbooks/doctor-visit-checklist.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-17
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -114,6 +114,7 @@ evidence_status: stable
 - 是否漏服、停用或自行加量；
 - 药物、食物、造影剂或其他过敏史；
 - 服药后出现过哪些不适。
+- 如果准备拔牙、种牙、内镜、小手术或其他有创操作，也要主动说明影响凝血、免疫、骨代谢或肿瘤治疗相关的用药，不要自行停药。
 
 即使有些信息不太好开口，也尽量如实说：保健品、饮酒、吸烟、停药、漏服或自行加量，都会影响医生判断。
 

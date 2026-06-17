@@ -224,7 +224,7 @@ evidence_status: needs_periodic_review
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 保健品问题最危险的地方，不只是买错一瓶东西，而是让一个家庭把健康判断权交给销售现场。
 

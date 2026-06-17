@@ -242,7 +242,7 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 老年照护最重要的不是替父母决定一切，而是提前保护他们还能行动、判断、选择和生活的能力。
 

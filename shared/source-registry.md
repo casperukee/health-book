@@ -1326,6 +1326,36 @@
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
+### ADA：Osteoporosis Medications and Medication-Related Osteonecrosis of the Jaw
+
+- URL: https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications
+- 机构：American Dental Association
+- 类型：专业协会口腔健康资料
+- 用途：校准骨质疏松相关抗骨吸收药、地舒单抗等用药与药物相关颌骨坏死风险的公众沟通边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-17
+
+### SDCEP：Management of Dental Patients Taking Anticoagulants or Antiplatelet Drugs
+
+- URL: https://www.sdcep.org.uk/published-guidance/anticoagulants-and-antiplatelets/
+- 机构：Scottish Dental Clinical Effectiveness Programme
+- 类型：牙科临床指导
+- 用途：校准正在使用抗凝或抗血小板药物的人接受牙科处理时，需要主动说明用药且不自行停药的边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-17
+
+### SDCEP：Oral Health Management of Patients at Risk of Medication-related Osteonecrosis of the Jaw
+
+- URL: https://www.sdcep.org.uk/published-guidance/medication-related-osteonecrosis-of-the-jaw/
+- 机构：Scottish Dental Clinical Effectiveness Programme
+- 类型：牙科临床指导
+- 用途：校准药物相关颌骨坏死风险人群的口腔健康管理边界，正文只用于提醒完整告知病史和用药史，不展开具体处理方案。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-17
+
 ### MedlinePlus：Children's Health
 
 - URL: https://medlineplus.gov/childrenshealth.html

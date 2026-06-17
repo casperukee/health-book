@@ -27,6 +27,12 @@ evidence_status: needs_periodic_review
 
 一两晚睡差通常不是大事。真正值得认真对待的是：睡眠长期不足、节律长期混乱，或者睡了也没有恢复感。它影响的不是“睡觉”这一件事，而是大脑、血管、代谢和白天状态能不能持续恢复。
 
+恢复这件事，要把夜里和白天放在一起看：睡了多久、节律稳不稳、醒来有没有恢复感，以及白天还能不能安全、专注、情绪稳定，合起来才接近真实状态。
+
+<figure class="book-figure">
+  <img src="../assets/figures/fig-07-sleep-recovery-window.svg" alt="睡眠与恢复：看夜里，也看白天">
+</figure>
+
 ## 先看恢复，不看分数
 
 不要追逐某一天的睡眠分数。更重要的是看：睡眠、白天精神、情绪稳定、身体恢复和日常功能，是否长期处在一个能支撑生活的水平。
@@ -220,7 +226,7 @@ evidence_status: needs_periodic_review
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 睡眠不是一场分数比赛；它是身体每天能不能完成维护的信号。先看恢复，再看时长；先稳节律、降阻力，再谈工具。睡眠不用一次改完，但长期恢复不足不该一直被忽略。
 

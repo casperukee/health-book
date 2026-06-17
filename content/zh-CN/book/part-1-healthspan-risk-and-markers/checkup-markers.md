@@ -210,7 +210,7 @@ evidence_status: needs_periodic_review
 
 这些资料帮助我们理解指标和筛查的用途与限制，但不能替个人解释报告、诊断疾病、决定用药或设计个体化体检清单。更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 - 体检指标不是判决书，而是风险语言。
 - 拿到报告先看组合，后看箭头。

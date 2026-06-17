@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: specialty-care-map
 en_path: ../../../en/book/part-2-body-risk-map/specialty-care-map.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-17
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -17,7 +17,7 @@ evidence_status: needs_periodic_review
 
 很多家庭不是被大病一下子击倒，而是被一串“不至于吧”慢慢拖住。
 
-父亲腰腿痛半年，一开始说是老毛病，贴膏药、按摩、少走路，后来从能逛菜市场变成只走到小区门口。母亲夜里总起床，白天不敢喝水，偶尔尿血也说是“上火”，因为不好意思向孩子讲排尿和漏尿。伴侣产后几个月还在漏尿、睡不好、情绪崩溃，家里老人说“生完孩子都这样”。你自己眼前总有黑影和闪光，想着是不是手机看多了，先买了眼药水。
+父亲腰腿痛半年，一开始说是老毛病，贴膏药、按摩、少走路，后来从能逛菜市场变成只走到小区门口。母亲夜里总起床，白天不敢喝水，偶尔尿血也说是“上火”，因为不好意思向孩子讲排尿和漏尿。伴侣产后几个月还在漏尿、睡不好、情绪崩溃，家里老人说“生完孩子都这样”。你自己眼前总有黑影和闪光，想着是不是手机看多了，先买了眼药水。牙疼反复发作，却总觉得再忍几天也许会好。
 
 这些事不一定都危险，但都不该只交给忍耐、猜测和偏方。
 
@@ -152,13 +152,27 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 
 长期疼痛也不等于只能在止痛和硬扛之间二选一。和医生讨论康复、物理治疗、动作模式、肌力和生活方式调整，往往比反复寻找一次性“治好”的手法更接近长期管理。
 
+## 牙科：局部操作，也要带上全身信息
+
+很多人看牙时，只记得说哪颗牙疼，却忘了说自己正在治什么病、吃什么药。牙科看起来很局部，但并不总是“小修小补”。洗牙、补牙、拍片，和拔牙、种牙、牙周手术、口腔颌面手术，不是同一类风险。只要涉及出血、感染、麻醉、切开、缝合、植入或骨愈合，就要把全身病史和用药史讲完整。
+
+尤其要主动告知：是否正在使用影响凝血的药物，是否长期使用激素或免疫抑制药，是否正在肿瘤治疗，是否使用过影响骨代谢的药物，例如地舒单抗、双膦酸盐等。写到这里不是让你记药物分类，更不是让你自己决定能不能拔牙或种牙，而是提醒你：这些信息对牙医判断风险很重要。
+
+最容易出错的动作，是自己停药。使用抗凝药、抗血小板药的人，担心看牙出血可以理解，但不要自行停药，因为这可能带来另一类风险。用药相关问题和牙科操作安排，应由牙医根据操作风险判断，必要时和开药医生沟通。
+
+另一类容易被误解的是骨质疏松或肿瘤骨相关用药。它们不是“用了就不能看牙”，反而更需要规律口腔护理和尽早处理感染源。真正需要谨慎的是涉及拔牙、种牙、骨创伤和伤口愈合的操作。拖到牙齿感染严重、必须紧急处理时，选择反而更少。
+
+家庭可以提前准备一段话：我有哪些慢病，正在用哪些药，最近一次用药是什么时候，是否有出血、血栓、肿瘤治疗、长期激素或免疫抑制治疗史，过去拔牙或手术后有没有出血不止、感染或伤口不愈合。你不必替医生判断，只要别让这些信息漏掉。
+
+这条逻辑不只适用于看牙。眼科手术、皮肤小手术、内镜检查、穿刺活检等，也可能牵涉出血、感染、麻醉、切开、缝合、植入或伤口愈合。普通人不用提前学会所有医学规则，只要记住一件事：遇到这类检查或治疗，不要只讲局部症状，也要把疾病和用药讲完整。
+
 ## 其他专科：照片、时间线和功能影响
 
 不是每个专科问题都需要在主书里展开。但同一个方法仍然有用：把症状从“我觉得”变成“我看到了什么、持续多久、影响什么”。
 
 皮肤问题可以准备清晰照片，最好有不同日期对比；记录位置、是否瘙痒疼痛、是否渗液结痂、最近用过的护肤品、药膏、口服药、补剂，是否和月经、熬夜、压力、饮食、口罩、日晒和接触物有关。快速加重、发热、严重疼痛、感染扩散、面部眼周明显肿痛，或儿童、孕产、免疫低下人群的严重皮肤问题，不适合只靠护肤。
 
-牙痛、牙龈出血、口腔溃疡、耳鸣、鼻炎、咽喉异物感、甲状腺、消化、乳腺、肛肠和疼痛问题，也不需要一开始就懂专业诊断。先记录持续多久、反复频率、用过什么、是否影响睡眠工作和生活。如果出现快速加重、发热、严重疼痛、吞咽或呼吸困难、明显出血、体重下降或全身状态变差，要提高急缓等级。
+口腔溃疡、耳鸣、鼻炎、咽喉异物感、甲状腺、消化、乳腺、肛肠和疼痛问题，也不需要一开始就懂专业诊断。先记录持续多久、反复频率、用过什么、是否影响睡眠工作和生活。如果出现快速加重、发热、严重疼痛、吞咽或呼吸困难、明显出血、体重下降或全身状态变差，要提高急缓等级。
 
 儿童和青少年的身体与心理变化已经独立成章，见 [6. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)。在本章里只保留一句原则：孩子不是缩小版成年人；如果身体不适、睡眠、学校功能、情绪行为和安全风险交织在一起，不要只按成人经验或管教问题处理。
 
@@ -199,7 +213,7 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
+截至 2026-06-17，本章主要参考：
 
 - MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
@@ -209,16 +223,19 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 - MedlinePlus: [Eye Emergencies](https://medlineplus.gov/ency/article/000054.htm)
 - NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
 - NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
+- American Dental Association: [Osteoporosis Medications and Medication-Related Osteonecrosis of the Jaw](https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications)
+- SDCEP: [Management of Dental Patients Taking Anticoagulants or Antiplatelet Drugs](https://www.sdcep.org.uk/published-guidance/anticoagulants-and-antiplatelets/)
+- SDCEP: [Oral Health Management of Patients at Risk of Medication-related Osteonecrosis of the Jaw](https://www.sdcep.org.uk/published-guidance/medication-related-osteonecrosis-of-the-jaw/)
 
-这些资料用于校准专科问题的就医准备、健康记录、孕产危险信号、眼部急症、泌尿生活质量和背痛边界。本文不提供专科诊断、用药、停药、治疗优先级、个体化筛查或个体化治疗方案。
+这些资料用于校准专科问题的就医准备、健康记录、孕产危险信号、眼部急症、泌尿生活质量、背痛边界、牙科操作中的全身用药信息和药物相关颌骨风险提示。本文不提供专科诊断、用药、停药、治疗优先级、个体化筛查或个体化治疗方案。
 
 更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
-## 本章带走
+## 小结
 
 专科判断力不是自己下诊断，而是知道何时不能等、该找什么入口、该带什么事实。
 
-女性和孕产问题不要被“都这样”盖过去；眼科要看视觉功能；泌尿问题不要被羞耻挡住；骨科和运动系统要看行动能力；其他专科也可以先用照片、时间线和功能影响来准备。
+女性和孕产问题不要被“都这样”盖过去；眼科要看视觉功能；泌尿问题不要被羞耻挡住；骨科和运动系统要看行动能力；牙科也要带上全身病史和用药史；其他专科也可以先用照片、时间线和功能影响来准备。
 
 羞耻感、习惯性忍耐和网上自诊，都会降低看病质量。一张症状小卡和四个门诊问题，往往比十个病名猜测更有用。
 
