@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: children-and-adolescent-health
 en_path: ../../../en/book/part-2-body-risk-map/children-and-adolescent-health.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -45,28 +45,9 @@ evidence_status: needs_periodic_review
 
 看孩子的问题，可以先抓四条线。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-blue">
-    <span class="decision-label">身体线</span>
-    <h3>先回到身体事实</h3>
-    <p>看发热、疼痛、皮疹、过敏、视力、牙齿、睡眠、食欲、月经、发育、身高体重和运动损伤。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <span class="decision-label">功能线</span>
-    <h3>看日子还能不能过</h3>
-    <p>看孩子还能不能上学、睡觉、吃饭、运动、洗漱、出门、完成基本任务，能不能和朋友来往。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <span class="decision-label">关系线</span>
-    <h3>看压力从哪里来</h3>
-    <p>看家庭、学校、同伴和网络，尤其是冲突、被排挤、被嘲笑、被欺凌、网暴或隐私风险。</p>
-  </section>
-  <section class="decision-card decision-card-red">
-    <span class="decision-label">安全线</span>
-    <h3>不要继续在家里猜</h3>
-    <p>呼吸、意识、抽搐、严重疼痛、脱水、外伤、自伤自杀、被伤害和严重精神行为异常，要先求助。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-09-child-health-four-lines.svg" alt="孩子健康：四条线一起看">
+</figure>
 
 这四条线的顺序很重要：先看安全和身体，再看功能和关系；但不要只看身体，也不要只看关系。孩子的问题经常不是单线条的。
 

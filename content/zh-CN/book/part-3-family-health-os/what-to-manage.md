@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: what-to-manage
 en_path: ../../../en/book/part-3-family-health-os/what-to-manage.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -71,28 +71,9 @@ evidence_status: stable
 
 ## 四样真正该管理的东西
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-blue">
-    <span class="decision-label">事实</span>
-    <h3>让医生少一点猜</h3>
-    <p>症状时间线、既往病史、正在用药、过敏史、体检化验影像、出院小结和资料位置。</p>
-  </section>
-  <section class="decision-card decision-card-red">
-    <span class="decision-label">边界</span>
-    <h3>该快的时候不慢</h3>
-    <p>胸痛、呼吸困难、卒中样症状、严重外伤、异常出血、自伤自杀风险等情况，不能留在家庭群里投票。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <span class="decision-label">下一步</span>
-    <h3>看完医生以后别丢</h3>
-    <p>复查时间、检查目的、药物或处理说明、什么情况提前回来、症状没改善时去哪一步。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <span class="decision-label">分工</span>
-    <h3>让关心有位置</h3>
-    <p>谁保管资料、谁陪诊记录、谁提醒复查、谁处理交通费用、谁负责日常照护和照护者喘息。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-06-family-health-four-things.svg" alt="家庭健康管理：先管四件事">
+</figure>
 
 事实不是观点，也不是猜测。它包括：症状什么时候开始，怎样变化；既往有什么病、做过什么手术、住过什么院；正在吃什么处方药、非处方药、保健品和草药；有没有药物或食物过敏；最近的体检、化验、影像、病理、出院小结在哪里。
 

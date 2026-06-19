@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: metabolic-health
 en_path: ../../../en/book/part-2-body-risk-map/metabolic-health.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -35,28 +35,11 @@ evidence_status: needs_periodic_review
 
 人要站起来、走路、奔跑、搬东西，大脑和肌肉就不能缺血；食物和盐曾经不容易得到，身体就学会珍惜能量、保存盐分、把多余的东西先存起来；吃到一顿饭以后，血糖要升上来，能量才有地方可去；细胞每天更新，代谢废物也要生成、转运、排出去。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-blue">
-    <div class="decision-label">血压</div>
-    <h3>供血调度系统</h3>
-    <p>心脏、血管、肾脏、水盐调节和神经系统一起配合，帮助身体在坐着、站起、活动、睡眠时维持供血。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <div class="decision-label">血脂</div>
-    <h3>脂质运输系统</h3>
-    <p>胆固醇和甘油三酯不是敌人，关键是它们如何被运输，以及是否在血管壁里参与长期风险。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">血糖</div>
-    <h3>能量调度系统</h3>
-    <p>吃饭后葡萄糖进入血液，胰岛素系统要把能量送进肌肉、肝脏和其他组织，也要能让血糖回落。</p>
-  </section>
-  <section class="decision-card decision-card-red">
-    <div class="decision-label">尿酸</div>
-    <h3>生成、转运和排泄系统</h3>
-    <p>尿酸来自嘌呤代谢，既和食物有关，也和身体生成、肾脏排泄、体重、酒精、甜饮料、药物和遗传有关。</p>
-  </section>
-</div>
+这也是四高这一章的核心：它们不是四个坏东西，而是四套有用系统被现代生活长期推到超负荷。
+
+<figure class="book-figure">
+  <img src="../assets/figures/fig-03-metabolic-systems.svg" alt="四高不是四个敌人">
+</figure>
 
 麻烦在于，现代生活把环境换了。盐不再稀缺，热量更密集，精制碳水、酒精、甜饮料、久坐、熬夜和压力都更常见。原本帮身体活下来的系统，如果长期过载，就会通过血压、血脂、血糖和尿酸这些指标露出痕迹。
 

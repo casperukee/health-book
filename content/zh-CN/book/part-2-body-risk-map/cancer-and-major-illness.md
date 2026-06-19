@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: cancer-and-major-illness
 en_path: ../../../en/book/part-2-body-risk-map/cancer-and-major-illness.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -49,33 +49,9 @@ evidence_status: needs_periodic_review
 
 面对癌症和重大疾病，家庭可以把问题放进五段时间线里看。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-green">
-    <span class="decision-label">第一段</span>
-    <h3>风险还在前面</h3>
-    <p>重点不是寻找“保证不得癌”的办法，而是少给风险加码。</p>
-  </section>
-  <section class="decision-card decision-card-blue">
-    <span class="decision-label">第二段</span>
-    <h3>没有症状，考虑筛查</h3>
-    <p>重点不是把所有癌都查一遍，而是看筛查是否适合特定人群，并且有清楚的后续路径。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <span class="decision-label">第三段</span>
-    <h3>有症状或报告异常</h3>
-    <p>重点不是搜索最坏结果，而是带齐资料、接上诊断链，问清下一步检查和时间安排。</p>
-  </section>
-  <section class="decision-card decision-card-red">
-    <span class="decision-label">第四段</span>
-    <h3>已经确诊</h3>
-    <p>重点不是只盯着病名，而是弄清诊断、病理、分期、关键检测、治疗目标和可选方案。</p>
-  </section>
-  <section class="decision-card decision-card-blue decision-card-wide">
-    <span class="decision-label">第五段</span>
-    <h3>治疗、随访和照护</h3>
-    <p>重点不是追问某个药是不是最先进，而是持续理解目标、疗效评估、副作用边界、生活质量和家庭分工。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-05-cancer-pathway.svg" alt="癌症问题：先分清阶段">
+</figure>
 
 先分阶段，恐惧才不会把所有问题压成一团。
 

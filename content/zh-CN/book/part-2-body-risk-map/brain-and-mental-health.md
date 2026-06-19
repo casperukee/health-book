@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: brain-and-mental-health
 en_path: ../../../en/book/part-2-body-risk-map/brain-and-mental-health.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -63,28 +63,9 @@ evidence_status: needs_periodic_review
 
 家庭可以用四个问题处理大脑和心理健康。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-red">
-    <div class="decision-label">第一问</div>
-    <h3>安全吗？</h3>
-    <p>突然一侧无力、口角歪斜、说话含糊、视物异常、剧烈头痛、意识改变、抽搐，或者出现自伤自杀想法、计划、行为，严重冲动失控、幻觉妄想，都先按急症或心理危机处理。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">第二问</div>
-    <h3>功能受影响了吗？</h3>
-    <p>睡眠、吃饭、上学、工作、家务、照护、社交、出门、用药、财务和判断，只要持续受影响，就不能只靠“忍一忍”“等一等”。</p>
-  </section>
-  <section class="decision-card decision-card-blue">
-    <div class="decision-label">第三问</div>
-    <h3>应对方式是否越推越紧？</h3>
-    <p>家人越催，孩子越躲；家人越说“没事”，焦虑的人越觉得没人理解；家人越替老人遮掩，医生越拿不到真实变化。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <div class="decision-label">第四问</div>
-    <h3>支持能不能接上？</h3>
-    <p>支持不是把家人变成心理医生，而是把事实记录下来，把羞耻感降下来，把就医、复诊、学校沟通、陪伴和家庭分工接上。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-08-brain-mental-four-questions.svg" alt="大脑与心理：先问四件事">
+</figure>
 
 很多时候，真正有用的不是一句正确的话，而是一个具体动作：我陪你预约，我帮你整理一周记录，我今晚不让你一个人扛，我和医生一起问清下一步。
 

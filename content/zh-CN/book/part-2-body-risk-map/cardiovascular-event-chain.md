@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: cardiovascular-event-chain
 en_path: ../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -31,6 +31,12 @@ evidence_status: needs_periodic_review
 
 血压、血脂、血糖、吸烟、体重腰围、活动量和睡眠，都是这套网络的上游信号。它们平时看起来不刺激，但会决定心梗、卒中、心衰、外周血管问题和复发风险。
 
+这条链可以先粗略拆成四段：上游负荷、血管变化、急性事件和防复发。前两段最容易被忽视，却往往决定后面会不会突然变成大事。
+
+<figure class="book-figure">
+  <img src="../assets/figures/fig-04-cardiovascular-event-chain.svg" alt="心血管事件链：不是突然发生">
+</figure>
+
 ## 最后一刻很快，前半段通常很慢
 
 心梗和卒中让人害怕，是因为急性阶段留给家庭的反应时间很短。可心血管事件不是凭空出现的，它更像一条链。
@@ -39,28 +45,13 @@ evidence_status: needs_periodic_review
 
 不是每个血脂高、血压高的人都会走到这一步。重点是：风险和时间会相乘。长期没人管理的上游风险，最容易在最后一刻以急性事件的形式出现。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-blue">
-    <div class="decision-label">第一段</div>
-    <h3>上游负荷</h3>
-    <p>高血压、高 LDL 或其他血脂异常、糖尿病、吸烟、肥胖、久坐、睡眠差、家族史等长期推高风险。家庭要做的，是不把红箭头和生活习惯分开看，而是问医生总体风险。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">第二段</div>
-    <h3>血管变化</h3>
-    <p>血管壁受损，脂质和其他成分形成斑块，供血储备下降。家庭要关注医生提示的斑块、狭窄、缺血，也关注活动耐量变化。</p>
-  </section>
-  <section class="decision-card decision-card-red">
-    <div class="decision-label">第三段</div>
-    <h3>急性事件</h3>
-    <p>斑块破裂、血栓形成，心脏或大脑供血突然中断；也可能出现严重心律问题。家庭不要在家证明病名，疑似心梗、卒中、晕厥、严重气短时先求助。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <div class="decision-label">第四段</div>
-    <h3>防复发</h3>
-    <p>事件后基础风险仍在，药物、介入或手术、康复和随访共同降低再出事概率。家庭不要自行停药，不漏复查，把康复和生活方式当成治疗的一部分。</p>
-  </section>
-</div>
+第一段，是上游负荷。高血压、高 LDL 或其他血脂异常、糖尿病、吸烟、肥胖、久坐、睡眠差、家族史等长期推高风险。
+
+第二段，是血管变化。血管壁受损，脂质和其他成分形成斑块，供血储备下降。
+
+第三段，是急性事件。斑块破裂、血栓形成，心脏或大脑供血突然中断；也可能出现严重心律问题。
+
+第四段，是防复发。事件后基础风险仍在，药物、介入或手术、康复和随访共同降低再出事概率。
 
 这条链解释了一个常见困惑：为什么医生明明看的是血压、血脂、血糖，却总在说心梗和卒中。
 

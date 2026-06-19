@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: specialty-care-map
 en_path: ../../../en/book/part-2-body-risk-map/specialty-care-map.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -41,23 +41,9 @@ evidence_status: needs_periodic_review
 3. **时间线是什么。** 什么时候开始，突然还是慢慢来，变好还是变坏，哪些事会诱发或缓解。
 4. **这次门诊要问清什么。** 最需要排除的风险、检查要回答的问题、提前回来或急诊的条件、下一步计划。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-red">
-    <div class="decision-label">现在就处理</div>
-    <h3>红旗出现，先急诊或及时就医</h3>
-    <p>视力突然下降、眼外伤、孕产危险信号、外伤后不能负重、严重疼痛伴麻木无力、大小便异常、尿血发热、明显排尿困难、自伤自杀风险、意识改变。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">尽快门诊</div>
-    <h3>持续反复，已经影响功能</h3>
-    <p>疼痛、排尿、视力、月经、产后、皮肤、关节、睡眠、行动、学习或社交问题持续存在，影响工作、走路、睡眠、照护、亲密关系或生活质量。</p>
-  </section>
-  <section class="decision-card decision-card-green decision-card-wide">
-    <div class="decision-label">可以先记录</div>
-    <h3>轻微短暂，但要知道升级条件</h3>
-    <p>没有危险信号、症状轻微且短暂时，可以先记录开始时间、位置、程度、诱因、缓解方式和功能影响。观察不是拖延，前提是知道什么时候升级为就医。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-10-specialty-care-four-questions.svg" alt="专科问题：先问四件事">
+</figure>
 
 如果你拿不准急诊、门诊还是观察，先看 [症状与对应动作速查](../../handbook/playbooks/symptom-action-guide.md)；如果不知道挂号入口，看 [就医科室与专科导航](../../handbook/playbooks/department-navigation-guide.md)；确定要去门诊后，再用 [就医前问题清单](../../handbook/playbooks/doctor-visit-checklist.md) 准备。
 

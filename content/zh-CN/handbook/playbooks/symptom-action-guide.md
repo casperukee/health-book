@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: symptom-action-guide
 en_path: ../../../en/handbook/playbooks/symptom-action-guide.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -23,11 +23,15 @@ evidence_status: needs_periodic_review
 
 ## 30 秒先分层
 
-| 现在看到什么 | 先做什么 |
-| --- | --- |
-| 已经有胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、自伤风险等红色信号 | 不看完整表格，直接联系急救、急诊或当地医疗入口；需要最小说明时再看 [危险信号速查](red-flags.md) |
-| 没有明显红色信号，但症状持续、反复、加重、第一次出现，或发生在老人、孕产期、婴幼儿、慢病和免疫低下人群身上 | 尽快联系医生、门诊、互联网医院、社区卫生服务中心、医院导诊或常用医院分诊入口 |
-| 症状轻、短暂、正在改善，没有危险信号，也不是高风险人群 | 先记录观察和基础照护，并提前设好升级条件 |
+<figure class="book-figure">
+  <img src="../../book/assets/figures/fig-13-triage-decision-tree-mobile.svg" alt="30 秒看下一步：家庭求助入口判断">
+</figure>
+
+读这张图时，记住三条规则：
+
+- 第一问命中，就不进入后两问。
+- 高风险人群、说不清原因或家人明显觉得不对劲时，不停在绿色。
+- 绿色观察不是安全结论，只是前两层都没有命中后的短期记录观察。
 
 如果这个人是婴幼儿、孕产期、老人、免疫功能低下者，或有严重心肺肾肝疾病、糖尿病、癌症治疗、近期手术、正在使用抗凝药等情况，要把同样的症状看得更谨慎。
 

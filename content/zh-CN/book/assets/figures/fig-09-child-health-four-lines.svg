@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="孩子健康：四条线一起看">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 9</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">孩子健康：四条线一起看</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">身体、功能、关系和安全，不能只用成绩或手机解释</text>
+  
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="250" width="500" height="142" rx="26" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#4079a7" opacity="0.75">01</text>
+  <text x="108" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">身体线</text>
+  <text x="108" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">发热、疼痛、睡眠、食欲、月经、视力和</text>
+<text x="108" y="371" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">损伤</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="250" width="500" height="142" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#248f75" opacity="0.75">02</text>
+  <text x="660" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">功能线</text>
+  <text x="660" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">能不能上学、睡觉、吃饭、运动和基本</text>
+<text x="660" y="371" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">社交</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="438" width="500" height="142" rx="26" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#d79523" opacity="0.75">03</text>
+  <text x="108" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">关系线</text>
+  <text x="108" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">家庭、同伴、学校和网络里的压力要被</text>
+<text x="108" y="559" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">看见</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="438" width="500" height="142" rx="26" fill="#f8dfdd" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#c84a4a" opacity="0.75">04</text>
+  <text x="660" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">安全线</text>
+  <text x="660" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">呼吸、意识、抽搐、自伤和被伤害风险先</text>
+<text x="660" y="559" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">处理</text>
+  <text x="600" y="690" text-anchor="middle" font-size="30" font-weight="900" fill="#1f302d" opacity="1">孩子不是小号成人，也不是成绩机器</text>
+</svg>

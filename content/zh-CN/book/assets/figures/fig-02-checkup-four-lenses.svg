@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="体检指标：四个角度合起来看">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 2</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">体检指标：四个角度合起来看</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">单次箭头只是入口，趋势、组合和个人背景才决定下一步</text>
+  
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="250" width="500" height="148" rx="26" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#4079a7" opacity="0.75">01</text>
+  <text x="108" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">单次结果</text>
+  <text x="108" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">这次有没有明显异常，不把箭头直接当</text>
+<text x="108" y="371" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">判决</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="250" width="500" height="148" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#248f75" opacity="0.75">02</text>
+  <text x="660" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">趋势变化</text>
+  <text x="660" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">和过去比，是稳定、改善，还是持续变差</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="438" width="500" height="148" rx="26" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#d79523" opacity="0.75">03</text>
+  <text x="108" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">组合关系</text>
+  <text x="108" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">血压、血脂、血糖、肾功能等要一起看</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="438" width="500" height="148" rx="26" fill="#f8dfdd" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#c84a4a" opacity="0.75">04</text>
+  <text x="660" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">个人背景</text>
+  <text x="660" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">年龄、症状、家族史、用药和既往病史会</text>
+<text x="660" y="559" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">改变意义</text>
+  <rect x="280" y="655" width="640" height="58" rx="29" fill="#ffffff" stroke="#c9d8d2" stroke-width="2" filter="url(#softShadow)" />
+  <text x="600" y="693" text-anchor="middle" font-size="28" font-weight="900" fill="#1f302d" opacity="1">四个角度合起来，才决定下一步</text>
+</svg>

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: talking-with-parents
 en_path: ../../../en/book/part-3-family-health-os/talking-with-parents.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -45,28 +45,9 @@ evidence_status: stable
 
 ## 一家人先约四件事
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-red">
-    <span class="decision-label">第一件</span>
-    <h3>身体突然不对，别硬扛</h3>
-    <p>突然胸痛胸闷、说话不清、半边身体无力、严重气短、意识不清、突然看不清、跌倒后明显不对劲，先求助，再慢慢判断。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <span class="decision-label">第二件</span>
-    <h3>不舒服，要说清变化</h3>
-    <p>不要只说“有点不舒服”。尽量说清什么时候开始，越来越重还是慢慢好，伴随什么症状，吃了什么药，和平时有什么不同。</p>
-  </section>
-  <section class="decision-card decision-card-blue">
-    <span class="decision-label">第三件</span>
-    <h3>药和报告放在一个地方</h3>
-    <p>长期药、眼药水、外用药、保健品、体检报告、化验单、影像资料和医生写的纸条，能拍照就拍照，能放一起就放一起。</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <span class="decision-label">第四件</span>
-    <h3>大额健康消费前先缓一缓</h3>
-    <p>昂贵检测、健康设备、抗衰项目或别人推荐的产品，只要价格高、承诺大、催得急，先不要当天拍板。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-11-parents-health-four-agreements.svg" alt="和父母谈健康：先约四件事">
+</figure>
 
 这四件事不是为了限制父母，而是为了减少临时慌乱。家里先有规则，真有事时就不用一边害怕，一边争论。
 

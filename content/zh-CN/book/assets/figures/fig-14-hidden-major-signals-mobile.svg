@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-label="症状在哪里，不等于问题只在哪里">
+  <defs>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#203d36" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+        dominant-baseline: alphabetic;
+      }
+      .title { font-size: 56px; font-weight: 900; fill: #1f302d; }
+      .sub { font-size: 28px; font-weight: 600; fill: #66736f; }
+      .head { font-size: 34px; font-weight: 900; fill: #1f302d; }
+      .body { font-size: 27px; font-weight: 650; fill: #43534f; }
+      .small { font-size: 23px; font-weight: 600; fill: #66736f; }
+      .tag { font-size: 23px; font-weight: 900; fill: #ffffff; }
+      .warn { font-size: 30px; font-weight: 900; fill: #1f302d; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="#f8fbf8"/>
+  <circle cx="1018" cy="118" r="190" fill="#e2f3ed" opacity="0.55"/>
+  <circle cx="80" cy="1580" r="180" fill="#e5f0f8" opacity="0.45"/>
+
+  <rect x="70" y="58" width="122" height="44" rx="22" fill="#e2f3ed"/>
+  <text x="131" y="89" text-anchor="middle" font-size="22" font-weight="900" fill="#157c78">图 14</text>
+  <text x="70" y="174" class="title">症状在哪里</text>
+  <text x="70" y="238" class="title">不等于问题只在哪里</text>
+  <text x="72" y="296" class="sub">这些例子不是让家庭诊断，而是提醒不要误放进绿色</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="365" width="1040" height="164" rx="34" fill="#fff1d6" stroke="#ebd19c" stroke-width="2"/>
+  </g>
+  <rect x="112" y="397" width="156" height="44" rx="22" fill="#d79523"/>
+  <text x="190" y="428" text-anchor="middle" class="tag">疼在别处</text>
+  <text x="300" y="430" class="head">牙痛、下颌痛、肩背痛、上腹痛</text>
+  <text x="112" y="488" class="body">不要只按局部小毛病处理，也要想到循环系统风险</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="570" width="1040" height="164" rx="34" fill="#e5f0f8" stroke="#bad0df" stroke-width="2"/>
+  </g>
+  <rect x="112" y="602" width="156" height="44" rx="22" fill="#4079a7"/>
+  <text x="190" y="633" text-anchor="middle" class="tag">一阵好了</text>
+  <text x="300" y="635" class="head">头晕、走不稳、短暂说话不清</text>
+  <text x="112" y="693" class="body">即使后来缓解，也不要自动当作累了或睡少了</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="775" width="1040" height="164" rx="34" fill="#f8dfdd" stroke="#e4b4b0" stroke-width="2"/>
+  </g>
+  <rect x="112" y="807" width="156" height="44" rx="22" fill="#c84a4a"/>
+  <text x="190" y="838" text-anchor="middle" class="tag">不像胸痛</text>
+  <text x="300" y="840" class="head">恶心、出汗、明显虚弱、上腹不适</text>
+  <text x="112" y="898" class="body">有时不只是胃肠问题，尤其伴胸闷气短或冷汗</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="980" width="1040" height="164" rx="34" fill="#e2f3ed" stroke="#b8d8cd" stroke-width="2"/>
+  </g>
+  <rect x="112" y="1012" width="156" height="44" rx="22" fill="#248f75"/>
+  <text x="190" y="1043" text-anchor="middle" class="tag">老人变了</text>
+  <text x="300" y="1045" class="head">突然糊涂、嗜睡、变弱、走不动</text>
+  <text x="112" y="1103" class="body">不要只归因于年纪大，可能是感染、缺氧、代谢或药物问题</text>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="1185" width="1040" height="164" rx="34" fill="#ece9f7" stroke="#cbc6e4" stroke-width="2"/>
+  </g>
+  <rect x="112" y="1217" width="156" height="44" rx="22" fill="#7067a8"/>
+  <text x="190" y="1248" text-anchor="middle" class="tag">像焦虑</text>
+  <text x="300" y="1250" class="head">胸闷、心慌、气短、濒死感</text>
+  <text x="112" y="1308" class="body">可以有心理因素，但要先排除身体危险信号</text>
+
+  <g filter="url(#shadow)">
+    <rect x="130" y="1430" width="940" height="150" rx="38" fill="#ffffff" stroke="#c9d8d2" stroke-width="2"/>
+  </g>
+  <text x="600" y="1492" text-anchor="middle" class="warn">判断入口，不判断病名</text>
+  <text x="600" y="1542" text-anchor="middle" class="body">和平时不同、反复或加重、高风险人群</text>
+  <text x="600" y="1584" text-anchor="middle" class="body">至少按黄色处理，拿不准就不要放进绿色</text>
+</svg>

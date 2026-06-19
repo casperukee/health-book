@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: red-flags
 en_path: ../../../en/handbook/playbooks/red-flags.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -85,6 +85,10 @@ evidence_status: needs_periodic_review
 ## 容易漏掉的补充红线
 
 有些危险信号不一定看起来像“马上要出大事”，却很容易因为犹豫而错过窗口。
+
+<figure class="book-figure">
+  <img src="../../book/assets/figures/fig-14-hidden-major-signals-mobile.svg" alt="症状在哪里，不等于问题只在哪里">
+</figure>
 
 ### 一阵好了，也不能自动降级
 

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: checkup-markers
 en_path: ../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md
 translation_status: source
-last_reviewed: 2026-06-19
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -24,6 +24,10 @@ evidence_status: needs_periodic_review
 所以，拿到报告后，先不要逐个搜索缩写。没有危险症状时，第一步也不是问“哪个箭头最吓人”，而是看这些数字是不是在讲同一件事。
 
 指标不是判决书，而是风险语言。关键不是一个箭头，而是它出现在什么人身上，持续多久，和哪些指标一起出现，会改变什么行动。
+
+<figure class="book-figure">
+  <img src="../assets/figures/fig-02-checkup-four-lenses.svg" alt="体检指标：四个角度合起来看">
+</figure>
 
 ## 先看组合，后看箭头
 
@@ -56,23 +60,11 @@ evidence_status: needs_periodic_review
 
 ## 30 秒先分三类
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-red">
-    <div class="decision-label">急事</div>
-    <h3>有危险信号，报告正常也不能等</h3>
-    <p>胸痛、卒中样症状、严重呼吸困难、晕厥、意识改变、异常出血、严重疼痛、自伤风险等，先处理症状，不要继续研究报告。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">门诊或复查事</div>
-    <h3>明显异常、持续异常、成组异常</h3>
-    <p>同一指标连续异常，或血压、血脂、血糖、尿酸、肾功能、体重腰围一起变坏，适合整理资料后问医生。</p>
-  </section>
-  <section class="decision-card decision-card-green decision-card-wide">
-    <div class="decision-label">记录观察事</div>
-    <h3>单次轻微异常，先看趋势和背景</h3>
-    <p>略高略低不等于疾病。先看是不是第一次、最近有没有熬夜饮酒运动感染用药变化、过去结果是否也这样。</p>
-  </section>
-</div>
+先分三类：
+
+- **急事：** 有胸痛、卒中样症状、严重呼吸困难、晕厥、意识改变、异常出血、严重疼痛、自伤风险等危险信号时，报告正常也不能等。
+- **门诊或复查事：** 明显异常、持续异常、成组异常，适合整理资料后问医生。
+- **记录观察事：** 单次轻微异常，先看是不是第一次、近期背景有没有变化、过去结果是否也这样。
 
 这一步的目的，是先把情绪降下来。报告一出来，人最容易在两个极端之间摆动：要么觉得自己完了，要么觉得没箭头就彻底没事。先分三类，能让你知道哪些要马上处理，哪些要交给医生，哪些先变成记录。
 

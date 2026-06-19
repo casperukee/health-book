@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: supplement-evidence-traps
 en_path: ../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -117,45 +117,17 @@ evidence_status: needs_periodic_review
 
 家庭不必一开始就争“它到底有没有用”。先守三条底线。
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-red">
-    <span class="decision-label">医疗底线</span>
-    <h3>不改变正规医疗安排</h3>
-    <p>不能因为保健品停药、减药、推迟复查、拒绝检查、替代治疗。涉及用药、手术、癌症治疗、慢病管理、筛查和复查，都要回到医生或药师那里确认。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <span class="decision-label">金钱底线</span>
-    <h3>不在热场里交大钱</h3>
-    <p>不借钱，不投资，不办高价年卡，不为了“疗程完整”持续追加，也不要因为已经买了很多就继续买更多。</p>
-  </section>
-  <section class="decision-card decision-card-blue decision-card-wide">
-    <span class="decision-label">关系底线</span>
-    <h3>不让产品接管家庭关系</h3>
-    <p>如果它要求瞒着家人、绕开医生、发展亲友、攻击提出问题的人，这已经不是单纯保健，而是一套销售系统在接管判断。</p>
-  </section>
-</div>
+<figure class="book-figure">
+  <img src="../assets/figures/fig-12-supplement-three-boundaries.svg" alt="保健品陷阱：先守三条线">
+</figure>
 
 守住这三条线，很多冲突会变得更清楚：我们不是要剥夺谁的希望，而是不能把医疗决定、家庭积蓄和亲友关系交给销售现场。
 
 ## 三个风险等级
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-green">
-    <span class="decision-label">低风险</span>
-    <h3>可以记录观察</h3>
-    <p>价格不高，不替代医疗，不影响用药和复查，没有夸张承诺，使用者也不是老人、儿童、孕产、慢病、复杂用药或癌症治疗期。</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <span class="decision-label">需要确认</span>
-    <h3>先问医生或药师</h3>
-    <p>只要使用者有慢病、正在用药、年龄较大、准备手术或拔牙、有肝肾问题、出血风险、孕产、儿童青少年、癌症治疗或康复期，都不要只凭销售话术判断。</p>
-  </section>
-  <section class="decision-card decision-card-red">
-    <span class="decision-label">高风险</span>
-    <h3>家庭要直接介入</h3>
-    <p>要求停药、减药、停检查、推迟治疗；宣称治愈或逆转疾病；用限时、会员代理、拉人头、投资返利制造压力；不让你问医生。</p>
-  </section>
-</div>
+- **低风险：** 价格不高，不替代医疗，不影响用药和复查，没有夸张承诺，使用者也不是老人、儿童、孕产、慢病、复杂用药或癌症治疗期。
+- **需要确认：** 只要使用者有慢病、正在用药、年龄较大、准备手术或拔牙、有肝肾问题、出血风险、孕产、儿童青少年、癌症治疗或康复期，都不要只凭销售话术判断。
+- **高风险：** 要求停药、减药、停检查、推迟治疗；宣称治愈或逆转疾病；用限时、会员代理、拉人头、投资返利制造压力；不让你问医生。
 
 需要更细的核查时，把包装、成分、剂量、购买渠道、价格和使用者健康背景拍下来，用 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md) 逐项看；涉及用药、手术、慢病、孕产、儿童、老人或癌症治疗时，先问医生或药师。
 
