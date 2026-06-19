@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: healthspan-and-risk-curve
 en_path: ../../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-19
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -177,16 +177,6 @@ evidence_status: stable
 如果出现胸痛胸闷、卒中样症状、严重呼吸困难、晕厥或意识改变、无法控制出血、突然剧烈疼痛、严重创伤、中毒、严重过敏、自伤自杀风险、孕产期危险信号，或感染后状态迅速变差，请回到 [1. 危险信号：先分急缓，不要先搜病名](../medical-boundaries.md) 或 [危险信号速查](../../handbook/playbooks/red-flags.md)，优先就医或联系当地急救服务。
 
 如果你已经有明确疾病、持续症状、体检明显异常、正在用药或准备筛查，也不要用“健康寿命”这个大框架替代医生建议。
-
-## 今天可以先做一个小版本
-
-今天可以做一个很小的版本：
-
-- 写下你或父母最想保住的 3 项能力，例如走路、睡眠、记忆、独立生活、社交；
-- 列出当前最值得关注的 3 条风险线，例如血压血脂血糖、睡眠、情绪、跌倒、癌症筛查、认知变化；
-- 找到最近一次体检报告，先不解释数字，只标记需要复查或问医生的问题；
-- 建一个家庭健康资料夹，先放入病史、用药、过敏、体检和紧急联系人；
-- 遇到抗衰或健康产品广告时，先问：它保护哪种功能，影响哪条风险线，会改变什么行动？
 
 ## 参考资料
 

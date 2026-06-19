@@ -638,9 +638,49 @@
 - 机构：American Heart Association
 - 类型：专业协会健康生活资料
 - 用途：校准心血管健康生活方式和风险因素框架。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
+
+### WHO：Physical activity
+
+- URL: https://www.who.int/news-room/fact-sheets/detail/physical-activity
+- 机构：World Health Organization
+- 类型：国际官方公众健康资料
+- 用途：校准身体活动、久坐行为、慢病风险和“任何活动都比完全不动好”的公众边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-19
+
+### WHO：Healthy diet
+
+- URL: https://www.who.int/news-room/fact-sheets/detail/healthy-diet
+- 机构：World Health Organization
+- 类型：国际官方公众健康资料
+- 用途：校准健康饮食、蔬果、盐、糖、脂肪和慢病风险的公众边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-19
+
+### CDC：On Your Way to Preventing Type 2 Diabetes
+
+- URL: https://www.cdc.gov/diabetes/prevention-type-2/guide-preventing-type-2-diabetes.html
+- 机构：Centers for Disease Control and Prevention
+- 类型：美国官方慢病预防资料
+- 用途：校准 2 型糖尿病风险、生活方式改变和长期可持续行动的公众边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-19
+
+### NIAMS/NIH：Gout Causes and Risk Factors
+
+- URL: https://www.niams.nih.gov/health-topics/gout/causes
+- 机构：National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH
+- 类型：美国官方健康主题资料
+- 用途：校准尿酸、痛风、饮酒、含糖饮料、肥胖、代谢综合征、肾脏问题、药物和家族背景等风险因素边界。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-19
 
 ## 睡眠与恢复
 

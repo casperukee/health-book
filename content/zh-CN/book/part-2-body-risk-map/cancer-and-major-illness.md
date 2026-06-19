@@ -4,16 +4,16 @@ language: zh-CN
 canonical_slug: cancer-and-major-illness
 en_path: ../../../en/book/part-2-body-risk-map/cancer-and-major-illness.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-19
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 5. 癌症与重大疾病：分清阶段，别让恐惧替你决定
+# 6. 癌症与重大疾病：分清阶段，别让恐惧替你决定
 
 > 癌症筛查、诊断、分期、治疗、随访和照护必须由专业医疗团队结合个人情况判断。本文帮助家庭理解问题、准备资料、问清目标和守住边界，不替代医生建议，也不用于推迟正规诊疗。
 
-代谢、血管、睡眠和大脑这些风险，常常让人想到长期累积。到了癌症，很多家庭的感觉会突然变了：风险不再像一条曲线，而像一张判决书。
+代谢、血管、共同上游、睡眠和大脑这些风险，常常让人想到长期累积。到了癌症，很多家庭的感觉会突然变了：风险不再像一条曲线，而像一张判决书。
 
 周五晚上，父亲把体检报告拍到家庭群里：肺结节、便潜血阳性、肿瘤标志物升高、建议进一步检查。几分钟之内，群里已经出现了四种声音：一个人说马上做全身检查，一个人说先别吓自己，一个人转来偏方和“抗癌食物”，还有一个人开始搜索最坏结果。
 
@@ -285,5 +285,5 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[4. 大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)
-- 下一章：[6. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)
+- 上一章：[5. 大脑与心理健康：先看安全、功能和支持](brain-and-mental-health.md)
+- 下一章：[7. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)

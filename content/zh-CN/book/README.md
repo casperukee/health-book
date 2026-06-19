@@ -39,11 +39,12 @@
 
 - [1. 代谢与四高：四套有用系统，为什么会失衡](part-2-body-risk-map/metabolic-health.md)
 - [2. 心血管事件链：从血压到心梗的连锁反应](part-2-body-risk-map/cardiovascular-event-chain.md)
-- [3. 睡眠与恢复：身体修复的隐形工程](part-2-body-risk-map/sleep-and-recovery.md)
-- [4. 大脑与心理健康：先看安全、功能和支持](part-2-body-risk-map/brain-and-mental-health.md)
-- [5. 癌症与重大疾病：分清阶段，别让恐惧替你决定](part-2-body-risk-map/cancer-and-major-illness.md)
-- [6. 儿童与青少年：身体和心理一起长大](part-2-body-risk-map/children-and-adolescent-health.md)
-- [7. 常见专科问题：提高看病质量，而不是自己当医生](part-2-body-risk-map/specialty-care-map.md)
+- [3. 共同上游：还没变成病时，先把风险往回拉](part-2-body-risk-map/common-upstream.md)
+- [4. 睡眠与恢复：身体修复的隐形工程](part-2-body-risk-map/sleep-and-recovery.md)
+- [5. 大脑与心理健康：先看安全、功能和支持](part-2-body-risk-map/brain-and-mental-health.md)
+- [6. 癌症与重大疾病：分清阶段，别让恐惧替你决定](part-2-body-risk-map/cancer-and-major-illness.md)
+- [7. 儿童与青少年：身体和心理一起长大](part-2-body-risk-map/children-and-adolescent-health.md)
+- [8. 常见专科问题：提高看病质量，而不是自己当医生](part-2-body-risk-map/specialty-care-map.md)
 
 ## 第三章 变成一家人的事：家庭健康守门人
 

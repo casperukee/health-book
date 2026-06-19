@@ -4,12 +4,12 @@ language: zh-CN
 canonical_slug: specialty-care-map
 en_path: ../../../en/book/part-2-body-risk-map/specialty-care-map.md
 translation_status: source
-last_reviewed: 2026-06-17
+last_reviewed: 2026-06-19
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 7. 常见专科问题：提高看病质量，而不是自己当医生
+# 8. 常见专科问题：提高看病质量，而不是自己当医生
 
 > 视力突然下降、眼外伤、孕期或产后一年内危险信号、严重外伤、剧烈疼痛、尿血发热、明显排尿困难、意识改变、麻木无力、自伤自杀风险等情况，请及时联系急救、急诊或当地专业支持。本文帮助你准备信息和选择入口，不做专科诊断。
 
@@ -174,7 +174,7 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 
 口腔溃疡、耳鸣、鼻炎、咽喉异物感、甲状腺、消化、乳腺、肛肠和疼痛问题，也不需要一开始就懂专业诊断。先记录持续多久、反复频率、用过什么、是否影响睡眠工作和生活。如果出现快速加重、发热、严重疼痛、吞咽或呼吸困难、明显出血、体重下降或全身状态变差，要提高急缓等级。
 
-儿童和青少年的身体与心理变化已经独立成章，见 [6. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)。在本章里只保留一句原则：孩子不是缩小版成年人；如果身体不适、睡眠、学校功能、情绪行为和安全风险交织在一起，不要只按成人经验或管教问题处理。
+儿童和青少年的身体与心理变化已经独立成章，见 [7. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)。在本章里只保留一句原则：孩子不是缩小版成年人；如果身体不适、睡眠、学校功能、情绪行为和安全风险交织在一起，不要只按成人经验或管教问题处理。
 
 ## 同一个症状，不同人要更谨慎
 
@@ -244,5 +244,5 @@ NIAMS 把背痛描述为非常常见的问题，但也提醒它可能来自事�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[6. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)
+- 上一章：[7. 儿童与青少年：身体和心理一起长大](children-and-adolescent-health.md)
 - 下一章：[1. 家庭健康到底要管理什么：不是管人，是管事实和边界](../part-3-family-health-os/what-to-manage.md)

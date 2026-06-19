@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: what-to-manage
 en_path: ../../../en/book/part-3-family-health-os/what-to-manage.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-19
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -252,5 +252,5 @@ AHRQ 和 MedlinePlus 的患者沟通资料都强调，患者要准备问题、�
 ## 阅读导航
 
 - [回到中文主书目录](../README.md)
-- 上一章：[7. 常见专科问题：提高看病质量，而不是自己当医生](../part-2-body-risk-map/specialty-care-map.md)
+- 上一章：[8. 常见专科问题：提高看病质量，而不是自己当医生](../part-2-body-risk-map/specialty-care-map.md)
 - 下一章：[2. 就医前如何准备信息：把事实带进诊室](doctor-visit-preparation.md)

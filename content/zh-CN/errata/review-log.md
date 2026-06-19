@@ -9,6 +9,42 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-19：v0.9.1 细节阅读节奏同步
+
+- 状态：reader experience patch
+- 位置：
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`
+  - `content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+  - `content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+  - `content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+  - `content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+  - `content/zh-CN/errata/README.md`
+- 复查内容：同步 v0.9.1 后续轻剪：删除健康寿命章重复的小清单；将体检章的报告整理动作收束为“拿到报告后的 20 分钟”；压缩代谢章组合表和心血管急性阶段列表；清理父母沟通章的“转发前”和“先约定一件事”残留；将“有盼头 / 不孤单”调整为“有角色 / 有连接”；更新勘误页的当前版本说明。
+- 处理说明：本轮只做阅读节奏、扫读锚点和网页残留表达清理；不新增医学判断、诊断、用药、停药、治疗优先级、个体化筛查或个体化方案。
+- 下次建议复查：手机连续阅读体检章、父母沟通章和老年照护章，重点看行动入口是否更集中，表格和卡片是否仍有阅读负担。
+
+## 2026-06-19：v0.9.1 共同上游章节与来源登记同步
+
+- 状态：fixed
+- 位置：
+  - `content/zh-CN/book/README.md`
+  - `content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+  - `content/zh-CN/book/part-2-body-risk-map/README.md`
+  - `content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+  - `content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+  - `shared/source-registry.md`
+- 复查内容：按 v0.9.1 主书结构，在代谢与四高、心血管事件链之后补入“共同上游”章节，并同步主书目录、Part 2 目录、侧边栏和相邻章节导航。新增章节把活动、吃喝、恢复、压力连接和反馈系统放在同一层处理，用于承接四高和心血管风险的生活底座。
+- 使用来源：
+  - WHO: Physical activity
+  - WHO: Healthy diet
+  - American Heart Association: Life's Essential 8
+  - CDC: On Your Way to Preventing Type 2 Diabetes
+  - NIAMS/NIH: Gout: Causes and Risk Factors
+- 处理说明：本次只同步主书结构、阅读导航、公开版本说明和来源登记；不新增诊断、用药、停药、治疗方案、个体化筛查或个体化健康方案。新增“共同上游”章节用于解释风险趋势和家庭可持续默认值，不写成个人治疗建议。
+- 下次建议复查：移动端重点查看新增章节图示、Part 2 连续阅读链路，以及“共同上游”是否与代谢、心血管和睡眠章节衔接自然。
+
 ## 2026-06-16：v0.9 网页版来源登记校准
 
 - 状态：fixed

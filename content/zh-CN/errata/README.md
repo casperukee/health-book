@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: errata-and-feedback
 en_path: ../../en/errata/README.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-19
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -15,15 +15,9 @@ evidence_status: needs_periodic_review
 
 ## 当前版本说明
 
-本书第一版完成于 2026-06-08；当前稿件已更新至 2026-06-15 这轮内容修订与附录边界校准。
+本书第一版完成于 2026-06-08；当前网页版已更新至 v0.9.1，并经过医学边界复核、移动端实机阅读检查和多轮读者反馈修订。
 
-它已经形成完整阅读结构，但仍需要继续做三件事：
-
-- 医学边界复核；
-- 版式和移动端阅读检查；
-- 读者反馈后的表达修订。
-
-在这些工作完成前，本书不应被当作医学定稿、临床指南或个体化建议。
+这些工作提高了本书的可读性和安全边界，但它仍然不是医学定稿、临床指南或个体化建议。医学资料会更新，真实阅读中也可能发现新的误解点；后续修订会继续记录在勘误和更新页面。
 
 最新在线版本和勘误记录会优先更新在项目页面：[http://health.mindarae.com](http://health.mindarae.com)。
 

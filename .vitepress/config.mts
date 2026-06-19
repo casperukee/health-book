@@ -22,11 +22,12 @@ const bookSidebar = [
     items: [
       { text: '1. 代谢与四高：四套有用系统，为什么会失衡', link: '/content/zh-CN/book/part-2-body-risk-map/metabolic-health' },
       { text: '2. 心血管事件链：从血压到心梗的连锁反应', link: '/content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain' },
-      { text: '3. 睡眠与恢复：身体修复的隐形工程', link: '/content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery' },
-      { text: '4. 大脑与心理健康：先看安全、功能和支持', link: '/content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health' },
-      { text: '5. 癌症与重大疾病：分清阶段，别让恐惧替你决定', link: '/content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness' },
-      { text: '6. 儿童与青少年：身体和心理一起长大', link: '/content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health' },
-      { text: '7. 常见专科问题：提高看病质量，而不是自己当医生', link: '/content/zh-CN/book/part-2-body-risk-map/specialty-care-map' }
+      { text: '3. 共同上游：还没变成病时，先把风险往回拉', link: '/content/zh-CN/book/part-2-body-risk-map/common-upstream' },
+      { text: '4. 睡眠与恢复：身体修复的隐形工程', link: '/content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery' },
+      { text: '5. 大脑与心理健康：先看安全、功能和支持', link: '/content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health' },
+      { text: '6. 癌症与重大疾病：分清阶段，别让恐惧替你决定', link: '/content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness' },
+      { text: '7. 儿童与青少年：身体和心理一起长大', link: '/content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health' },
+      { text: '8. 常见专科问题：提高看病质量，而不是自己当医生', link: '/content/zh-CN/book/part-2-body-risk-map/specialty-care-map' }
     ]
   },
   {
@@ -69,7 +70,7 @@ const feedbackSidebar = [
   {
     text: '试读与反馈',
     items: [
-      { text: 'v0.9 试读与反馈说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
+      { text: 'v0.9.1 试读与反馈说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
     ]
   }
 ]

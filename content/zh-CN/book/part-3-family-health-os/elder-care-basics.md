@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: elder-care-basics
 en_path: ../../../en/book/part-3-family-health-os/elder-care-basics.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-19
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -114,12 +114,12 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 再看生活连接：
 
 - 最近有没有越来越少出门；
-- 有没有能期待的小事；
+- 有没有生活里还能参与的角色；
 - 有没有固定见人、聊天、散步、社区活动或兴趣；
 - 有没有长期孤独、沉默、烦躁、睡不好或明显情绪低落；
 - 照护者是否已经明显疲惫，开始无法安全照护。
 
-有盼头和不孤单不是鸡汤。对家庭来说，不要只把父母健康聊成指标和吃药，也要看他们还想做什么、能不能出门见人、生活里有没有稳定连接。一个人如果还愿意养花、买菜、见朋友、学点东西，健康动作就更容易长在生活里。
+对家庭来说，不要只把父母健康聊成指标和吃药，也要看他们在生活里还有没有角色、连接和继续参与的空间。一个人如果还愿意养花、买菜、见朋友、学点东西，健康动作就更容易长在生活里。
 
 ## 跌倒后，先问五件事
 
