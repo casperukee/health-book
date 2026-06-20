@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: official-medical-sources
 en_path: ../../en/references/official-medical-sources.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-20
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -26,6 +26,21 @@ evidence_status: needs_periodic_review
 - 适用人群是谁？
 - 它是在解释知识，还是给医生的临床指南？
 - 它是否要求结合个人情况咨询医生？
+
+## 先按问题找入口
+
+| 遇到什么问题 | 优先查哪里 |
+|---|---|
+| 急症危险信号 | 当地急救系统、急诊、[AHA](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)、[CDC](https://www.cdc.gov/)、[MedlinePlus](https://medlineplus.gov/)。资料只用于识别“不能等”，不用于在家排除风险。 |
+| 体检指标和化验报告 | MedlinePlus、NIDDK/NIH、CDC，以及报告自带参考范围。重点看单位、趋势、组合和检查背景。 |
+| 血压、血脂、心血管风险 | AHA、ACC、NHLBI/NIH、CDC、中国相关指南和医生随访资料。重点看总体风险、危险信号、家庭测量和复查原则。 |
+| 糖尿病、尿酸、肾功能和代谢风险 | ADA、CDC、NIH/NIDDK、MedlinePlus、内分泌或肾内科患者资料。重点看长期管理、并发症和复查，不自行设定个人目标。 |
+| 睡眠、大脑和心理健康 | CDC、NHLBI/NIH、NINDS/NIH、NIMH、NCCIH、12356 和当地精神卫生资源。自伤、自杀或无法保证安全时，资料查询不能替代急救。 |
+| 癌症筛查和治疗 | NCI、USPSTF、CDC、专业肿瘤中心和主治团队。重点看适用人群、阳性后的下一步和治疗阶段。 |
+| 疫苗和传染病 | 国家/地方疾控、CDC、WHO、接种门诊和医生。重点看适用人群、禁忌、补种和特殊人群建议。 |
+| 药品、保健品和相互作用 | 医生、药师、国家药监部门、药品说明书、FDA、FTC、NIH Office of Dietary Supplements、NCCIH。重点看禁忌、相互作用、监管信息和健康欺诈。 |
+| 儿童、孕产期、老人 | 对应专科医生、官方孕产/儿科/老年健康资料、CDC、MedlinePlus、NIA/NIH。同样症状在这些人群里可能需要更早升级。 |
+| 健康设备、检测和抗衰营销 | FDA 医疗器械和直接面向消费者检测资料、国家药监部门、市场监管部门、FTC 健康骗局资料。先看产品类别、是否改变医疗行动、隐私和费用风险。 |
 
 ## 国内常用入口
 
@@ -90,63 +105,6 @@ evidence_status: needs_periodic_review
 ### Substance Abuse and Mental Health Services Administration, SAMHSA
 
 [SAMHSA](https://www.samhsa.gov/) 适合查看心理危机、物质使用和美国 988 危机热线相关资料。
-
-## 不同问题优先查什么
-
-### 急症危险信号
-
-- 优先入口：当地急救系统、急诊、AHA、CDC、MedlinePlus。
-- 使用方式：只用于识别“不能等”的信号，不用于在家排除风险。
-
-### 体检指标和化验报告
-
-- 优先入口：MedlinePlus、NIDDK、CDC，以及国内相关指南和报告自带参考范围。
-- 使用方式：先理解指标含义、单位、趋势和组合，不把参考范围当成个人治疗目标。
-
-### 血压、血脂、心血管风险
-
-- 优先入口：AHA、ACC、NHLBI/NIH、CDC、中国高血压和血脂相关指南、医生随访资料。
-- 使用方式：看总体风险、危险信号、家庭测量和复查原则，不自行决定用药或停药。
-
-### 糖尿病和代谢风险
-
-- 优先入口：ADA、CDC、NIH、内分泌专科资料、中国 2 型糖尿病相关指南。
-- 使用方式：理解空腹血糖、A1C、餐后血糖和长期并发症管理，不自行设定个人血糖目标。
-
-### 肾功能、尿检、尿酸
-
-- 优先入口：NIDDK、MedlinePlus、肾内科患者教育资料。
-- 使用方式：把 eGFR、尿白蛋白/尿蛋白、尿潜血、尿酸和血压血糖放在一起看。
-
-### 睡眠、大脑和心理健康
-
-- 优先入口：CDC、NHLBI/NIH、NINDS/NIH、NIMH、NCCIH、国家心理援助热线和当地精神卫生资源。
-- 使用方式：区分长期维护、需要门诊评估和立即危机求助。自伤、自杀或无法保证安全时，资料查询不能替代急救。
-
-### 癌症筛查和治疗
-
-- 优先入口：NCI、USPSTF、CDC、专业肿瘤中心、主治团队。
-- 使用方式：先看筛查适用人群、阳性后的下一步和治疗阶段；不要把肿瘤标志物或多癌种早筛当成万能筛查。
-
-### 疫苗和传染病
-
-- 优先入口：国家/地方疾控、CDC、WHO、接种门诊和医生。
-- 使用方式：看适用人群、禁忌、补种和特殊人群建议。
-
-### 药品、保健品和相互作用
-
-- 优先入口：医生、药师、国家药监部门、药品说明书、FDA、FTC、NIH Office of Dietary Supplements、NCCIH。
-- 使用方式：重点查类别、适应证、禁忌、相互作用、监管信息和是否存在健康欺诈。
-
-### 儿童、孕产期、老人
-
-- 优先入口：对应专科医生、官方孕产/儿科/老年健康资料、CDC、MedlinePlus、NIA/NIH。
-- 使用方式：同样症状在这些人群里可能需要更早升级，不要直接套用成年普通人经验。
-
-### 健康设备、检测和抗衰营销
-
-- 优先入口：FDA 医疗器械和直接面向消费者检测资料、国家药监部门、市场监管部门、FTC 健康骗局资料。
-- 使用方式：先看产品类别、结果是否能改变医疗行动、隐私和费用风险，不让消费检测替代正规就医。
 
 ## 怎么不用错资料
 

@@ -17,3 +17,5 @@
 - [1. 保健品证据陷阱：试试也没坏处吗](supplement-evidence-traps.md)
 - [2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
 - [3. 健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来](reading-health-news.md)
+
+读完第四章后，可以进入 [主书收束页](../after-reading.md)，把整本书的判断方式收回来，再按需要使用手册与模板。

@@ -217,3 +217,4 @@ evidence_status: stable
 
 - [回到中文主书目录](../README.md)
 - 上一章：[2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
+- 下一页：[读完这本书以后，先别急着记住所有东西](../after-reading.md)

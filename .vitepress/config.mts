@@ -46,6 +46,12 @@ const bookSidebar = [
       { text: '2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买', link: '/content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
       { text: '3. 健康新闻、新研究和短视频科普：越想立刻行动，越要慢下来', link: '/content/zh-CN/book/part-4-health-information-defense/reading-health-news' }
     ]
+  },
+  {
+    text: '读完主书以后',
+    items: [
+      { text: '先别急着记住所有东西', link: '/content/zh-CN/book/after-reading' }
+    ]
   }
 ]
 
