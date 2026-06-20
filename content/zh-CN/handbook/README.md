@@ -57,6 +57,6 @@
 
 ## 维护入口
 
-- [v0.9.1 试读与反馈说明](../feedback/gray-trial-guide.md)
+- [v0.9.2 试读与反馈说明](../feedback/gray-trial-guide.md)
 - [权威医学资料入口](../references/official-medical-sources.md)
 - [勘误、更新与反馈](../errata/README.md)

@@ -76,7 +76,7 @@ const feedbackSidebar = [
   {
     text: '试读与反馈',
     items: [
-      { text: 'v0.9.1 试读与反馈说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
+      { text: 'v0.9.2 试读与反馈说明', link: '/content/zh-CN/feedback/gray-trial-guide' }
     ]
   }
 ]
