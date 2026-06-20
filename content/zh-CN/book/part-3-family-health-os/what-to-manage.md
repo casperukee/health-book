@@ -207,20 +207,11 @@ AHRQ 和 MedlinePlus 的患者沟通资料都强调，患者要准备问题、�
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
-
-- WHO: [Constitution of the World Health Organization](https://www.who.int/about/governance/constitution)
-- WHO: [Noncommunicable diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)
-- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
-- MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
-- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
-- CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
-- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
-- CDC: [About Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)
+截至 2026-06-15，本章主要用 WHO 关于健康定义和非传染性疾病的资料，HealthIT.gov 关于获取和使用健康记录的资料，MedlinePlus 关于和医生沟通、多药使用安全的资料，AHRQ 关于患者参与医疗的资料，CDC 关于成人疫苗和老人跌倒预防的资料，来校准家庭健康管理、慢性病风险、健康记录、医患沟通、疫苗记录、多药使用和老人跌倒边界。
 
 这些资料用于校准健康定义、慢性病风险、健康记录、医患沟通、疫苗记录、多药使用和老人跌倒边界。本文不提供诊断、用药、停药、治疗优先级、个体化筛查或个体化健康方案。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[WHO Constitution](https://www.who.int/about/governance/constitution)、[WHO Noncommunicable diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)、[CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

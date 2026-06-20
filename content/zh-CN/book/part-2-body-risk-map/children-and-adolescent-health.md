@@ -203,20 +203,11 @@ CDC 的青少年心理健康资料强调，学校、家庭、朋友和社区里�
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
-
-- WHO: [Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)
-- CDC: [Youth Mental Health](https://www.cdc.gov/healthy-youth/mental-health/index.html)
-- NIMH: [Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)
-- MedlinePlus: [Teen Health](https://medlineplus.gov/teenhealth.html)
-- MedlinePlus: [Children's Health](https://medlineplus.gov/childrenshealth.html)
-- HealthyChildren.org/AAP: [Teen](https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx)
-- HealthyChildren.org/AAP: [Health Issues](https://www.healthychildren.org/English/health-issues/Pages/default.aspx)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
+截至 2026-06-15，本章主要用 WHO 关于青少年心理健康的资料，CDC 关于青少年心理健康的资料，NIMH 关于儿童和心理健康的资料，MedlinePlus 关于青少年健康的资料，以及 AAP HealthyChildren 关于青少年健康的资料，来校准儿童青少年身体、情绪、家庭学校支持、同伴连接、就医入口和危险信号边界。
 
 这些资料共同提醒：青春期是身体、情绪和社会关系快速变化的阶段；健康习惯、家庭和学校支持、同伴连接、及时就医和危险信号识别，都属于儿童青少年健康的一部分。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[WHO Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)、[CDC Youth Mental Health](https://www.cdc.gov/healthy-youth/mental-health/index.html)、[NIMH Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)、[MedlinePlus Teen Health](https://medlineplus.gov/teenhealth.html)、[HealthyChildren Teen](https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx)、[SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

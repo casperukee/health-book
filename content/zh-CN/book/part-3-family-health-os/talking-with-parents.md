@@ -220,20 +220,11 @@ evidence_status: stable
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
+截至 2026-06-15，本章主要用 CDC 关于健康老龄化的资料，MedlinePlus 关于健康老龄化、和医生沟通、眼部急症和多药使用安全的资料，NIA/NIH 关于老年认知健康的资料，HealthIT.gov 关于获取和使用健康记录的资料，FDA 和 FTC 关于健康骗局的资料，以及 SAMHSA 关于 988 危机热线的资料，来校准和父母沟通时的健康老龄化、就医协作、健康记录、认知变化、健康骗局和心理危机边界。
 
-- CDC: [Healthy Aging at Any Age](https://www.cdc.gov/healthy-aging/about/index.html)
-- MedlinePlus: [Healthy Aging](https://medlineplus.gov/healthyaging.html)
-- NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
-- MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
-- MedlinePlus: [Eye Emergencies](https://medlineplus.gov/ency/article/000054.htm)
-- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
-- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
-- FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
-- FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
-- SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
+这些资料用于帮助家庭把关心转成记录、协作和及时求助，不应用来替父母做诊断、决定用药、停药、治疗优先级、筛查安排或替代急救和心理危机服务。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html)、[MedlinePlus Healthy Aging](https://medlineplus.gov/healthyaging.html)、[NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

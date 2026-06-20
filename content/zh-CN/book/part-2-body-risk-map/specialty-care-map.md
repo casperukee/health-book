@@ -140,23 +140,11 @@ CDC HEAR HER 把孕期和产后一年内的若干信号列为需要立即就医�
 
 ## 参考资料
 
-截至 2026-06-17，本章主要参考：
-
-- MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
-- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
-- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
-- CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
-- National Eye Institute: [Eye Health Information](https://www.nei.nih.gov/eye-health-information)
-- MedlinePlus: [Eye Emergencies](https://medlineplus.gov/ency/article/000054.htm)
-- NIDDK/NIH: [Bladder Control Problems](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems)
-- NIAMS/NIH: [Back Pain](https://www.niams.nih.gov/health-topics/back-pain)
-- American Dental Association: [Osteoporosis Medications and Medication-Related Osteonecrosis of the Jaw](https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications)
-- SDCEP: [Management of Dental Patients Taking Anticoagulants or Antiplatelet Drugs](https://www.sdcep.org.uk/published-guidance/anticoagulants-and-antiplatelets/)
-- SDCEP: [Oral Health Management of Patients at Risk of Medication-related Osteonecrosis of the Jaw](https://www.sdcep.org.uk/published-guidance/medication-related-osteonecrosis-of-the-jaw/)
+截至 2026-06-17，本章主要用 MedlinePlus 关于选择医生或医疗服务的资料，AHRQ 关于患者参与医疗的资料，HealthIT.gov 关于获取和使用健康记录的资料，CDC HEAR HER 关于孕产期危险信号的资料，National Eye Institute 和 MedlinePlus 关于眼健康与眼部急症的资料，NIDDK/NIH 关于膀胱控制问题的资料，NIAMS/NIH 关于背痛的资料，以及 American Dental Association 和 SDCEP 关于牙科操作中骨质疏松药物、抗凝/抗血小板药物和药物相关颌骨风险的资料，来校准专科问题的就医准备、健康记录、孕产危险信号、眼部急症、泌尿生活质量、背痛边界和牙科操作中的全身用药信息。
 
 这些资料用于校准专科问题的就医准备、健康记录、孕产危险信号、眼部急症、泌尿生活质量、背痛边界、牙科操作中的全身用药信息和药物相关颌骨风险提示。本文不提供专科诊断、用药、停药、治疗优先级、个体化筛查或个体化治疗方案。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[MedlinePlus Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[CDC HEAR HER Urgent Maternal Warning Signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)、[National Eye Institute Eye Health Information](https://www.nei.nih.gov/eye-health-information)、[American Dental Association Osteoporosis Medications and MRONJ](https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications)、[SDCEP Anticoagulants and Antiplatelets](https://www.sdcep.org.uk/published-guidance/anticoagulants-and-antiplatelets/)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

@@ -71,13 +71,13 @@ evidence_status: needs_periodic_review
 
 一个人长期“睡了也像没睡”、鼾声很重、白天控制不住犯困，尤其还合并血压、体重、晨起头痛或憋醒等情况，就不该只被说成懒、熬夜或年纪大。真正该做的，是把这些线索记录下来，带去和医生讨论是否需要睡眠相关评估。
 
-## 工具别混用
+## 给身体一个降速入口
 
-恢复工具最容易被误用。补觉、午睡、NSDR、呼吸冥想、睡前仪式、CBT-I 听起来都像“让人休息”，但它们解决的不是同一个问题。
+短午睡、呼吸觉察、身体扫描、睡前仪式、NSDR 这类方法，最重要的价值，是给身体一个从白天退下来的过渡。白天一直开会、赶路、照顾家人、刷消息，身体常常还停在警戒和输出状态；这些小练习能让呼吸慢一点，肌肉松一点，注意力从外部刺激里收回来，帮人重新感觉到：今天可以收尾了。
 
-短午睡、晒光、散步、喝水，适合短时恢复，不适合把长期透支合理化。呼吸觉察、身体扫描、睡前仪式、NSDR 这类练习，更多是帮助身体降唤醒，不是替代夜间睡眠。CBT-I 是针对长期失眠的认知行为治疗，通常需要专业人员评估和指导，不是照着网上片段自行激进操作。
+短午睡适合补一点短时疲劳；呼吸觉察和身体扫描适合发现肩颈、下颌、胸口、腹部、腰背这些地方是不是一直绷着；睡前仪式适合给大脑一个固定信号：灯光暗下来，事情写下来，消息先放下；NSDR 这类练习适合在很累但一时睡不着时，让身体先得到一段低刺激休息。
 
-先分清自己是哪一种累：是前一晚睡少，需要短时恢复；是熬夜、出差、周末补觉后节律乱了，需要回到稳定作息；是压力、争吵、工作切换让身体停不下来，需要降唤醒；还是失眠、白天嗜睡、呼吸暂停线索、情绪危机、药物酒精依赖或持续疼痛，已经进入专业边界。工具能帮忙，但不能替代该求助的时候求助。
+这些方法最好当作入口来用：当身体太紧、脑子太吵、白天的事还没退场时，先用一个温和动作把自己带回夜里。真正需要警惕的是另一种情况：睡眠长期影响白天功能，或者伴随打鼾憋醒、白天嗜睡、明显焦虑低落、疼痛、药物酒精依赖等线索。这时记录下来，带去问医生或专业人士，比继续自己加码更稳。
 
 ## 家庭只做三件事
 
@@ -103,31 +103,19 @@ evidence_status: needs_periodic_review
 - 睡眠问题出现在重大疾病、孕产期或新用药之后；
 - 颈肩、腰背或其他疼痛持续影响睡眠，或伴随麻木、无力、外伤后疼痛、发热头痛并颈部僵硬、吞咽或呼吸困难、夜间痛醒、走路和平衡异常。
 
+如果主要问题是长期失眠，也不要只在网上找助眠技巧。更合适的是让医生或专业人员评估原因，再讨论是否需要规范的失眠治疗或心理行为支持。
+
 出现自伤自杀风险时，请不要独处；中国大陆优先联系 120、110、急诊或精神专科急诊，也可同时拨打 12356 心理援助热线。其他地区请联系所在地危机热线、急救服务或急诊。
 
 如果已经准备买助眠设备、检测或补剂，先用 [健康产品购买前检查清单](../../handbook/templates/health-product-checklist.md) 判断它是否会替代真正该做的事。
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
+截至 2026-06-15，本章主要用 CDC 关于睡眠和身体活动的资料，NHLBI/NIH 关于睡眠重要性、睡眠不足、睡眠阶段、失眠治疗和睡眠呼吸暂停的资料，NINDS/NIH 关于睡眠和大脑的资料，NIH Research Matters 关于睡眠清理大脑和中年睡眠不足与认知风险的资料，MedlinePlus 关于失眠和颈痛的资料，国家卫生健康委关于 12356 心理援助热线的通知，以及 NCCIH/NIH 关于放松练习、冥想和正念的资料，来校准睡眠、失眠、放松练习、睡眠呼吸暂停、疼痛影响睡眠和心理危机边界。
 
-- CDC: [About Sleep](https://www.cdc.gov/sleep/about/index.html)
-- CDC: [Benefits of Physical Activity](https://www.cdc.gov/physical-activity-basics/benefits/)
-- CDC: [Health Benefits of Physical Activity for Adults](https://www.cdc.gov/physical-activity-basics/health-benefits/adults.html)
-- NHLBI/NIH: [Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)
-- NHLBI/NIH: [Sleep Deprivation and Deficiency: How Sleep Affects Your Health](https://www.nhlbi.nih.gov/health/sleep-deprivation/health-effects)
-- NHLBI/NIH: [Stages of Sleep](https://www.nhlbi.nih.gov/health/sleep/stages-of-sleep)
-- NHLBI/NIH: [Insomnia - Treatment](https://www.nhlbi.nih.gov/health/insomnia/treatment)
-- NINDS/NIH: [Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)
-- NIH Research Matters: [How Sleep Clears the Brain](https://www.nih.gov/news-events/nih-research-matters/how-sleep-clears-brain)
-- NIH Research Matters: [Lack of sleep in middle age may increase dementia risk](https://www.nih.gov/news-events/nih-research-matters/lack-sleep-middle-age-may-increase-dementia-risk)
-- MedlinePlus: [Insomnia](https://medlineplus.gov/insomnia.html)
-- MedlinePlus: [Neck pain](https://medlineplus.gov/ency/article/003025.htm)
-- 国家卫生健康委: [关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
-- NCCIH/NIH: [Relaxation Techniques: What You Need To Know](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)
-- NCCIH/NIH: [Meditation and Mindfulness: Effectiveness and Safety](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety)
+这些资料帮助我们校准睡眠、失眠、放松练习、睡眠呼吸暂停和心理危机边界，但不能替个人诊断睡眠障碍、决定用药、停药或设计个体化治疗方案。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[CDC About Sleep](https://www.cdc.gov/sleep/about/index.html)、[NHLBI Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)、[NINDS Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)、[MedlinePlus Insomnia](https://medlineplus.gov/insomnia.html)、[NCCIH Relaxation Techniques](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

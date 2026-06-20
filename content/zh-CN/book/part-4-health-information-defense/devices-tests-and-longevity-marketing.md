@@ -209,18 +209,11 @@ evidence_status: needs_periodic_review
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
-
-- FDA: [Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)
-- FDA: [Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)
-- FDA: [Are There "FDA Registered" or "FDA Certified" Medical Devices?](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)
-- FDA: [Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)
-- FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
-- FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
+截至 2026-06-15，本章主要用 FDA 关于家用和消费级健康设备、医疗器械、FDA 注册/认证/批准边界、直接面向消费者检测和健康欺诈的资料，以及 FTC 关于常见健康骗局的资料，来校准家用设备、消费级检测、监管话术、抗衰营销和健康欺诈边界。
 
 这些资料用于校准家用和消费级医疗设备、注册/认证/批准边界、直接面向消费者检测、健康欺诈和抗衰营销风险。本文不评价任何具体产品，不提供诊断、筛查、用药、停药、治疗、抗衰方案或个体化检测建议。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[FDA Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)、[FDA Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)、[FDA Registered or Certified Medical Devices](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)、[FDA Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

@@ -179,22 +179,11 @@ evidence_status: needs_periodic_review
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考 FDA 关于膳食补充剂的消费者资料、NIH Office of Dietary Supplements 的消费者说明、NCCIH 关于合理使用膳食补充剂的资料，以及国内市场监管部门关于保健食品警示和消费提示的公开信息。
+截至 2026-06-15，本章主要用 FDA 关于膳食补充剂和健康欺诈的消费者资料、NIH Office of Dietary Supplements 的消费者说明、NCCIH 关于合理使用膳食补充剂的资料，以及国内市场监管部门关于保健食品警示和消费提示的公开信息，来校准保健品和药品区别、补充剂风险、健康骗局和购买前判断边界。
 
-- 市场监管总局: [保健食品标注警示用语指南](https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html)
-- 市场监管总局、中消协: [普通食品别信“保健”“治病”宣传](https://www.samr.gov.cn/xw/mtjj/art/2025/art_284233f34a4f440387c0debb15ff58a9.html)
-- 全国 12315 平台: [投诉举报入口](https://www.12315.cn/)
-- FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
-- FDA: [FDA 101: Dietary Supplements](https://www.fda.gov/consumers/consumer-updates/fda-101-dietary-supplements)
-- NIH Office of Dietary Supplements: [Dietary Supplements: What You Need to Know](https://ods.od.nih.gov/factsheets/WYNTK/)
-- NCCIH: [Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)
-- FTC: [Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)
+这些资料用于帮助家庭识别保健品证据陷阱和销售话术，不应用来判断个人是否适合使用某种产品，也不提供用药、停药、替代治疗或个体化筛查建议。
 
-这些资料共同提醒：保健品和药品不同，不能替代医生诊疗；某些补充剂可能有风险，尤其在高剂量、合并用药、慢病、手术、孕产、儿童、老人和癌症治疗等情况下；“天然”不等于安全，“有研究”不等于适合个人购买和使用。
-
-本文不是医疗建议，不判断任何个人是否适合使用某种产品，也不提供用药、停药、替代治疗或个体化筛查建议。
-
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[市场监管总局保健食品标注警示用语指南](https://www.samr.gov.cn/xw/zj/art/2023/art_b955c6a9c4944f1684f00f2e16f7397b.html)、[全国 12315 平台](https://www.12315.cn/)、[FDA Dietary Supplements](https://www.fda.gov/food/dietary-supplements)、[NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/WYNTK/)、[NCCIH Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)、[FTC Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

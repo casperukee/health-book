@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="吃饭顺序让血糖曲线缓一点">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1030" cy="120" r="170" fill="#fff1d6" opacity="0.46" />
+  <circle cx="90" cy="690" r="150" fill="#e2f3ed" opacity="0.36" />
+
+  <rect x="70" y="46" width="112" height="38" rx="19" fill="#e2f3ed" />
+  <text x="126" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图示</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d">吃饭顺序：让曲线缓一点</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f">不是不吃碳水，而是别让淀粉和甜食总是单独上场</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="78" y="234" width="720" height="350" rx="28" fill="#ffffff" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <line x1="150" y1="520" x2="730" y2="520" stroke="#c9d8d2" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)" />
+  <line x1="150" y1="520" x2="150" y2="290" stroke="#c9d8d2" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)" />
+  <text x="116" y="308" text-anchor="middle" font-size="18" font-weight="700" fill="#66736f" transform="rotate(-90 116 308)">血糖变化（示意）</text>
+  <text x="724" y="556" text-anchor="end" font-size="18" font-weight="700" fill="#66736f">进餐后时间（示意）</text>
+
+  <path d="M160 505 C230 455 292 270 374 298 C455 326 492 510 580 512 C638 514 690 500 728 492" fill="none" stroke="#c84a4a" stroke-width="8" stroke-linecap="round" />
+  <path d="M160 505 C238 470 320 388 410 390 C500 392 570 470 650 486 C688 494 712 492 728 488" fill="none" stroke="#248f75" stroke-width="8" stroke-linecap="round" />
+  <rect x="460" y="278" width="262" height="44" rx="22" fill="#f8dfdd" />
+  <text x="591" y="306" text-anchor="middle" font-size="18" font-weight="850" fill="#9d3434">淀粉/甜食单独上场：冲得快</text>
+  <rect x="398" y="402" width="286" height="44" rx="22" fill="#e2f3ed" />
+  <text x="541" y="430" text-anchor="middle" font-size="18" font-weight="850" fill="#157c78">先有纤维和蛋白：上升更缓</text>
+
+  <g filter="url(#softShadow)">
+    <rect x="836" y="244" width="290" height="86" rx="24" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="864" y="284" font-size="23" font-weight="900" fill="#1f302d">先垫底</text>
+  <text x="864" y="312" font-size="17" font-weight="520" fill="#66736f">蔬菜、豆制品、蛋、鱼肉、奶类</text>
+
+  <line x1="982" y1="342" x2="982" y2="374" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+
+  <g filter="url(#softShadow)">
+    <rect x="836" y="386" width="290" height="86" rx="24" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="864" y="426" font-size="23" font-weight="900" fill="#1f302d">再吃主食</text>
+  <text x="864" y="454" font-size="17" font-weight="520" fill="#66736f">米饭、面、粉、粥，不必妖魔化</text>
+
+  <line x1="982" y1="484" x2="982" y2="516" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+
+  <g filter="url(#softShadow)">
+    <rect x="836" y="528" width="290" height="86" rx="24" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="864" y="568" font-size="23" font-weight="900" fill="#1f302d">饭后轻动</text>
+  <text x="864" y="596" font-size="17" font-weight="520" fill="#66736f">让肌肉帮身体接住这一餐</text>
+
+  <text x="600" y="692" text-anchor="middle" font-size="26" font-weight="900" fill="#1f302d">这是行动方向，不是糖尿病治疗方案，也不是个人目标值</text>
+</svg>

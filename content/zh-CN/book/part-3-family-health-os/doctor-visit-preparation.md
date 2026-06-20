@@ -209,17 +209,11 @@ HealthIT.gov 的健康记录指南强调，健康记录可以帮助患者和照�
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
-
-- MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
-- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
-- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
-- AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
-- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+截至 2026-06-15，本章主要用 MedlinePlus 关于和医生沟通、多药使用安全的资料，AHRQ 关于患者参与医疗和正确提问的资料，以及 HealthIT.gov 关于获取和使用健康记录的资料，来校准门诊准备、症状描述、用药清单、患者提问和健康记录边界。
 
 这些资料用于校准门诊准备、症状描述、用药清单、患者提问和健康记录边界。本文不提供诊断、用药、停药、治疗优先级、个体化筛查或个体化就医方案。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)、[MedlinePlus Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[AHRQ Right Questions to Ask](https://www.ahrq.gov/questions/resources/poster.html)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

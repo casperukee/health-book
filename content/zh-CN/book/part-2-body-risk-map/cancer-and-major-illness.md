@@ -241,16 +241,9 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 
 截至 2026-06-15，本章主要用 WHO 癌症事实页、IARC/GLOBOCAN 2022 全球和中国癌症负担资料、NCI 关于癌症基础、筛查、诊断、治疗和缓和医疗的资料，来校准癌症定义、公共健康负担、风险因素、筛查边界、诊断链和治疗目标沟通。
 
-- WHO: [Cancer](https://www.who.int/news-room/fact-sheets/detail/cancer)
-- IARC/GLOBOCAN: [All cancers fact sheet, 2022](https://gco.iarc.who.int/media/globocan/factsheets/cancers/39-all-cancers-fact-sheet.pdf)
-- IARC/GLOBOCAN: [China fact sheet, 2022](https://gco.iarc.who.int/media/globocan/factsheets/populations/160-china-fact-sheet.pdf)
-- NCI: [What Is Cancer?](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)
-- NCI: [Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)
-- NCI: [Tests and Procedures Used to Diagnose Cancer](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis)
-- NCI: [Types of Cancer Treatment](https://www.cancer.gov/about-cancer/treatment/types)
-- NCI: [Palliative Care in Cancer](https://www.cancer.gov/about-cancer/advanced-cancer/care-choices/palliative-care-fact-sheet)
+这些资料用于理解癌症和重大疾病的阶段、边界和家庭协作，不应用来替个人选择筛查项目、解释报告、判断分期、决定治疗方案或替代肿瘤专科医生建议。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[WHO Cancer](https://www.who.int/news-room/fact-sheets/detail/cancer)、[IARC/GLOBOCAN All cancers fact sheet 2022](https://gco.iarc.who.int/media/globocan/factsheets/cancers/39-all-cancers-fact-sheet.pdf)、[IARC/GLOBOCAN China fact sheet 2022](https://gco.iarc.who.int/media/globocan/factsheets/populations/160-china-fact-sheet.pdf)、[NCI What Is Cancer?](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)、[NCI Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)、[NCI Tests and Procedures Used to Diagnose Cancer](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

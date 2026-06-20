@@ -87,7 +87,7 @@ evidence_status: needs_periodic_review
 
 有些抑郁不是哭，而是麻木、疲惫、迟钝、空洞、无法行动。一个人外表还能工作，不代表内部没有严重困难。
 
-家庭能做的，不是判断他“到底是不是抑郁症”，更不是决定要不要吃药。家庭能做的是承认痛苦是真实的，陪伴就医和复诊，帮助整理症状、睡眠、食欲、用药和功能变化，识别自伤自杀和绝望信号，并在专业帮助之外维持最低限度的生活结构。
+家庭的角色是承认痛苦是真实的，陪伴就医和复诊，帮助整理症状、睡眠、食欲、用药和功能变化，识别自伤自杀和绝望信号，并在专业帮助之外维持最低限度的生活结构。诊断和用药判断交给专业人员。
 
 ## 焦虑：先把警报翻译成信息
 
@@ -184,18 +184,11 @@ evidence_status: needs_periodic_review
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
+截至 2026-06-15，本章主要用 CDC 关于卒中症状、痴呆症状和降低痴呆风险的资料，NIMH 关于抑郁、焦虑障碍和自杀预防的资料，NIA/NIH 关于老年认知健康的资料，以及国家卫生健康委关于 12356 心理援助热线的通知，来校准卒中、认知变化、抑郁焦虑和心理危机边界。
 
-- CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
-- CDC: [Signs and Symptoms of Dementia](https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html)
-- CDC: [Reducing Risk for Dementia](https://www.cdc.gov/alzheimers-dementia/prevention/index.html)
-- NIMH: [Depression](https://www.nimh.nih.gov/health/publications/depression)
-- NIMH: [Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)
-- NIMH: [Suicide Prevention](https://www.nimh.nih.gov/health/topics/suicide-prevention)
-- NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
-- 国家卫生健康委: [关于应用“12356”全国统一心理援助热线电话号码的通知](https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml)
+这些资料用于校准卒中、认知变化、抑郁焦虑和心理危机边界。本文不提供诊断、用药、停药、心理治疗方案、个体化筛查或个体化干预建议。
 
-这些资料用于校准卒中、认知变化、抑郁焦虑和心理危机边界。本文不提供诊断、用药、停药、心理治疗方案、个体化筛查或个体化干预建议。更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[CDC Stroke Signs and Symptoms](https://www.cdc.gov/stroke/signs-symptoms/index.html)、[CDC Signs and Symptoms of Dementia](https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html)、[NIMH Depression](https://www.nimh.nih.gov/health/publications/depression)、[NIMH Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)、[NIMH Suicide Prevention](https://www.nimh.nih.gov/health/topics/suicide-prevention)、[NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

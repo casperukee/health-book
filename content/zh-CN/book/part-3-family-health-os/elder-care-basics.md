@@ -31,9 +31,9 @@ evidence_status: needs_periodic_review
 
 能不能走路，能不能洗澡，能不能按时吃药，能不能做饭，能不能判断骗局，能不能出门见人，能不能从床上起身，能不能在夜里安全去厕所。
 
-这些不是“小事”。它们决定了父母能不能继续生活在熟悉环境里，也决定家庭照护会不会突然崩掉。
+这些都是大事。它们决定了父母能不能继续生活在熟悉环境里，也决定家庭照护会不会突然崩掉。
 
-所以，老年健康不能只问“有没有病”。更好的问题是：哪些能力正在变弱？哪些变化不能拖？哪些准备现在就能做？
+所以，老年健康更好的问题是：哪些能力正在变弱？哪些变化不能拖？哪些准备现在就能做？
 
 ## 先分清三类变化
 
@@ -63,7 +63,7 @@ evidence_status: needs_periodic_review
 
 ### 第一，看行动能力
 
-不要只问“有没有摔倒”。更早的信号是：
+比起只问“有没有摔倒”，更早的信号是：
 
 - 最近有没有差点跌倒；
 - 起身、转身、上下楼、过门槛是不是变慢；
@@ -106,7 +106,7 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 ### 第四，看生活能力和连接
 
-老年健康的结果，不只是报告上的数字，而是能不能继续生活。
+老年健康的结果，最终会落到一个人能不能继续过自己的日子。
 
 先看两层能力：
 
@@ -121,7 +121,7 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 - 有没有长期孤独、沉默、烦躁、睡不好或明显情绪低落；
 - 照护者是否已经明显疲惫，开始无法安全照护。
 
-对家庭来说，不要只把父母健康聊成指标和吃药，也要看他们在生活里还有没有角色、连接和继续参与的空间。一个人如果还愿意养花、买菜、见朋友、学点东西，健康动作就更容易长在生活里。
+对家庭来说，除了指标和吃药，也要看父母在生活里还有没有角色、连接和继续参与的空间。一个人如果还愿意养花、买菜、见朋友、学点东西，健康动作就更容易长在生活里。
 
 ## 跌倒后，先问五件事
 
@@ -231,18 +231,11 @@ MedlinePlus 对多药使用的提醒很直接：药越多，越需要认真管�
 
 ## 参考资料
 
-截至 2026-06-15，本章主要参考：
+截至 2026-06-15，本章主要用 CDC 关于健康老龄化、老人跌倒预防和成人疫苗的资料，MedlinePlus 关于老年健康、跌倒风险评估、多药使用安全和照护者健康的资料，来校准健康老龄化、跌倒预防、认知和功能变化、多药使用、照护者压力和成人疫苗等边界。
 
-- CDC: [Healthy Aging at Any Age](https://www.cdc.gov/healthy-aging/about/index.html)
-- CDC: [About Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)
-- CDC: [STEADI - Older Adult Fall Prevention](https://www.cdc.gov/steadi/index.html)
-- MedlinePlus: [Older Adult Health](https://medlineplus.gov/olderadulthealth.html)
-- MedlinePlus: [Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)
-- MedlinePlus: [Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)
-- MedlinePlus: [Caregiver Health](https://medlineplus.gov/caregiverhealth.html)
-- CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
+这些资料用于校准健康老龄化、跌倒预防、认知和功能变化、多药使用、照护者压力和成人疫苗等边界。本文不提供诊断、用药、停药、康复处方、养老方式选择或个体化照护等级判断。
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html)、[CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)、[CDC STEADI](https://www.cdc.gov/steadi/index.html)、[MedlinePlus Older Adult Health](https://medlineplus.gov/olderadulthealth.html)、[MedlinePlus Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)、[MedlinePlus Caregiver Health](https://medlineplus.gov/caregiverhealth.html)、[CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 

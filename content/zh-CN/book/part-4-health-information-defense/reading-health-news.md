@@ -195,15 +195,9 @@ evidence_status: stable
 
 截至 2026-06-15，本章主要参考 MedlinePlus 的健康信息评估资料，NCCIH 关于在线资源评估和阅读科学论文的资料，NIH 关于临床研究的公众资料，以及 FTC 关于常见健康骗局的资料。
 
-- MedlinePlus: [Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)
-- NCCIH: [Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)
-- NCCIH: [How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)
-- NIH: [Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you)
-- FTC: [Common Health Scams](https://consumer.ftc.gov/node/78372)
+这些资料用于校准健康信息来源、目的、资助、证据质量、更新时间、研究对象和适用边界，不应用来替个人自我诊断、停药、筛查或做治疗决策。
 
-这些资料共同提醒：健康信息需要先问来源、目的、资助、证据质量、更新时间、研究对象和适用边界；在依赖健康信息做个人决定前，应和医疗专业人员讨论。它们不应被改写成自我诊断、停药、筛查或治疗决策工具。
-
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
+可直接查看：[MedlinePlus Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)、[NCCIH Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)、[NCCIH How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)、[NIH Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)。更多来源登记见 [来源登记](../../../../shared/source-registry.md)。本书的证据规则见 [证据政策](../../references/evidence-policy.md)。
 
 ## 小结
 
@@ -217,4 +211,4 @@ evidence_status: stable
 
 - [回到中文主书目录](../README.md)
 - 上一章：[2. 健康设备、检测项目和抗衰营销：有数字，也不等于值得买](devices-tests-and-longevity-marketing.md)
-- 下一页：[读完这本书以后，先别急着记住所有东西](../after-reading.md)
+- 下一页：[读完这本书以后，留下几个动作](../after-reading.md)
