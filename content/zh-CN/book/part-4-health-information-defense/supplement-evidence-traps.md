@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: supplement-evidence-traps
 en_path: ../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md
 translation_status: source
-last_reviewed: 2026-06-20
+last_reviewed: 2026-06-24
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -25,7 +25,7 @@ evidence_status: needs_periodic_review
 
 保健品真正厉害的地方，不是让人完全相信它能治病，而是让人觉得：反正试试也没坏处，万一有用呢？
 
-这里不做产品黑名单，也不替任何家庭判断某一种产品能不能吃。真正要处理的是一个更常见的场景：当健康焦虑、希望感、熟人推荐和销售系统一起出现，家庭怎样先把风险挡住。
+产品黑名单解决不了这个问题，也不适合替任何家庭判断某一种产品能不能吃。更常见的场景是：当健康焦虑、希望感、熟人推荐和销售系统一起出现，家庭怎样先把风险挡住。
 
 ## 它卖的往往不是一瓶东西
 

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: cardiovascular-event-chain
 en_path: ../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md
 translation_status: source
-last_reviewed: 2026-06-20
+last_reviewed: 2026-06-24
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -114,7 +114,7 @@ NHLBI 对动脉粥样硬化的介绍中，重点是斑块在动脉壁内逐渐�
 
 家庭要识别的是不能拖的入口信号。不要等它“很像心梗”，也不要等它“肯定是卒中”。急性阶段最重要的不是证明病名，而是别把时间花在证明上。
 
-心血管这一章只强调几类最容易被拖延的入口：胸痛、胸闷、胸部压迫感，尤其伴气短、出汗、恶心、头晕，或疼痛放射到手臂、背部、肩颈、下颌、上腹；突然面部歪斜、单侧无力或麻木、说话含糊、视力改变、走路不稳或突发剧烈头痛；晕厥、意识改变、严重呼吸困难、心跳异常伴明显不适；已有心血管病史的人出现和平时不同的胸部不适、活动耐量明显下降或疑似复发信号。
+几类信号最容易被拖延，尤其要提前记住：胸痛、胸闷、胸部压迫感，尤其伴气短、出汗、恶心、头晕，或疼痛放射到手臂、背部、肩颈、下颌、上腹；突然面部歪斜、单侧无力或麻木、说话含糊、视力改变、走路不稳或突发剧烈头痛；晕厥、意识改变、严重呼吸困难、心跳异常伴明显不适；已有心血管病史的人出现和平时不同的胸部不适、活动耐量明显下降或疑似复发信号。
 
 出现这些情况，优先联系当地急救服务或急诊系统。更完整的危险信号见 [医疗边界与危险信号](../medical-boundaries.md) 和 [危险信号速查](../../handbook/playbooks/red-flags.md)，这里不重复扩展。
 

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: medical-boundaries
 en_path: ../../en/book/medical-boundaries.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-24
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -55,7 +55,7 @@ evidence_status: needs_periodic_review
 - 无法控制的出血、呕血、咳血、黑便、大量便血、突发剧烈疼痛、严重过敏、严重创伤、中毒、溺水、触电或烧伤；
 - 明确表达自伤、自杀、伤害他人的想法，已经采取相关行动，或家庭无法保证现场安全；
 - 孕期或产后一年内出现持续或加重的剧烈头痛、视物异常、晕厥、胸痛、呼吸困难、严重腹痛、明显出血、胎动明显减少，或伤害自己/婴儿的念头；
-- 感染背景下出现意识混乱、呼吸急促、皮肤湿冷、极度疼痛或不适、心跳很快、脉搏很弱、状态迅速变差，需要警惕严重感染或脓毒症风险。
+- 感染后整个人明显变差，比如明显糊涂、反应慢、呼吸急促、皮肤湿冷、极度疼痛或不适、心跳很快、脉搏很弱、状态迅速变差，需要警惕严重感染或脓毒症风险。
 
 这不是完整清单。更完整的红色速查放在 [危险信号速查](../handbook/playbooks/red-flags.md)；如果你想按胸痛、发热、腹痛、跌倒、情绪崩溃等常见症状分层，看 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md)。先建立一个习惯：只要你觉得“这个人可能撑不到明天”“路上可能变坏”“我无法安全搬动或观察”，就不要靠阅读继续判断。
 

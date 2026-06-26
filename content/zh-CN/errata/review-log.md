@@ -9,6 +9,53 @@
 - 主书章节：每 12 个月整体复读；
 - 医学热点：先进入 `../updates/topic-backlog.md`，不要直接改主书。
 
+## 2026-06-26：v0.9.3 封版后公开口径收口
+
+- 状态：public wording and source-registry patch
+- 位置：
+  - `index.md`
+  - `README.zh-CN.md`
+  - `PROJECT_STATUS.md`
+  - `content/zh-CN/book/README.md`
+  - `content/zh-CN/book/00-start-here.md`
+  - `content/zh-CN/errata/README.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+  - `shared/source-registry.md`
+- 复查内容：将网页版公开入口口径对齐到 v0.9.3 的“看懂身体，做对选择”，把项目状态和勘误页从旧 v0.9 表述更新到 v0.9.3，并补充症状速查不能用来证明“可以观察”的安全边界。
+- 使用来源：
+  - 国家卫生健康委、国家癌症中心、国家肿瘤质控中心、中华医学会及正规肿瘤专科机构的公开资料层级
+  - WHO / IARC / NCI / CDC 等既有癌症资料入口
+- 处理说明：本轮不改变正文医学判断，不新增诊断、用药、停药、治疗优先级、个体化筛查或个体化方案；国内癌症资料只登记为查找层级和入口，不写成个人筛查或治疗建议。
+- 下次建议复查：如后续把具体癌种指南深链写进正文或参考资料，应同步确认链接可访问性、适用人群和发布日期。
+
+## 2026-06-24：v0.9.3 文字终校与边界表达同步
+
+- 状态：reader experience and boundary wording patch
+- 位置：
+  - `content/zh-CN/book/medical-boundaries.md`
+  - `content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+  - `content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+  - `content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+  - `content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+  - `content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+  - `content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`
+  - `content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+  - `content/zh-CN/handbook/playbooks/red-flags.md`
+  - `content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+  - `content/zh-CN/handbook/playbooks/department-navigation-guide.md`
+  - `content/zh-CN/handbook/playbooks/checkup-planning-guide.md`
+  - `content/zh-CN/references/official-medical-sources.md`
+- 复查内容：同步 v0.9.3 文字终校小修，主要是降低危险信号和症状动作页的术语门槛，修正少量读起来像写作说明的句子，更新公开版本标签，并在癌症章补充国内资料层级和筛查资料查找方向。
+- 使用来源：
+  - WHO / IARC 癌症预防与风险资料
+  - NCI 癌症筛查、诊断、治疗、照护与副作用资料
+  - CDC 癌症筛查与风险因素资料
+  - 国家卫生健康委癌症防治行动相关资料
+  - 国家癌症中心、国家肿瘤质控中心和中华医学会等国内专业资料入口
+- 处理说明：本轮只做文字终校、公开版本标签、资料入口层级和危险表达的人话化同步；不新增个体诊断、用药、停药、治疗优先级、个体化筛查或个体化方案。
+- 下次建议复查：移动端重点查看危险信号、症状速查和科室导航三页，确认红黄绿分层更容易被普通家庭读懂；癌症章后续如补具体国内指南链接，应同步登记到来源台账。
+
 ## 2026-06-19：v0.9.1 细节阅读节奏同步
 
 - 状态：reader experience patch

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: checkup-planning-guide
 en_path: ../../../en/handbook/playbooks/checkup-planning-guide.md
 translation_status: source
-last_reviewed: 2026-06-20
+last_reviewed: 2026-06-24
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -51,9 +51,9 @@ evidence_status: needs_periodic_review
 ## 年龄段先看重点
 
 - **18-30 岁**：先建立基线。重点看血压、体重腰围、血常规、尿常规、肝肾功能；按风险考虑血糖、血脂、尿酸、乙肝、性传播感染相关检测和宫颈筛查。
-- **30-40 岁**：开始盯住三高、脂肪肝和体重腰围。血压、血脂、血糖、A1C、尿酸、肝肾功能更重要。
+- **30至40岁**：开始盯住三高、脂肪肝和体重腰围。血压、血脂、血糖、A1C、尿酸、肝肾功能更重要。
 - **40-50 岁**：把血管风险和常见癌症筛查放上桌。结直肠癌、宫颈癌、乳腺癌、肺癌高风险筛查，需要按人群和风险讨论。
-- **50-65 岁**：慢病、筛查和功能一起看。不要只看化验单，也要看眼、牙、听力、骨质、睡眠和活动能力。
+- **50至65岁**：慢病、筛查和功能一起看。不要只看化验单，也要看眼、牙、听力、骨质、睡眠和活动能力。
 - **65 岁以上**：不只查病，也看生活能力。筛查是否继续做，要结合身体状态、既往结果、后续检查承受能力和医生建议。
 
 ## 这些项目名先停一下

@@ -978,6 +978,17 @@
 
 ## 癌症筛查和重大疾病
 
+### 国家卫生健康委与国内肿瘤专业资料入口：癌症防治、筛查和诊疗资料
+
+- URL: [国家卫生健康委](https://www.nhc.gov.cn/)；[中华医学会](https://www.cma.org.cn/)
+- 机构：国家卫生健康委、国家癌症中心、国家肿瘤质控中心、中华医学会及正规肿瘤专科机构
+- 类型：中国官方和专业机构资料入口
+- 用途：校准中国语境下癌症防治行动、筛查早诊早治、诊疗规范、质控资料和肿瘤专科患者教育资料的查找层级；提醒读者不要把不同国家、地区或机构的筛查建议直接套用到个人身上。
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/references/official-medical-sources.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-26
+- 备注：本条登记资料层级和查找入口，不把具体癌种筛查或治疗建议写成个人方案；具体癌种指南、医院资料和医生建议需要结合个人情况使用。
+
 ### WHO：Cancer
 
 - URL: https://www.who.int/news-room/fact-sheets/detail/cancer

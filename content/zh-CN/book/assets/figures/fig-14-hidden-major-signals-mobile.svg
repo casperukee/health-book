@@ -41,7 +41,7 @@
     <rect x="80" y="570" width="1040" height="164" rx="34" fill="#e5f0f8" stroke="#bad0df" stroke-width="2"/>
   </g>
   <rect x="112" y="602" width="156" height="44" rx="22" fill="#4079a7"/>
-  <text x="190" y="633" text-anchor="middle" class="tag">一阵好了</text>
+  <text x="190" y="633" text-anchor="middle" class="tag">一旦好了</text>
   <text x="300" y="635" class="head">头晕、走不稳、短暂说话不清</text>
   <text x="112" y="693" class="body">即使后来缓解，也不要自动当作累了或睡少了</text>
 

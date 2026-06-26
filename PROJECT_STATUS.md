@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-06-16
+Last updated: 2026-06-26
 
 **Health Youpu / 健康有谱** is an open-source health literacy book for families. The Chinese edition is the source edition. A small English preview is available so international readers, clinicians, and contributors can understand the project direction.
 
@@ -8,7 +8,7 @@ This project is not medical advice. It helps readers prepare, sort risk, and com
 
 ## Current Stage
 
-The project is in the `v0.9` reader and medical-boundary feedback stage.
+The project is in the `v0.9.3` public reading and medical-boundary feedback stage.
 
 What is usable today:
 
@@ -19,12 +19,13 @@ What is usable today:
 - An aggregate log summary script for reviewing mirror-site feedback without adding accounts, an API, or a database.
 - An English preview package for the project overview, medical boundaries, symptom guide, department navigation, checkup planning, checkup markers, sleep and recovery, family communication, doctor visit preparation, family health card, and health product checks.
 
-What changed in `v0.9`:
+What changed through `v0.9.3`:
 
 - The source Chinese edition now reads more like a family health judgment guide rather than a set of disconnected tools.
-- The v0.9 Chinese web edition now has more consistent content, medical boundaries, navigation, cards, tool links, and feedback entry points.
+- The Chinese web edition now has more consistent content, medical boundaries, navigation, cards, tool links, and feedback entry points.
 - The highest-priority Part 2 chapters were expanded or restructured: brain and mental health, children and adolescents, cancer and major illness, and specialty care.
-- The project now uses a clearer “whole-family health keeper” framing: readers often manage their own risks while also helping parents, partners, children, and older family members.
+- The public positioning has been tightened around the Chinese tagline “看懂身体，做对选择”: readers often manage their own risks while also helping parents, partners, children, and older family members.
+- The current Chinese book and handbook have been synchronized to the v0.9.3 content line, including a common-upstream chapter, clearer warning-sign language, and a more explicit domestic cancer-source layer.
 - The domestic mirror deployment flow has been clarified: the production mirror is expected to pull from GitHub and build on the server.
 
 ## Maintenance Model
@@ -63,7 +64,7 @@ Public correction and review records live under `content/zh-CN/errata/`. High-ri
 The next maintenance cycle focuses on:
 
 - inviting clinician feedback on the pages that may affect care-seeking behavior, especially warning signs, symptom triage, checkups, mental health, cancer, and specialty care;
-- reviewing the backwritten v0.9 Chinese web edition for navigation consistency, stale titles, old version labels, and medical-boundary wording;
+- reviewing the v0.9.3 Chinese web edition for navigation consistency, stale titles, old version labels, and medical-boundary wording;
 - inviting clinician feedback on high-risk pages before treating the edition as medically reviewed;
 - reviewing the expanded English preview without turning it into a literal translation;
 - improving high-traffic pages based on mirror-site pageviews and reader feedback;

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: devices-tests-and-longevity-marketing
 en_path: ../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md
 translation_status: source
-last_reviewed: 2026-06-15
+last_reviewed: 2026-06-24
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -82,7 +82,7 @@ evidence_status: needs_periodic_review
 
 有些人数据不好，但白天功能还可以；有些人分数漂亮，却明显疲惫、心慌、嗜睡或状态下降。身体感受、功能变化和危险信号，永远比一条曲线更重要。
 
-设备提示异常时，尤其伴随胸痛、晕厥、呼吸困难、心悸、神经症状、严重头晕或明显不适，不要只在 App 里找答案。设备显示正常，也不能排除疾病。
+设备提示异常时，尤其伴随胸痛、晕厥、呼吸困难、心悸、脸歪、一侧无力、说话异常、严重头晕或明显不适，不要只在 App 里找答案。设备显示正常，也不能排除疾病。
 
 好的设备提醒你关注身体；坏的使用方式，是让你把身体交给分数。
 

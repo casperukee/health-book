@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: official-medical-sources
 en_path: ../../en/references/official-medical-sources.md
 translation_status: source
-last_reviewed: 2026-06-20
+last_reviewed: 2026-06-26
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -36,7 +36,7 @@ evidence_status: needs_periodic_review
 | 血压、血脂、心血管风险 | AHA、ACC、NHLBI/NIH、CDC、中国相关指南和医生随访资料。重点看总体风险、危险信号、家庭测量和复查原则。 |
 | 糖尿病、尿酸、肾功能和代谢风险 | ADA、CDC、NIH/NIDDK、MedlinePlus、内分泌或肾内科患者资料。重点看长期管理、并发症和复查，不自行设定个人目标。 |
 | 睡眠、大脑和心理健康 | CDC、NHLBI/NIH、NINDS/NIH、NIMH、NCCIH、12356 和当地精神卫生资源。自伤、自杀或无法保证安全时，资料查询不能替代急救。 |
-| 癌症筛查和治疗 | NCI、USPSTF、CDC、专业肿瘤中心和主治团队。重点看适用人群、阳性后的下一步和治疗阶段。 |
+| 癌症筛查和治疗 | 国家卫生健康委癌症防治行动相关资料、国家癌症中心、国家肿瘤质控中心、正规肿瘤专科医院或肿瘤专科团队；也可参考 NCI、USPSTF、CDC。重点看适用人群、阳性后的下一步、治疗阶段和就医路径。 |
 | 疫苗和传染病 | 国家/地方疾控、CDC、WHO、接种门诊和医生。重点看适用人群、禁忌、补种和特殊人群建议。 |
 | 药品、保健品和相互作用 | 医生、药师、国家药监部门、药品说明书、FDA、FTC、NIH Office of Dietary Supplements、NCCIH。重点看禁忌、相互作用、监管信息和健康欺诈。 |
 | 儿童、孕产期、老人 | 对应专科医生、官方孕产/儿科/老年健康资料、CDC、MedlinePlus、NIA/NIH。同样症状在这些人群里可能需要更早升级。 |
@@ -108,7 +108,7 @@ evidence_status: needs_periodic_review
 
 ## 怎么不用错资料
 
-- 不要把国外筛查建议直接搬到国内个人决策中；
+- 不要把不同国家、地区或机构的筛查建议直接套到自己身上；
 - 不要把给医生看的指南当作自我治疗手册；
 - 不要只截取对自己有利的一句话；
 - 不要用过期页面处理正在变化的指南；

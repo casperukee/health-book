@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: 00-start-here
 en_path: ../../en/book/00-start-here.md
 translation_status: source
-last_reviewed: 2026-06-16
+last_reviewed: 2026-06-26
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -44,6 +44,8 @@ evidence_status: stable
 先分急缓。已经出现明显危险信号，或情况正在快速变坏、让你明显担心时，先联系急救、急诊或当地医疗入口；[1. 危险信号：先分急缓，不要先搜病名](medical-boundaries.md) 和 [危险信号速查](../handbook/playbooks/red-flags.md) 只帮助你说清情况，不替你判断能不能等。
 
 如果不是明显红线，但仍拿不准该不该等，先看下一章。想按胸痛、发热、腹痛、跌倒、情绪崩溃等常见症状分出下一步动作，再翻 [症状与对应动作速查](../handbook/playbooks/symptom-action-guide.md)。
+
+症状速查不是用来证明“可以观察”的工具。凡是可能影响呼吸、循环、意识、说话、肢体活动或安全的情况，或者伴随明显出血、严重疼痛、严重外伤、中毒、严重过敏、自伤风险、孕产期危险信号，都不要用工具页给自己降级，先联系急救、急诊或当地医疗入口。
 
 ### 要看报告或见医生
 

@@ -4,7 +4,7 @@ language: zh-CN
 canonical_slug: errata-and-feedback
 en_path: ../../en/errata/README.md
 translation_status: source
-last_reviewed: 2026-06-20
+last_reviewed: 2026-06-26
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -13,9 +13,9 @@ evidence_status: needs_periodic_review
 
 > 健康科普书不应该假装自己永远正确。医学资料会更新，表达也可能有疏漏；重要的是把读者安全放在第一位。
 
-本书会继续根据医学资料更新、专业审读意见和真实阅读反馈修订。最新在线版本和勘误记录会优先更新在项目页面：[http://health.mindarae.com](http://health.mindarae.com)。
+本书会继续根据医学资料更新、专业审读意见和真实阅读反馈修订。最新在线版本和勘误记录会优先更新在项目页面：[https://health.mindarae.com](https://health.mindarae.com)。
 
-当前网页版为 v0.9，已经完成一轮主书和手册内容回写。它仍然不是医疗建议、临床指南或个体化方案。
+当前网页版为 v0.9.3，已经完成一轮主书和手册内容同步。它仍然不是医疗建议、临床指南或个体化方案。
 
 如果你在阅读中发现以下问题，欢迎反馈：
 
