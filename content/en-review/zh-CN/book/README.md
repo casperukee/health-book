@@ -46,7 +46,9 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 
 ## Part 4：健康信息防御
 
+- [Supplement Evidence Traps](../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md)
 - [Devices, Tests, and Longevity Marketing](../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+- [Reading Health News](../../../en/book/part-4-health-information-defense/reading-health-news.md)
 
 这一部分帮助读者在面对保健品、设备、检测、抗衰服务、健康新闻和短视频健康内容时慢下来。
 

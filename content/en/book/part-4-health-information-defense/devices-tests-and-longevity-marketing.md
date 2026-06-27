@@ -1,10 +1,11 @@
 ---
-status: preview
+status: content-review
 language: en
 canonical_slug: devices-tests-and-longevity-marketing
 zh_path: ../../../zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md
-translation_status: adapted-preview
-last_reviewed: 2026-06-06
+review_path: ../../../en-review/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md
+translation_status: en-v0.1-adaptation-draft
+last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -13,40 +14,78 @@ evidence_status: needs_periodic_review
 
 > This page is not medical advice or product recommendation. Devices, tests, supplements, and longevity services cannot replace diagnosis, treatment, medication review, screening, follow-up, or emergency care.
 
-Many health products sell a feeling: control.
+[中文验收页](../../../en-review/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
 
-That feeling is valuable, but it can also become expensive noise.
+Wearables, home devices, direct-to-consumer tests, genetic reports, microbiome reports, "biological age" scores, and longevity packages all sell a feeling: control.
 
-Before buying a device, test, supplement, scan, coaching program, or longevity package, ask:
+That feeling is valuable. It can also become expensive noise.
 
-```text
-What decision will this change?
-```
+Before paying, ask: what decision will this change?
 
-## Four Risk Levels
+## Four Layers To Separate
 
-| Level | What it looks like | Safer action |
+| Layer | Useful question | Why it matters |
 | --- | --- | --- |
-| Red | It asks you to stop treatment, delay care, ignore symptoms, or buy a high-cost package under pressure | Do not use it as a substitute for care; ask a clinician |
-| Yellow | You have chronic disease, medicines, pregnancy, surgery, cancer treatment, liver/kidney issues, or are buying for a child or older adult | Ask a doctor or pharmacist first |
-| Blue | It is mainly a test, wearable, or wellness service that may produce confusing data | Ask what you will do with abnormal, normal, or unclear results |
-| Green | Low-cost, low-risk support for reminders, activity, sleep routine, or simple records | Use it as support, not authority |
+| Can it measure? | What exactly is being measured or estimated? | A number in an app is not automatically a medical finding. |
+| Is it accurate enough? | Is this valid for the person, setting, and use case? | Trend data, screening tools, and diagnostic tests are not interchangeable. |
+| Is it useful? | What happens after a normal, abnormal, or unclear result? | A result with no safe next step can create anxiety without better care. |
+| Is it worth it? | What does it replace? | A purchase can displace sleep, movement, follow-up, medication review, or a needed visit. |
 
-## Questions Before Paying
+## Wearables: Trends, Not Authority
 
-1. What problem is this solving?
-2. What evidence supports this exact product or service?
-3. Is it approved, registered, or regulated only for safety, or also proven for the claim being advertised?
-4. What happens if the result is abnormal?
-5. What happens if the result is normal but symptoms continue?
-6. Will this replace something more important: sleep, exercise, follow-up, medication review, screening, or a doctor visit?
-7. Is the price transparent, or is it pushing a package?
-8. What personal or health data does it collect?
+Wearables can help people notice patterns: late nights, lower activity, higher resting heart rate, disrupted routines, stress, alcohol, travel, or a gradual drop in movement.
 
-## A Useful Rule
+Use them for trends and low-risk reminders. Do not use them to overrule symptoms.
 
-If a product helps you do a basic thing you already value, it may be useful.
+If a device shows an abnormal value with chest pain, fainting, severe shortness of breath, stroke-like symptoms, severe dizziness, or significant distress, use medical care instead of searching the app. If the device looks normal but symptoms continue or worsen, the normal reading does not rule out illness.
 
-If it tries to replace medical care, overrules symptoms, promises broad disease prevention, or turns uncertainty into a package, slow down.
+## Tests: Complex Is Not The Same As Useful
+
+Ask three questions before buying or acting on a test:
+
+1. If it is abnormal, what is the next safe step?
+2. If it is normal, what risk is still not ruled out?
+3. Who is qualified to interpret it in context?
+
+Direct-to-consumer reports can be easy to buy and hard to interpret. A genetic, cancer-risk, drug-response, fertility, hormone, microbiome, nutrient, or "aging" report should not become a personal medical plan without qualified interpretation.
+
+## Longevity Claims: Mechanism Is Not A Life Plan
+
+Longevity marketing often turns early science into a package: NAD, mTOR, AMPK, mitochondria, inflammation, cellular senescence, epigenetic age, or "reversal."
+
+These may be legitimate research areas. They do not automatically prove that a healthy person should buy a product, use a drug, take a supplement stack, or join a long-term program.
+
+Be especially cautious when a service:
+
+- promises biological age reversal, disease prevention, detox, or guaranteed results;
+- mixes drugs, supplements, tests, coaching, and devices into one expensive plan;
+- uses "registered," "certified," "cleared," "authorized," and "approved" as if they all mean the same thing;
+- collects sensitive health or genetic data without clear privacy terms;
+- turns every result into a reason to buy more.
+
+## A Buying Sort
+
+**Can support:** affordable, low pressure, no replacement of care, clear privacy terms, and used for reminders, records, or low-risk behavior support.
+
+**Ask first:** may affect medication, screening, diagnosis, surgery, pregnancy, chronic disease, cancer care, or an older adult, child, or complex medication list.
+
+**Pause:** high price, unclear evidence, vague next step, broad promises, anxiety-driven purchase, privacy concerns, or pressure to decide today.
+
+**Intercept:** tells someone to stop medication, delay care, refuse treatment, hide from clinicians, join a high-cost package, finance the purchase, recruit others, or ignore symptoms.
 
 For a practical buying checklist, use [Health Product Checklist](../../handbook/templates/health-product-checklist.md).
+
+## Public Sources
+
+Reviewed on 2026-06-28:
+
+- FDA: [Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)
+- FDA: [Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)
+- FDA: [Are There "FDA Registered" or "FDA Certified" Medical Devices?](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)
+- FDA: [Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)
+- FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
+- FTC: [Common Health Scams](https://consumer.ftc.gov/articles/common-health-scams)
+
+## One Sentence
+
+Good tools help you notice signals and take safer next steps; bad marketing turns signals into certainty and sells the certainty back to you.

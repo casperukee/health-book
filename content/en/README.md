@@ -44,6 +44,9 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Bring useful facts into a clinic visit | [Doctor Visit Preparation](book/part-3-family-health-os/doctor-visit-preparation.md) |
 | Talk with parents without turning care into control | [Talking With Parents About Health](book/part-3-family-health-os/talking-with-parents.md) |
 | Protect older adults' daily abilities before a crisis | [Elder Care Basics](book/part-3-family-health-os/elder-care-basics.md) |
+| Slow down before supplement claims turn into medical decisions | [Supplement Evidence Traps](book/part-4-health-information-defense/supplement-evidence-traps.md) |
+| Judge devices, tests, and longevity packages before paying | [Devices, Tests, And Longevity Marketing](book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |
+| Read health news as a clue, not a command | [Reading Health News](book/part-4-health-information-defense/reading-health-news.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |
 | Slow down before buying a health product | [Health Product Checklist](handbook/templates/health-product-checklist.md) |

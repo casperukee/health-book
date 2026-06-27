@@ -1229,7 +1229,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方监管资料
 - 用途：校准膳食补充剂监管边界和产品类别。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/supplement-evidence-traps.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1239,7 +1239,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方消费者资料
 - 用途：校准膳食补充剂不是药品、FDA 监管方式和消费提醒。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/supplement-evidence-traps.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1249,7 +1249,7 @@
 - 机构：NIH Office of Dietary Supplements
 - 类型：美国官方补剂教育资料
 - 用途：校准补剂定义、潜在益处、风险、相互作用和医生沟通边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/supplement-evidence-traps.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1259,7 +1259,7 @@
 - 机构：National Center for Complementary and Integrative Health, NIH
 - 类型：美国官方补充与整合健康资料
 - 用途：校准草药和补剂安全性、相互作用和证据边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/supplement-evidence-traps.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1269,7 +1269,7 @@
 - 机构：Federal Trade Commission
 - 类型：美国官方消费者保护资料
 - 用途：校准补剂广告、消费欺诈和购买前核查边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/supplement-evidence-traps.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1465,7 +1465,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方医疗器械资料
 - 用途：校准家用和消费者医疗设备的监管与安全使用边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1475,7 +1475,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方消费者资料
 - 用途：校准医疗器械消费者资料入口。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -1485,7 +1485,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方医疗器械消费者资料
 - 用途：校准 FDA registered、certified、approved、cleared、authorized 等监管词的区别。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -1495,7 +1495,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方体外诊断和消费者检测资料
 - 用途：校准直接面向消费者检测、遗传风险、检测局限和医生沟通边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1505,17 +1505,17 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方消费者保护资料
 - 用途：校准健康欺诈、未证实疗效和延误正规诊疗风险。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-4-health-information-defense/supplement-evidence-traps.md`、`content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
 ### FTC：Common Health Scams
 
-- URL: https://consumer.ftc.gov/node/78372
+- URL: https://consumer.ftc.gov/articles/common-health-scams
 - 机构：Federal Trade Commission
 - 类型：美国官方消费者保护资料
 - 用途：校准健康骗局、奇迹疗法、抗衰和高风险健康产品营销。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/en/book/part-4-health-information-defense/reading-health-news.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1525,7 +1525,7 @@
 - 机构：National Institutes of Health
 - 类型：美国官方临床研究资料
 - 用途：校准临床研究、临床试验、潜在获益和风险边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/en/book/part-4-health-information-defense/reading-health-news.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -1537,7 +1537,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准健康信息来源、可靠性评估和医生沟通边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/en/book/part-4-health-information-defense/reading-health-news.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -1547,7 +1547,7 @@
 - 机构：National Center for Complementary and Integrative Health, NIH
 - 类型：美国官方线上健康信息评估资料
 - 用途：校准网站、移动应用、社交媒体和广告性健康信息的评估方法。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/en/book/part-4-health-information-defense/reading-health-news.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -1557,7 +1557,7 @@
 - 机构：National Center for Complementary and Integrative Health, NIH
 - 类型：美国官方科学研究阅读资料
 - 用途：校准研究类型、方法、偏倚、结果和论文阅读的公众框架。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/en/book/part-4-health-information-defense/reading-health-news.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 

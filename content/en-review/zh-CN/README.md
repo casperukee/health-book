@@ -50,6 +50,9 @@
 | 把有用事实带进诊室 | [Doctor Visit Preparation](../../en/book/part-3-family-health-os/doctor-visit-preparation.md) |
 | 和父母谈健康，同时不把照护变成控制 | [Talking With Parents About Health](../../en/book/part-3-family-health-os/talking-with-parents.md) |
 | 在危机前保护老年人的日常能力 | [Elder Care Basics](../../en/book/part-3-family-health-os/elder-care-basics.md) |
+| 在补剂宣称变成医疗决定前慢下来 | [Supplement Evidence Traps](../../en/book/part-4-health-information-defense/supplement-evidence-traps.md) |
+| 购买前判断设备、检测和抗衰套餐 | [Devices, Tests, And Longevity Marketing](../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |
+| 把健康新闻当线索，而不是命令 | [Reading Health News](../../en/book/part-4-health-information-defense/reading-health-news.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
 | 买健康产品前慢下来 | [Health Product Checklist](../../en/handbook/templates/health-product-checklist.md) |
@@ -89,6 +92,10 @@
 - [Doctor Visit Preparation 中文验收页](book/part-3-family-health-os/doctor-visit-preparation.md)
 - [Talking With Parents 中文验收页](book/part-3-family-health-os/talking-with-parents.md)
 - [Elder Care Basics 中文验收页](book/part-3-family-health-os/elder-care-basics.md)
+- [Part 4 中文验收页](book/part-4-health-information-defense/README.md)
+- [Supplement Evidence Traps 中文验收页](book/part-4-health-information-defense/supplement-evidence-traps.md)
+- [Devices, Tests, And Longevity Marketing 中文验收页](book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+- [Reading Health News 中文验收页](book/part-4-health-information-defense/reading-health-news.md)
 - [Handbook 中文验收页](handbook/README.md)
 - [Playbooks 中文验收页](handbook/playbooks/README.md)
 - [Templates 中文验收页](handbook/templates/README.md)

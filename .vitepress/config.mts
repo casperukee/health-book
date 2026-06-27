@@ -106,13 +106,16 @@ const englishSidebar = [
       { text: 'Doctor Visit Preparation', link: '/content/en/book/part-3-family-health-os/doctor-visit-preparation' },
       { text: 'Talking With Parents', link: '/content/en/book/part-3-family-health-os/talking-with-parents' },
       { text: 'Elder Care Basics', link: '/content/en/book/part-3-family-health-os/elder-care-basics' },
+      { text: 'Supplement Evidence Traps', link: '/content/en/book/part-4-health-information-defense/supplement-evidence-traps' },
+      { text: 'Devices And Longevity Marketing', link: '/content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
+      { text: 'Reading Health News', link: '/content/en/book/part-4-health-information-defense/reading-health-news' },
       { text: 'Health Product Checklist', link: '/content/en/handbook/templates/health-product-checklist' },
       { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
       { text: 'Family Health Card', link: '/content/en/handbook/templates/family-health-card' }
     ]
   },
   {
-    text: 'Chinese Source',
+    text: 'Chinese Edition',
     items: [
       { text: 'Chinese Home', link: '/content/zh-CN/book/00-start-here' },
       { text: 'Chinese Handbook', link: '/content/zh-CN/handbook/README' }
@@ -139,8 +142,6 @@ export default defineConfig({
     'local-notes/**',
     'promo/**',
     'content/zh-CN/updates/**',
-    'content/en/book/part-4-health-information-defense/supplement-evidence-traps.md',
-    'content/en/book/part-4-health-information-defense/reading-health-news.md',
     'content/en/errata/**',
     'content/en/references/**',
     'content/en/updates/**',

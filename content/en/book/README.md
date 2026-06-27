@@ -42,7 +42,9 @@ Health often becomes a family workflow: records, visits, medications, follow-up,
 
 ## Part 4: Health Information Defense
 
+- [Supplement Evidence Traps](part-4-health-information-defense/supplement-evidence-traps.md)
 - [Devices, Tests, and Longevity Marketing](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+- [Reading Health News](part-4-health-information-defense/reading-health-news.md)
 
 This part helps readers slow down before acting on supplements, devices, tests, longevity services, health news, and short-form health content.
 
