@@ -11,6 +11,11 @@
 | 风险曲线 | risk curve | 风险随时间和背景逐渐变化的理解方式 |
 | 风险语言 | risk language | 用来解释体检指标和长期风险 |
 | 危险信号 | red flags | 需要及时就医或急救的信号 |
+| 急救服务 | emergency services | 英文版按所在地系统处理；美国语境可包括 911，但非美国读者需映射到当地号码 |
+| 急诊科 | emergency department (ED) | 医院急诊入口；英文版避免把 ED 和 urgent care 混用 |
+| 紧急照护中心 | urgent care | 美国常见非预约急症入口；不能替代危险信号下的急救或急诊 |
+| 基层医疗 | primary care | 非急症和长期健康管理的常见入口，可包含家庭医生、内科医生或 primary care team |
+| 复诊/返院警示 | return precautions | 医生或出院文件中说明“出现哪些情况要尽快回来或升级就医”的条件 |
 | 体检指标 | checkup markers | 体检、化验和测量项目中的风险信号 |
 | 参考范围 | reference range | 帮助解释检测结果的参照范围，不等于绝对诊断线 |
 | 趋势 | trend | 同一指标随时间的变化方向 |
@@ -39,6 +44,7 @@
 | 日常生活能力 | activities of daily living | 吃饭、穿衣、洗澡、如厕、起身和走动等基本生活能力 |
 | 工具性生活能力 | instrumental activities of daily living | 做饭、购物、用药、用钱、交通和家务等较复杂生活能力 |
 | 用药安全 | medication safety | 关注药物、剂量、相互作用、漏服、重复用药和不良反应的安全管理 |
+| 用药核对 | medication reconciliation | 把实际正在使用的药物、剂量、频率、补剂和停改药变化与医疗记录核对 |
 | 跌倒风险 | fall risk | 老年人跌倒或差点跌倒的可能性及相关环境、功能和药物因素 |
 | 照护者负担 | caregiver burden | 长期照护带来的体力、情绪、时间和经济压力 |
 | 家用健康设备 | home health devices | 在家庭环境中用于测量、提醒或辅助管理健康的设备 |
@@ -52,6 +58,9 @@
 | 草药补剂 | herbal supplements | 含草药或植物成分的补剂 |
 | 产品一致性 | product consistency | 市售产品与研究材料在成分、剂量、纯度上的一致程度 |
 | 就医资料包 | visit prep packet | 就医前准备的症状、资料、用药和问题清单 |
+| 患者门户 | patient portal | 医疗机构提供的线上系统，用于查看报告、消息、预约、账单或照护说明 |
+| 代理访问 | proxy access | 经患者授权后，家属或照护者访问患者门户或健康信息的权限 |
+| 预立医疗指示 | advance directives | 预先表达医疗照护偏好和代理决策人的法律/照护文件，英文版按所在地规则提醒 |
 | 家庭健康卡 | family health card | 家庭成员的最小健康信息卡，用于急诊、门诊、陪诊和日常沟通 |
 | 家庭健康档案 | family health record | 家庭可维护的病史、用药、检查和联系人记录 |
 | 家庭健康操作系统 | family health operating system | 家庭资料、流程、分工和复盘 |

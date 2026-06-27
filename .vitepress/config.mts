@@ -81,11 +81,12 @@ const feedbackSidebar = [
   }
 ]
 
-const englishPreviewSidebar = [
+const englishSidebar = [
   {
-    text: 'English Preview',
+    text: 'English Web Edition',
     items: [
       { text: 'Overview', link: '/content/en/README' },
+      { text: 'Book Roadmap', link: '/content/en/book/README' },
       { text: 'Start Here', link: '/content/en/book/00-start-here' },
       { text: 'Medical Boundaries', link: '/content/en/book/medical-boundaries' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
@@ -100,7 +101,7 @@ const englishPreviewSidebar = [
     ]
   },
   {
-    text: 'Source Edition',
+    text: 'Chinese Source',
     items: [
       { text: 'Chinese Home', link: '/content/zh-CN/book/00-start-here' },
       { text: 'Chinese Handbook', link: '/content/zh-CN/handbook/README' }
@@ -164,7 +165,7 @@ export default defineConfig({
       '/content/zh-CN/book/': bookSidebar,
       '/content/zh-CN/handbook/': handbookSidebar,
       '/content/zh-CN/feedback/': feedbackSidebar,
-      '/content/en/': englishPreviewSidebar
+      '/content/en/': englishSidebar
     },
     outline: {
       level: [2, 3],

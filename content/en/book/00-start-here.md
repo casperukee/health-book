@@ -1,98 +1,139 @@
 ---
-status: preview
+status: content-review
 language: en
 canonical_slug: 00-start-here
 zh_path: ../../zh-CN/book/00-start-here.md
-translation_status: preview-adaptation
-last_reviewed: 2026-06-05
+review_path: ../../en-review/zh-CN/book/00-start-here.md
+translation_status: en-v0.1-adaptation-draft
+last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: stable
 ---
 
 # Start Here
 
-This English page is a preview adaptation. The Chinese edition is still the source edition.
+> This book is not medical advice. It cannot replace diagnosis, emergency care, treatment, medication decisions, screening decisions, mental health crisis support, or guidance from qualified clinicians.
 
-Health Youpu is not a medical advice site. It does not diagnose, prescribe, tell you to stop medication, or replace emergency care or clinician judgment.
+[中文验收页](../../en-review/zh-CN/book/00-start-here.md)
 
-The book has two practical uses:
+Health information is rarely scarce. The harder problem is knowing what to do with it.
 
-- **When something is happening now:** use the handbook to decide the next action level: emergency care, contact a clinician, prepare for a visit, record and watch, or pause before buying a health product.
-- **When there is no urgent issue:** read the book to build a calmer family health decision system.
+A lab result gets flagged in a patient portal. A parent says their chest feels "a little tight" but does not want to make a fuss. A teenager stops sleeping. A partner is discharged with new medications and instructions no one fully remembers. A supplement ad promises better glucose, better sleep, or a longer life. A family group chat fills up quickly, but the next action still feels unclear.
 
-## Pick Your Situation
+**Health Youpu** does not try to turn families into clinicians. It helps families sort health problems into safer next actions: get urgent help, contact a clinician, prepare better information, record and watch with upgrade conditions, or pause before buying a product or test.
 
-<div class="decision-grid">
-  <section class="decision-card decision-card-red">
-    <div class="decision-label">Someone feels unwell</div>
-    <h3>Sort urgency before searching for disease names</h3>
-    <p>Start with <a href="medical-boundaries.html">Medical Boundaries and Warning Signs</a>. If there is no obvious red flag, use the <a href="../handbook/playbooks/symptom-action-guide.html">Symptom Action Guide</a>.</p>
-  </section>
-  <section class="decision-card decision-card-yellow">
-    <div class="decision-label">A doctor visit is coming</div>
-    <h3>Bring facts, not guesses</h3>
-    <p>Use the <a href="../handbook/playbooks/doctor-visit-checklist.html">Doctor Visit Checklist</a> to prepare a symptom timeline, medication list, relevant records, and 1-3 questions.</p>
-  </section>
-  <section class="decision-card decision-card-green">
-    <div class="decision-label">You want to prepare your family</div>
-    <h3>Start with one small card</h3>
-    <p>Create a <a href="../handbook/templates/family-health-card.html">Family Health Card</a> before trying to organize every report, image, medication photo, or chat message.</p>
-  </section>
-  <section class="decision-card decision-card-blue">
-    <div class="decision-label">You are reviewing the project</div>
-    <h3>Look at the decision model first</h3>
-    <p>Read the <a href="../README.md">English overview</a>, then this page, the medical-boundary page, and the two handbook tools.</p>
-  </section>
-</div>
+## If Someone Feels Unwell Now
 
-::: danger Medical boundary
-This project is not medical advice. If warning signs appear, contact local emergency services, urgent care, crisis services, or qualified clinicians. Do not use this book to delay urgent care.
-:::
+Sort urgency before searching for disease names.
+
+If there are warning signs, rapid worsening, major safety concerns, or a situation that makes waiting feel unsafe, use local emergency services, an emergency department, urgent care, crisis services, or another qualified medical entry point where you live. In the U.S., that may mean 911, an emergency department, urgent care, a crisis line, or a clinician's after-hours instructions depending on the situation.
+
+This book can help a family describe what is happening. It should not be used to downgrade a possible emergency.
+
+Start with:
+
+- [Medical Boundaries and Warning Signs](medical-boundaries.md)
+- [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
+
+The symptom guide is not a tool for proving that observation is safe. Anything involving breathing, circulation, consciousness, speech, movement, severe pain, heavy bleeding, serious injury, poisoning, severe allergic reaction, self-harm risk, pregnancy/postpartum warning signs, or a high-risk person deserves a lower threshold for professional care.
+
+## If A Report Or Visit Is Coming
+
+Bring facts before conclusions.
+
+In U.S. care settings, useful information is often scattered across lab portals, imaging reports, discharge papers, medication bottles, pharmacy records, insurance messages, and family texts. Before trying to interpret everything, collect the parts that help a clinician see the timeline:
+
+- what changed and when;
+- current medications, supplements, allergies, and recent medication changes;
+- relevant medical history and prior results;
+- recent labs, imaging, discharge instructions, or return precautions;
+- the 1-3 questions you most need answered.
+
+For checkups and reports, start with:
+
+- [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
+- [Checkup Markers](part-1-healthspan-risk-and-markers/checkup-markers.md)
+- [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
+
+Cost, insurance coverage, network status, deductibles, and prior authorization can affect planning. They should not be used as reasons to delay care when warning signs appear.
+
+## If You Want To Prepare Your Family
+
+Start small. Do not begin by trying to organize every PDF, portal message, image, medication photo, and old report.
+
+The first useful family health record is often a one-page card:
+
+- emergency contacts;
+- major conditions and surgeries;
+- allergies;
+- current medications and supplements;
+- pharmacy and clinician contacts;
+- where to find important records;
+- what would trigger urgent help or a clinician call.
+
+Use:
+
+- [Family Health Card](../handbook/templates/family-health-card.md)
+- [Handbook Preview](../handbook/README.md)
+
+For U.S. families, preparation may also involve patient portals, proxy access, HIPAA permissions, emergency contacts, advance directives, and long-distance caregiving. Those details matter, but the first step is still simple: make the key facts findable before a stressful moment.
+
+## If A Product, Test, Or Health Claim Is Pushing You To Act
+
+Ask what the claim wants you to do.
+
+Is it asking you to buy a supplement, order a direct-to-consumer test, join a program, pay for a longevity package, change medication, skip follow-up, or worry about a single biomarker? Or is it simply reminding you to sleep, move, record symptoms, or ask a clinician?
+
+Use:
+
+- [Health Product Checklist](../handbook/templates/health-product-checklist.md)
+- [Devices, Tests, and Longevity Marketing](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+
+The goal is not to become cynical about every health product. The goal is to separate useful preparation from pressure, fear, vague science, and claims that move faster than evidence.
+
+## How To Read This Book
+
+You do not need to read Health Youpu like a textbook.
+
+Use the book in two modes:
+
+| Mode | What to do |
+| --- | --- |
+| Something is happening now | Start with safety boundaries, then use the relevant handbook page to decide what information to gather and what care pathway to use |
+| No urgent issue | Read through the book to build a calmer family health decision system before the next stressful moment |
+
+The English edition is U.S.-first, but the underlying habit is portable: sort urgency, collect facts, use qualified care when needed, and keep family cooperation respectful. If you live outside the U.S., map the care pathways, emergency numbers, screening guidance, insurance rules, and public-health sources to your local system.
 
 ## The Three Layers
 
-Health Youpu is organized into three layers.
-
 | Layer | What it does | When to use it |
 | --- | --- | --- |
-| Book | Explains risk, uncertainty, medical boundaries, family coordination, and health misinformation | When you want to understand the problem rather than search one symptom at a time |
+| Book | Explains risk language, medical boundaries, family coordination, and health misinformation | When you want to understand the pattern, not just one symptom |
 | Handbook | Provides practical checklists and templates | When someone has symptoms, a visit is coming, a record needs to be made, or a product claim needs checking |
-| References and updates | Records sources, corrections, review logs, and future topics | When you want to inspect the evidence and maintenance process |
+| Review and maintenance | Tracks sources, corrections, updates, and Chinese review companions for the English edition | When you want to inspect how the project is maintained |
 
-The book is not meant to train families to become doctors. Its job is to help families ask better questions, keep better records, and know when a problem belongs in professional care.
+The book's job is not to replace clinicians. It is to help families ask better questions, keep better records, and recognize when a problem belongs in professional care.
 
 ## If You Only Have 10 Minutes
 
-Do three things:
+Do three small things:
 
 1. Read the first half of [Medical Boundaries and Warning Signs](medical-boundaries.md).
 2. Save the [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md).
-3. Make one [Family Health Card](../handbook/templates/family-health-card.md) for a parent, partner, child, or yourself.
+3. Make one [Family Health Card](../handbook/templates/family-health-card.md) for yourself, a parent, a partner, a child, an older relative, or someone you help care for.
 
 These actions will not make a family medically independent. They can reduce panic, missing facts, and last-minute searching when a real problem appears.
 
-## How To Read The Chinese Source Edition
-
-The Chinese edition currently has the full structure:
-
-- Front Matter: how to use the book and where medical boundaries begin;
-- Part 1: healthspan, risk curves, and checkup markers;
-- Part 2: metabolic, cardiovascular, sleep, mental health, cancer, and specialty-care risk lines;
-- Part 3: family health records, doctor-visit preparation, parent communication, and elder care;
-- Part 4: supplements, devices, anti-aging claims, health news, and misinformation;
-- Handbook: warning signs, symptom actions, doctor visit checklist, checkup planning, family health card, chronic marker logs, and product checks.
-
-Start from [中文导读](../../zh-CN/book/00-start-here.md) if you read Chinese.
-
 ## Three Rules To Remember
 
-1. **Sort urgency first.** Red flags belong in emergency or urgent professional care, not in search results.
-2. **Record facts before conclusions.** Clinicians need timelines, medications, allergies, prior records, and what changed.
-3. **Keep the boundary.** This book helps with preparation and judgment; it does not replace diagnosis, treatment, medication decisions, or individualized screening plans.
+1. **Sort urgency first.** Possible emergencies belong in professional care, not in search results or group-chat votes.
+2. **Record facts before conclusions.** Timelines, medications, allergies, prior results, and what changed are more useful than guesses.
+3. **Keep the boundary.** This book helps with preparation and judgment; it does not replace diagnosis, treatment, medication decisions, crisis care, or individualized screening plans.
 
 ## Next
 
 - [Medical Boundaries and Warning Signs](medical-boundaries.md)
+- [Book Roadmap](README.md)
 - [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
 - [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](../handbook/templates/family-health-card.md)
