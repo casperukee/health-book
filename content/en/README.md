@@ -36,6 +36,7 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Understand flagged lab and checkup results | [Checkup Markers](book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | Read blood pressure, cholesterol, glucose, and uric acid as a connected pattern | [Metabolic Health](book/part-2-body-risk-map/metabolic-health.md) |
 | Understand why heart attacks and strokes are often sudden only at the end | [Cardiovascular Event Chain](book/part-2-body-risk-map/cardiovascular-event-chain.md) |
+| Protect sleep as a recovery system, not a nightly score | [Sleep and Recovery](book/part-2-body-risk-map/sleep-and-recovery.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |
 | Slow down before buying a health product | [Health Product Checklist](handbook/templates/health-product-checklist.md) |

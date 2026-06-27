@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -690,7 +690,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准睡眠健康、常见睡眠问题和公众健康边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -720,7 +720,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准睡眠对身体、大脑和长期健康重要性的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -730,7 +730,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准睡眠不足和睡眠缺乏对健康影响的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -740,7 +740,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准 NREM、REM、深睡、睡眠周期和消费级睡眠阶段解释边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
 
@@ -750,9 +750,19 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准 CBT-I、睡眠习惯、药物和补充剂在失眠治疗中的定位；正文必须写成专业治疗路径和医生判断边界，不写成自助技巧清单。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
+
+### NHLBI/NIH：Sleep Apnea
+
+- URL: https://www.nhlbi.nih.gov/health/sleep-apnea
+- 机构：National Heart, Lung, and Blood Institute, NIH
+- 类型：美国官方健康主题资料
+- 用途：校准睡眠呼吸暂停、打鼾、憋醒、日间嗜睡和需要医学评估的边界。
+- 已用于：`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 复查频率：6-12 个月
+- 最后复查：2026-06-28
 
 ### NINDS/NIH：Brain Basics: Understanding Sleep
 
@@ -760,7 +770,7 @@
 - 机构：National Institute of Neurological Disorders and Stroke, NIH
 - 类型：美国官方神经科学公众资料
 - 用途：校准睡眠阶段、记忆、情绪和大脑维护相关基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
 
@@ -790,7 +800,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准失眠基础表现、就医边界和患者教育入口。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -820,7 +830,7 @@
 - 机构：National Center for Complementary and Integrative Health, NIH
 - 类型：美国官方补充与整合健康资料
 - 用途：校准渐进式肌肉放松、呼吸练习、身体放松技术的辅助定位和证据边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
