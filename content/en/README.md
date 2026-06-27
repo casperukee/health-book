@@ -32,6 +32,7 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Decide what to do with symptoms | [Symptom Action Guide](handbook/playbooks/symptom-action-guide.md) |
 | Choose between emergency, clinic, and department entry points | [Emergency, Clinic, or Which Department?](handbook/playbooks/department-navigation-guide.md) |
 | Prepare for a preventive visit or checkup | [Before a Checkup](handbook/playbooks/checkup-planning-guide.md) |
+| Think about long-term health without chasing anti-aging claims | [Healthspan and the Risk Curve](book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
 | Understand flagged lab and checkup results | [Checkup Markers](book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |

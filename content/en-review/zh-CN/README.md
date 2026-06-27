@@ -38,6 +38,7 @@
 | 判断症状下一步 | [Symptom Action Guide](../../en/handbook/playbooks/symptom-action-guide.md) |
 | 在急诊、门诊和科室入口之间选择 | [Emergency, Clinic, or Which Department?](../../en/handbook/playbooks/department-navigation-guide.md) |
 | 准备预防性就诊或体检 | [Before a Checkup](../../en/handbook/playbooks/checkup-planning-guide.md) |
+| 不追抗衰宣称，而是理解长期健康 | [Healthspan and the Risk Curve](../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
 | 理解标红的化验和体检结果 | [Checkup Markers](../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
@@ -63,6 +64,9 @@
 - [英文主书目录中文验收页](book/README.md)
 - [Start Here 中文验收页](book/00-start-here.md)
 - [Medical Boundaries 中文验收页](book/medical-boundaries.md)
+- [Part 1 中文验收页](book/part-1-healthspan-risk-and-markers/README.md)
+- [Healthspan 中文验收页](book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
+- [Checkup Markers 中文验收页](book/part-1-healthspan-risk-and-markers/checkup-markers.md)
 - [Handbook 中文验收页](handbook/README.md)
 - [Playbooks 中文验收页](handbook/playbooks/README.md)
 - [Templates 中文验收页](handbook/templates/README.md)

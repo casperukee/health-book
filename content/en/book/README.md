@@ -15,9 +15,10 @@ Read these first if someone feels unwell, if a family member is unsure whether w
 
 ## Part 1: Healthspan, Risk, And Checkup Markers
 
+- [Healthspan and the Risk Curve](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
 - [Checkup Markers](part-1-healthspan-risk-and-markers/checkup-markers.md)
 
-This part helps readers treat lab and checkup results as risk language rather than as verdicts. The focus is on reference ranges, trends, combinations, background risk, and next actions.
+This part helps readers connect long-term function, major risk lines, family readiness, and checkup results. The focus is on ability, trend, combination, context, and next actions.
 
 ## Part 2: The Body's Main Risk Lines
 

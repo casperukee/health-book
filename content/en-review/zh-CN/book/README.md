@@ -19,9 +19,10 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 
 ## Part 1：健康寿命、风险和体检指标
 
+- [Healthspan and the Risk Curve](../../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
 - [Checkup Markers](../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)
 
-这一部分帮助读者把化验和体检结果看成风险语言，而不是判决书。重点是参考范围、趋势、组合、背景风险和下一步行动。
+这一部分帮助读者把长期功能、主要风险线、家庭准备和体检结果连起来看。重点是能力、趋势、组合、背景和下一步行动。
 
 ## Part 2：身体的几条主风险线
 
