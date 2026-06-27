@@ -1,10 +1,11 @@
 ---
-status: preview
+status: content-review
 language: en
 canonical_slug: health-product-checklist
 zh_path: ../../../zh-CN/handbook/templates/health-product-checklist.md
-translation_status: adapted-preview
-last_reviewed: 2026-06-06
+review_path: ../../../en-review/zh-CN/handbook/templates/health-product-checklist.md
+translation_status: en-v0.1-adaptation-draft
+last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -12,6 +13,8 @@ evidence_status: needs_periodic_review
 # Health Product Checklist
 
 > This checklist is not medical advice and does not recommend products. It helps families slow down before buying supplements, devices, tests, or longevity services.
+
+[中文验收页](../../../en-review/zh-CN/handbook/templates/health-product-checklist.md)
 
 Use this page before paying, forwarding a product link, or buying something for a parent.
 
@@ -59,3 +62,19 @@ Sometimes the safest replacement for a product is not another product:
 - bring the symptom or report to a real visit.
 
 Products can be tools. They should not become the healthcare system.
+
+## Public Sources
+
+Reviewed on 2026-06-28:
+
+- FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
+- FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)
+- FDA: [Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)
+- FDA: [Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)
+- FTC: [Common Health Scams](https://consumer.ftc.gov/articles/common-health-scams)
+- FTC: [Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)
+- NCCIH: [Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)
+
+## One Sentence
+
+A health product should be stopped at the door if it replaces care, hides risk, pressures payment, or outruns the facts.

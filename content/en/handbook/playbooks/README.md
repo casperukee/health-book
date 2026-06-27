@@ -1,5 +1,7 @@
 # Playbooks
 
+[中文验收页](../../../en-review/zh-CN/handbook/playbooks/README.md)
+
 Use these pages when a family needs a next action.
 
 If warning signs are present, start with [Red Flags](red-flags.md) and seek appropriate care before using other checklists.

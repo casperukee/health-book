@@ -1,10 +1,11 @@
 ---
-status: preview
+status: content-review
 language: en
 canonical_slug: department-navigation-guide
 zh_path: ../../../zh-CN/handbook/playbooks/department-navigation-guide.md
-translation_status: adapted-preview
-last_reviewed: 2026-06-06
+review_path: ../../../en-review/zh-CN/handbook/playbooks/department-navigation-guide.md
+translation_status: en-v0.1-adaptation-draft
+last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -12,6 +13,8 @@ evidence_status: needs_periodic_review
 # Emergency, Clinic, or Which Department?
 
 > This page is not medical advice. It cannot diagnose you or choose a clinician for you. If warning signs appear, use local emergency services or urgent care instead of trying to pick the perfect department.
+
+[中文验收页](../../../en-review/zh-CN/handbook/playbooks/department-navigation-guide.md)
 
 Many families get stuck at the wrong first question:
 
@@ -77,3 +80,18 @@ Ask the clinician or triage desk:
 - What changes mean I should seek urgent care before the appointment?
 
 Then use the [Doctor Visit Checklist](doctor-visit-checklist.md) to prepare.
+
+## Public Sources
+
+Reviewed on 2026-06-28:
+
+- MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
+- MedlinePlus: [Choosing a Primary Care Provider](https://medlineplus.gov/ency/article/001939.htm)
+- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
+- MedlinePlus: [Recognizing Medical Emergencies](https://medlineplus.gov/ency/article/001927.htm)
+- American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
+- CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
+
+## One Sentence
+
+Entering the right care pathway matters more than guessing the disease name at home.

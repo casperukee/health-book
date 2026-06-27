@@ -52,12 +52,15 @@ This part helps readers slow down before acting on supplements, devices, tests, 
 
 The handbook is the fastest place to go when a family needs a next action:
 
+- [After Reading](after-reading.md)
 - [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
 - [Red Flags](../handbook/playbooks/red-flags.md)
 - [Emergency, Clinic, or Which Department?](../handbook/playbooks/department-navigation-guide.md)
 - [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
 - [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](../handbook/templates/family-health-card.md)
+- [Family Health Record](../handbook/templates/family-health-record.md)
+- [Chronic Marker Log](../handbook/templates/chronic-marker-log.md)
 - [Health Product Checklist](../handbook/templates/health-product-checklist.md)
 
 ## Reading Path

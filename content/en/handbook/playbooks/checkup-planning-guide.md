@@ -1,10 +1,11 @@
 ---
-status: preview
+status: content-review
 language: en
 canonical_slug: checkup-planning-guide
 zh_path: ../../../zh-CN/handbook/playbooks/checkup-planning-guide.md
-translation_status: adapted-preview
-last_reviewed: 2026-06-06
+review_path: ../../../en-review/zh-CN/handbook/playbooks/checkup-planning-guide.md
+translation_status: en-v0.1-adaptation-draft
+last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
@@ -12,6 +13,8 @@ evidence_status: needs_periodic_review
 # Before A Checkup: What Should I Discuss?
 
 > This page is not medical advice. In the United States, preventive care depends on age, sex, pregnancy status, symptoms, family history, prior results, medications, insurance coverage, access, and clinician judgment. Use your own clinician and current U.S. guidance for decisions.
+
+[中文验收页](../../../en-review/zh-CN/handbook/playbooks/checkup-planning-guide.md)
 
 For U.S. readers, the question before a checkup is usually not "Which package should I buy?"
 
@@ -81,9 +84,15 @@ What should I do before our next visit, and what should make me contact you soon
 
 After labs or reports come back, read [Checkup Markers](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md) as a guide to trends, patterns, and follow-up questions.
 
-## U.S. Sources To Recheck
+## Public Sources
+
+Reviewed on 2026-06-28:
 
 - [USPSTF recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics)
-- [CDC adult immunization schedule](https://www.cdc.gov/vaccines/hcp/imz-schedules/adult.html)
+- [CDC recommended vaccines for adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
 - [CDC colorectal cancer screening](https://www.cdc.gov/colorectal-cancer/screening/index.html)
 - [CDC lung cancer screening](https://www.cdc.gov/lung-cancer/screening/index.html)
+
+## One Sentence
+
+A checkup works best when symptoms, prior results, medicines, risks, and preventive-care questions are on the table before tests are ordered.

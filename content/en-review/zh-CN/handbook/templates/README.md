@@ -13,6 +13,8 @@
 ## 模板
 
 - [Family Health Card](../../../../en/handbook/templates/family-health-card.md)
+- [Family Health Record](../../../../en/handbook/templates/family-health-record.md)
+- [Chronic Marker Log](../../../../en/handbook/templates/chronic-marker-log.md)
 - [Health Product Checklist](../../../../en/handbook/templates/health-product-checklist.md)
 
 ## 怎么选
@@ -20,4 +22,6 @@
 | 场景 | 先打开 |
 | --- | --- |
 | 需要一张用于 urgent care、门诊、照护或复诊的小记录 | [Family Health Card](../../../../en/handbook/templates/family-health-card.md) |
+| 需要用于就诊、出院、照护或随访的更完整记录 | [Family Health Record](../../../../en/handbook/templates/family-health-record.md) |
+| 需要带背景追踪反复出现的数值 | [Chronic Marker Log](../../../../en/handbook/templates/chronic-marker-log.md) |
 | 正在考虑补剂、设备、检测、抗衰服务或健康项目 | [Health Product Checklist](../../../../en/handbook/templates/health-product-checklist.md) |

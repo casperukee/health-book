@@ -47,8 +47,11 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Slow down before supplement claims turn into medical decisions | [Supplement Evidence Traps](book/part-4-health-information-defense/supplement-evidence-traps.md) |
 | Judge devices, tests, and longevity packages before paying | [Devices, Tests, And Longevity Marketing](book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |
 | Read health news as a clue, not a command | [Reading Health News](book/part-4-health-information-defense/reading-health-news.md) |
+| Keep the book's decision habits close | [After Reading](book/after-reading.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |
+| Build a fuller family record | [Family Health Record](handbook/templates/family-health-record.md) |
+| Track repeated markers with context | [Chronic Marker Log](handbook/templates/chronic-marker-log.md) |
 | Slow down before buying a health product | [Health Product Checklist](handbook/templates/health-product-checklist.md) |
 
 ## Book And Handbook

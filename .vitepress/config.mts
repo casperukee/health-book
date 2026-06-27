@@ -109,9 +109,12 @@ const englishSidebar = [
       { text: 'Supplement Evidence Traps', link: '/content/en/book/part-4-health-information-defense/supplement-evidence-traps' },
       { text: 'Devices And Longevity Marketing', link: '/content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
       { text: 'Reading Health News', link: '/content/en/book/part-4-health-information-defense/reading-health-news' },
+      { text: 'After Reading', link: '/content/en/book/after-reading' },
       { text: 'Health Product Checklist', link: '/content/en/handbook/templates/health-product-checklist' },
       { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
-      { text: 'Family Health Card', link: '/content/en/handbook/templates/family-health-card' }
+      { text: 'Family Health Card', link: '/content/en/handbook/templates/family-health-card' },
+      { text: 'Family Health Record', link: '/content/en/handbook/templates/family-health-record' },
+      { text: 'Chronic Marker Log', link: '/content/en/handbook/templates/chronic-marker-log' }
     ]
   },
   {
@@ -145,8 +148,6 @@ export default defineConfig({
     'content/en/errata/**',
     'content/en/references/**',
     'content/en/updates/**',
-    'content/en/handbook/templates/chronic-marker-log.md',
-    'content/en/handbook/templates/family-health-record.md'
   ],
   lastUpdated: false,
   ignoreDeadLinks: [

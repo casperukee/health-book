@@ -20,6 +20,8 @@
 | 准备预防性就诊或体检 | [Before a Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md) |
 | 准备门诊或复诊 | [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 做一张小型家庭健康记录 | [Family Health Card](../../../en/handbook/templates/family-health-card.md) |
+| 建立更完整的家庭健康记录 | [Family Health Record](../../../en/handbook/templates/family-health-record.md) |
+| 带背景追踪反复指标 | [Chronic Marker Log](../../../en/handbook/templates/chronic-marker-log.md) |
 | 买补剂、检测、设备或抗衰服务前慢下来 | [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md) |
 
 ## 最小家庭流程
@@ -40,7 +42,8 @@
 | [Red Flags](../../../en/handbook/playbooks/red-flags.md) | 没有红色信号但下一步不清楚时，用 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md) |
 | [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md) | 黄色用 [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)；绿色记录升级条件 |
 | [Before a Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md) | 结果出来后读 [Checkup Markers](../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
-| [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) | 看完后更新 [Family Health Card](../../../en/handbook/templates/family-health-card.md) |
+| [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) | 看完后更新 [Family Health Card](../../../en/handbook/templates/family-health-card.md) 或 [Family Health Record](../../../en/handbook/templates/family-health-record.md) |
+| [Family Health Record](../../../en/handbook/templates/family-health-record.md) | 如果需要反复看数字，用 [Chronic Marker Log](../../../en/handbook/templates/chronic-marker-log.md) |
 | [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md) | 如果涉及设备、检测或抗衰服务，读 [Devices, Tests, and Longevity Marketing](../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |
 
 ## 这些页面不做什么

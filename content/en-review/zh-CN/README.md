@@ -53,8 +53,11 @@
 | 在补剂宣称变成医疗决定前慢下来 | [Supplement Evidence Traps](../../en/book/part-4-health-information-defense/supplement-evidence-traps.md) |
 | 购买前判断设备、检测和抗衰套餐 | [Devices, Tests, And Longevity Marketing](../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |
 | 把健康新闻当线索，而不是命令 | [Reading Health News](../../en/book/part-4-health-information-defense/reading-health-news.md) |
+| 留住整本书的判断习惯 | [After Reading](../../en/book/after-reading.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
+| 建立更完整的家庭记录 | [Family Health Record](../../en/handbook/templates/family-health-record.md) |
+| 带背景追踪反复指标 | [Chronic Marker Log](../../en/handbook/templates/chronic-marker-log.md) |
 | 买健康产品前慢下来 | [Health Product Checklist](../../en/handbook/templates/health-product-checklist.md) |
 
 ## 主书和手册
@@ -96,10 +99,16 @@
 - [Supplement Evidence Traps 中文验收页](book/part-4-health-information-defense/supplement-evidence-traps.md)
 - [Devices, Tests, And Longevity Marketing 中文验收页](book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
 - [Reading Health News 中文验收页](book/part-4-health-information-defense/reading-health-news.md)
+- [After Reading 中文验收页](book/after-reading.md)
 - [Handbook 中文验收页](handbook/README.md)
 - [Playbooks 中文验收页](handbook/playbooks/README.md)
 - [Templates 中文验收页](handbook/templates/README.md)
 - [Red Flags 中文验收页](handbook/playbooks/red-flags.md)
 - [Symptom Action Guide 中文验收页](handbook/playbooks/symptom-action-guide.md)
+- [Department Navigation 中文验收页](handbook/playbooks/department-navigation-guide.md)
+- [Before A Checkup 中文验收页](handbook/playbooks/checkup-planning-guide.md)
 - [Doctor Visit Checklist 中文验收页](handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card 中文验收页](handbook/templates/family-health-card.md)
+- [Family Health Record 中文验收页](handbook/templates/family-health-record.md)
+- [Chronic Marker Log 中文验收页](handbook/templates/chronic-marker-log.md)
+- [Health Product Checklist 中文验收页](handbook/templates/health-product-checklist.md)

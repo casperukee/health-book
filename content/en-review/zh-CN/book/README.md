@@ -56,12 +56,15 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 
 当家庭需要下一步行动时，手册是最快入口：
 
+- [After Reading](../../../en/book/after-reading.md)
 - [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)
 - [Red Flags](../../../en/handbook/playbooks/red-flags.md)
 - [Emergency, Clinic, or Which Department?](../../../en/handbook/playbooks/department-navigation-guide.md)
 - [Before a Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md)
 - [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](../../../en/handbook/templates/family-health-card.md)
+- [Family Health Record](../../../en/handbook/templates/family-health-record.md)
+- [Chronic Marker Log](../../../en/handbook/templates/chronic-marker-log.md)
 - [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)
 
 ## 阅读路径
