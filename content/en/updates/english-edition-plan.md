@@ -129,6 +129,57 @@ Recommended labels:
 
 Do not call the English edition `v1.0.0` just because the Chinese edition is `v1.0.0`.
 
+## Chinese Review Companion
+
+The official English edition files should stay in English.
+
+However, the project maintainer needs Chinese-language review support when checking English work. For every substantial English deliverable, Codex should provide a Chinese review companion.
+
+For short planning updates, the companion can be a Chinese summary in the conversation. For English web pages, the preferred review mode is a phone-readable Chinese review page on the website.
+
+These review pages should:
+
+- live under `content/en-review/zh-CN/`;
+- mirror the English page path where practical, for example `content/en/book/00-start-here.md` should have a review page such as `content/en-review/zh-CN/book/00-start-here.md`;
+- translate or back-translate the English adaptation into Chinese for maintainer review;
+- not copy the original Chinese source chapter as the review text;
+- clearly state that the page is a Chinese review aid for the English adaptation, not the Chinese source edition;
+- be reachable from the corresponding English page through a low-profile link such as `中文验收页`;
+- have a low-profile index link from `content/en/README.md` so the maintainer can open the review area from a phone;
+- stay out of primary navigation unless the maintainer asks for a review index to be more visible.
+
+Use Chinese review companions for:
+
+- Chinese summaries of English plans, README changes, and chapter drafts;
+- paragraph-level Chinese back-translation for high-risk pages such as emergency boundaries, symptom guidance, checkup interpretation, mental health crisis, cancer screening, and medication safety;
+- notes on what was localized for U.S. readers and what remains portable for non-U.S. readers;
+- explicit flags where the English adaptation differs from the Chinese source because of U.S. units, care pathways, insurance friction, legal/privacy context, family norms, or source guidance.
+
+The companion should help the maintainer check meaning, tone, medical boundaries, and source alignment on mobile. It should not become a second Chinese edition of the English book.
+
+## Web First, Reading Edition Later
+
+Build the English web edition first.
+
+The English reading edition should not be the writing starting point. It should be a publication package created only after the web edition has stabilized.
+
+Reasons:
+
+- the English edition requires substantial U.S. localization and should be reviewed page by page before being packaged;
+- web pages support incremental release, source review, link updates, and medical-boundary corrections;
+- U.S. healthcare pathways, insurance friction, family-care scenarios, and source anchors will need iteration;
+- Amazon/KDP or other ebook publication requires separate packaging decisions: title, subtitle, cover, front matter, copyright page, disclaimer placement, table of contents, Kindle formatting, metadata, and store positioning.
+
+Recommended order:
+
+1. Build the English web foundation pack.
+2. Adapt core book chapters and handbook tools on the website.
+3. Run English editorial review and medical-boundary review.
+4. Stabilize a web version checkpoint.
+5. Only then create an English reading-edition package for Amazon/KDP or other stores.
+
+The English reading edition should have its own release notes and review trail. Do not export it directly from unfinished preview pages.
+
 ## Work Pack For Each Chapter
 
 Before rewriting any English chapter, create a short adaptation brief:
@@ -146,9 +197,10 @@ English Adaptation Brief
   - Unit and terminology choices
   - U.S./international source anchors to verify
   - Family/cultural localization notes
+  - Chinese review companion: conversation summary / web review page / paragraph back-translation
 ```
 
-Then draft the English page from that brief rather than translating sentence by sentence.
+Then draft the English page from that brief rather than translating sentence by sentence. When the English page is updated, update the corresponding Chinese review page in the same work session.
 
 ## Priority Sequence
 
@@ -267,6 +319,7 @@ Special U.S. adaptation issues:
 
 Before treating the English edition as ready for broader publication or Amazon/KDP exploration:
 
+- confirm the web edition has reached a stable checkpoint and is no longer a preview-only draft;
 - complete the English source registry or source notes for all high-risk chapters;
 - run a medical-boundary review focused on care-seeking, screening, medication, mental health crisis, and cancer content;
 - run an English editorial pass for tone, rhythm, and U.S. reader fit;

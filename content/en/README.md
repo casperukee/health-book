@@ -62,3 +62,7 @@ The English edition should eventually be adapted, reviewed, and synchronized wit
 - [Mainland-friendly mirror](https://health.mindarae.com)
 - [Root README](../../README.md)
 - [License](https://github.com/casperukee/health-book/blob/main/LICENSE)
+
+## Maintainer Review
+
+- [中文验收页](../en-review/zh-CN/README.md)
