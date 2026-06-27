@@ -26,6 +26,8 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 
 ## Part 2：身体的几条主风险线
 
+- [Metabolic Health](../../../en/book/part-2-body-risk-map/metabolic-health.md)
+- [Cardiovascular Event Chain](../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md)
 - [Sleep and Recovery](../../../en/book/part-2-body-risk-map/sleep-and-recovery.md)
 
 这一部分会看长期风险线，例如代谢健康、心血管风险、睡眠、心理健康、癌症和专科问题。不要用它来自我诊断；用它来知道该记录什么、该问什么，以及什么时候问题需要专业照护。

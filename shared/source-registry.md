@@ -10,7 +10,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准心梗、卒中和心脏骤停的公众识别边界。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
 
@@ -20,7 +20,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准心梗症状、轻微或不典型表现、何时呼叫急救。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
 
@@ -30,7 +30,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准卒中危险信号、B.E. F.A.S.T. 和症状出现时间记录。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
 
@@ -204,7 +204,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病指标资料
 - 用途：校准血压波动、长期风险、无症状和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -274,7 +274,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方糖尿病检测资料
 - 用途：校准血糖检测类型、A1C 时间尺度和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -558,7 +558,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病指标资料
 - 用途：校准胆固醇、心血管风险和患者教育边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -568,7 +568,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方疾病资料
 - 用途：校准痛风、尿酸和就医边界的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -578,7 +578,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准代谢综合征和多项代谢风险叠加的公众解释。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -588,7 +588,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准心脏、肾脏和代谢健康相互连接的公众解释。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -598,7 +598,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准心血管风险因素。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -608,7 +608,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准冠心病、冠状动脉供血和心梗风险的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -618,7 +618,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准动脉粥样硬化和斑块形成的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -628,7 +628,7 @@
 - 机构：National Heart, Lung, and Blood Institute, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准心梗原因、危险因素和冠状动脉阻塞相关表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -638,7 +638,7 @@
 - 机构：American Heart Association
 - 类型：专业协会健康生活资料
 - 用途：校准心血管健康生活方式和风险因素框架。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 

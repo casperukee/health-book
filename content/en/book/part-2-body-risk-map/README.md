@@ -1,10 +1,24 @@
 # Part 2: Body Risk Map
 
-English chapters are planned after the Chinese source chapters become stable.
+> This section is not medical advice. Use it to understand risk patterns, prepare better questions, and know when symptoms should move into professional care.
 
-- Metabolic Health: planned
-- Cardiovascular Event Chain: planned
+[中文验收页](../../../en-review/zh-CN/book/part-2-body-risk-map/README.md)
+
+Part 2 follows the body's main long-running risk lines. These pages are not a substitute for diagnosis or treatment. They help a family notice patterns early, record useful facts, and avoid treating every result as an isolated number.
+
+## Start Here
+
+- [Metabolic Health](metabolic-health.md)
+- [Cardiovascular Event Chain](cardiovascular-event-chain.md)
 - [Sleep and Recovery](sleep-and-recovery.md)
-- Brain and Mental Health: planned
-- Cancer and Major Illness: planned
-- Specialty Care Map: planned
+
+## How To Read This Part
+
+Read one page at a time. After each page, write down:
+
+- which risk line is most relevant to your family right now;
+- which facts should be tracked rather than guessed;
+- which questions belong in primary care, specialty care, urgent care, or the emergency department;
+- which symptoms would override long-term planning and require immediate help.
+
+The useful output is not a self-diagnosis. It is a cleaner conversation with clinicians and a calmer family workflow.

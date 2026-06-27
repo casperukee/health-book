@@ -40,6 +40,8 @@
 | 准备预防性就诊或体检 | [Before a Checkup](../../en/handbook/playbooks/checkup-planning-guide.md) |
 | 不追抗衰宣称，而是理解长期健康 | [Healthspan and the Risk Curve](../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
 | 理解标红的化验和体检结果 | [Checkup Markers](../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
+| 把血压、胆固醇、血糖和尿酸读成连接模式 | [Metabolic Health](../../en/book/part-2-body-risk-map/metabolic-health.md) |
+| 理解为什么心梗和卒中常常只是终点突然 | [Cardiovascular Event Chain](../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
 | 买健康产品前慢下来 | [Health Product Checklist](../../en/handbook/templates/health-product-checklist.md) |
@@ -67,6 +69,9 @@
 - [Part 1 中文验收页](book/part-1-healthspan-risk-and-markers/README.md)
 - [Healthspan 中文验收页](book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
 - [Checkup Markers 中文验收页](book/part-1-healthspan-risk-and-markers/checkup-markers.md)
+- [Part 2 中文验收页](book/part-2-body-risk-map/README.md)
+- [Metabolic Health 中文验收页](book/part-2-body-risk-map/metabolic-health.md)
+- [Cardiovascular Event Chain 中文验收页](book/part-2-body-risk-map/cardiovascular-event-chain.md)
 - [Handbook 中文验收页](handbook/README.md)
 - [Playbooks 中文验收页](handbook/playbooks/README.md)
 - [Templates 中文验收页](handbook/templates/README.md)
