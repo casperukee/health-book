@@ -33,7 +33,10 @@ This part looks at long-running risk lines such as metabolic health, cardiovascu
 
 ## Part 3: Family Health Coordination
 
+- [What A Family Health System Actually Manages](part-3-family-health-os/what-to-manage.md)
+- [Doctor Visit Preparation](part-3-family-health-os/doctor-visit-preparation.md)
 - [Talking With Parents](part-3-family-health-os/talking-with-parents.md)
+- [Elder Care Basics](part-3-family-health-os/elder-care-basics.md)
 
 Health often becomes a family workflow: records, visits, medications, follow-up, privacy, consent, and conversations with people who may not want to be managed. This part focuses on cooperation without control.
 

@@ -37,7 +37,10 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 
 ## Part 3：家庭健康协作
 
+- [What A Family Health System Actually Manages](../../../en/book/part-3-family-health-os/what-to-manage.md)
+- [Doctor Visit Preparation](../../../en/book/part-3-family-health-os/doctor-visit-preparation.md)
 - [Talking With Parents](../../../en/book/part-3-family-health-os/talking-with-parents.md)
+- [Elder Care Basics](../../../en/book/part-3-family-health-os/elder-care-basics.md)
 
 健康常常会变成家庭流程：资料、就医、用药、复查、隐私、同意和沟通，尤其是和不想被管理的人沟通。这一部分关注不控制的合作。
 

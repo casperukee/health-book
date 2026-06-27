@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -142,7 +142,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方健康老龄化资料
 - 用途：校准健康老龄化从较早人生阶段开始、生活方式和健康维护相关表述。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -162,7 +162,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料聚合页
 - 用途：提供健康老龄化的患者教育入口和延伸阅读。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -172,7 +172,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料聚合页
 - 用途：校准家庭照护者压力、照护者健康风险、寻求帮助和分工支持相关表述。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -852,7 +852,7 @@
 - 机构：National Institute on Aging, NIH
 - 类型：美国官方老年健康资料
 - 用途：校准认知健康、正常衰老和需要关注的认知变化。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -1281,7 +1281,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准就医前准备、问题清单、用药和过敏信息沟通。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/en/book/part-3-family-health-os/doctor-visit-preparation.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-04
 
@@ -1291,7 +1291,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准个人健康记录中姓名、出生日期、血型、紧急联系人、过敏、用药、病史等基础信息类别。
-- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`
+- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-3-family-health-os/what-to-manage.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-04
 
@@ -1301,7 +1301,7 @@
 - 机构：Agency for Healthcare Research and Quality
 - 类型：美国官方患者沟通资料
 - 用途：校准通过提问参与就医沟通的基础原则。
-- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`
+- 已用于：`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/en/book/part-3-family-health-os/doctor-visit-preparation.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -1311,7 +1311,7 @@
 - 机构：Office of the National Coordinator for Health Information Technology
 - 类型：美国官方健康记录资料
 - 用途：校准获取、使用和理解个人健康记录的公众资料。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-3-family-health-os/what-to-manage.md`、`content/en/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1323,7 +1323,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准选择医疗服务、专科就医和患者资料入口。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-3-family-health-os/what-to-manage.md`、`content/en/book/part-3-family-health-os/doctor-visit-preparation.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1465,7 +1465,7 @@
 - 机构：U.S. Food and Drug Administration
 - 类型：美国官方医疗器械资料
 - 用途：校准家用和消费者医疗设备的监管与安全使用边界。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1515,7 +1515,7 @@
 - 机构：Federal Trade Commission
 - 类型：美国官方消费者保护资料
 - 用途：校准健康骗局、奇迹疗法、抗衰和高风险健康产品营销。
-- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`
+- 已用于：`content/zh-CN/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md`、`content/zh-CN/book/part-4-health-information-defense/reading-health-news.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1609,7 +1609,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方成人疫苗资料
 - 用途：校准家庭健康系统中“疫苗和随访安排”只能作为资料入口和提醒，不写个体化接种建议。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/what-to-manage.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -1619,7 +1619,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方老年跌倒预防资料
 - 用途：校准老年跌倒风险、跌倒后果和家庭防跌倒观察边界。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/what-to-manage.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -1629,7 +1629,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方老年跌倒筛查和照护资料入口
 - 用途：提供老年跌倒风险识别、临床沟通和家庭资料准备入口。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -1639,7 +1639,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准多药使用、非处方药、补剂、用药清单和医生/药师沟通边界。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -1649,7 +1649,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方老年健康资料入口
 - 用途：提供老年健康、照护、功能和安全相关资料入口。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-02
 
@@ -1659,7 +1659,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方医学检测资料
 - 用途：校准跌倒风险评估作为专业评估入口，而不是家庭自我诊断工具。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/en/book/part-3-family-health-os/elder-care-basics.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 

@@ -40,6 +40,10 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Notice brain, mood, and cognitive changes without rushing to labels | [Brain and Mental Health](book/part-2-body-risk-map/brain-and-mental-health.md) |
 | Keep cancer fear connected to the right next step | [Cancer and Major Illness](book/part-2-body-risk-map/cancer-and-major-illness.md) |
 | Prepare for specialty care without self-diagnosing | [Specialty Care Map](book/part-2-body-risk-map/specialty-care-map.md) |
+| Know what a family health system should actually manage | [What A Family Health System Actually Manages](book/part-3-family-health-os/what-to-manage.md) |
+| Bring useful facts into a clinic visit | [Doctor Visit Preparation](book/part-3-family-health-os/doctor-visit-preparation.md) |
+| Talk with parents without turning care into control | [Talking With Parents About Health](book/part-3-family-health-os/talking-with-parents.md) |
+| Protect older adults' daily abilities before a crisis | [Elder Care Basics](book/part-3-family-health-os/elder-care-basics.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |
 | Slow down before buying a health product | [Health Product Checklist](handbook/templates/health-product-checklist.md) |

@@ -46,6 +46,10 @@
 | 观察大脑、情绪和认知变化，同时不急着贴标签 | [Brain and Mental Health](../../en/book/part-2-body-risk-map/brain-and-mental-health.md) |
 | 让癌症恐惧接回正确下一步 | [Cancer and Major Illness](../../en/book/part-2-body-risk-map/cancer-and-major-illness.md) |
 | 准备专科就医，但不自我诊断 | [Specialty Care Map](../../en/book/part-2-body-risk-map/specialty-care-map.md) |
+| 理解家庭健康系统真正该管理什么 | [What A Family Health System Actually Manages](../../en/book/part-3-family-health-os/what-to-manage.md) |
+| 把有用事实带进诊室 | [Doctor Visit Preparation](../../en/book/part-3-family-health-os/doctor-visit-preparation.md) |
+| 和父母谈健康，同时不把照护变成控制 | [Talking With Parents About Health](../../en/book/part-3-family-health-os/talking-with-parents.md) |
+| 在危机前保护老年人的日常能力 | [Elder Care Basics](../../en/book/part-3-family-health-os/elder-care-basics.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
 | 买健康产品前慢下来 | [Health Product Checklist](../../en/handbook/templates/health-product-checklist.md) |
@@ -80,6 +84,11 @@
 - [Brain and Mental Health 中文验收页](book/part-2-body-risk-map/brain-and-mental-health.md)
 - [Cancer and Major Illness 中文验收页](book/part-2-body-risk-map/cancer-and-major-illness.md)
 - [Specialty Care Map 中文验收页](book/part-2-body-risk-map/specialty-care-map.md)
+- [Part 3 中文验收页](book/part-3-family-health-os/README.md)
+- [What To Manage 中文验收页](book/part-3-family-health-os/what-to-manage.md)
+- [Doctor Visit Preparation 中文验收页](book/part-3-family-health-os/doctor-visit-preparation.md)
+- [Talking With Parents 中文验收页](book/part-3-family-health-os/talking-with-parents.md)
+- [Elder Care Basics 中文验收页](book/part-3-family-health-os/elder-care-basics.md)
 - [Handbook 中文验收页](handbook/README.md)
 - [Playbooks 中文验收页](handbook/playbooks/README.md)
 - [Templates 中文验收页](handbook/templates/README.md)
