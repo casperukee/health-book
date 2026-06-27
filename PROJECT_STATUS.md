@@ -1,6 +1,6 @@
 # Project Status
 
-Last updated: 2026-06-26
+Last updated: 2026-06-27
 
 **Health Youpu / 健康有谱** is an open-source health literacy book for families. The Chinese edition is the source edition. A small English preview is available so international readers, clinicians, and contributors can understand the project direction.
 
@@ -8,24 +8,26 @@ This project is not medical advice. It helps readers prepare, sort risk, and com
 
 ## Current Stage
 
-The project is in the `v0.9.3` public reading and medical-boundary feedback stage.
+The project is in the `v1.0.0` first stable web release and sealed reading-edition release stage.
 
 What is usable today:
 
 - Chinese online reading through the mainland-friendly mirror and GitHub Pages.
+- A sealed Chinese reading edition for platform publication; the `v1.0.0` reading-edition release marker is a byte-for-byte copy of the `v0.9.3` reading edition that has gone through repeated editorial and medical review and has been submitted for WeChat Reading editorial review.
 - A structured Chinese book covering healthspan, checkups, metabolic health, cardiovascular risk, sleep, mental health, children and adolescents, cancer and major illness, specialty care, family health operations, elder care, and health misinformation.
 - Practical handbook pages for warning signs, symptoms, doctor visits, department navigation, checkups, family health cards, chronic marker logs, and health product checks.
 - A lightweight page feedback layer on the mirror site for pageviews, useful/not-useful clicks, copied share text, and comment-entry clicks.
 - An aggregate log summary script for reviewing mirror-site feedback without adding accounts, an API, or a database.
 - An English preview package for the project overview, medical boundaries, symptom guide, department navigation, checkup planning, checkup markers, sleep and recovery, family communication, doctor visit preparation, family health card, and health product checks.
 
-What changed through `v0.9.3`:
+What changed through `v1.0.0`:
 
 - The source Chinese edition now reads more like a family health judgment guide rather than a set of disconnected tools.
+- The Chinese reading edition has been frozen as the first sealed edition, while the public web edition has been synchronized and labeled as `v1.0.0`.
 - The Chinese web edition now has more consistent content, medical boundaries, navigation, cards, tool links, and feedback entry points.
 - The highest-priority Part 2 chapters were expanded or restructured: brain and mental health, children and adolescents, cancer and major illness, and specialty care.
 - The public positioning has been tightened around the Chinese tagline “看懂身体，做对选择”: readers often manage their own risks while also helping parents, partners, children, and older family members.
-- The current Chinese book and handbook have been synchronized to the v0.9.3 content line, including a common-upstream chapter, clearer warning-sign language, and a more explicit domestic cancer-source layer.
+- The current Chinese book and handbook have been synchronized to the v1.0.0 web content line, including a common-upstream chapter, clearer warning-sign language, and a more explicit domestic cancer-source layer.
 - The domestic mirror deployment flow has been clarified: the production mirror is expected to pull from GitHub and build on the server.
 
 ## Maintenance Model
@@ -64,8 +66,9 @@ Public correction and review records live under `content/zh-CN/errata/`. High-ri
 The next maintenance cycle focuses on:
 
 - inviting clinician feedback on the pages that may affect care-seeking behavior, especially warning signs, symptom triage, checkups, mental health, cancer, and specialty care;
-- reviewing the v0.9.3 Chinese web edition for navigation consistency, stale titles, old version labels, and medical-boundary wording;
-- inviting clinician feedback on high-risk pages before treating the edition as medically reviewed;
+- monitoring the `v1.0.0` platform publication path and adding a public WeChat Reading entry only after the listing is live;
+- reviewing the v1.0.0 Chinese web edition for navigation consistency, stale titles, old version labels, and medical-boundary wording;
+- collecting post-publication reader and clinician feedback for future maintenance releases, while preserving the sealed reading-edition content line unless a correction is necessary;
 - reviewing the expanded English preview without turning it into a literal translation;
 - improving high-traffic pages based on mirror-site pageviews and reader feedback;
 - keeping larger future ideas in the roadmap until they have a stable reader problem and evidence boundary.

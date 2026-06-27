@@ -1,0 +1,297 @@
+# English Edition Adaptation Plan
+
+Status: planning
+
+Last updated: 2026-06-28
+
+Source edition: Chinese web and reading-edition content line `v1.0.0`
+
+Primary target: U.S. readers, with globally readable safety boundaries
+
+## Core Decision
+
+The English edition should not be a direct translation of the Chinese edition.
+
+It should be a U.S.-first adaptation of the Chinese `v1.0.0` source edition: the same family health decision system, the same medical boundaries, and the same product spirit, rewritten for readers who use different units, healthcare entry points, preventive-care systems, insurance constraints, family structures, and trusted medical sources.
+
+The English edition should remain useful to non-U.S. English readers by avoiding unnecessary U.S.-only assumptions and by repeatedly reminding readers to use local emergency numbers, local clinicians, local public-health guidance, and local insurance or care-access rules.
+
+## Target Reader
+
+Primary reader:
+
+- adults in the United States who help themselves, parents, partners, children, or older relatives make practical health decisions;
+- people who do not want to become medical experts but want to recognize warning signs, prepare better for visits, keep family health records, and avoid health-marketing traps;
+- family caregivers who deal with fragmented records, primary-care visits, urgent care, ER decisions, medication lists, insurance friction, and long-distance family coordination.
+
+Secondary reader:
+
+- English-speaking readers outside the United States who can use the decision models but must map emergency care, primary care, screening, insurance, and public-health sources to their local systems.
+
+## Adaptation Principles
+
+### 1. Keep the same job, not the same sentences
+
+Each English chapter should preserve the Chinese source chapter's role in the whole book, but it should not copy Chinese paragraph order, examples, jokes, rhythm, or family assumptions.
+
+For each chapter, start from:
+
+- what problem this chapter solves in the book;
+- what a U.S. family is likely facing when they open it;
+- what the reader should be able to do after reading;
+- what medical boundary must not be crossed.
+
+Then rewrite in natural English.
+
+### 2. Localize medical facts and source anchors
+
+High-risk medical facts must be checked against English-language authoritative sources before publication.
+
+Preferred U.S. and international source anchors include:
+
+- CDC, NIH, NHLBI, NCI, NIA, NIMH, MedlinePlus;
+- USPSTF for preventive services and screening;
+- AHA/ACC, ADA, ACS, ACOG, AAP, AGS, and other relevant professional organizations when needed;
+- SAMHSA and 988 resources for mental health crisis boundaries;
+- FDA, FTC, and NCCIH for supplements, devices, health fraud, and consumer health claims;
+- WHO or other international sources when a topic should stay globally framed.
+
+Any numerical threshold, screening interval, unit convention, or medical claim that could change must be checked at drafting time and described with a review date.
+
+### 3. Use U.S. units, with portability where useful
+
+The English U.S.-first edition should use units readers commonly see in U.S. reports and care settings, such as:
+
+- mg/dL for many lipid, glucose, and uric acid discussions;
+- mmHg for blood pressure;
+- lb/in or BMI language where needed, with metric equivalents only when they reduce confusion;
+- U.S.-style lab report language such as reference range, flag, trend, and follow-up.
+
+Do not assume Chinese units, Chinese checkup-package names, or China-specific report conventions. If a chapter discusses international readers, say that units and reference ranges vary by country and lab.
+
+### 4. Adapt the healthcare pathway
+
+The U.S. edition should reflect common U.S. care pathways without pretending they are universal:
+
+- emergency services / 911;
+- ER / emergency department;
+- urgent care;
+- primary care;
+- specialist referral;
+- telehealth;
+- preventive visit / annual wellness or preventive care framing where appropriate;
+- pharmacy and medication reconciliation;
+- discharge instructions and return precautions.
+
+Where insurance, network status, copays, deductibles, prior authorization, or out-of-pocket cost can affect real family decisions, mention them as planning factors, not as medical decision rules.
+
+The book must never imply that cost or insurance concerns should override emergency warning signs.
+
+### 5. Localize family collaboration
+
+Family chapters should not directly translate Chinese parent-child communication patterns.
+
+U.S. family scenarios should consider:
+
+- adult children supporting parents while respecting privacy and autonomy;
+- long-distance caregiving across states;
+- blended families, partners, divorced parents, and chosen family;
+- HIPAA, consent, emergency contacts, advance directives, and patient portals;
+- medication lists, allergies, pharmacy records, discharge papers, and portal messages scattered across systems;
+- caregiving burnout and boundary setting;
+- conversations where a parent does not want to be managed or monitored.
+
+The tone should be collaborative and autonomy-respecting. The English edition should avoid sounding like one family member is taking control of another adult's health.
+
+### 6. Keep non-U.S. readers oriented
+
+When a section is U.S.-specific, say so.
+
+Useful phrasing:
+
+- "In the U.S., this often means..."
+- "If you live elsewhere, map this to your local emergency number, primary-care system, and public-health guidance."
+- "Units and reference ranges vary by country and lab; use your own report's reference range and clinician guidance."
+
+Avoid presenting U.S. screening recommendations, insurance pathways, or crisis resources as universal.
+
+## Version Strategy
+
+The existing English files should remain a preview until they are rewritten against the Chinese `v1.0.0` source edition.
+
+Recommended labels:
+
+- `en-preview`: current early preview pages;
+- `en-v0.1`: English foundation pack ready for review;
+- `en-v0.5`: Part 1 and core safety tools adapted;
+- `en-v0.8`: full main-book draft adapted;
+- `en-v1.0.0`: English edition ready after adaptation, source review, editorial review, and medical-boundary review.
+
+Do not call the English edition `v1.0.0` just because the Chinese edition is `v1.0.0`.
+
+## Work Pack For Each Chapter
+
+Before rewriting any English chapter, create a short adaptation brief:
+
+```text
+English Adaptation Brief
+  - Chinese source path and source version
+  - Chapter job in the whole book
+  - U.S. reader scenario
+  - Non-U.S. portability note
+  - Core model to preserve
+  - Medical boundaries that must not be weakened
+  - U.S. healthcare pathway involved
+  - Insurance/cost/friction points, if relevant
+  - Unit and terminology choices
+  - U.S./international source anchors to verify
+  - Family/cultural localization notes
+```
+
+Then draft the English page from that brief rather than translating sentence by sentence.
+
+## Priority Sequence
+
+### Phase 0: Reset the English edition frame
+
+- Update `content/en/README.md` to say the English edition is being rebuilt as a U.S.-first adaptation from the Chinese `v1.0.0` source edition.
+- Update `content/en/book/README.md` to mirror the Chinese `v1.0.0` structure while marking chapter status clearly.
+- Keep existing English pages as preview material until rewritten.
+- Update `shared/glossary.md` when English terminology decisions become stable.
+
+### Phase 1: Safety and entry pack
+
+Goal: make the English edition safe to browse before the full book exists.
+
+Pages:
+
+- `content/en/book/00-start-here.md`
+- `content/en/book/medical-boundaries.md`
+- `content/en/handbook/playbooks/red-flags.md`
+- `content/en/handbook/playbooks/symptom-action-guide.md`
+- `content/en/handbook/playbooks/doctor-visit-checklist.md`
+- `content/en/handbook/templates/family-health-card.md`
+
+Special U.S. adaptation issues:
+
+- 911, ER, urgent care, primary care, crisis lines, poison control where relevant;
+- "return precautions" and discharge instructions;
+- patient portals and medication lists;
+- family emergency contacts and consent.
+
+### Phase 2: Checkups and risk language
+
+Goal: rebuild Part 1 for U.S. lab reports and preventive-care language.
+
+Pages:
+
+- `healthspan-and-risk-curve.md`
+- `checkup-markers.md`
+- `checkup-planning-guide.md`
+- `common-checkup-markers` equivalent if added in English;
+- `chronic-marker-log.md`
+
+Special U.S. adaptation issues:
+
+- U.S. lab units and report conventions;
+- USPSTF preventive-service framing;
+- primary-care visit versus employer checkup versus direct-to-consumer testing;
+- insurance-covered preventive services versus optional testing;
+- avoiding over-screening and tumor-marker shortcuts.
+
+### Phase 3: Main risk lines
+
+Goal: adapt the body's main risk lines with U.S. source anchors and family action boundaries.
+
+Pages:
+
+- `metabolic-health.md`
+- `cardiovascular-event-chain.md`
+- common-upstream chapter if added to English;
+- `sleep-and-recovery.md`
+- `brain-and-mental-health.md`
+- `cancer-and-major-illness.md`
+- children/adolescent health chapter if added to English;
+- `specialty-care-map.md`
+
+Special U.S. adaptation issues:
+
+- primary care and specialist referral patterns;
+- ER versus urgent care boundaries;
+- mental health crisis resources and access constraints;
+- cancer screening sources and shared decision-making;
+- pediatric and adolescent autonomy, school context, and family support.
+
+### Phase 4: Family health operating system
+
+Goal: localize family coordination for U.S. realities rather than translating Chinese family scenes.
+
+Pages:
+
+- `what-to-manage.md`
+- `doctor-visit-preparation.md`
+- `talking-with-parents.md`
+- `elder-care-basics.md`
+- family record templates.
+
+Special U.S. adaptation issues:
+
+- HIPAA, consent, patient portals, proxy access;
+- advance directives and emergency contacts;
+- Medicare/Medicaid/private insurance as planning context, not medical advice;
+- long-distance caregiving;
+- autonomy-respecting parent conversations;
+- caregiver burnout and support.
+
+### Phase 5: Health information defense
+
+Goal: adapt health-marketing chapters to the U.S. consumer health environment.
+
+Pages:
+
+- `supplement-evidence-traps.md`
+- `devices-tests-and-longevity-marketing.md`
+- `reading-health-news.md`
+- `health-product-checklist.md`
+
+Special U.S. adaptation issues:
+
+- dietary supplements and FDA boundaries;
+- FTC health-advertising concerns;
+- direct-to-consumer tests;
+- wearable devices and wellness claims;
+- longevity clinics, anti-aging marketing, and cash-pay services;
+- distinguishing mechanism, biomarker movement, and patient-important outcomes.
+
+### Phase 6: Publication readiness
+
+Before treating the English edition as ready for broader publication or Amazon/KDP exploration:
+
+- complete the English source registry or source notes for all high-risk chapters;
+- run a medical-boundary review focused on care-seeking, screening, medication, mental health crisis, and cancer content;
+- run an English editorial pass for tone, rhythm, and U.S. reader fit;
+- ensure the book does not read like a translation;
+- decide whether the English book name should remain "Health Youpu" or use a more self-explanatory title/subtitle for English stores;
+- prepare a separate publication package rather than exporting directly from the current preview pages.
+
+Do not upload or publish an English ebook until the English edition has its own review trail.
+
+## Current Assessment Of Existing English Pages
+
+The existing English pages are useful as early previews, but they should not be treated as production-quality English chapters.
+
+They can be reused for:
+
+- basic project vocabulary;
+- links and file structure;
+- a few safety-boundary patterns;
+- early examples of U.S. adaptation.
+
+They should be replaced or substantially rewritten for:
+
+- chapter rhythm and voice;
+- U.S.-specific healthcare pathways;
+- units and lab/report conventions;
+- insurance and access friction;
+- family communication and elder-care scenarios;
+- source review and metadata.

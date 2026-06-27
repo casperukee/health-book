@@ -21,6 +21,7 @@ Before tagging a release, check:
 - reader or clinician feedback that affects the roadmap is captured in GitHub issues or `content/zh-CN/updates/roadmap-and-ideas.md`;
 - the build passes with `npm run docs:build`;
 - public files do not contain private paths, paid-course material, OCR dumps, screenshots, PDFs, or internal working notes;
+- reading-edition EPUB files stay in ignored local notes and are not committed to GitHub or uploaded as GitHub Release assets unless the user explicitly changes this policy;
 - the domestic mirror deployment path still works if the release should be visible on `health.mindarae.com`.
 
 ## Routine Release Steps

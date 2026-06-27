@@ -41,12 +41,12 @@ features:
 
 ## 当前版本
 
-当前版本：**v0.9.3**。
+当前版本：**v1.0.0**。
 
-中文主书和手册已经完成一轮 v0.9.3 内容同步。主线口径收束为“看懂身体，做对选择”：主书适合连续阅读，手册适合遇到具体事情时查用。它仍不是医疗建议，也还没有完成正式专业医学审稿；欢迎读者、医生和相关专业人士继续反馈阅读顺序是否顺、工具是否能用、医学边界是否稳妥。
+中文主书和手册已经完成 v1.0.0 内容同步。主线口径收束为“看懂身体，做对选择”：主书适合连续阅读，手册适合遇到具体事情时查用。它已经过多轮编辑和医学审稿，但仍不是医疗建议；欢迎读者、医生和相关专业人士继续反馈阅读顺序是否顺、工具是否能用、医学边界是否稳妥。
 
 英文版目前保留少量预览页，用于展示项目方向和医学边界；中文仍是源版本。
 
 ## 反馈与维护
 
-读者反馈、参考资料和开源协作放在阅读之后处理： [v0.9.3 试读与反馈说明](content/zh-CN/feedback/gray-trial-guide.md)、[权威医学资料入口](content/zh-CN/references/official-medical-sources.md)、[勘误、更新与反馈](content/zh-CN/errata/README.md)、[GitHub 开源项目](https://github.com/casperukee/health-book)。
+读者反馈、参考资料和开源协作放在阅读之后处理： [反馈与维护说明](content/zh-CN/feedback/gray-trial-guide.md)、[权威医学资料入口](content/zh-CN/references/official-medical-sources.md)、[勘误、更新与反馈](content/zh-CN/errata/README.md)、[GitHub 开源项目](https://github.com/casperukee/health-book)。
