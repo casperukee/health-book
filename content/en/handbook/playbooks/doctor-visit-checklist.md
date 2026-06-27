@@ -1,10 +1,11 @@
 ---
-status: preview
+status: content-review
 language: en
 canonical_slug: doctor-visit-checklist
 zh_path: ../../../zh-CN/handbook/playbooks/doctor-visit-checklist.md
-translation_status: preview-adaptation
-last_reviewed: 2026-06-05
+review_path: ../../../en-review/zh-CN/handbook/playbooks/doctor-visit-checklist.md
+translation_status: en-v0.1-adaptation-draft
+last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: stable
 ---
@@ -13,26 +14,22 @@ evidence_status: stable
 
 > This page is not medical advice. If warning signs are present, seek emergency or urgent care first. Do not delay care in order to complete a checklist.
 
-Clinic time is short. Families do not need to become doctors, but they can bring better facts into the room.
+[中文验收页](../../../en-review/zh-CN/handbook/playbooks/doctor-visit-checklist.md)
 
-The goal of visit preparation is simple:
+Clinic time is short. The most useful family contribution is not a theory about the diagnosis. It is a clear timeline, medication list, relevant records, and the questions that need an answer.
 
-> Help the real situation reach the clinician faster.
-
-If you are not sure whether this is emergency, urgent, or safe to watch, start with the [Symptom Action Guide](symptom-action-guide.md).
+If you are not sure whether the situation is urgent, start with the [Symptom Action Guide](symptom-action-guide.md).
 
 ## A 30-Second Opening
 
-Many visits start chaotically: family members jump to conclusions, the patient starts too far back, and the clinician has not heard the current problem yet.
-
-Try this opening:
+Use this structure at the beginning of a visit:
 
 ```text
 The main thing I want help with today is:
 It started:
 What changed recently:
 What it affects most:
-What records I brought:
+What records I brought or can open:
 The question I most need answered:
 ```
 
@@ -42,15 +39,15 @@ Example:
 I am here for chest tightness.
 It started about two weeks ago. In the past three days, climbing two flights of stairs makes it more noticeable, and rest helps after a few minutes.
 I have not fainted, but I had sweating twice.
-I have high blood pressure and diabetes. I brought my recent checkup, medication list, and home blood pressure records.
-My main question is: does this need further testing, and what should make me seek urgent care?
+I have high blood pressure and diabetes. I brought my recent labs, medication list, and home blood pressure records.
+My main question is: what should we check next, and what should make me seek urgent care?
 ```
 
-This is not diagnosing yourself. It is giving the clinician a usable timeline, severity, background, and decision question.
+This is not self-diagnosis. It gives the clinician a usable timeline, severity, background, and decision question.
 
-## One-Page Version
+## One-Page Visit Prep
 
-Fill this before a visit. Even a partial version helps.
+Fill what you can before the visit.
 
 ```text
 Main concern for this visit:
@@ -68,7 +65,7 @@ Important background:
 - Existing conditions:
 - Surgery / hospital / ER history:
 - Recent tests or imaging:
-- Recent infection, injury, pregnancy/postpartum, travel, or stress:
+- Recent infection, injury, pregnancy/postpartum, travel, or major stress:
 
 Current use:
 - Prescription medications:
@@ -101,19 +98,19 @@ Bring facts:
 - associated symptoms such as fever, chest pain, shortness of breath, dizziness, vomiting, bleeding, weight change, or sleep disruption;
 - whether it affects eating, walking, work, school, caregiving, mood, or sleep.
 
-“I get chest tightness after two flights of stairs, and it improves after five minutes of rest” is more useful than “I think my heart is bad.”
+"I get chest tightness after two flights of stairs, and it improves after five minutes of rest" is more useful than "I think my heart is bad."
 
 ### 2. Prior Records
 
 Bring or make quickly accessible:
 
 - existing conditions;
-- prior surgeries, hospitalizations, ER visits;
+- prior surgeries, hospitalizations, emergency visits;
 - recent checkups, labs, imaging, pathology, discharge summaries;
 - relevant family history;
 - recent infection, injury, pregnancy/postpartum period, travel, or major stress.
 
-Not every record needs to be printed. The key is being able to find important reports quickly.
+Not every record needs to be printed. The key is being able to find important reports quickly in a portal, folder, phone, or printed packet.
 
 ### 3. Medications And Allergies
 
@@ -141,25 +138,11 @@ Prepare at most 3-5 questions, sorted by importance:
 - How should medication be taken, and what should we do if side effects, missed doses, or access problems occur?
 - What does the family need to help with?
 
-If you have many questions, group them:
-
-| Question type | Ask |
-| --- | --- |
-| Direction | What are the main possibilities? What is uncertain? What should not be missed? |
-| Next action | Test, medication, observation, referral, or follow-up? What is each step for? |
-| Home boundary | What is expected recovery? What should make us return early or seek urgent care? |
-
 ## If Someone Accompanies The Patient
 
-A companion can help with:
+A companion can help with records, notes, medication details, follow-up planning, and transportation.
 
-- bringing records;
-- taking notes;
-- filling in history;
-- clarifying medication and follow-up;
-- turning the clinician’s advice into home actions afterward.
-
-The companion should not replace the patient’s voice when the patient can speak for themselves.
+The companion should not replace the patient's voice when the patient can speak for themselves. Ask first before sharing sensitive information, taking notes, or requesting portal access.
 
 ## Before Leaving
 
@@ -181,7 +164,7 @@ If these happen, I should return early or seek urgent care:
 
 If the clinician corrects your summary, that correction is valuable.
 
-After the visit, write the plan into a family health record or at least update the [Family Health Card](../templates/family-health-card.md).
+After the visit, update the [Family Health Card](../templates/family-health-card.md) or the relevant family record.
 
 ## How This Page Connects
 
@@ -189,20 +172,16 @@ After the visit, write the plan into a family health record or at least update t
 | --- | --- |
 | Not sure whether this is urgent | [Symptom Action Guide](symptom-action-guide.md) |
 | Missing medical history, allergies, medications, or contacts | [Family Health Card](../templates/family-health-card.md) |
-| Need a fuller family record | Use the Chinese source template for now: [家庭健康档案模板](../../../zh-CN/handbook/templates/family-health-record.md) |
+| Need to understand checkup results | [Checkup Markers](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
 
-## Emergency Exception
+## Public Sources
 
-If warning signs are present, seek emergency or urgent care first. The checklist is for communication, not delay.
-
-## Sources
-
-As of 2026-06-05, this preview page draws on:
+Reviewed on 2026-06-28:
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
-- AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
-- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
+- AHRQ: [Questions Are the Answer](https://www.ahrq.gov/questions/index.html)
+- HealthIT.gov: [Get It, Check It, Use It](https://www.healthit.gov/how-to-get-your-health-record/)
 
 ## Last Reminder
 
-Preparing timelines, records, medications, allergies, and questions is one of the most useful things a family can do for a clinician.
+A timeline, medication list, allergies, records, and 1-3 questions can make a short visit much more useful.

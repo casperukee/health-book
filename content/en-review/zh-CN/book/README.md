@@ -27,7 +27,7 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 
 - [Sleep and Recovery](../../../en/book/part-2-body-risk-map/sleep-and-recovery.md)
 
-这一部分会看长期风险线，例如代谢健康、心血管风险、睡眠、心理健康、癌症和专科问题。目标不是自我诊断，而是知道该记录什么、该问什么，以及什么时候问题需要专业照护。
+这一部分会看长期风险线，例如代谢健康、心血管风险、睡眠、心理健康、癌症和专科问题。不要用它来自我诊断；用它来知道该记录什么、该问什么，以及什么时候问题需要专业照护。
 
 ## Part 3：家庭健康协作
 
@@ -46,6 +46,7 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 当家庭需要下一步行动时，手册是最快入口：
 
 - [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)
+- [Red Flags](../../../en/handbook/playbooks/red-flags.md)
 - [Emergency, Clinic, or Which Department?](../../../en/handbook/playbooks/department-navigation-guide.md)
 - [Before a Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md)
 - [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)

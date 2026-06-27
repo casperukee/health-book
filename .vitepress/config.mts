@@ -87,8 +87,10 @@ const englishSidebar = [
     items: [
       { text: 'Overview', link: '/content/en/README' },
       { text: 'Book Contents', link: '/content/en/book/README' },
+      { text: 'Handbook', link: '/content/en/handbook/README' },
       { text: 'Start Here', link: '/content/en/book/00-start-here' },
       { text: 'Medical Boundaries', link: '/content/en/book/medical-boundaries' },
+      { text: 'Red Flags', link: '/content/en/handbook/playbooks/red-flags' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
       { text: 'Department Navigation', link: '/content/en/handbook/playbooks/department-navigation-guide' },
       { text: 'Before A Checkup', link: '/content/en/handbook/playbooks/checkup-planning-guide' },
@@ -142,7 +144,6 @@ export default defineConfig({
     'content/en/errata/**',
     'content/en/references/**',
     'content/en/updates/**',
-    'content/en/handbook/playbooks/red-flags.md',
     'content/en/handbook/templates/chronic-marker-log.md',
     'content/en/handbook/templates/family-health-record.md'
   ],

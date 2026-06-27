@@ -23,7 +23,7 @@ This part helps readers treat lab and checkup results as risk language rather th
 
 - [Sleep and Recovery](part-2-body-risk-map/sleep-and-recovery.md)
 
-This part looks at long-running risk lines such as metabolic health, cardiovascular risk, sleep, mental health, cancer, and specialty-care questions. The goal is not self-diagnosis; it is knowing what to record, what to ask, and when a problem needs professional care.
+This part looks at long-running risk lines such as metabolic health, cardiovascular risk, sleep, mental health, cancer, and specialty-care questions. Do not use it for self-diagnosis; use it to know what to record, what to ask, and when a problem needs professional care.
 
 ## Part 3: Family Health Coordination
 
@@ -42,6 +42,7 @@ This part helps readers slow down before acting on supplements, devices, tests, 
 The handbook is the fastest place to go when a family needs a next action:
 
 - [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
+- [Red Flags](../handbook/playbooks/red-flags.md)
 - [Emergency, Clinic, or Which Department?](../handbook/playbooks/department-navigation-guide.md)
 - [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
 - [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)

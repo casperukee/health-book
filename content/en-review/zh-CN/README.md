@@ -34,6 +34,7 @@
 | --- | --- |
 | 开始阅读 | [Start Here](../../en/book/00-start-here.md) |
 | 检查医学安全边界 | [Medical Boundaries and Warning Signs](../../en/book/medical-boundaries.md) |
+| 判断情况是否可能需要紧急求助 | [Red Flags](../../en/handbook/playbooks/red-flags.md) |
 | 判断症状下一步 | [Symptom Action Guide](../../en/handbook/playbooks/symptom-action-guide.md) |
 | 在急诊、门诊和科室入口之间选择 | [Emergency, Clinic, or Which Department?](../../en/handbook/playbooks/department-navigation-guide.md) |
 | 准备预防性就诊或体检 | [Before a Checkup](../../en/handbook/playbooks/checkup-planning-guide.md) |
@@ -61,3 +62,11 @@
 
 - [英文主书目录中文验收页](book/README.md)
 - [Start Here 中文验收页](book/00-start-here.md)
+- [Medical Boundaries 中文验收页](book/medical-boundaries.md)
+- [Handbook 中文验收页](handbook/README.md)
+- [Playbooks 中文验收页](handbook/playbooks/README.md)
+- [Templates 中文验收页](handbook/templates/README.md)
+- [Red Flags 中文验收页](handbook/playbooks/red-flags.md)
+- [Symptom Action Guide 中文验收页](handbook/playbooks/symptom-action-guide.md)
+- [Doctor Visit Checklist 中文验收页](handbook/playbooks/doctor-visit-checklist.md)
+- [Family Health Card 中文验收页](handbook/templates/family-health-card.md)

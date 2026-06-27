@@ -28,6 +28,7 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | --- | --- |
 | Begin reading | [Start Here](book/00-start-here.md) |
 | Check the medical safety boundary | [Medical Boundaries and Warning Signs](book/medical-boundaries.md) |
+| Check whether a situation may need urgent help | [Red Flags](handbook/playbooks/red-flags.md) |
 | Decide what to do with symptoms | [Symptom Action Guide](handbook/playbooks/symptom-action-guide.md) |
 | Choose between emergency, clinic, and department entry points | [Emergency, Clinic, or Which Department?](handbook/playbooks/department-navigation-guide.md) |
 | Prepare for a preventive visit or checkup | [Before a Checkup](handbook/playbooks/checkup-planning-guide.md) |
