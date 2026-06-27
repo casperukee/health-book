@@ -86,7 +86,7 @@ const englishSidebar = [
     text: 'English Web Edition',
     items: [
       { text: 'Overview', link: '/content/en/README' },
-      { text: 'Book Roadmap', link: '/content/en/book/README' },
+      { text: 'Book Contents', link: '/content/en/book/README' },
       { text: 'Start Here', link: '/content/en/book/00-start-here' },
       { text: 'Medical Boundaries', link: '/content/en/book/medical-boundaries' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },

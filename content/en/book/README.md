@@ -1,84 +1,53 @@
-# English Book Roadmap
+# Book Contents
 
-The English book is being rebuilt as a **U.S.-first web adaptation** of the Chinese `v1.0.0` source edition.
-
-The structure below mirrors the Chinese source book, but the English pages are not direct translations. Each chapter needs its own adaptation brief, U.S. source check, medical-boundary pass, and Chinese review companion before it should be treated as production-ready English content.
+> This book is not medical advice. It cannot replace diagnosis, emergency care, treatment, medication decisions, screening decisions, mental health crisis support, or guidance from qualified clinicians.
 
 [中文验收页](../../en-review/zh-CN/book/README.md)
 
-## Status Key
+Health Youpu is not organized like a medical encyclopedia. It follows the order in which families often meet health problems: safety first, then risk language, body risk lines, family coordination, and health information defense.
 
-| Status | Meaning |
-| --- | --- |
-| Adaptation draft | Rewritten against the Chinese `v1.0.0` source line, but still needs editorial and medical-boundary review |
-| Foundation preview | Browseable now, useful for orientation, but still needs a full `v1.0.0` adaptation pass |
-| Rewrite target | Included in the first English rebuild sequence |
-| Planned | Part of the English structure, but not yet ready as a web page |
-| Source gap | Present in the Chinese `v1.0.0` source structure but not yet created or published in English |
+## Start Here
 
-## Front Matter
+- [Start Here](00-start-here.md)
+- [Medical Boundaries and Warning Signs](medical-boundaries.md)
 
-| Chapter | English status | Notes |
-| --- | --- | --- |
-| [Start Here](00-start-here.md) | Adaptation draft | First U.S.-first web entry pass completed; needs editorial and medical-boundary review |
-| [Medical Boundaries and Warning Signs](medical-boundaries.md) | Foundation preview; rewrite target | Recheck emergency, urgent care, crisis, pregnancy/postpartum, stroke, heart attack, sepsis, poisoning, and medication-safety boundaries |
+Read these first if someone feels unwell, if a family member is unsure whether waiting is safe, or if you want to understand what this book can and cannot do.
 
-## Part 1: Healthspan, Risk Curves, and Checkup Markers
+## Part 1: Healthspan, Risk, And Checkup Markers
 
-| Chapter | English status | Notes |
-| --- | --- | --- |
-| Healthspan and Risk Curve | Planned | Preserve the source model, but adapt examples around function, preventive care, caregiving, and long-term risk |
-| [Checkup Markers](part-1-healthspan-risk-and-markers/checkup-markers.md) | Foundation preview; rewrite target | Rebuild around U.S. lab units, reference ranges, trends, follow-up, and primary-care interpretation |
+- [Checkup Markers](part-1-healthspan-risk-and-markers/checkup-markers.md)
+
+This part helps readers treat lab and checkup results as risk language rather than as verdicts. The focus is on reference ranges, trends, combinations, background risk, and next actions.
 
 ## Part 2: The Body's Main Risk Lines
 
-| Chapter | English status | Notes |
-| --- | --- | --- |
-| Metabolic Health | Planned | Adapt blood pressure, lipids, glucose, uric acid, weight, kidney, and cardiometabolic source anchors |
-| Cardiovascular Event Chain | Planned | Recheck AHA/ACC and emergency-boundary language before publication |
-| Common Upstream | Source gap | Chinese `v1.0.0` includes this chapter; the English structure should add it after the model is adapted |
-| [Sleep and Recovery](part-2-body-risk-map/sleep-and-recovery.md) | Foundation preview | Needs a U.S. editorial and source pass before it becomes a production chapter |
-| Brain and Mental Health | Planned | Must localize crisis support, 988, primary care, behavioral health access, family safety planning, and function-based boundaries |
-| Cancer and Major Illness | Planned | Must align screening language with USPSTF, NCI, ACS where relevant, and avoid individualized screening advice |
-| Children and Adolescent Health | Source gap | Chinese `v1.0.0` includes this chapter; English adaptation needs pediatric, school, privacy, and family-autonomy localization |
-| Specialty Care Map | Planned | Should explain entry points without training readers to self-diagnose or bypass clinical judgment |
+- [Sleep and Recovery](part-2-body-risk-map/sleep-and-recovery.md)
 
-## Part 3: Family Health Operating System
+This part looks at long-running risk lines such as metabolic health, cardiovascular risk, sleep, mental health, cancer, and specialty-care questions. The goal is not self-diagnosis; it is knowing what to record, what to ask, and when a problem needs professional care.
 
-| Chapter | English status | Notes |
-| --- | --- | --- |
-| What To Manage | Planned | Adapt around records, portals, pharmacies, discharge instructions, and emergency contacts |
-| Doctor Visit Preparation | Planned | Should connect to the handbook checklist and focus on timelines, medications, records, and 1-3 visit questions |
-| [Talking With Parents](part-3-family-health-os/talking-with-parents.md) | Foundation preview | Needs a U.S. rewrite around autonomy, privacy, consent, long-distance caregiving, and chosen family |
-| Elder Care Basics | Planned | Must cover falls, cognition, medications, activities of daily living, caregiver burden, and advance planning without giving medical directives |
+## Part 3: Family Health Coordination
+
+- [Talking With Parents](part-3-family-health-os/talking-with-parents.md)
+
+Health often becomes a family workflow: records, visits, medications, follow-up, privacy, consent, and conversations with people who may not want to be managed. This part focuses on cooperation without control.
 
 ## Part 4: Health Information Defense
 
-| Chapter | English status | Notes |
-| --- | --- | --- |
-| Supplement Evidence Traps | Planned | Should use FDA, FTC, NCCIH, and consumer health-fraud boundaries |
-| [Devices, Tests, and Longevity Marketing](part-4-health-information-defense/devices-tests-and-longevity-marketing.md) | Foundation preview | Needs U.S. direct-to-consumer testing, wearable, wellness, and cash-pay longevity-clinic localization |
-| Reading Health News | Planned | Should teach source, applicability, absolute risk, surrogate endpoint, and action-risk checks |
+- [Devices, Tests, and Longevity Marketing](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
 
-## After Reading
+This part helps readers slow down before acting on supplements, devices, tests, longevity services, health news, and short-form health content.
 
-| Page | English status | Notes |
-| --- | --- | --- |
-| After Reading | Source gap | Add only after the main English reading path has a coherent first pass |
+## Practical Tools
 
-## Handbook Connection
+The handbook is the fastest place to go when a family needs a next action:
 
-The English handbook is the practical layer of the book. The first rebuild should prioritize:
+- [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
+- [Emergency, Clinic, or Which Department?](../handbook/playbooks/department-navigation-guide.md)
+- [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
+- [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
+- [Family Health Card](../handbook/templates/family-health-card.md)
+- [Health Product Checklist](../handbook/templates/health-product-checklist.md)
 
-- red flags;
-- symptom action guide;
-- doctor visit checklist;
-- family health card;
-- checkup planning guide;
-- health product checklist.
+## Reading Path
 
-See [Handbook Preview](../handbook/README.md).
-
-## Publication Boundary
-
-The English web edition should be reviewed page by page before any English reading edition or Amazon/KDP package is considered. A browseable preview is not the same thing as a finished English book.
+If you are reading rather than looking up a tool, start with [Start Here](00-start-here.md), then read [Medical Boundaries and Warning Signs](medical-boundaries.md). After that, move between the book and the handbook as real situations come up.

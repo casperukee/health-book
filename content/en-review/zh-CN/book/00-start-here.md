@@ -74,7 +74,7 @@
 使用：
 
 - [Family Health Card](../../../en/handbook/templates/family-health-card.md)
-- [Handbook Preview](../../../en/handbook/README.md)
+- [Handbook](../../../en/handbook/README.md)
 
 对美国家庭来说，准备工作还可能包括 patient portal、proxy access、HIPAA 授权、紧急联系人、advance directives 和远距离照护。这些细节很重要，但第一步仍然简单：在压力时刻到来前，让关键信息找得到。
 
@@ -89,7 +89,7 @@
 - [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)
 - [Devices, Tests, and Longevity Marketing](../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
 
-目标不是对所有健康产品都犬儒化。目标是把有用准备和压力销售、恐惧、模糊科学、跑得比证据更快的宣称分开。
+你不需要对所有健康产品都犬儒化。你需要把有用准备和压力销售、恐惧、模糊科学、跑得比证据更快的宣称分开。
 
 ## 怎么读这本书
 
@@ -102,7 +102,7 @@
 | 现在已经有事发生 | 先看安全边界，再用相关手册页判断要收集什么信息、走哪条照护路径 |
 | 没有急事 | 连续阅读主书，在下一次压力时刻来临前建立更冷静的家庭健康判断系统 |
 
-英文版是美国优先，但底层习惯可以迁移：先分急缓，收集事实，必要时使用合格医疗资源，并保持尊重的家庭协作。美国以外的读者需要把就医路径、急救电话、筛查建议、保险规则和公共卫生来源映射到本地系统。
+这个网站的例子常常使用美国就医路径，但底层习惯可以迁移：先分急缓，收集事实，必要时使用合格医疗资源，并保持尊重的家庭协作。美国以外的读者需要把急救电话、就医路径、筛查建议、保险规则和公共卫生来源映射到本地系统。
 
 ## 三层结构
 
@@ -110,7 +110,7 @@
 | --- | --- | --- |
 | Book | 解释风险语言、医学边界、家庭协作和健康信息误导 | 当你想理解模式，而不是只查一个症状 |
 | Handbook | 提供实用清单和模板 | 有症状、要就医、需要建记录、或要检查产品宣称时 |
-| Review and maintenance | 记录来源、勘误、更新和英文版中文验收页 | 想检查项目怎样维护时 |
+| References and updates | 记录来源、勘误和更新 | 想检查项目怎样维护时 |
 
 这本书的任务不是替代医生，而是帮助家庭提出更好的问题、保留更好的记录，并识别什么时候问题应该交给专业医疗。
 
@@ -133,7 +133,7 @@
 ## 下一步
 
 - [Medical Boundaries and Warning Signs](../../../en/book/medical-boundaries.md)
-- [Book Roadmap](../../../en/book/README.md)
+- [Book Contents](../../../en/book/README.md)
 - [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)
 - [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](../../../en/handbook/templates/family-health-card.md)

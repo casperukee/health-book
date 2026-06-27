@@ -74,7 +74,7 @@ The first useful family health record is often a one-page card:
 Use:
 
 - [Family Health Card](../handbook/templates/family-health-card.md)
-- [Handbook Preview](../handbook/README.md)
+- [Handbook](../handbook/README.md)
 
 For U.S. families, preparation may also involve patient portals, proxy access, HIPAA permissions, emergency contacts, advance directives, and long-distance caregiving. Those details matter, but the first step is still simple: make the key facts findable before a stressful moment.
 
@@ -89,7 +89,7 @@ Use:
 - [Health Product Checklist](../handbook/templates/health-product-checklist.md)
 - [Devices, Tests, and Longevity Marketing](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
 
-The goal is not to become cynical about every health product. The goal is to separate useful preparation from pressure, fear, vague science, and claims that move faster than evidence.
+You do not need to become cynical about every health product. You do need to separate useful preparation from pressure, fear, vague science, and claims that move faster than evidence.
 
 ## How To Read This Book
 
@@ -102,7 +102,7 @@ Use the book in two modes:
 | Something is happening now | Start with safety boundaries, then use the relevant handbook page to decide what information to gather and what care pathway to use |
 | No urgent issue | Read through the book to build a calmer family health decision system before the next stressful moment |
 
-The English edition is U.S.-first, but the underlying habit is portable: sort urgency, collect facts, use qualified care when needed, and keep family cooperation respectful. If you live outside the U.S., map the care pathways, emergency numbers, screening guidance, insurance rules, and public-health sources to your local system.
+The examples on this site often use U.S. care pathways. The underlying habit is portable: sort urgency, collect facts, use qualified care when needed, and keep family cooperation respectful. If you live outside the U.S., map emergency numbers, care pathways, screening guidance, insurance rules, and public-health sources to your local system.
 
 ## The Three Layers
 
@@ -110,7 +110,7 @@ The English edition is U.S.-first, but the underlying habit is portable: sort ur
 | --- | --- | --- |
 | Book | Explains risk language, medical boundaries, family coordination, and health misinformation | When you want to understand the pattern, not just one symptom |
 | Handbook | Provides practical checklists and templates | When someone has symptoms, a visit is coming, a record needs to be made, or a product claim needs checking |
-| Review and maintenance | Tracks sources, corrections, updates, and Chinese review companions for the English edition | When you want to inspect how the project is maintained |
+| References and updates | Tracks sources, corrections, and updates | When you want to inspect how the project is maintained |
 
 The book's job is not to replace clinicians. It is to help families ask better questions, keep better records, and recognize when a problem belongs in professional care.
 
@@ -133,7 +133,7 @@ These actions will not make a family medically independent. They can reduce pani
 ## Next
 
 - [Medical Boundaries and Warning Signs](medical-boundaries.md)
-- [Book Roadmap](README.md)
+- [Book Contents](README.md)
 - [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
 - [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](../handbook/templates/family-health-card.md)
