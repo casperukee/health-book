@@ -43,6 +43,9 @@
 | 把血压、胆固醇、血糖和尿酸读成连接模式 | [Metabolic Health](../../en/book/part-2-body-risk-map/metabolic-health.md) |
 | 理解为什么心梗和卒中常常只是终点突然 | [Cardiovascular Event Chain](../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md) |
 | 把睡眠当作恢复系统，而不是每晚分数 | [Sleep and Recovery](../../en/book/part-2-body-risk-map/sleep-and-recovery.md) |
+| 观察大脑、情绪和认知变化，同时不急着贴标签 | [Brain and Mental Health](../../en/book/part-2-body-risk-map/brain-and-mental-health.md) |
+| 让癌症恐惧接回正确下一步 | [Cancer and Major Illness](../../en/book/part-2-body-risk-map/cancer-and-major-illness.md) |
+| 准备专科就医，但不自我诊断 | [Specialty Care Map](../../en/book/part-2-body-risk-map/specialty-care-map.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
 | 买健康产品前慢下来 | [Health Product Checklist](../../en/handbook/templates/health-product-checklist.md) |
@@ -74,6 +77,9 @@
 - [Metabolic Health 中文验收页](book/part-2-body-risk-map/metabolic-health.md)
 - [Cardiovascular Event Chain 中文验收页](book/part-2-body-risk-map/cardiovascular-event-chain.md)
 - [Sleep and Recovery 中文验收页](book/part-2-body-risk-map/sleep-and-recovery.md)
+- [Brain and Mental Health 中文验收页](book/part-2-body-risk-map/brain-and-mental-health.md)
+- [Cancer and Major Illness 中文验收页](book/part-2-body-risk-map/cancer-and-major-illness.md)
+- [Specialty Care Map 中文验收页](book/part-2-body-risk-map/specialty-care-map.md)
 - [Handbook 中文验收页](handbook/README.md)
 - [Playbooks 中文验收页](handbook/playbooks/README.md)
 - [Templates 中文验收页](handbook/templates/README.md)

@@ -25,6 +25,9 @@ This part helps readers connect long-term function, major risk lines, family rea
 - [Metabolic Health](part-2-body-risk-map/metabolic-health.md)
 - [Cardiovascular Event Chain](part-2-body-risk-map/cardiovascular-event-chain.md)
 - [Sleep and Recovery](part-2-body-risk-map/sleep-and-recovery.md)
+- [Brain and Mental Health](part-2-body-risk-map/brain-and-mental-health.md)
+- [Cancer and Major Illness](part-2-body-risk-map/cancer-and-major-illness.md)
+- [Specialty Care Map](part-2-body-risk-map/specialty-care-map.md)
 
 This part looks at long-running risk lines such as metabolic health, cardiovascular risk, sleep, mental health, cancer, and specialty-care questions. Do not use it for self-diagnosis; use it to know what to record, what to ask, and when a problem needs professional care.
 

@@ -30,7 +30,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准卒中危险信号、B.E. F.A.S.T. 和症状出现时间记录。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
 
@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -50,7 +50,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方孕产危险信号资料
 - 用途：校准孕期和产后一年内需要立即就医的危险信号。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-14
 
@@ -852,7 +852,7 @@
 - 机构：National Institute on Aging, NIH
 - 类型：美国官方老年健康资料
 - 用途：校准认知健康、正常衰老和需要关注的认知变化。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -862,7 +862,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准可改变风险因素和痴呆风险降低的谨慎表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -872,7 +872,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准痴呆症状、日常功能变化和专业评估边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -882,7 +882,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准抑郁症状、治疗和求助边界的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -892,7 +892,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准焦虑障碍和专业帮助边界的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -912,7 +912,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准心理健康何时需要求助的公众判断边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -972,7 +972,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方自杀预防资料
 - 用途：校准自杀风险、危机求助和家庭不能继续单独观察的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-14
 
@@ -1035,7 +1035,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症基础资料
 - 用途：校准癌症、良性和恶性肿瘤、转移、基因变化、年龄相关风险和肿瘤微环境的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1045,7 +1045,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方癌症预防资料
 - 用途：校准癌症预防、疫苗、筛查和健康选择相关公众健康边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1055,7 +1055,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方癌症风险因素资料
 - 用途：校准烟草、饮酒、感染、日晒、肥胖、家族史等常见癌症风险因素的公众健康表达。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1065,7 +1065,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方癌症预防生活方式资料
 - 用途：校准不吸烟、少饮酒、防晒、身体活动、体重管理和疫苗等低风险长期健康行动。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1075,7 +1075,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症资料
 - 用途：校准癌症筛查的收益、局限、假阳性、假阴性和过度诊断边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1085,7 +1085,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症资料
 - 用途：提供常见癌症筛查测试入口和患者教育边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1095,7 +1095,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症筛查研究资料
 - 用途：校准多癌种检测、液体活检类早筛产品仍需研究验证、阳性后需要后续诊断路径的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1105,7 +1105,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症诊断资料
 - 用途：校准有症状或筛查异常时进入诊断评估，而不是继续按普通筛查处理的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1115,7 +1115,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准公众癌症筛查测试入口和筛查不是越多越好的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1125,7 +1125,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症资料
 - 用途：校准癌症治疗类型和治疗决策需由专业团队判断的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1175,7 +1175,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症缓和医疗资料
 - 用途：校准缓和医疗可以和抗癌治疗并行、重点处理症状和生活质量，而不是等同于放弃治疗的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1185,7 +1185,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症照护者资料
 - 用途：校准癌症家庭照护、照护者压力、远程照护和照护分工相关表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/en/book/part-2-body-risk-map/cancer-and-major-illness.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1323,7 +1323,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准选择医疗服务、专科就医和患者资料入口。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1343,7 +1343,7 @@
 - 机构：Agency for Healthcare Research and Quality
 - 类型：美国官方患者沟通资料
 - 用途：校准就医前、中、后的提问、记录和参与医疗团队的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/book/part-3-family-health-os/what-to-manage.md`、`content/zh-CN/book/part-3-family-health-os/doctor-visit-preparation.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1353,7 +1353,7 @@
 - 机构：National Eye Institute, NIH
 - 类型：美国官方眼健康资料入口
 - 用途：校准眼科资料入口、眼病信息和视觉健康边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1363,7 +1363,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准眼痛、视力下降、眼部外伤、红眼伴视力变化等需要及时医学判断的边界。
-- 已用于：`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -1373,7 +1373,7 @@
 - 机构：National Institute of Diabetes and Digestive and Kidney Diseases, NIH
 - 类型：美国官方泌尿健康资料
 - 用途：校准膀胱控制、尿失禁和泌尿生活质量资料入口。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1383,7 +1383,7 @@
 - 机构：National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH
 - 类型：美国官方骨骼肌肉健康资料
 - 用途：校准腰背痛、运动系统症状和就医边界资料入口。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-14
 
@@ -1393,7 +1393,7 @@
 - 机构：American Dental Association
 - 类型：专业协会口腔健康资料
 - 用途：校准骨质疏松相关抗骨吸收药、地舒单抗等用药与药物相关颌骨坏死风险的公众沟通边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-17
 
@@ -1403,7 +1403,7 @@
 - 机构：Scottish Dental Clinical Effectiveness Programme
 - 类型：牙科临床指导
 - 用途：校准正在使用抗凝或抗血小板药物的人接受牙科处理时，需要主动说明用药且不自行停药的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/zh-CN/handbook/playbooks/doctor-visit-checklist.md`、`content/en/book/part-2-body-risk-map/specialty-care-map.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-17
 
