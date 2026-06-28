@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1700" viewBox="0 0 1200 1700" role="img" aria-label="30 秒看下一步：家庭求助入口判断图">
+  <defs>
+    <filter id="shadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="10" stdDeviation="18" flood-color="#203d36" flood-opacity="0.10"/>
+    </filter>
+    <style>
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif;
+        dominant-baseline: alphabetic;
+      }
+      .title { font-size: 58px; font-weight: 900; fill: #1f302d; }
+      .sub { font-size: 28px; font-weight: 600; fill: #66736f; }
+      .step { font-size: 28px; font-weight: 900; fill: #ffffff; }
+      .head { font-size: 40px; font-weight: 900; fill: #1f302d; }
+      .body { font-size: 28px; font-weight: 650; fill: #43534f; }
+      .small { font-size: 24px; font-weight: 600; fill: #66736f; }
+      .action { font-size: 30px; font-weight: 900; fill: #1f302d; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="1700" fill="#f8fbf8"/>
+  <circle cx="1030" cy="110" r="190" fill="#e2f3ed" opacity="0.55"/>
+  <circle cx="80" cy="1580" r="180" fill="#e5f0f8" opacity="0.45"/>
+
+  <rect x="70" y="58" width="122" height="44" rx="22" fill="#e2f3ed"/>
+  <text x="131" y="89" text-anchor="middle" font-size="22" font-weight="900" fill="#157c78">速查图</text>
+  <text x="70" y="174" class="title">30 秒看下一步</text>
+  <text x="72" y="230" class="sub">不是医学分诊标准，只帮助家庭决定先求助还是先记录</text>
+
+  <g filter="url(#shadow)">
+    <rect x="105" y="292" width="990" height="128" rx="40" fill="#ffffff" stroke="#c9d8d2" stroke-width="2"/>
+  </g>
+  <text x="600" y="350" text-anchor="middle" class="head">现在身体不舒服</text>
+  <text x="600" y="394" text-anchor="middle" class="body">按顺序看：先排不能等，再看能不能观察</text>
+
+  <line x1="600" y1="420" x2="600" y2="1320" stroke="#248f75" stroke-width="12" stroke-linecap="round" opacity="0.88"/>
+  <circle cx="600" cy="515" r="26" fill="#248f75"/>
+  <circle cx="600" cy="835" r="26" fill="#248f75"/>
+  <circle cx="600" cy="1155" r="26" fill="#248f75"/>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="465" width="760" height="220" rx="34" fill="#f8dfdd" stroke="#e4b4b0" stroke-width="2"/>
+  </g>
+  <rect x="110" y="497" width="132" height="46" rx="23" fill="#c84a4a"/>
+  <text x="176" y="529" text-anchor="middle" class="step">第一问</text>
+  <text x="270" y="532" class="head">有没有不能等的信号？</text>
+  <text x="112" y="596" class="body">喘不上气、胸部明显不适、晕厥或叫不醒</text>
+  <text x="112" y="638" class="small">突然说话、脸、肢体或视力异常</text>
+  <text x="112" y="674" class="small">出血止不住、剧痛、外伤、中毒、过敏、自伤或孕产危险</text>
+
+  <g filter="url(#shadow)">
+    <rect x="870" y="498" width="250" height="154" rx="30" fill="#f8dfdd" stroke="#e4b4b0" stroke-width="2"/>
+  </g>
+  <text x="995" y="558" text-anchor="middle" class="action">任一项</text>
+  <text x="995" y="603" text-anchor="middle" class="body">急救 / 急诊</text>
+  <path d="M840 575 L870 575" stroke="#c84a4a" stroke-width="8" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="785" width="760" height="220" rx="34" fill="#fff1d6" stroke="#ebd19c" stroke-width="2"/>
+  </g>
+  <rect x="110" y="817" width="132" height="46" rx="23" fill="#d79523"/>
+  <text x="176" y="849" text-anchor="middle" class="step">第二问</text>
+  <text x="270" y="852" class="head">其他症状或异常，有没有不能拖？</text>
+  <text x="112" y="916" class="body">没有第一问那些不能等的信号，才看这一格</text>
+  <text x="112" y="958" class="small">持续、反复、加重，第一次出现，和平时明显不同</text>
+  <text x="112" y="994" class="small">影响吃饭睡眠行走工作照护；高风险人群；医生交代过要就医</text>
+
+  <g filter="url(#shadow)">
+    <rect x="870" y="818" width="250" height="154" rx="30" fill="#fff1d6" stroke="#ebd19c" stroke-width="2"/>
+  </g>
+  <text x="995" y="878" text-anchor="middle" class="action">任一项</text>
+  <text x="995" y="923" text-anchor="middle" class="body">联系医生</text>
+  <path d="M840 895 L870 895" stroke="#d79523" stroke-width="8" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="80" y="1105" width="760" height="258" rx="34" fill="#e2f3ed" stroke="#b8d8cd" stroke-width="2"/>
+  </g>
+  <rect x="110" y="1137" width="132" height="46" rx="23" fill="#248f75"/>
+  <text x="176" y="1169" text-anchor="middle" class="step">第三问</text>
+  <text x="270" y="1172" class="head">普通不适，能不能观察？</text>
+  <text x="112" y="1236" class="body">前两步都没有命中，才看这一格</text>
+  <text x="112" y="1278" class="small">轻、短、正在改善；能呼吸、进水、交流、基本活动</text>
+  <text x="112" y="1320" class="small">家庭能可靠观察，并设好“什么变化就升级”</text>
+
+  <g filter="url(#shadow)">
+    <rect x="870" y="1138" width="250" height="188" rx="30" fill="#e2f3ed" stroke="#b8d8cd" stroke-width="2"/>
+  </g>
+  <text x="995" y="1200" text-anchor="middle" class="action">全部满足</text>
+  <text x="995" y="1245" text-anchor="middle" class="body">短期记录</text>
+  <text x="995" y="1286" text-anchor="middle" class="body">观察</text>
+  <path d="M840 1230 L870 1230" stroke="#248f75" stroke-width="8" stroke-linecap="round"/>
+
+  <g filter="url(#shadow)">
+    <rect x="150" y="1418" width="900" height="184" rx="36" fill="#ffffff" stroke="#c9d8d2" stroke-width="2"/>
+  </g>
+  <text x="600" y="1476" text-anchor="middle" class="action">第一问命中，就不进入后两问</text>
+  <text x="600" y="1523" text-anchor="middle" class="body">只要说不清，就不要放进绿色</text>
+  <text x="600" y="1568" text-anchor="middle" class="body">高风险人群，回到第一、第二问</text>
+</svg>

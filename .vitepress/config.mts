@@ -81,33 +81,75 @@ const feedbackSidebar = [
   }
 ]
 
-const englishSidebar = [
+const englishHomeSidebar = [
   {
     text: 'English Web Edition',
     items: [
       { text: 'Overview', link: '/content/en/README' },
       { text: 'Book Contents', link: '/content/en/book/README' },
-      { text: 'Start Here', link: '/content/en/book/00-start-here' },
-      { text: 'Medical Boundaries', link: '/content/en/book/medical-boundaries' },
-      { text: 'Healthspan And Risk', link: '/content/en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve' },
-      { text: 'Checkup Markers', link: '/content/en/book/part-1-healthspan-risk-and-markers/checkup-markers' },
-      { text: 'Metabolic Health', link: '/content/en/book/part-2-body-risk-map/metabolic-health' },
-      { text: 'Cardiovascular Event Chain', link: '/content/en/book/part-2-body-risk-map/cardiovascular-event-chain' },
-      { text: 'Common Upstream', link: '/content/en/book/part-2-body-risk-map/common-upstream' },
-      { text: 'Sleep And Recovery', link: '/content/en/book/part-2-body-risk-map/sleep-and-recovery' },
-      { text: 'Brain And Mental Health', link: '/content/en/book/part-2-body-risk-map/brain-and-mental-health' },
-      { text: 'Cancer And Major Illness', link: '/content/en/book/part-2-body-risk-map/cancer-and-major-illness' },
-      { text: 'Children And Adolescent Health', link: '/content/en/book/part-2-body-risk-map/children-and-adolescent-health' },
-      { text: 'Specialty Care Map', link: '/content/en/book/part-2-body-risk-map/specialty-care-map' },
-      { text: 'What To Manage', link: '/content/en/book/part-3-family-health-os/what-to-manage' },
-      { text: 'Doctor Visit Preparation', link: '/content/en/book/part-3-family-health-os/doctor-visit-preparation' },
-      { text: 'Talking With Parents', link: '/content/en/book/part-3-family-health-os/talking-with-parents' },
-      { text: 'Elder Care Basics', link: '/content/en/book/part-3-family-health-os/elder-care-basics' },
-      { text: 'Supplement Evidence Traps', link: '/content/en/book/part-4-health-information-defense/supplement-evidence-traps' },
-      { text: 'Devices And Longevity Marketing', link: '/content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
-      { text: 'Reading Health News', link: '/content/en/book/part-4-health-information-defense/reading-health-news' },
-      { text: 'After Reading', link: '/content/en/book/after-reading' },
       { text: 'Handbook', link: '/content/en/handbook/README' },
+      { text: 'Trial Reading And Feedback', link: '/content/en/feedback/gray-trial-guide' }
+    ]
+  }
+]
+
+const englishBookSidebar = [
+  {
+    text: 'Front Matter: Start And Boundaries',
+    items: [
+      { text: 'Start Here', link: '/content/en/book/00-start-here' }
+    ]
+  },
+  {
+    text: 'Chapter 1. What The Body Is Saying: From Signals To Markers',
+    items: [
+      { text: '1. Warning Signs: Sort Urgency Before Searching Disease Names', link: '/content/en/book/medical-boundaries' },
+      { text: '2. Healthspan: Who Is Your Body Counting Down For?', link: '/content/en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve' },
+      { text: '3. Checkup Markers: Not A Verdict, But A Risk Language', link: '/content/en/book/part-1-healthspan-risk-and-markers/checkup-markers' }
+    ]
+  },
+  {
+    text: 'Chapter 2. The Main Risk Lines To Watch',
+    items: [
+      { text: '1. Metabolic Health: Why Four Useful Systems Lose Balance', link: '/content/en/book/part-2-body-risk-map/metabolic-health' },
+      { text: '2. Cardiovascular Event Chain: Risk Is Often Sudden Only At The End', link: '/content/en/book/part-2-body-risk-map/cardiovascular-event-chain' },
+      { text: '3. Common Upstream: Lower The Load Before It Becomes A Diagnosis', link: '/content/en/book/part-2-body-risk-map/common-upstream' },
+      { text: "4. Sleep And Recovery: The Body's Repair System", link: '/content/en/book/part-2-body-risk-map/sleep-and-recovery' },
+      { text: '5. Brain And Mental Health: Start With Safety, Function, And Support', link: '/content/en/book/part-2-body-risk-map/brain-and-mental-health' },
+      { text: '6. Cancer And Major Illness: Separate The Stage Before Fear Decides', link: '/content/en/book/part-2-body-risk-map/cancer-and-major-illness' },
+      { text: '7. Children And Adolescents: Body And Mind Grow Together', link: '/content/en/book/part-2-body-risk-map/children-and-adolescent-health' },
+      { text: '8. Common Specialty Problems: Improve The Visit, Do Not Become The Doctor', link: '/content/en/book/part-2-body-risk-map/specialty-care-map' }
+    ]
+  },
+  {
+    text: 'Chapter 3. When Health Becomes A Family System',
+    items: [
+      { text: '1. What A Family Health System Actually Manages: Facts And Boundaries, Not People', link: '/content/en/book/part-3-family-health-os/what-to-manage' },
+      { text: '2. Preparing For A Doctor Visit: Bring Facts Into The Room', link: '/content/en/book/part-3-family-health-os/doctor-visit-preparation' },
+      { text: '3. Talking With Parents About Health: Do Not Turn Care Into Control', link: '/content/en/book/part-3-family-health-os/talking-with-parents' },
+      { text: '4. Elder Care Basics: Protect The Ability To Keep Living', link: '/content/en/book/part-3-family-health-os/elder-care-basics' }
+    ]
+  },
+  {
+    text: 'Chapter 4. Health Information Defense',
+    items: [
+      { text: '1. Supplement Evidence Traps: "Trying It" Is Not Always Harmless', link: '/content/en/book/part-4-health-information-defense/supplement-evidence-traps' },
+      { text: '2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Make It Worth Buying', link: '/content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
+      { text: '3. Health News, New Studies, And Short Videos: Slow Down Before Acting', link: '/content/en/book/part-4-health-information-defense/reading-health-news' }
+    ]
+  },
+  {
+    text: 'After The Main Book',
+    items: [
+      { text: 'Keep A Few Actions', link: '/content/en/book/after-reading' }
+    ]
+  }
+]
+
+const englishHandbookSidebar = [
+  {
+    text: 'Handbook And Templates',
+    items: [
       { text: 'Red Flags', link: '/content/en/handbook/playbooks/red-flags' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
       { text: 'Mental Health Check-In', link: '/content/en/handbook/playbooks/mental-health-check-in' },
@@ -118,12 +160,14 @@ const englishSidebar = [
       { text: 'Family Health Record', link: '/content/en/handbook/templates/family-health-record' },
       { text: 'Health Product Checklist', link: '/content/en/handbook/templates/health-product-checklist' }
     ]
-  },
+  }
+]
+
+const englishFeedbackSidebar = [
   {
-    text: 'Chinese Edition',
+    text: 'Feedback And Maintenance',
     items: [
-      { text: 'Chinese Home', link: '/content/zh-CN/book/00-start-here' },
-      { text: 'Chinese Handbook', link: '/content/zh-CN/handbook/README' }
+      { text: 'Trial Reading And Feedback Guide', link: '/content/en/feedback/gray-trial-guide' }
     ]
   }
 ]
@@ -147,9 +191,6 @@ export default defineConfig({
     'local-notes/**',
     'promo/**',
     'content/zh-CN/updates/**',
-    'content/en/errata/**',
-    'content/en/references/**',
-    'content/en/updates/**',
   ],
   lastUpdated: false,
   ignoreDeadLinks: [
@@ -170,7 +211,10 @@ export default defineConfig({
       '/content/zh-CN/book/': bookSidebar,
       '/content/zh-CN/handbook/': handbookSidebar,
       '/content/zh-CN/feedback/': feedbackSidebar,
-      '/content/en/': englishSidebar
+      '/content/en/book/': englishBookSidebar,
+      '/content/en/handbook/': englishHandbookSidebar,
+      '/content/en/feedback/': englishFeedbackSidebar,
+      '/content/en/': englishHomeSidebar
     },
     outline: {
       level: [2, 3],

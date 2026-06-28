@@ -4,7 +4,7 @@ language: en
 canonical_slug: red-flags
 zh_path: ../../../zh-CN/handbook/playbooks/red-flags.md
 review_path: ../../../en-review/zh-CN/handbook/playbooks/red-flags.md
-translation_status: en-v0.1-adaptation-draft
+translation_status: en-v0.2-structure-aligned
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
@@ -12,123 +12,130 @@ evidence_status: needs_periodic_review
 
 # Red Flags
 
-> This page is not a diagnosis table or medical advice. If a situation may be urgent, use local emergency services, an emergency department, urgent care, crisis services, or another qualified medical entry point.
+> This page is not a diagnosis table and is not medical advice. When an emergency is possible, contact local emergency services or go to the emergency department. Do not delay to search, ask acquaintances, or organize records.
 
-[中文验收页](../../../en-review/zh-CN/handbook/playbooks/red-flags.md)
+## This Page Answers One Question
 
-Use this page when the first question is:
+Should this person enter the medical system now?
 
-> Should we get help now?
+It does not decide "what disease this is," and it does not decide "whether we can tolerate it a little longer." When a signal is dangerous enough, the family's most important action is not explaining. It is getting help.
 
-It does not tell you what disease someone has. It helps a family avoid treating a possible emergency like a normal information search.
+This page handles red situations only. If there is no obvious red flag but you still want to sort symptoms into next actions, use the [Symptom Action Guide](symptom-action-guide.md).
 
 ## Family Short Version
 
-Put this somewhere easy to find:
+You can put the following paragraph in a family chat or at the top of a family health record:
 
-```text
-Red flags do not go to a group-chat vote.
+Red flags: chest pain or tightness; possible stroke signs, such as sudden facial droop, slurred speech, one-sided weakness or numbness; severe trouble breathing, such as unable to catch breath, unable to speak full sentences, or blue lips; altered consciousness, such as cannot wake up, obvious confusion, or responding very differently from usual; uncontrolled bleeding; sudden severe pain; severe allergic reaction; poisoning or serious injury; self-harm or suicide risk; pregnancy or postpartum danger signs. Do not vote in a group chat. Do not wait until tomorrow. Even if symptoms ease for a while, contact emergency services, the emergency department, or a local triage entry point first to confirm the next step.
 
-Chest pain or pressure, possible stroke signs, severe breathing trouble, major confusion or not waking normally, uncontrolled bleeding, sudden severe pain, severe allergic reaction, poisoning, serious injury, self-harm or suicide risk, and pregnancy/postpartum warning signs should not wait for searching, guessing, or tomorrow.
+In an emergency, do only three things:
 
-Get help first. Bring the basic facts.
-```
+1. Get help first: contact local emergency services or the emergency system.
+2. Record time: when symptoms started and whether they appeared suddenly.
+3. Bring minimal information: key conditions, medications, allergies, and emergency contact.
 
 ## Say This In 30 Seconds
 
-When calling emergency services, urgent-care triage, a nurse line, Poison Control, 988, or a clinic after-hours line, start with the facts that change urgency:
+When calling emergency services, emergency triage, or a hospital entry point, you do not need the full medical history first. Start with the facts that help them judge urgency:
 
 ```text
 Location:
-Who: age, sex, pregnancy/postpartum if relevant, child/older adult/high-risk condition
-What is happening now:
-When it started:
-Sudden or gradual:
-Current state: breathing, speaking, walking, alertness, bleeding, worsening
-Important background: heart disease, stroke, diabetes, kidney disease, cancer treatment, immune suppression, anticoagulants, severe allergies
+Who: age, sex, whether pregnant/postpartum, older adult, child, or has serious underlying disease
+What is happening now: chest pain / trouble breathing / cannot wake up or very confused / bleeding / fall / poisoning / self-harm risk, etc.
+When it started: approximate time, sudden or gradually worsening
+Current state: can they speak, breathe, stand, drink, are they getting worse
+Important background: heart disease, stroke, diabetes, kidney disease, cancer treatment, anticoagulants, allergies
 ```
 
-Follow the instructions from emergency dispatch, crisis support, poison specialists, urgent-care triage, or local clinicians. Do not delay help to complete the perfect summary.
+When dispatch, emergency triage, or the hospital entry point gives instructions, follow the local process. Do not hang up, wait for family replies, or continue searching in order to make the record complete.
 
-## High-Priority Red Flags
+## Common Emergencies: Catch The Entry Signals First
 
-### Heart attack or serious heart event
+The following is not a diagnosis list. It covers emergency entry points families commonly miss. When these signals appear, the priority is not naming the disease. It is entering emergency care quickly.
 
-Watch for chest pain, pressure, squeezing, or tightness, especially with shortness of breath, sweating, nausea, dizziness, fainting, or pain spreading to the arm, back, neck, jaw, or upper abdomen.
+### Heart Attack Or Serious Heart Event
 
-Do not ask the person to drive themselves.
+- Look for: chest pressure, squeezing, tightness, or persistent discomfort; pain spreading to the arm, shoulder/back, neck, jaw, or upper abdomen; shortness of breath, cold sweat, nausea, dizziness, or no response.
+- Act now: contact emergency services or the emergency department; do not let the person drive themselves.
 
-### Stroke or TIA
+### Stroke Or Transient Ischemic Attack
 
-Watch for sudden face drooping, one-sided weakness or numbness, speech trouble, confusion, vision changes, trouble walking, severe dizziness, or a sudden severe headache.
+- Look for: sudden facial droop, one-sided weakness or numbness, slurred speech, trouble understanding, vision change, unsteady walking, severe dizziness, or sudden severe headache.
+- Act now: record the earliest time symptoms appeared; even if they improve, contact emergency services or the emergency department.
 
-Note the time symptoms first appeared. Do not downgrade the situation just because symptoms improve.
+### Severe Infection Or Sepsis Risk
 
-### Severe breathing trouble
+- Look for: the whole person is clearly worse after an infection, such as obvious confusion, slow response, rapid breathing, cold clammy skin, extreme weakness, markedly reduced urination, severe pain, or rapid decline.
+- Act now: especially for older adults, people with chronic disease, or immunocompromised people, seek medical care or emergency care quickly.
 
-Watch for struggling to breathe, blue lips or face, inability to speak full sentences, severe wheezing, throat tightness, or chest tightness that makes breathing hard.
+### Severe Allergic Reaction
 
-### Major mental-status change
+- Look for: trouble breathing, throat tightness, face or tongue swelling, or widespread hives with dizziness, weakness, or fainting.
+- Act now: contact emergency services; do not keep waiting and watching.
 
-Watch for not waking normally, unusual confusion, extreme sleepiness, seizure with poor recovery, or behavior that is sharply different from baseline.
+### Severe Dehydration Or Gastrointestinal Red Flags
 
-### Severe infection or sepsis concern
+- Look for: cannot keep fluids down, urination is clearly reduced, mental state is worse; vomiting blood, black stool, blood in stool; severe or worsening abdominal pain.
+- Act now: seek medical care or emergency care quickly; do not suppress it with painkillers or home remedies.
 
-Watch for infection plus confusion, rapid breathing, cold or clammy skin, severe weakness, extreme pain or discomfort, low urine, weak pulse, very fast heart rate, or rapid worsening.
+### Trauma, Poisoning, Or Uncontrolled Bleeding
 
-Be especially cautious in older adults, infants, people with serious chronic disease, and people with weakened immune systems.
+- Look for: head, neck, or spine injury; severe trauma; suspected fracture; bleeding that will not stop; poisoning; electric shock; drowning; severe burns.
+- Act now: get help first, and avoid casually moving someone with possible head, neck, or spine injury.
 
-### Severe allergic reaction
+## Additional Red Lines That Are Easy To Miss
 
-Watch for face, lip, tongue, or throat swelling; breathing difficulty; dizziness; fainting; confusion; or widespread hives with systemic symptoms.
+Some dangerous signals do not always look like "something huge is happening now," but hesitation can still miss the window.
 
-### Trauma, poisoning, or uncontrolled bleeding
+<figure class="book-figure">
+  <img src="../../book/assets/figures/fig-14-hidden-major-signals-mobile.svg" alt="Where the symptom appears does not mean the problem is only there">
+</figure>
 
-Get help for suspected head/neck/spine injury, serious fall or crash, suspected fracture, bleeding that will not stop, electric shock, drowning, serious burn, or poisoning. In the U.S., Poison Control can help with poison exposure guidance, but severe symptoms still require emergency services.
+### If It Improved, Do Not Automatically Downgrade
 
-### Self-harm, suicide, or harm-to-others risk
+Repeated chest pain or tightness, sudden slurred speech, or one-sided weakness that later improves should not be sent back to simple observation because "it seems fine now." Contact emergency services, the emergency department, or a triage entry point first to confirm.
 
-If someone has thoughts, plans, or actions involving self-harm, suicide, or harming others, do not leave them alone if safety is uncertain. In the U.S., call or text 988 for crisis support; use 911 or an emergency department when immediate safety is at risk. Elsewhere, use local crisis and emergency services.
+### Mental Health Crisis
 
-### Pregnancy and postpartum warning signs
+- clear thoughts, plans, or behaviors involving self-harm, suicide, or harm to others;
+- dangerous behaviors such as saying goodbye, giving away possessions, or seeking tools;
+- severe psychiatric symptoms that make it impossible to keep oneself or others safe.
 
-During pregnancy or within one year after birth, get timely professional care for severe or worsening headache, vision changes, fainting, chest pain, shortness of breath, severe abdominal pain, heavy bleeding, major change in fetal movement, seizure, or thoughts of harming oneself or the baby.
+In the United States, contact 988 for crisis support; if immediate safety is at risk, contact 911 or go to the emergency department. In other regions, use local crisis lines, emergency services, or emergency care.
 
-## If It Improved, Still Be Careful
+### During Pregnancy And The Year After Birth, Be More Cautious
 
-Some dangerous problems come and go. Chest pressure that returns, sudden speech trouble that clears, or one-sided weakness that improves may still need urgent evaluation.
+During pregnancy and within one year postpartum, severe headache, vision changes, chest pain, trouble breathing, severe abdominal pain, abnormal bleeding, clearly decreased fetal movement, severe swelling, fainting, seizures, self-harm thoughts, or a feeling that "something is very wrong" should prompt timely medical care or emergency care.
 
-Do not use temporary improvement as proof that waiting is safe.
+### No Red Signal, But Still Uneasy
 
-## Minimal Information To Bring
+Unexplained weight loss, long-term fever, repeated bleeding, a new lump, changed state after an older adult falls, persistent abnormal chronic-disease markers, or clear discomfort after a new medicine may not all require emergency care, but they should not be delayed for a long time. Use the [Symptom Action Guide](symptom-action-guide.md) to sort them into yellow or green; when unsure, treat as yellow and contact a clinician or triage entry point soon.
 
-If help is already on the way or you are going to emergency or urgent care, bring only what is easy and safe to gather:
+## Minimal Information Pack For Emergency Care
 
-- what happened and when it started;
-- key conditions, surgeries, and hospitalizations;
-- medications, supplements, and allergies;
-- recent discharge instructions or return precautions;
-- emergency contact;
-- the person's [Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card), if available.
+During emergency care, do not chase perfect records. Try to bring four kinds of information:
 
-If gathering information would delay care, skip it.
+- what happened: symptoms, start time, whether worsening;
+- existing conditions: cardiovascular disease, diabetes, kidney disease, cancer, mental health conditions, pregnancy/postpartum, etc.;
+- current use: prescription medicines, over-the-counter medicines, supplements, herbs, allergies;
+- who to contact: emergency contact, usual hospital, recent clinician or tests.
 
-## If There Is No Red Flag
+If there is no time to organize, get help first. Records serve care; they should not serve delay.
 
-If no red flag is present but you still do not know whether waiting is safe, use the [Symptom Action Guide](symptom-action-guide.md). When in doubt, treat the situation as yellow and contact a clinician or triage service.
+If emergency dispatch, emergency triage, or the hospital entry point gives specific instructions, follow professional judgment and local process.
 
 ## After This Page, Next Step
 
 | Current situation | Next step |
 |---|---|
-| A red flag is present | Use emergency services, an emergency department, urgent care, crisis services, or another qualified local entry point first; bring only the smallest useful information, and do not delay care to organize records |
-| No clear red flag is present, but you are still unsure whether it can wait | Open [Symptom Action Guide](symptom-action-guide.md) and sort the situation into red, yellow, or green |
-| You are preparing to contact a clinician or go to a visit | Use [Doctor Visit Checklist](doctor-visit-checklist.md) to organize the symptom timeline, medicines, and top questions |
-| You want the family to be less chaotic next time | Make one [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) for key conditions, allergies, medicines, and emergency contacts |
+| Red flag present | Contact emergency services, the emergency department, or a local medical entry point first; bring only minimal information and do not delay for records |
+| No clear red flag, but still unsure whether it can wait | Open [Symptom Action Guide](symptom-action-guide.md) and sort red, yellow, or green |
+| Preparing to contact a clinician or go to a visit | Use [Doctor Visit Checklist](doctor-visit-checklist.md) to organize symptom timeline, medicines, and questions |
+| Want the family to be less chaotic next time | Make a [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) |
 
-## Public Sources
+## References
 
-Reviewed on 2026-06-28:
+As of 2026-06-15, this page mainly uses:
 
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
@@ -138,6 +145,8 @@ Reviewed on 2026-06-28:
 - CDC HEAR HER Campaign: [Urgent Maternal Warning Signs and Symptoms](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - Poison Control: [Poison Control](https://www.poison.org/)
+
+More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

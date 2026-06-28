@@ -6,8 +6,6 @@ These pages are for action flows and quick reference.
 Chest pain or pressure, possible stroke signs, severe breathing trouble, altered consciousness, uncontrolled bleeding, sudden severe pain, severe allergic reaction, poisoning, serious injury, self-harm or suicide risk, and pregnancy/postpartum warning signs should start with [Red Flags](red-flags.md).
 :::
 
-[中文验收页](../../../en-review/zh-CN/handbook/playbooks/README.md)
-
 ## Which Page First
 
 | Situation | Entry |

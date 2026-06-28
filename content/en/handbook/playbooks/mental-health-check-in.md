@@ -4,7 +4,7 @@ language: en
 canonical_slug: mental-health-check-in
 zh_path: ../../../zh-CN/handbook/playbooks/mental-health-check-in.md
 review_path: ../../../en-review/zh-CN/handbook/playbooks/mental-health-check-in.md
-translation_status: en-v0.1-adaptation-draft
+translation_status: en-v0.2-structure-aligned
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
@@ -13,8 +13,6 @@ evidence_status: needs_periodic_review
 # Mental Health Check-In And Support
 
 > This page is not a mental health diagnosis and cannot replace a therapist, psychiatrist, primary care clinician, emergency department, or crisis service. If someone may harm themselves or someone else, or safety cannot be maintained, get immediate help through 988, 911, an emergency department, local crisis services, a trusted person, or another qualified local entry point.
-
-[中文验收页](../../../en-review/zh-CN/handbook/playbooks/mental-health-check-in.md)
 
 The first step in mental health risk is not naming a condition. It is checking safety, daily function, and support.
 
@@ -120,7 +118,7 @@ Reviewed on 2026-06-28:
 - NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
-More source entries are in the [source registry](https://github.com/casperukee/health-book/blob/main/shared/source-registry.md). This book's evidence rules are in the [evidence policy](https://github.com/casperukee/health-book/blob/main/content/en/references/README.md).
+More source entries are in the [source registry](../../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

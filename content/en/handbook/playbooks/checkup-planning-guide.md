@@ -4,103 +4,119 @@ language: en
 canonical_slug: checkup-planning-guide
 zh_path: ../../../zh-CN/handbook/playbooks/checkup-planning-guide.md
 review_path: ../../../en-review/zh-CN/handbook/playbooks/checkup-planning-guide.md
-translation_status: en-v0.1-adaptation-draft
+translation_status: en-v0.2-structure-aligned
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# Before A Checkup: What Should I Discuss?
+# Checkup Planning Guide
 
-> This page is not medical advice. In the United States, preventive care depends on age, sex, pregnancy status, symptoms, family history, prior results, medications, insurance coverage, access, and clinician judgment. Use your own clinician and current U.S. guidance for decisions.
+> This page is not an individualized checkup plan and cannot replace a clinician's screening, follow-up, or testing plan for you. Age, sex, pregnancy status, personal risk, prior results, access, and insurance context differ. Specific tests, frequency, and abnormal-result handling should follow clinician advice and current local guidance.
 
-[中文验收页](../../../en-review/zh-CN/handbook/playbooks/checkup-planning-guide.md)
+Before a checkup, it is easy to be led by a menu: more items and more advanced names feel more "complete." But the real purpose of a checkup is not to scan the whole body. It is to find the risks most likely to change the next action.
 
-For U.S. readers, the question before a checkup is usually not "Which package should I buy?"
-
-It is closer to:
+## Ask One Question First
 
 ```text
-What preventive visit, screening, vaccine, or follow-up conversation do I need?
+Am I here for routine preventive care, or am I bringing symptoms, prior illness, or family risk?
 ```
 
-A good annual physical or preventive visit is not a full-body scan. It is a chance to review risk, update vaccines, screen where screening is supported, and decide what needs follow-up.
+If there is chest pain, stroke-like symptoms, severe shortness of breath, fainting, abnormal bleeding, severe abdominal pain, altered consciousness, or self-harm risk, do not use a checkup to delay care. Seek medical care or emergency care first.
 
-## Bring Four Inputs
+If there are clear symptoms, such as blood in stool, black stool, persistent abdominal pain, marked weight loss, repeated chest tightness, coughing blood, or abnormal bleeding, do not only buy a checkup package. It is usually better to start with a clinic visit and let a clinician decide the testing path.
 
-| Bring this | Why it matters |
-| --- | --- |
-| Current symptoms | Symptoms are not routine screening. Chest pain, stroke-like symptoms, severe shortness of breath, fainting, heavy bleeding, severe pain, self-harm risk, or rapidly worsening illness need urgent care or emergency care first. |
-| Past diagnoses, surgeries, abnormal results, and family history | Follow-up is different from average-risk screening. |
-| Medicines, supplements, allergies, pregnancy status, and liver/kidney issues | These affect safety, labs, vaccine choices, and interpretation. |
-| Tobacco, alcohol, activity, sleep, diet, sexual health, and mental health context | Many U.S. preventive recommendations depend on risk factors, not just age. |
+## Choose Tests In Three Layers
 
-## U.S. Preventive Care Is A Conversation
+Layer one: basic information.
 
-Use the visit to ask:
+- height, weight, waist circumference, and blood pressure;
+- complete blood count, urinalysis, liver function, and kidney function when clinically appropriate;
+- cholesterol, fasting glucose, A1C, and uric acid when risk and guidance support them;
+- medications, allergies, prior illness, family history, smoking, alcohol, sleep, and activity.
 
-1. Which screenings am I due for based on my age, sex, and risk?
-2. Which vaccines should I update this year?
-3. Do I need blood pressure confirmation at home or outside the clinic?
-4. Do I need diabetes, cholesterol, HIV, hepatitis C, or STI screening?
-5. Am I due for colorectal, breast, cervical, lung, or osteoporosis screening?
-6. Which prior abnormal result needs repeat testing or specialist follow-up?
-7. What symptoms or changes should make me seek care before the next visit?
+These items are not "advanced," but they do the most work in interpreting long-term risk.
 
-## Common U.S. Screening Topics To Discuss
+Layer two: age- and sex-related screening.
 
-This is a high-level map, not a personal schedule.
+- colorectal cancer screening: common U.S. options include stool-based tests such as FIT and colonoscopy;
+- cervical cancer screening: Pap and/or HPV testing depending on age and history;
+- breast cancer screening: mammography is the main U.S. population-screening tool;
+- lung cancer high-risk screening: based on age, smoking history, and other factors, commonly with low-dose chest CT;
+- osteoporosis, prostate cancer, abdominal aortic aneurysm, and other screening decisions should be discussed by age, sex, and risk.
 
-| Topic | Typical U.S. framing |
-| --- | --- |
-| Blood pressure | Adults are screened for hypertension; elevated office readings often need confirmation outside the clinical setting before treatment decisions. |
-| Diabetes / prediabetes | Screening is commonly discussed for adults 35-70 with overweight or obesity, with earlier or broader consideration for higher-risk groups. |
-| Lipids and cardiovascular risk | Lipid testing is interpreted with age, blood pressure, diabetes, smoking, kidney disease, family history, and estimated cardiovascular risk. |
-| Colorectal cancer | Average-risk adults generally start screening at age 45 and continue through 75; after that, decisions are individualized. Stool tests and colonoscopy are different paths with different follow-up rules. |
-| Breast cancer | USPSTF recommends biennial mammography for women 40-74. Family history, dense breasts, genetic risk, and prior findings may change the conversation. |
-| Cervical cancer | Screening uses Pap tests and/or HPV testing depending on age and history. It is not simply an annual pelvic exam. |
-| Lung cancer | Annual low-dose CT is for people at high risk, commonly adults 50-80 with a sufficient smoking history who currently smoke or quit within the recommended window. It is not a routine scan for everyone. |
-| Osteoporosis | Bone-density screening is especially relevant for women 65+ and younger postmenopausal women at increased fracture risk. |
-| HIV, hepatitis C, and sexual health | U.S. guidance includes routine HIV screening for many adolescents/adults and hepatitis C screening for adults 18-79, with STI screening based on risk. |
-| Vaccines | Use the CDC adult immunization schedule, your vaccine record, age, health conditions, pregnancy, work, travel, and prior vaccination history. |
+Layer three: personal-risk add-ons.
 
-## Tests Are Not Always Better Because There Are More Of Them
+If there is hypertension, diabetes, abnormal cholesterol, gout, kidney disease, fatty liver, long-term medication use, smoking, obesity, occupational exposure, cancer family history, or prior abnormal reports, the test plan should follow the risk. This layer is not a good place for blind self-add-ons; bring questions to a clinician.
 
-Before requesting a lab, scan, genetic test, tumor marker, or "executive physical" add-on, ask:
+## First Look At Priorities By Age Range
 
-- Am I in the target group for this test?
-- What happens if the result is abnormal?
-- What happens if it is normal but symptoms continue?
-- Could this lead to false alarms, unnecessary procedures, radiation, cost, or anxiety?
-- Is there a guideline-supported screening method instead?
+- **18-30:** establish a baseline. Focus on blood pressure, weight and waist, CBC, urinalysis, liver and kidney function when appropriate; consider glucose, cholesterol, uric acid, hepatitis B, STI-related testing, and cervical screening by risk and eligibility.
+- **30-40:** start watching the "three highs," fatty liver risk, and weight/waist trend. Blood pressure, cholesterol, glucose, A1C, uric acid, and liver/kidney context matter more.
+- **40-50:** bring vascular risk and common cancer screening to the table. Discuss colorectal screening timing, cervical and breast screening where relevant, diabetes and cholesterol risk, smoking-related risk, and family history.
+- **50-65:** follow through on guideline-supported screening and chronic-risk follow-up: colorectal, breast, cervical where relevant, lung cancer for high-risk smokers, cardiovascular risk, diabetes, kidney function, vaccines, vision, hearing, and dental care.
+- **65 and older:** do not only add tests; look at function, falls, cognition, medications, vaccines, bone health, vision/hearing, and what screening still makes sense given health status and life goals.
 
-## A Useful Closing Question
+## Pause On These Test Names First
 
-End the visit with:
+Seeing the items below does not mean they are never useful. It means first ask, "Am I the target person for this test?"
+
+- **Full tumor-marker panels:** average-risk people should not treat them as the main way to screen for cancer; a high value is not automatically cancer, and a normal value does not rule cancer out.
+- **PET-CT or whole-body CT:** usually not an appropriate reassurance item for an ordinary annual checkup.
+- **Contrast CT, coronary CTA, carotid CTA/MRA:** usually arranged by clinicians based on symptoms, risk, and earlier findings; a more expensive package is not automatically better.
+- **Multi-cancer early detection, genetic, microbiome, biological-age, and "deep" tests:** ask what result would change, who interprets it, and whether it is guideline-supported for your situation.
+- **Screening beyond your risk group:** more testing can create false alarms, radiation exposure, unnecessary procedures, cost, and anxiety.
+
+A better question is:
 
 ```text
-What should I do before our next visit, and what should make me contact you sooner?
+Am I in the target group for this test?
+If it is positive, what happens next?
+Is there a more guideline-supported, lower-risk, more reasonable-cost screening method?
 ```
 
-After labs or reports come back, read [Checkup Markers](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md) as a guide to trends, patterns, and follow-up questions.
+## Four Boxes Before A Checkup
 
-## Public Sources
+Before choosing a package or visit agenda, fill in four boxes:
 
-Reviewed on 2026-06-28:
+```text
+Recent symptoms:
+Past illnesses, surgeries, or abnormal reports:
+Current medicines, supplements, or herbs:
+Family history and lifestyle risks:
+```
 
-- [USPSTF recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics)
-- [CDC recommended vaccines for adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
-- [CDC colorectal cancer screening](https://www.cdc.gov/colorectal-cancer/screening/index.html)
-- [CDC lung cancer screening](https://www.cdc.gov/lung-cancer/screening/index.html)
+These four boxes matter more than "basic package or premium package."
+
+## What To Do Right After A Checkup
+
+1. First check whether there are red flags; if yes, treat it as urgent.
+2. Mark abnormal items, but do not diagnose yourself immediately.
+3. Ask which risk line the abnormality belongs to: vascular, metabolic, kidney, liver/gallbladder, blood, inflammation, cancer screening, or imaging follow-up.
+4. Put blood pressure, cholesterol, glucose, A1C, uric acid, kidney function, weight, and waist into trend records.
+5. If the result is clearly abnormal, persistent, clustered, or hard to interpret, use the [doctor visit checklist](doctor-visit-checklist.md) to prepare a clinician conversation.
+
+## References
+
+As of 2026-06-20, this page mainly uses the following sources. They help calibrate target populations, test names, and risk boundaries, and do not constitute a personal checkup or screening plan:
+
+- USPSTF: [Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics)
+- CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)
+- CDC: [Colorectal Cancer Screening](https://www.cdc.gov/colorectal-cancer/screening/index.html)
+- CDC: [Lung Cancer Screening](https://www.cdc.gov/lung-cancer/screening/index.html)
+- CDC: [Breast Cancer Screening](https://www.cdc.gov/breast-cancer/screening/index.html)
+- CDC: [Cervical Cancer Screening](https://www.cdc.gov/cervical-cancer/screening/index.html)
+
+More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 
-A checkup works best when symptoms, prior results, medicines, risks, and preventive-care questions are on the table before tests are ordered.
+A checkup is not safer because it contains more tests; it works when basic information, age and sex, and personal risk line up.
 
 ---
 
 ## Next Step
 
-- [Common Checkup Markers](common-checkup-markers.md)
-- [Checkup Markers](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md)
-- [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log)
+- [Common Abnormal Checkup Markers](common-checkup-markers.md)
+- [Checkup Markers: Not A Verdict, But A Language Of Risk](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md)
+- [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking)

@@ -1,42 +1,41 @@
-# After Reading 中文验收页
+# After Reading This Book: Keep A Few Actions 中文验收页
 
-对应英文页：[After Reading](../../../en/book/after-reading.md)
+对应英文页：[After Reading This Book: Keep A Few Actions](../../../en/book/after-reading.md)
 
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
-> 本页不是医疗建议。它只是帮助你把本书的判断习惯带进普通家庭生活。出现危险信号、症状加重、心理健康危机，或不确定等待是否安全时，请使用当地急救、紧急照护、危机支持或临床照护。
+> 本页不是医疗建议。它只是帮助你把主书里的判断习惯收回来。出现危险信号、症状加重、心理健康危机，或任何无法判断等待是否安全的情况时，请及时就医或联系当地急救服务。
 
-你不需要记住本书里的每一张清单。
+你不需要把每一节、每一张表、每一个清单都背下来。
 
-留下这些动作：
+真正希望你带走的，是一套可以在家庭里反复使用的判断方式。
 
-- 有人不舒服时，先分急缓，再搜索疾病名。
-- 报告被标红时，看趋势、组合、背景和下一步。
-- 没有急症时，保护那些让未来风险更容易管理的基础：睡眠、活动、饮食、血压、用药、疫苗、恢复、连接和随访。
-- 家庭照护变紧张时，把事实、边界、下一步和角色放到桌面上。
-- 产品、检测、设备、抗衰套餐、标题或短视频制造紧迫感时，先问它想让你采取什么行动。
+身体不舒服时，先分急缓：有没有不能等的危险信号，能不能安全观察，是否需要尽快联系医生？
 
-这本书不会把家庭变成医生。它帮助家庭在需要医生、临床人员、药师、危机团队和急救服务的时刻，带着更清楚的事实和更好的问题进入现场。
+体检指标被标出来时，先看趋势、组合、背景和下一步：这是一次波动，还是正在形成的风险线索？
 
-## 这些页面留近一点
+还没有明显生病时，把共同上游往回拉一点：活动、吃喝、睡眠、压力和连接，不是神奇答案，但很多风险从这里开始。
 
-| 情况 | 从这里开始 |
-| --- | --- |
-| 有人可能需要紧急帮助 | [Red Flags](../../../en/handbook/playbooks/red-flags.md) |
-| 症状不明确 | [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md) |
-| 准备就诊或随访 | [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) |
-| 准备预防性就诊或体检 | [Before A Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md) |
-| 需要快速做一张小记录 | [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) |
-| 需要更完整的家庭记录 | [Family Health Record](../../../en/handbook/templates/family-health-record.md) |
-| 需要追踪反复出现的指标 | [Chronic Marker Log](../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log) |
-| 健康产品宣称很有说服力 | [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md) |
+家人生病、复查、住院或需要照护时，把事实、边界、下一步和角色放到桌面上。谁记录、谁陪诊、谁提醒、什么情况必须求助，最好在还来得及的时候说清楚。
 
-## 一句话
+遇到补剂、抗衰项目、检测套餐、健康设备、新研究或短视频时，先问它想让你采取什么行动。如果它把焦虑推向停药、拒医、替代治疗、高价购买或绕开家人，先暂停。
 
-有用的结果不是知道一切，而是知道怎样慢下来、分风险、保留事实，并请求正确的帮助。
+这些工具的作用，是让普通家庭在慌乱时多一点顺序，在担心时多一点边界，在不知道怎么办时能把问题说清楚。医学判断仍然属于医生；家庭守住事实和下一步。
+
+回到前言里的那些时刻：父母说胸口发紧，体检报告出现箭头，群里有人推荐补剂，孩子或伴侣状态不对，短视频越看越焦虑。读完这本书以后，你不需要突然什么都懂。你只需要先做几件事：分急缓，留事实，找边界，问合适的专业人士，把家人拉回下一步。
+
+手册是一组可以打开的工具页。真正遇到事情时，从最需要的那页开始就好。
+
+## 下一步怎么用
+
+- 现在有人不舒服：先看 [Red Flags](../../../en/handbook/playbooks/red-flags.md)。
+- 正在看体检或报告：用 [Checkup Planning Guide](../../../en/handbook/playbooks/checkup-planning-guide.md) 和 [Common Abnormal Checkup Markers](../../../en/handbook/playbooks/common-checkup-markers.md)。
+- 准备就诊、复诊或陪诊：用 [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)。
+- 想给家人留一套基础资料：从 [Family Health Record And Chronic Condition Log](../../../en/handbook/templates/family-health-record.md) 开始。
+- 被产品、检测、设备或抗衰宣称困扰：先用 [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)。
 
 ## 阅读导航
 
 - [回到英文主书目录验收页](README.md)
-- 上一章：[Reading Health News 中文验收页](part-4-health-information-defense/reading-health-news.md)
-- 下一步：[Handbook 中文验收页](../handbook/README.md)
+- 上一章：[3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down 中文验收页](part-4-health-information-defense/reading-health-news.md)
+- 下一步：[Handbook And Templates 中文验收页](../handbook/README.md)

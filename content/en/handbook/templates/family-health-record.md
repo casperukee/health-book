@@ -4,7 +4,7 @@ language: en
 canonical_slug: family-health-record
 zh_path: ../../../zh-CN/handbook/templates/family-health-record.md
 review_path: ../../../en-review/zh-CN/handbook/templates/family-health-record.md
-translation_status: en-v0.1-adaptation-draft
+translation_status: en-v0.2-structure-aligned
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: stable
@@ -13,8 +13,6 @@ evidence_status: stable
 # Family Health Record And Chronic Marker Log
 
 > This template is not medical advice and is not a legal medical record. It helps families keep key facts findable. Health information is private; get consent from the person whenever possible and store it carefully.
-
-[中文验收页](../../../en-review/zh-CN/handbook/templates/family-health-record.md)
 
 This page does only three jobs:
 
@@ -143,7 +141,7 @@ Reviewed on 2026-06-28:
 - MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
 - NIDDK: [Chronic Kidney Disease Tests and Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 
-More source entries are in the [source registry](https://github.com/casperukee/health-book/blob/main/shared/source-registry.md). This book's evidence rules are in the [evidence policy](https://github.com/casperukee/health-book/blob/main/content/en/references/README.md).
+More source entries are in the [source registry](../../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

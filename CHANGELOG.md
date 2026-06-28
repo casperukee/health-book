@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- 完成英文网页版结构对齐版：按中文 v1.0.0 主书、手册和反馈目录补齐英文 `content/en/` 文件清单，所有英文页面推进到 `en-v0.2-structure-aligned`，不再保留短版 preview 页。
+- 同步英文验收体系：为英文 book、handbook 和 feedback 页面维护 `content/en-review/zh-CN/` 中文回译验收页，验收页翻译英文 U.S.-first adaptation，不复制中文版源稿。
+- 对齐英文导航与菜单：英文主书侧边栏按 Front Matter、Chapter 1-4 和 After The Main Book 分组，英文手册页单独显示 Handbook And Templates，反馈页单独显示 Feedback And Maintenance，避免读者在手册页被整本书长列表干扰。
+- 补齐英文网页版构建支撑：镜像公开图表资源到 `content/en/book/assets/`，新增英文 `references/evidence-policy.md`、`references/source-registry.md` 和 feedback 入口，并将英文 references、updates、errata 纳入 VitePress 构建。
 - 新增英文版转写规划：明确英文版不是中文版直译，而是以美国读者为主、兼顾非美国读者的本土化 adaptation，后续需按美国医疗体系、单位、保险摩擦、家庭协作场景和英文权威来源重新规划与转写。
 - 补充英文版工作流：正式英文内容保持英文，但重要交付需提供中文验收摘要或高风险章节中文回译；英文版先做网页版，稳定后再制作读书版/Amazon KDP 包。
 - 增加英文版手机验收机制：后续英文页面更新时，同步维护 `content/en-review/zh-CN/` 下的中文验收页，并从英文页提供低调入口；验收页翻译英文 adaptation，不直接复用中文版源稿。

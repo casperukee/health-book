@@ -3,7 +3,7 @@ status: content-review
 language: zh-CN
 canonical_slug: mental-health-check-in
 en_path: ../../../../en/handbook/playbooks/mental-health-check-in.md
-translation_status: review-translation
+translation_status: review-translation-v0.2
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
@@ -103,7 +103,7 @@ evidence_status: needs_periodic_review
 明天最小的支持动作是什么？
 ```
 
-每晚两三句话就够。重点不是证明谁有问题，而是让变化被看见。如果观察对象是父母或老人，把这张卡放进 [Family Health Record And Chronic Marker Log](../templates/family-health-record.md)，并在就医前配合 [Doctor Visit Checklist](doctor-visit-checklist.md) 使用。
+每晚两三句话就够。重点不是证明谁有问题，而是让变化被看见。如果观察对象是父母或老人，把这张卡放进 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)，并在就医前配合 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 使用。
 
 ## 公开资料
 
@@ -119,7 +119,7 @@ evidence_status: needs_periodic_review
 - NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
-更多来源登记见 [source registry](https://github.com/casperukee/health-book/blob/main/shared/source-registry.md)。本书的证据规则见 [evidence policy](https://github.com/casperukee/health-book/blob/main/content/en/references/README.md)。
+更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
 
 ## 一句话
 

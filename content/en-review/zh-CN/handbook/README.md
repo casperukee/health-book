@@ -59,6 +59,6 @@
 
 ## 维护入口
 
-- [Trial Reading And Feedback Guide](https://github.com/casperukee/health-book/blob/main/content/en/updates/english-edition-plan.md)
-- [Official Medical Sources](https://github.com/casperukee/health-book/blob/main/content/en/references/README.md)
-- [Errata, Updates, And Feedback](https://github.com/casperukee/health-book/blob/main/content/en/errata/README.md)
+- [Trial Reading And Feedback Guide](../../../en/feedback/gray-trial-guide.md)
+- [Official Medical Sources](../../../en/references/README.md)
+- [Errata, Updates, And Feedback](../../../en/errata/README.md)

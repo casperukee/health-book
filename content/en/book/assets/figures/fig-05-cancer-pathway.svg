@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="癌症问题：先分清阶段">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 8</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">癌症问题：先分清阶段</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">不同阶段，家庭该做的事不一样；恐惧不能替代路径</text>
+  
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="250" width="500" height="142" rx="26" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#4079a7" opacity="0.75">01</text>
+  <text x="108" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">筛查</text>
+  <text x="108" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">适合谁、查什么、多久查，要看风险和</text>
+<text x="108" y="371" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">指南</text>
+  <line x1="580" y1="321" x2="620" y2="321" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="250" width="500" height="142" rx="26" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#d79523" opacity="0.75">02</text>
+  <text x="660" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">异常</text>
+  <text x="660" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">先确认报告意义，不把一个指标当结论</text>
+  <line x1="876" y1="404" x2="876" y2="430" stroke="#c84a4a" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="438" width="500" height="142" rx="26" fill="#f8dfdd" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#c84a4a" opacity="0.75">03</text>
+  <text x="660" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">确诊与治疗</text>
+  <text x="660" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">病理、分期、方案和目标，需要专业团队</text>
+<text x="660" y="559" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">判断</text>
+  <line x1="620" y1="509" x2="580" y2="509" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="438" width="500" height="142" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#248f75" opacity="0.75">04</text>
+  <text x="108" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">支持与复查</text>
+  <text x="108" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">资料、陪诊、照护、经济和情绪支持</text>
+  <text x="600" y="690" text-anchor="middle" font-size="30" font-weight="900" fill="#1f302d" opacity="1">筛查不是许愿，治疗不是孤军作战，支持要尽早开始</text>
+</svg>

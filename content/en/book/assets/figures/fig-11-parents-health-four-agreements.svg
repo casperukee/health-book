@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="和父母谈健康：先约四件事">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 12</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">和父母谈健康：先约四件事</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">不是接管生活，而是把关键时刻提前说清楚</text>
+  
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="250" width="500" height="142" rx="26" fill="#f8dfdd" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#c84a4a" opacity="0.75">01</text>
+  <text x="108" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">突然不对</text>
+  <text x="108" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">胸痛、无力、气短、意识不清，先求助</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="250" width="500" height="142" rx="26" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="300" text-anchor="middle" font-size="24" font-weight="900" fill="#4079a7" opacity="0.75">02</text>
+  <text x="660" y="304" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">说清变化</text>
+  <text x="660" y="344" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">什么时候开始，哪里不同，有没有越来</text>
+<text x="660" y="371" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">越重</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="438" width="500" height="142" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="520" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#248f75" opacity="0.75">03</text>
+  <text x="108" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">资料放一起</text>
+  <text x="108" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">药、报告、过敏和医生交代，固定位置可</text>
+<text x="108" y="559" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">找到</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="626" y="438" width="500" height="142" rx="26" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  <text x="1072" y="488" text-anchor="middle" font-size="24" font-weight="900" fill="#d79523" opacity="0.75">04</text>
+  <text x="660" y="492" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">大事缓一缓</text>
+  <text x="660" y="532" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">高价项目、健康产品和大决定，不当天</text>
+<text x="660" y="559" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">拍板</text>
+  <text x="600" y="690" text-anchor="middle" font-size="30" font-weight="900" fill="#1f302d" opacity="1">守底线，也尊重父母的自主</text>
+</svg>

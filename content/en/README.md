@@ -73,8 +73,6 @@ The full Chinese edition is available here:
 - [中文主书目录](../zh-CN/book/README.md)
 - [中文手册与模板](../zh-CN/handbook/README.md)
 
-Maintainer review: [中文验收页](../en-review/zh-CN/README.md)
-
 ## Project Links
 
 - [GitHub repository](https://github.com/casperukee/health-book)

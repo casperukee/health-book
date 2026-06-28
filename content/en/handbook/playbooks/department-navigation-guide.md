@@ -4,93 +4,83 @@ language: en
 canonical_slug: department-navigation-guide
 zh_path: ../../../zh-CN/handbook/playbooks/department-navigation-guide.md
 review_path: ../../../en-review/zh-CN/handbook/playbooks/department-navigation-guide.md
-translation_status: en-v0.1-adaptation-draft
+translation_status: en-v0.2-structure-aligned
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# Emergency, Clinic, or Which Department?
+# Care Entry And Specialty Navigation
 
-> This page is not medical advice. It cannot diagnose you or choose a clinician for you. If warning signs appear, use local emergency services or urgent care instead of trying to pick the perfect department.
+> This page only helps you choose a care entry point. It does not diagnose. When emergency warning signs are present, use emergency services or the emergency department first. Do not delay care to pick the perfect specialty.
 
-[中文验收页](../../../en-review/zh-CN/handbook/playbooks/department-navigation-guide.md)
+## First Ask: Is This An Emergency?
 
-Many families get stuck at the wrong first question:
+If there is chest pain, trouble breathing, sudden facial droop, slurred speech, one-sided weakness or numbness, sudden vision changes or other possible stroke signs, cannot wake up, obvious confusion or unusual responsiveness, serious injury, uncontrolled bleeding, severe allergic reaction, poisoning, self-harm risk, pregnancy or postpartum danger signs, or a similar situation, prioritize emergency care or the local emergency pathway.
 
-```text
-What disease is this?
-```
+In an emergency, which specialty to book is not the first question. Enter the medical system first; triage and clinicians decide the next step.
 
-A safer first question is:
+If urgency is still unclear, start with [Red Flags](red-flags.md) and the [Symptom Action Guide](symptom-action-guide.md).
 
-```text
-What care entry point does this situation need?
-```
+## What If I Do Not Know Which Department To Choose?
 
-## First: Is It Urgent?
+These entry points can help:
 
-| Situation | Safer next step | Do not |
-| --- | --- | --- |
-| Chest pain or pressure, stroke-like symptoms, severe breathing trouble, loss of consciousness, uncontrolled bleeding, severe allergic reaction, poisoning, major injury, suicidal or violent risk, pregnancy danger signs | Emergency services, urgent care, or an emergency department | Wait for a routine appointment just to choose a specialty |
-| Symptoms are new, worsening, repeated, or affecting work, sleep, walking, eating, urination, mood, or daily life | Contact a doctor, primary care, clinic triage, or an appropriate outpatient department | Treat it as a normal checkup |
-| Symptoms are mild, brief, improving, and there are no warning signs | Record what happened, watch for change, and arrange non-urgent care if it repeats | Ignore it without a review point |
+<div class="decision-grid">
+  <section class="decision-card decision-card-red">
+    <div class="decision-label">Emergency</div>
+    <h3>Emergency triage</h3>
+    <p>When red flags are present, enter emergency care or the local emergency system first. Do not wait for a routine specialty appointment.</p>
+  </section>
+  <section class="decision-card decision-card-blue">
+    <div class="decision-label">Unclear</div>
+    <h3>Primary care, family medicine, or triage</h3>
+    <p>When symptoms cross systems, medication is complex, or you do not know the specialty, use primary care, clinic triage, nurse advice, or hospital routing where available.</p>
+  </section>
+  <section class="decision-card decision-card-green">
+    <div class="decision-label">Known follow-up</div>
+    <h3>Existing clinician or relevant specialty</h3>
+    <p>If the issue is already being followed, bring prior records, medication lists, and the question back to the clinician or specialty managing it.</p>
+  </section>
+</div>
 
-If you are unsure whether waiting is safe, ask local triage, emergency services, urgent care, or a clinician.
+Picking the wrong door is not failure. Bring the facts; clinicians can recommend redirection.
 
-## Second: Use Primary Care Or Triage When You Can
+## Common Symptom Entry Points
 
-In many systems, primary care, family medicine, general medicine, urgent care triage, nurse triage, or hospital front-desk triage can help route unclear problems.
+The list below only helps you choose an entry point. You do not need to guess the disease name at home. Whenever the "more urgent" situation appears, use emergency care first.
 
-This is especially useful when:
+- **Chest pain, chest tightness, palpitations:** common entries include primary care or cardiology; persistent chest pain, shortness of breath, cold sweat, or fainting goes to emergency care first.
+- **One-sided weakness, slurred speech, sudden vision changes:** common non-acute entry is neurology; sudden onset, even if it improves, should be treated as emergency.
+- **Cough, wheezing, trouble breathing:** common entries include primary care or pulmonology; cannot breathe, blue lips, or cannot speak full sentences goes to emergency care first.
+- **Abdominal pain, diarrhea, vomiting, blood in stool:** common entries include primary care or gastroenterology; severe or worsening pain, vomiting blood, black stool, or severe dehydration goes to emergency care.
+- **Urination pain, blood in urine, flank pain:** common entries include primary care, urology, or nephrology; fever with flank pain, inability to urinate, pregnancy, severe pain, or known kidney disease should be handled urgently.
+- **Eye pain or vision change:** ophthalmology is common; sudden vision loss, severe eye pain, trauma, or chemical exposure needs urgent/emergency care.
+- **Joint, neck, back, or injury problems:** orthopedics, sports medicine, rehabilitation, or physical therapy may be involved; major trauma, weakness/numbness, bowel/bladder change, or inability to bear weight needs urgent evaluation.
+- **Anxiety, depression, insomnia, panic, unusual behavior:** primary care, mental health care, counseling, psychiatry, or crisis services may be entries; self-harm, suicide, psychosis, violence risk, or inability to stay safe needs crisis/emergency help first.
+- **Checkup abnormality without symptoms:** primary care or internal medicine is often a good starting point; the report may guide specialty follow-up after review.
 
-- the symptom crosses several body systems;
-- the person has multiple chronic diseases or many medications;
-- you do not know whether the problem is medical, surgical, mental health, or medication-related;
-- the hospital's department names are confusing.
+## Ask Four Questions After A Wrong Door
 
-Choosing a department is an entry point, not a diagnosis.
+If the clinician says this problem does not belong in that clinic, ask before leaving:
 
-## A Conservative Department Map
+1. Which specialty or care entry point should I use?
+2. Is there any urgent danger that needs emergency care now?
+3. What records should I bring before the next clinic?
+4. What situation cannot wait for the appointment and should go directly to emergency care?
 
-This table is only a rough routing aid. Local hospital structures vary.
+After deciding on outpatient care, use the [Doctor Visit Checklist](doctor-visit-checklist.md) to organize the symptom timeline, prior records, and main questions. Write the clinician's next step into the [Family Health Record And Chronic Condition Log](../templates/family-health-record.md) after returning home.
 
-| Main problem | Red flags first | Common non-urgent entry point |
-| --- | --- | --- |
-| Chest discomfort, palpitations, shortness of breath | Chest pressure, sweating, fainting, severe breathlessness, or stroke-like symptoms | Primary care, internal medicine, cardiology, respiratory care depending on the main symptom |
-| Sudden weakness, numbness, facial droop, speech trouble, vision change, severe dizziness | Possible stroke symptoms, even if they improve | Emergency first; non-acute repeated neurologic symptoms may go to neurology |
-| Abdominal pain, vomiting, diarrhea, blood in stool | Severe or worsening pain, vomiting blood, black stool, severe dehydration, fainting | Primary care, gastroenterology; acute severe pain may need emergency or surgical assessment |
-| Fever, infection symptoms, worsening general condition | Confusion, fast breathing, cold clammy skin, extreme weakness, low urine, severe pain | Primary care, infectious disease, respiratory care, emergency depending on severity |
-| Urination pain, blood in urine, flank pain | Fever with flank pain, inability to urinate, severe pain, pregnancy, known kidney disease | Primary care, urology, nephrology depending on context |
-| Eye pain or vision change | Sudden vision loss, severe eye pain, trauma, chemical exposure | Emergency or ophthalmology urgently |
-| Bone, joint, neck, back, or injury problems | Major trauma, weakness/numbness, bowel/bladder control change, inability to bear weight | Orthopedics, sports medicine, rehabilitation, physical therapy where appropriate |
-| Skin rash, mole, wound, or allergy | Breathing trouble, face/tongue swelling, widespread severe reaction, fever with rapidly worsening rash | Dermatology, primary care, allergy/immunology depending on the issue |
-| Anxiety, depression, insomnia, panic, unusual behavior | Self-harm, suicide, violence risk, psychosis, inability to stay safe | Emergency/crisis support first; psychiatry, psychology, counseling, or primary care for non-acute cases |
-| Checkup abnormality without symptoms | Severe symptoms or clinician-defined urgent thresholds | Primary care, internal medicine, or the relevant specialty after reviewing the report |
+## References
 
-## If You Picked The Wrong Door
-
-That happens. It does not mean you failed.
-
-Ask the clinician or triage desk:
-
-- Which department should handle this next?
-- Is this urgent, or can it wait for a routine appointment?
-- What information should I bring to the next visit?
-- What changes mean I should seek urgent care before the appointment?
-
-Then use the [Doctor Visit Checklist](doctor-visit-checklist.md) to prepare.
-
-## Public Sources
-
-Reviewed on 2026-06-28:
+As of 2026-06-15, this page mainly uses:
 
 - MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
 - MedlinePlus: [Choosing a Primary Care Provider](https://medlineplus.gov/ency/article/001939.htm)
-- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
 - MedlinePlus: [Recognizing Medical Emergencies](https://medlineplus.gov/ency/article/001927.htm)
-- American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
-- CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)
+- AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
+
+More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

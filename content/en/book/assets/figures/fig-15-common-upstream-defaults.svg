@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="共同上游：五个日常默认值">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 5</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">共同上游：五个日常默认值</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">还没变成病时，把默认系统调得更高级</text>
+  
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="240" width="330" height="160" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="108" y="294" text-anchor="start" font-size="28" font-weight="900" fill="#1f302d" opacity="1">活动有结构</text>
+  <text x="108" y="332" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">日常活动打底，有氧、</text>
+<text x="108" y="357" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">力量、稳定性一起维护</text>
+<text x="108" y="382" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">储备</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="435" y="240" width="330" height="160" rx="26" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="469" y="294" text-anchor="start" font-size="28" font-weight="900" fill="#1f302d" opacity="1">饮食看质量</text>
+  <text x="469" y="332" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">先看负荷和质量，再看</text>
+<text x="469" y="357" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">餐盘结构与餐后反馈</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="796" y="240" width="330" height="160" rx="26" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="830" y="294" text-anchor="start" font-size="28" font-weight="900" fill="#1f302d" opacity="1">睡眠能恢复</text>
+  <text x="830" y="332" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">看时长，也看节律、恢</text>
+<text x="830" y="357" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">复感和白天功能</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="178" y="456" width="390" height="154" rx="26" fill="#ece9f7" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="212" y="510" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">压力有出口</text>
+  <text x="212" y="548" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">目标感、主动恢复、真实连</text>
+<text x="212" y="575" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">接，不只靠硬扛</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="632" y="456" width="390" height="154" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="666" y="510" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">反馈成系统</text>
+  <text x="666" y="548" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">动作、场景、体感和指标，</text>
+<text x="666" y="575" text-anchor="start" font-size="18" font-weight="520" fill="#66736f" opacity="1">放在一起看</text>
+  <path d="M285 632 C445 686 755 686 915 632" fill="none" stroke="#248f75" stroke-width="7" stroke-linecap="round" opacity="0.85" />
+  <text x="600" y="707" text-anchor="middle" font-size="28" font-weight="900" fill="#1f302d" opacity="1">目标不是完美自律，而是提高身体系统的默认质量</text>
+</svg>

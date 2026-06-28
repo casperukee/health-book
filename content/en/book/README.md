@@ -1,70 +1,78 @@
-# Book Contents
+# English Main Book
 
-> This book is not medical advice. It cannot replace diagnosis, emergency care, treatment, medication decisions, screening decisions, mental health crisis support, or guidance from qualified clinicians.
+> This book is not medical advice. If red flags are present, seek medical care promptly.
 
-[中文验收页](../../en-review/zh-CN/book/README.md)
+Health Decisions for Families is for people who often need to make health judgments for themselves and family members: reading checkup reports, accompanying parents to visits, helping a child or partner sort urgency, managing chronic-condition records, and recognizing persuasion in supplements and short-form health content.
 
-Health Youpu is not organized like a medical encyclopedia. It follows the order in which families often meet health problems: safety first, then risk language, body risk lines, family coordination, and health information defense.
+Start with [Start Here](00-start-here.md) and read continuously. Every chapter ends with previous / next navigation; the web edition also provides a sidebar, search, and page outline.
 
-## Start Here
+The main book has moved beyond a "toolbox" into a family health decision reader: understanding body signals and making better choices. The web edition still supports looking things up as needed, while strengthening the continuous journey from body signals, risk lines, family coordination, and information defense.
+
+::: danger Check Red Flags First
+If there is chest pain or tightness, possible stroke, severe trouble breathing, altered consciousness, uncontrolled bleeding, sudden severe pain, severe allergic reaction, poisoning or injury, risk of self-harm or suicide, pregnancy or postpartum red flags, or a similar urgent situation, do not read the table of contents slowly. Start with [Red Flags](../handbook/playbooks/red-flags.md).
+:::
+
+## The Reading Journey
+
+This book is not organized by medical specialty. It follows the order in which ordinary families actually meet health problems:
+
+1. **What the body is saying.** First know what cannot wait, then understand healthspan, risk curves, and checkup markers.
+2. **The main lines worth watching.** Metabolism, cardiovascular risk, sleep, brain and mental health, cancer, and specialty questions are the risk lines families meet again and again.
+3. **Health becomes a family matter.** Many health problems eventually land in records, visit support, follow-up, parent conversations, and caregiving roles.
+4. **Do not let health information pull you around.** Supplements, devices, tests, longevity marketing, new studies, and short videos keep interfering with family judgment.
+
+## Before The Book: Start And Boundaries
 
 - [Start Here](00-start-here.md)
-- [Medical Boundaries and Warning Signs](medical-boundaries.md)
 
-Read these first if someone feels unwell, if a family member is unsure whether waiting is safe, or if you want to understand what this book can and cannot do.
+## Part 1: What The Body Is Saying, From Signals To Markers
 
-## Part 1: Healthspan, Risk, And Checkup Markers
+First translate health problems from "do I have a disease?" into the language of risk, function, and action.
 
-- [Healthspan and the Risk Curve](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
-- [Checkup Markers](part-1-healthspan-risk-and-markers/checkup-markers.md)
+- [1. Red Flags: Sort Urgency Before Searching For Disease Names](medical-boundaries.md)
+- [2. Healthspan: Who Is Your Body Counting Down For?](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
+- [3. Checkup Markers: Not A Verdict, But A Language Of Risk](part-1-healthspan-risk-and-markers/checkup-markers.md)
 
-This part helps readers connect long-term function, major risk lines, family readiness, and checkup results. The focus is on ability, trend, combination, context, and next actions.
+## Part 2: The Main Risk Lines Worth Watching
 
-## Part 2: The Body's Main Risk Lines
+At this point, many problems stop looking isolated: blood pressure, glucose, sleep, mood, mobility, screening, and specialty symptoms often connect to long-term risk lines and family action.
 
-- [Metabolic Health](part-2-body-risk-map/metabolic-health.md)
-- [Cardiovascular Event Chain](part-2-body-risk-map/cardiovascular-event-chain.md)
-- [Common Upstream](part-2-body-risk-map/common-upstream.md)
-- [Sleep and Recovery](part-2-body-risk-map/sleep-and-recovery.md)
-- [Brain and Mental Health](part-2-body-risk-map/brain-and-mental-health.md)
-- [Cancer and Major Illness](part-2-body-risk-map/cancer-and-major-illness.md)
-- [Children And Adolescent Health](part-2-body-risk-map/children-and-adolescent-health.md)
-- [Specialty Care Map](part-2-body-risk-map/specialty-care-map.md)
+- [1. Metabolic Health And The Four Highs: Why Four Useful Systems Lose Balance](part-2-body-risk-map/metabolic-health.md)
+- [2. Cardiovascular Event Chain: The Chain Reaction From Blood Pressure To Heart Attack](part-2-body-risk-map/cardiovascular-event-chain.md)
+- [3. Common Upstream: Pull Risk Back Before It Becomes Disease](part-2-body-risk-map/common-upstream.md)
+- [4. Sleep And Recovery: The Hidden Engineering Of Body Repair](part-2-body-risk-map/sleep-and-recovery.md)
+- [5. Brain And Mental Health: First Look At Safety, Function, And Support](part-2-body-risk-map/brain-and-mental-health.md)
+- [6. Cancer And Major Illness: Separate The Stage Before Fear Decides](part-2-body-risk-map/cancer-and-major-illness.md)
+- [7. Children And Adolescents: Body And Mind Grow Together](part-2-body-risk-map/children-and-adolescent-health.md)
+- [8. Common Specialty Problems: Improve Visit Quality, Do Not Become Your Own Doctor](part-2-body-risk-map/specialty-care-map.md)
 
-This part looks at long-running risk lines such as metabolic health, cardiovascular risk, sleep, mental health, cancer, and specialty-care questions. Do not use it for self-diagnosis; use it to know what to record, what to ask, and when a problem needs professional care.
+## Part 3: Health Becomes A Family Matter
 
-## Part 3: Family Health Coordination
+After you understand risk, the hard part is execution: where the records are, who goes to visits, how to talk with parents, who records older-adult changes, and who reminds follow-up.
 
-- [What A Family Health System Actually Manages](part-3-family-health-os/what-to-manage.md)
-- [Doctor Visit Preparation](part-3-family-health-os/doctor-visit-preparation.md)
-- [Talking With Parents](part-3-family-health-os/talking-with-parents.md)
-- [Elder Care Basics](part-3-family-health-os/elder-care-basics.md)
+- [1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](part-3-family-health-os/what-to-manage.md)
+- [2. How To Prepare For A Doctor Visit: Bring Facts Into The Room](part-3-family-health-os/doctor-visit-preparation.md)
+- [3. Talking With Parents About Health: Do Not Turn Care Into Control](part-3-family-health-os/talking-with-parents.md)
+- [4. Elder Care Basics: Protect The Ability To Keep Living](part-3-family-health-os/elder-care-basics.md)
 
-Health often becomes a family workflow: records, visits, medications, follow-up, privacy, consent, and conversations with people who may not want to be managed. This part focuses on cooperation without control.
+## Part 4: Do Not Be Pushed Around: Health Information Defense
 
-## Part 4: Health Information Defense
+Once the family has internal workflows, outside information still keeps arriving. This part handles another kind of risk: exaggerated promises, fear, mechanisms presented as effects, and tests packaged as reassurance.
 
-- [Supplement Evidence Traps](part-4-health-information-defense/supplement-evidence-traps.md)
-- [Devices, Tests, and Longevity Marketing](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
-- [Reading Health News](part-4-health-information-defense/reading-health-news.md)
+- [1. Supplement Evidence Traps: "Trying It" Is Not Always Harmless](part-4-health-information-defense/supplement-evidence-traps.md)
+- [2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying](part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+- [3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down](part-4-health-information-defense/reading-health-news.md)
 
-This part helps readers slow down before acting on supplements, devices, tests, longevity services, health news, and short-form health content.
+## After The Main Book
 
-## Practical Tools
+- [After Reading This Book: Keep A Few Actions](after-reading.md)
 
-The handbook is the fastest place to go when a family needs a next action:
+## Appendix: Handbook, Templates, And Quick References
 
-- [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
-- [Red Flags](../handbook/playbooks/red-flags.md)
-- [Emergency, Clinic, or Which Department?](../handbook/playbooks/department-navigation-guide.md)
-- [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
-- [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md)
-- [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../handbook/templates/family-health-record.md#_1-one-page-family-health-card)
-- [Family Health Record](../handbook/templates/family-health-record.md)
-- [Chronic Marker Log](../handbook/templates/family-health-record.md#_2-chronic-marker-log)
-- [Health Product Checklist](../handbook/templates/health-product-checklist.md)
+See [Handbook And Templates](../handbook/README.md).
 
-## Reading Path
+Checkup-related tool pages:
 
-If you are reading rather than looking up a tool, start with [Start Here](00-start-here.md), then follow each page's Reading Navigation. The final book page is [After Reading](after-reading.md); the handbook is a separate tool area for real situations.
+- [Checkup Planning Guide](../handbook/playbooks/checkup-planning-guide.md)
+- [Common Abnormal Checkup Markers](../handbook/playbooks/common-checkup-markers.md)
+- [Chronic Condition Tracking Table](../handbook/templates/family-health-record.md#_2-chronic-condition-tracking)

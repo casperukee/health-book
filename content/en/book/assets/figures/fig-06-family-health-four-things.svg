@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="家庭健康管理：先管四件事">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 11</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">家庭健康管理：先管四件事</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">不是管人，而是让事实、边界、下一步和分工不丢失</text>
+  
+  <circle cx="600" cy="430" r="98" fill="#ffffff" stroke="#c9d8d2" stroke-width="2" filter="url(#softShadow)" />
+  <text x="600" y="418" text-anchor="middle" font-size="29" font-weight="900" fill="#1f302d" opacity="1">家庭健康</text>
+<text x="600" y="456" text-anchor="middle" font-size="29" font-weight="900" fill="#1f302d" opacity="1">守门人</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="242" width="430" height="152" rx="26" fill="#e5f0f8" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="108" y="296" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">事实</text>
+  <text x="108" y="336" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">症状、报告、病史和用药</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="696" y="242" width="430" height="152" rx="26" fill="#f8dfdd" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="730" y="296" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">边界</text>
+  <text x="730" y="336" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">什么能观察，什么要就医</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="74" y="484" width="430" height="152" rx="26" fill="#e2f3ed" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="108" y="538" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">下一步</text>
+  <text x="108" y="578" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">复查、就医、记录和小动作</text>
+  
+  <g filter="url(#softShadow)">
+    <rect x="696" y="484" width="430" height="152" rx="26" fill="#fff1d6" stroke="#c9d8d2" stroke-width="1.8" />
+  </g>
+  
+  <text x="730" y="538" text-anchor="start" font-size="29" font-weight="900" fill="#1f302d" opacity="1">分工</text>
+  <text x="730" y="578" text-anchor="start" font-size="20" font-weight="520" fill="#66736f" opacity="1">谁记录、谁陪诊、谁提醒</text>
+  <line x1="514" y1="318" x2="548" y2="385" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+  <line x1="686" y1="318" x2="652" y2="385" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+  <line x1="514" y1="560" x2="548" y2="478" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+  <line x1="686" y1="560" x2="652" y2="478" stroke="#248f75" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)" />
+</svg>

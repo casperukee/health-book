@@ -6,8 +6,6 @@ This is the practical layer of Health Youpu. The main book explains why, how to 
 If chest pain or pressure, possible stroke signs, severe breathing trouble, altered consciousness, uncontrolled bleeding, sudden severe pain, severe allergic reaction, poisoning, serious injury, self-harm or suicide risk, pregnancy/postpartum warning signs, or another possible emergency is already present, do not browse slowly through the handbook. Use emergency services, an emergency department, urgent care, crisis services, or another qualified local entry point first. You can open [Red Flags](playbooks/red-flags.md) at the same time to help family members state what is happening.
 :::
 
-[中文验收页](../../en-review/zh-CN/handbook/README.md)
-
 ## Pick Your Situation
 
 | What you want to do now | Start here |
@@ -59,6 +57,6 @@ Add other tools only when the matching situation appears:
 
 ## Maintenance Entry
 
-- [Trial Reading And Feedback Guide](https://github.com/casperukee/health-book/blob/main/content/en/updates/english-edition-plan.md)
-- [Official Medical Sources](https://github.com/casperukee/health-book/blob/main/content/en/references/README.md)
-- [Errata, Updates, And Feedback](https://github.com/casperukee/health-book/blob/main/content/en/errata/README.md)
+- [Trial Reading And Feedback Guide](../feedback/gray-trial-guide.md)
+- [Official Medical Sources](../references/README.md)
+- [Errata, Updates, And Feedback](../errata/README.md)

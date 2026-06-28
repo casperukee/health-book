@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-label="健康寿命：拉长可行动的时间">
+  <defs>
+    <marker id="arrow" markerWidth="14" markerHeight="14" refX="11" refY="7" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L12,7 L2,12 Z" fill="#248f75" />
+    </marker>
+    <filter id="softShadow" x="-12%" y="-12%" width="124%" height="124%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#203d36" flood-opacity="0.08" />
+    </filter>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; dominant-baseline: alphabetic; }
+  </style>
+  <rect width="1200" height="760" fill="#f8fbf8" />
+  <circle cx="1020" cy="110" r="170" fill="#e2f3ed" opacity="0.45" />
+  <circle cx="80" cy="700" r="145" fill="#e5f0f8" opacity="0.34" />
+  
+  <rect x="70" y="46" width="102" height="38" rx="19" fill="#e2f3ed" />
+  <text x="121" y="72" text-anchor="middle" font-size="20" font-weight="800" fill="#157c78">图 1</text>
+  <text x="70" y="132" text-anchor="start" font-size="40" font-weight="900" fill="#1f302d" opacity="1">健康寿命：拉长可行动的时间</text>
+  <text x="72" y="184" text-anchor="start" font-size="22" font-weight="500" fill="#66736f" opacity="1">真正想延长的，是能行动、能思考、能连接的时间</text>
+  
+  <text x="148" y="270" text-anchor="start" font-size="28" font-weight="800" fill="#1f302d" opacity="1">我们想要的不是单纯更久，而是更久地保有功能</text>
+  <line x1="120" y1="420" x2="1080" y2="420" stroke="#c9d8d2" stroke-width="6" stroke-linecap="round" />
+  <rect x="150" y="370" width="650" height="100" rx="50" fill="#e2f3ed" stroke="#248f75" stroke-width="3" />
+  <rect x="800" y="370" width="260" height="100" rx="50" fill="#fff1d6" stroke="#d79523" stroke-width="3" />
+  <text x="475" y="433" text-anchor="middle" font-size="32" font-weight="900" fill="#157c78" opacity="1">健康寿命</text>
+  <text x="930" y="433" text-anchor="middle" font-size="32" font-weight="900" fill="#d79523" opacity="1">疾病负担</text>
+  <line x1="800" y1="330" x2="800" y2="520" stroke="#c9d8d2" stroke-width="4" stroke-dasharray="12 12" />
+  <text x="800" y="305" text-anchor="middle" font-size="22" font-weight="800" fill="#66736f" opacity="1">功能明显受限</text>
+  <circle cx="285" cy="542" r="10" fill="#248f75" /> <circle cx="475" cy="542" r="10" fill="#248f75" /> <circle cx="665" cy="542" r="10" fill="#248f75" />
+  <text x="285" y="586" text-anchor="middle" font-size="23" font-weight="800" fill="#157c78" opacity="1">能行动</text>
+  <text x="475" y="586" text-anchor="middle" font-size="23" font-weight="800" fill="#157c78" opacity="1">能思考</text>
+  <text x="665" y="586" text-anchor="middle" font-size="23" font-weight="800" fill="#157c78" opacity="1">能连接</text>
+  <line x1="455" y1="682" x2="765" y2="472" stroke="#248f75" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)" />
+  <text x="170" y="705" text-anchor="start" font-size="28" font-weight="900" fill="#1f302d" opacity="1">风险越早被看见，转折点越有机会后移</text>
+  <text x="910" y="514" text-anchor="start" font-size="22" font-weight="700" fill="#66736f" opacity="1">年龄与时间</text>
+</svg>

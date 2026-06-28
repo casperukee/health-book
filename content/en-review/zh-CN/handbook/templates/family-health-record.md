@@ -2,6 +2,8 @@
 
 对应英文页：[Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)
 
+本页是英文 Family Health Record And Chronic Marker Log 页的中文回译，用于验收 U.S.-first adaptation；它翻译英文改写稿，不复制中文版源稿。
+
 > 这个模板不是医疗建议，也不是法律意义上的病历。它帮助家庭把关键事实放在找得到的地方。健康信息属于隐私；尽可能征得本人同意，并谨慎保存。
 
 这页只做三件事：
@@ -112,10 +114,10 @@ Materials brought: reports / home measurements / medication bottles or list / im
 
 | 当前情况 | 接着看 |
 |---|---|
-| 只想先做最小可用入口 | [一页家庭健康卡](family-health-record.md#_1-一页家庭健康卡) |
-| 有需要长期追踪的反复指标 | [慢病指标记录](family-health-record.md#_2-慢病指标记录) |
-| 准备门诊或复诊 | [Doctor Visit Checklist](../playbooks/doctor-visit-checklist.md) |
-| 现在出现明确危险信号 | 先求助；如果家庭需要分工，再看 [Red Flags](../playbooks/red-flags.md) |
+| 只想先做最小可用入口 | [One-Page Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) |
+| 有需要长期追踪的反复指标 | [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log) |
+| 准备门诊或复诊 | [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) |
+| 现在出现明确危险信号 | 先求助；如果家庭需要分工，再看 [Red Flags](../../../../en/handbook/playbooks/red-flags.md) |
 
 ## 公开资料
 
@@ -131,7 +133,7 @@ Materials brought: reports / home measurements / medication bottles or list / im
 - MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
 - NIDDK: [Chronic Kidney Disease Tests and Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 
-更多来源登记见 [source registry](https://github.com/casperukee/health-book/blob/main/shared/source-registry.md)。本书的证据规则见 [evidence policy](https://github.com/casperukee/health-book/blob/main/content/en/references/README.md)。
+更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
 
 ## 一句话
 

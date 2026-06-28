@@ -2,8 +2,6 @@
 
 These are copyable family health templates.
 
-[中文验收页](../../../en-review/zh-CN/handbook/templates/README.md)
-
 ## Which Template First
 
 | Situation | Template |

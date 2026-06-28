@@ -4,19 +4,27 @@
 
 本页是英文 Part 1 目录的中文验收辅助。
 
-## Part 1：健康寿命、风险和体检指标
+# 第一章：身体在说什么：从信号到指标
 
-这一部分帮助读者从“我是不是有病”转向“风险模式是什么、什么影响日常功能、下一步该做什么”。
+本部分建立整本书的风险语言。
+
+很多家庭第一次认真面对健康问题，不是从确诊开始，而是从体检报告有箭头、父母开始担心某个数字、身边有人突然生病，或自己意识到身体不再像二十多岁那样“自动恢复”开始。
+
+本章先回答两个问题：
+
+- 我们真正想维护的，不只是更长的寿命数字，而是功能、日常生活能力，以及家庭协作能力；
+- 体检指标不是判决书，而是风险语言，需要看趋势、组合、背景和下一步行动。
+
+读完本章，再进入第二章的身体主要风险线，会更容易理解：代谢、心血管风险、睡眠、大脑健康、癌症和专科问题，都不能只通过一个数字或一个症状来读。
 
 ## 章节
 
-- [Healthspan and the Risk Curve](../../../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
-- [Checkup Markers Are Risk Language](../../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)
+- [1. Warning Signs 中文验收页](../medical-boundaries.md)
+- [2. Healthspan 中文验收页](healthspan-and-risk-curve.md)
+- [3. Checkup Markers 中文验收页](checkup-markers.md)
 
-## 怎么读
+## 配套工具
 
-如果想先建立长期框架，先读健康寿命与风险曲线：功能、重大风险和家庭准备。
-
-如果化验或体检报告里有 flags、reference ranges 或不熟悉的缩写，读体检指标。
-
-如果现在已经有危险信号，不要从这里开始。回到 [Medical Boundaries and Warning Signs](../../../../en/book/medical-boundaries.md) 或 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)。
+- [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)
+- [Common Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md)
+- [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log)

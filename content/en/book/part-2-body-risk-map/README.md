@@ -1,29 +1,29 @@
-# Part 2: Body Risk Map
+# Chapter 2: The Risk Lines Most Worth Watching
 
-> This section is not medical advice. Use it to understand risk patterns, prepare better questions, and know when symptoms should move into professional care.
+This part organizes body questions by long-running risk lines.
 
-[中文验收页](../../../en-review/zh-CN/book/part-2-body-risk-map/README.md)
+Families are easily pulled around by single points: one lipid arrow, a spell of chest tightness, weeks of poor sleep, a parent's memory changes, a nodule on imaging, or a specialty symptom that keeps coming back. The single point matters, of course. But what decides the next step is usually this: which risk line does it belong to, is it urgent, is it persistently affecting function, and does it need specialty judgment?
 
-Part 2 follows the body's main long-running risk lines. These pages are not a substitute for diagnosis or treatment. They help a family notice patterns early, record useful facts, and avoid treating every result as an isolated number.
+You do not need to read this chapter in one sitting. The first two sections work well in sequence: first why the "four highs" often belong together, then why heart attack and stroke are rarely truly sudden. If after those two sections you care more about what can be adjusted before something becomes a disease, you can jump to the third section, "Common Upstream." The later pages on sleep, brain and mental health, cancer, children and adolescents, and specialty care can be read according to the issue in front of you.
 
-## Start Here
+This part roughly unfolds in this order:
 
-- [Metabolic Health](metabolic-health.md)
-- [Cardiovascular Event Chain](cardiovascular-event-chain.md)
-- [Common Upstream](common-upstream.md)
-- [Sleep and Recovery](sleep-and-recovery.md)
-- [Brain and Mental Health](brain-and-mental-health.md)
-- [Cancer and Major Illness](cancer-and-major-illness.md)
-- [Children And Adolescent Health](children-and-adolescent-health.md)
-- [Specialty Care Map](specialty-care-map.md)
+1. Start with metabolism and cardiovascular risk, because they connect checkup markers, chronic disease, heart attack, and stroke;
+2. then look at common upstream drivers, putting activity, food and drink, recovery, stress, and feedback back into sustainable daily defaults;
+3. then look at sleep recovery and brain and mental health, because they shape daytime function, long-term ability, and family safety boundaries;
+4. finally look at cancer and major illness, children and adolescents, and specialty problems, bringing high-anxiety topics and special populations back to staged judgment, record preparation, and professional collaboration.
 
-## How To Read This Part
+After this part, the next step is not to become your own doctor. It is to turn judgment into a family workflow: who records, who goes to visits, who follows up, and who brings the right information to clinicians.
 
-Read one page at a time. After each page, write down:
+If you are reading in order, start directly with metabolism and cardiovascular risk. If you are coming back to look up a problem, begin with each page's second-level headings, danger boundary, observation card, visit questions, and summary. Concrete symptom next steps, appointment routing, and visit preparation are handled in the handbook pages, so the main book does not repeat them as tool pages.
 
-- which risk line is most relevant to your family right now;
-- which facts should be tracked rather than guessed;
-- which questions belong in primary care, specialty care, urgent care, or the emergency department;
-- which symptoms would override long-term planning and require immediate help.
+## Chapters
 
-The useful output is not a self-diagnosis. It is a cleaner conversation with clinicians and a calmer family workflow.
+- [1. Metabolic Health: Four Useful Systems, And Why They Lose Balance](metabolic-health.md)
+- [2. Cardiovascular Event Chain: The Chain Reaction From Blood Pressure To Heart Attack](cardiovascular-event-chain.md)
+- [3. Common Upstream: Pull Risk Back Before It Becomes Disease](common-upstream.md)
+- [4. Sleep And Recovery: The Hidden Work Of Body Repair](sleep-and-recovery.md)
+- [5. Brain And Mental Health: Start With Safety, Function, And Support](brain-and-mental-health.md)
+- [6. Cancer And Major Illness: Separate The Stage Before Fear Decides For You](cancer-and-major-illness.md)
+- [7. Children And Adolescents: Body And Mind Grow Together](children-and-adolescent-health.md)
+- [8. Common Specialty Problems: Improve Care Quality Without Becoming Your Own Doctor](specialty-care-map.md)

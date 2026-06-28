@@ -4,7 +4,7 @@ language: en
 canonical_slug: doctor-visit-checklist
 zh_path: ../../../zh-CN/handbook/playbooks/doctor-visit-checklist.md
 review_path: ../../../en-review/zh-CN/handbook/playbooks/doctor-visit-checklist.md
-translation_status: en-v0.1-adaptation-draft
+translation_status: en-v0.2-structure-aligned
 last_reviewed: 2026-06-28
 medical_review_status: needs_review
 evidence_status: stable
@@ -12,176 +12,67 @@ evidence_status: stable
 
 # Doctor Visit Checklist
 
-> This page is not medical advice. If warning signs are present, seek emergency or urgent care first. Do not delay care in order to complete a checklist.
+> This page is not medical advice. If there is chest pain or tightness, stroke-like symptoms, severe trouble breathing, altered consciousness, uncontrolled bleeding, severe pain, self-harm risk, or other red flags, use emergency services or the emergency department first. Do not delay care to organize a checklist.
 
-[中文验收页](../../../en-review/zh-CN/handbook/playbooks/doctor-visit-checklist.md)
+You do not need to write a long document before a clinic visit. Put the short tables below into a phone note, and it is enough.
 
-Clinic time is short. The most useful family contribution is not a theory about the diagnosis. It is a clear timeline, medication list, relevant records, and the questions that need an answer.
+## 30-Second Opening
 
-If you are not sure whether the situation is urgent, start with the [Symptom Action Guide](symptom-action-guide.md).
-
-## A 30-Second Opening
-
-Use this structure at the beginning of a visit:
-
-```text
-The main thing I want help with today is:
-It started:
-What changed recently:
-What it affects most:
-What records I brought or can open:
-The question I most need answered:
-```
-
-Example:
-
-```text
-I am here for chest tightness.
-It started about two weeks ago. In the past three days, climbing two flights of stairs makes it more noticeable, and rest helps after a few minutes.
-I have not fainted, but I had sweating twice.
-I have high blood pressure and diabetes. I brought my recent labs, medication list, and home blood pressure records.
-My main question is: what should we check next, and what should make me seek urgent care?
-```
-
-This is not self-diagnosis. It gives the clinician a usable timeline, severity, background, and decision question.
-
-## One-Page Visit Prep
-
-Fill what you can before the visit.
-
-```text
-Main concern for this visit:
-
-Symptom timeline:
-- When it started:
-- Sudden or gradual:
-- How long / how often:
-- What makes it worse:
-- What makes it better:
-- Associated symptoms:
-- What function it affects:
-
-Important background:
-- Existing conditions:
-- Surgery / hospital / ER history:
-- Recent tests or imaging:
-- Recent infection, injury, pregnancy/postpartum, travel, or major stress:
-
-Current use:
-- Prescription medications:
-- Over-the-counter medications:
-- Supplements / herbs:
-- Allergies:
-- Recently stopped, missed, or changed doses:
-
-Top 3 questions:
-1.
-2.
-3.
-
-Before leaving, confirm:
-- What is the next step?
-- When should follow-up happen?
-- What should trigger earlier care or urgent care?
-```
-
-## Four Information Packs
-
-### 1. Symptom Timeline
-
-Bring facts:
-
-- when it started;
-- sudden or gradual;
-- constant or episodic;
-- what worsens or relieves it;
-- associated symptoms such as fever, chest pain, shortness of breath, dizziness, vomiting, bleeding, weight change, or sleep disruption;
-- whether it affects eating, walking, work, school, caregiving, mood, or sleep.
-
-"I get chest tightness after two flights of stairs, and it improves after five minutes of rest" is more useful than "I think my heart is bad."
-
-### 2. Prior Records
-
-Bring or make quickly accessible:
-
-- existing conditions;
-- prior surgeries, hospitalizations, emergency visits;
-- recent checkups, labs, imaging, pathology, discharge summaries;
-- relevant family history;
-- recent infection, injury, pregnancy/postpartum period, travel, or major stress.
-
-Not every record needs to be printed. The key is being able to find important reports quickly in a portal, folder, phone, or printed packet.
-
-### 3. Medications And Allergies
-
-List:
-
-- prescription drugs: name, dose, frequency, start date if known;
-- over-the-counter medicines;
-- supplements, herbs, topical products;
-- missed doses, stopped medication, or self-adjusted doses;
-- drug, food, contrast, or other allergies;
-- side effects or reactions after taking something.
-
-Supplements, alcohol, smoking, missed medication, or self-adjusted medication can all affect clinical judgment. If relevant, say it plainly.
-
-### 4. Questions
-
-Prepare at most 3-5 questions, sorted by importance:
-
-- What problem types are we trying to rule in or rule out?
-- What is still uncertain?
-- What tests are needed, and what question does each test answer?
-- What should we watch for at home?
-- When should follow-up happen?
-- What should trigger urgent care?
-- How should medication be taken, and what should we do if side effects, missed doses, or access problems occur?
-- What does the family need to help with?
-
-## If Someone Accompanies The Patient
-
-A companion can help with records, notes, medication details, follow-up planning, and transportation.
-
-The companion should not replace the patient's voice when the patient can speak for themselves. Ask first before sharing sensitive information, taking notes, or requesting portal access.
-
-## Before Leaving
-
-Confirm four things:
-
-- Do I understand the current judgment and uncertainty?
-- Do I know the next test, treatment, observation, or referral?
-- Do I know how to take medication and what to watch for?
-- Do I know when to follow up and what should trigger earlier care?
-
-Repeat the plan in your own words:
-
-```text
-What I understand is:
-Next we will:
-Medication / test / follow-up:
-If these happen, I should return early or seek urgent care:
-```
-
-If the clinician corrects your summary, that correction is valuable.
-
-After the visit, update the [Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) or the relevant family record.
-
-## How This Page Connects
-
-| If you are stuck here | Next page |
+| Say this first | One sentence is enough |
 | --- | --- |
-| Not sure whether this is urgent | [Symptom Action Guide](symptom-action-guide.md) |
-| Missing medical history, allergies, medications, or contacts | [Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) |
-| Need to understand checkup results | [Checkup Markers](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
+| Main reason for this visit | Example: chest tightness, abdominal pain, follow-up report, medication adjustment |
+| When it started | Today, three days ago, two weeks ago, or recurring for a long time |
+| What has changed recently | Worse, more frequent, spreading, or new symptoms |
+| What it affects most | Sleep, eating, walking, work, school, caregiving |
+| What I most want answered | What risk, what test, what next step, or what home boundary |
 
-## Public Sources
+## What To Bring Before The Visit
 
-Reviewed on 2026-06-28:
+| Bring this | Focus |
+| --- | --- |
+| Recent reports | Labs, imaging, pathology, discharge summaries; prioritize abnormal and latest results |
+| Medications and allergies | Prescriptions, over-the-counter medicines, supplements, herbs, missed/stopped medicines, allergy history |
+| Key trends | Blood pressure, glucose, cholesterol, uric acid, kidney function, weight/waist; bring the last 1-3 readings when useful |
+| Prior background | Major illness, surgery, emergency visits, family history, pregnancy/postpartum, cancer treatment, important diagnoses |
+| Three questions | The 1-3 questions you most need answered, in order |
+
+If you are preparing for dental extraction, implants, endoscopy, minor surgery, or another invasive procedure, proactively mention underlying conditions and medicines that affect clotting, immunity, bone metabolism, or cancer treatment. Do not stop medication on your own.
+
+## Confirm Before Leaving The Room
+
+| Clarify this | You can ask |
+| --- | --- |
+| Current judgment | What risk most needs to be ruled out now? What is still uncertain? |
+| Next step | Is the next step testing, medication, observation, follow-up, or referral? |
+| Home boundary | What is expected recovery? What should make me come back earlier or go to emergency care? |
+| Follow-up plan | When should follow-up happen? What should I watch for before then? What records should I bring? |
+
+## A Companion Does Only Three Things
+
+| Role | Note |
+| --- | --- |
+| Add facts | Let the patient speak first when they can |
+| Record the next step | Write down tests, medicines, follow-up, and danger boundaries |
+| Turn the plan into actions at home | Who fills prescriptions, schedules, records, and reminds |
+
+A companion is not there to decide for the patient. They help keep real information from falling outside the exam room.
+
+## Related Tools
+
+- Clear red flags: start with [Red Flags](red-flags.md), and use emergency services or the emergency department when needed.
+- Not sure what care entry point to use: see [Care Entry And Specialty Navigation](department-navigation-guide.md).
+- Missing conditions, allergies, medicines, or contacts: fill the [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card).
+
+## References
+
+As of 2026-06-20, this page mainly uses:
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
-- AHRQ: [Questions Are the Answer](https://www.ahrq.gov/questions/index.html)
-- HealthIT.gov: [Get It, Check It, Use It](https://www.healthit.gov/how-to-get-your-health-record/)
+- AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
+- HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 
-## Last Reminder
+More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
-A timeline, medication list, allergies, records, and 1-3 questions can make a short visit much more useful.
+## One Sentence
+
+Preparing for a visit is not diagnosing for the clinician. It is bringing facts, records, and questions into the room.

@@ -4,132 +4,70 @@
 
 本页是英文 `Start Here` 页的中文验收辅助。它翻译/回译的是英文 adaptation，不是中文版《写在前面》的原稿。
 
-## 验收信息
+# 从这里开始
 
-- 中文源页：`content/zh-CN/book/00-start-here.md`
-- 英文页状态：`content-review`
-- 英文页定位：美国优先的网页版入口，不是读书版入口
-- 本土化重点：911 / emergency department / urgent care / primary care、patient portal、discharge instructions、return precautions、insurance friction、HIPAA/proxy access/advance directives 等美国语境
-- 边界要求：不诊断、不治疗、不建议用药或停药、不制定个体化筛查方案，不用成本或保险理由覆盖危险信号
+## 版权与医学声明
 
-## Start Here
+本书用于健康科普和家庭健康信息整理，不构成医疗建议。
 
-> 本书不是医疗建议。它不能替代诊断、急救、治疗、用药决定、筛查决定、心理健康危机支持或合格临床人员的指导。
+本书不能替代诊断、治疗、用药决定、停药决定、筛查决定、急救判断、心理健康危机干预或任何个体化医疗决策。涉及慢病指标、检查异常、筛查选择、药物使用、手术决策、心理健康、孕产健康、儿童或老年人时，请结合医生建议、个人病史、检查结果和本地照护资源。
 
-健康信息通常并不稀缺。更难的问题是：拿到这些信息以后该怎么办。
+如果已经出现危险信号，或情况正在加重、明显让家人担心，请先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。具体边界见下一章 [1. Warning Signs: Sort Urgency Before Searching Disease Names](../../../en/book/medical-boundaries.md) 和 [Red Flags](../../../en/handbook/playbooks/red-flags.md)。
 
-化验结果在 patient portal 里被标红。父母说胸口“有点紧”，但又不想小题大做。青少年突然睡不好。伴侣出院时带回了新药和一堆没人完全记住的说明。保健品广告承诺能改善血糖、睡眠或寿命。家庭群很快热闹起来，但下一步仍然不清楚。
+医学知识会更新。本书的安全边界、来源、勘误和复查记录也会持续检查；面对具体健康问题，请以临床人员判断、本地医疗资源和当前权威资料为准。英文维护说明见 [English Edition Adaptation Plan](../../../en/updates/english-edition-plan.md)，来源登记见 [source registry](../../../../shared/source-registry.md)。
 
-**Health Youpu** 不试图把家庭训练成医生。它帮助家庭把健康问题分成更安全的下一步：尽快求助、联系临床人员、准备更好的信息、带着升级条件记录观察，或者在购买产品/检测前先暂停。
+## 前言：健康信息很多，下一步仍然不清楚
 
-## 如果有人现在已经不舒服
+很多家庭不是缺少健康信息，而是信息太多。
 
-先分急缓，再搜病名。
+化验报告有箭头。群里有人转发每个人都“必须”吃的补剂。父母说胸口有点紧，又说没事。孩子或伴侣情绪崩溃。短视频每天警告这个会致癌、那个能抗衰。普通人不可能把这些全部变成医学判断。
 
-如果已经出现危险信号、快速加重、明显安全风险，或者让你觉得等待不安全，请使用当地急救服务、急诊科、urgent care、危机干预服务或所在地合格的医疗入口。在美国，这可能意味着 911、emergency department、urgent care、危机热线，或医生给出的非工作时间指引，取决于具体情况。
+这本书不想把你训练成临床人员。它想帮助你做一件更现实的事：在家庭生活中建立一套稳定的健康判断方式。
 
-这本书可以帮助家人说清发生了什么，但不能用来把可能的急症降级。
+我希望这本书帮你少做几次慌乱决定：该求助时求助，该记录时记录，被某个宣称推得太快时先暂停。它不替临床人员判断，但帮助家庭把问题说清楚。
 
-先看：
+它不关心让你多记几个医学名词，更关心常见的家庭时刻：身体不舒服时先分急缓，报告标红时先看趋势和组合，见医生前先整理事实，遇到产品或短视频时先问它想让你做什么。
 
-- [Medical Boundaries and Warning Signs](../../../en/book/medical-boundaries.md)
-- [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)
+它不是一个疾病一个疾病地讲完。它帮助你形成一个习惯：先分急缓，再看风险，最后把问题带回事实、医生和家庭协作。
 
-症状工具不是用来证明“可以观察”的。凡是涉及呼吸、循环、意识、说话、肢体活动、严重疼痛、大量出血、严重外伤、中毒、严重过敏、自伤风险、孕产期危险信号，或发生在高风险人群身上，都应该降低寻求专业照护的门槛。
+## 怎么开始读
 
-## 如果马上要看报告或见医生
+你不需要从头到尾背下这本书。先看眼前的情况。
 
-先带事实，再谈结论。
+### 已经有人不舒服
 
-在美国医疗场景里，有用信息常常散落在 lab portal、影像报告、出院文件、药瓶、药房记录、保险消息和家庭聊天记录里。不要一上来就试图解释所有内容，先把能帮助医生看清时间线的部分收集起来：
+先分急缓。已经出现明确危险信号，或情况正在快速变坏、明显令人担心时，先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。[1. Warning Signs: Sort Urgency Before Searching Disease Names](../../../en/book/medical-boundaries.md) 和 [Red Flags](../../../en/handbook/playbooks/red-flags.md) 帮助你说清情况，不替你判断能不能等。
 
-- 什么发生了变化，什么时候开始；
-- 当前用药、补剂、过敏和最近用药变化；
-- 相关病史和既往结果；
-- 最近化验、影像、出院说明或 return precautions；
-- 最想让医生回答的 1-3 个问题。
+如果不是明显红旗，但仍拿不准能不能等，先读下一章。如果想按胸痛、发热、腹痛、跌倒、情绪危机等常见症状分出下一步动作，使用 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)。
 
-体检和报告相关，先看：
+症状速查不是用来证明“观察是安全的”。任何可能影响呼吸、循环、意识、说话、肢体活动或安全的情况，或者伴随明显出血、严重疼痛、严重外伤、中毒、严重过敏、自伤风险、孕产期危险信号，都不要用工具页给自己降级。先使用急症照护或其他合格的本地入口。
 
-- [Before a Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md)
-- [Checkup Markers](../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)
-- [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)
+### 要看报告或见医生
 
-费用、保险覆盖、网络内外、deductible 和 prior authorization 会影响安排方式。但出现危险信号时，它们不应成为推迟就医的理由。
+先整理事实，再讨论判断。
 
-## 如果想给家人做准备
+体检报告有箭头时，先看趋势、组合、背景和下一步行动，不要只盯一个数字。体检前读 [Before A Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md)。拿到结果后读 [3. Checkup Markers: Not A Verdict, But A Risk Language](../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [Common Checkup Markers](../../../en/handbook/playbooks/common-checkup-markers.md)。如果近期要门诊，用 [2. Before A Visit: Bring Facts Into The Room](../../../en/book/part-3-family-health-os/doctor-visit-preparation.md) 和 [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) 准备症状时间线、既往病史、用药、过敏、检查结果和最想问的问题。
 
-先从小处开始。不要一上来就试图整理所有 PDF、portal 消息、影像、药物照片和旧报告。
+### 想为家庭照护做准备
 
-第一份真正有用的家庭健康记录，常常是一张一页卡：
+先做一张最小健康卡。不要一开始就建立一堆档案。
 
-- 紧急联系人；
-- 重要疾病和手术史；
-- 过敏；
-- 当前用药和补剂；
-- 药房和医生联系方式；
-- 重要资料在哪里；
-- 什么情况会触发紧急求助或联系医生。
+压力时刻最有用的，往往是紧急联系人、主要疾病、过敏、当前用药、近期复查和重要资料位置。[1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](../../../en/book/part-3-family-health-os/what-to-manage.md) 解释家庭健康协作，[Family Health Record And Chronic Marker Log](../../../en/handbook/templates/family-health-record.md) 提供可复制的一页卡、慢病指标记录和复诊前摘要。
 
-使用：
-
-- [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)
-- [Handbook](../../../en/handbook/README.md)
-
-对美国家庭来说，准备工作还可能包括 patient portal、proxy access、HIPAA 授权、紧急联系人、advance directives 和远距离照护。这些细节很重要，但第一步仍然简单：在压力时刻到来前，让关键信息找得到。
-
-## 如果某个产品、检测或健康宣称正在推着你行动
+### 被健康产品或短视频困扰
 
 先问它想让你做什么。
 
-它是想让你购买保健品、订购 direct-to-consumer test、加入某个项目、为抗衰套餐付费、改变用药、跳过复查，还是为了单个 biomarker 焦虑？还是它只是提醒你睡觉、活动、记录症状或问医生？
+它是让你买产品、进群、做检测、付套餐费、改变用药或复查，还是只是提醒你记录、睡觉、活动、问医生？第四部分会讨论 [1. Supplement Evidence Traps: Is "No Harm In Trying" Really Harmless?](../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md)、[2. Devices, Tests, And Longevity Marketing: Having Numbers Does Not Mean It Is Worth Buying](../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)、[3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down](../../../en/book/part-4-health-information-defense/reading-health-news.md)；[Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md) 留给那些差一点就要付款的时刻。
 
-使用：
+### 想系统读一遍
 
-- [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)
-- [Devices, Tests, and Longevity Marketing](../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
+从下一章开始。先学会分急缓，再理解健康寿命、体检指标和身体的主要风险线；然后读家庭如何准备资料、沟通和照护；最后建立抵御健康信息误导的系统。
 
-你不需要对所有健康产品都犬儒化。你需要把有用准备和压力销售、恐惧、模糊科学、跑得比证据更快的宣称分开。
+附录不是必须按顺序读完的尾巴。它们是具体事情发生时可以打开的工具。正文建立判断方式，手册让当下少一点混乱。
 
-## 怎么读这本书
-
-你不需要像读教材一样读 Health Youpu。
-
-用两种模式读：
-
-| 模式 | 怎么做 |
-| --- | --- |
-| 现在已经有事发生 | 先看安全边界，再用相关手册页判断要收集什么信息、走哪条照护路径 |
-| 没有急事 | 连续阅读主书，在下一次压力时刻来临前建立更冷静的家庭健康判断系统 |
-
-这个网站的例子常常使用美国就医路径，但底层习惯可以迁移：先分急缓，收集事实，必要时使用合格医疗资源，并保持尊重的家庭协作。美国以外的读者需要把急救电话、就医路径、筛查建议、保险规则和公共卫生来源映射到本地系统。
-
-## 三层结构
-
-| 层级 | 做什么 | 什么时候用 |
-| --- | --- | --- |
-| Book | 解释风险语言、医学边界、家庭协作和健康信息误导 | 当你想理解模式，而不是只查一个症状 |
-| Handbook | 提供实用清单和模板 | 有症状、要就医、需要建记录、或要检查产品宣称时 |
-| References and updates | 记录来源、勘误和更新 | 想检查项目怎样维护时 |
-
-这本书的任务不是替代医生，而是帮助家庭提出更好的问题、保留更好的记录，并识别什么时候问题应该交给专业医疗。
-
-## 如果只有 10 分钟
-
-做三件小事：
-
-1. 读 [Medical Boundaries and Warning Signs](../../../en/book/medical-boundaries.md) 的前半部分。
-2. 保存 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)。
-3. 给自己、父母、伴侣、孩子、年长亲属或你照护的人做一张 [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)。
-
-这些动作不会让家庭在医学上独立。它们能在真正出事时减少慌乱、遗漏事实和临时搜索。
-
-## 记住三条规则
-
-1. **先分急缓。** 可能的急症属于专业照护，不属于搜索结果或家庭群投票。
-2. **先记录事实，再下结论。** 时间线、用药、过敏、既往结果和发生了什么变化，比猜测更有用。
-3. **守住边界。** 这本书帮助准备和判断；它不替代诊断、治疗、用药决定、危机照护或个体化筛查计划。
+不要拿单章内容替代医疗建议。不要根据本书自行停药、换药、推迟检查或选择治疗。接下来先讲第一条边界：什么时候不该再只靠自己判断。
 
 ## 阅读导航
 
-- 下一章：[Medical Boundaries 中文验收页](medical-boundaries.md)
+- 下一章：[1. Warning Signs 中文验收页](medical-boundaries.md)

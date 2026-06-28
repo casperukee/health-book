@@ -1,33 +1,35 @@
-# Part 2: Body Risk Map 中文验收页
+# Chapter 2: The Risk Lines Most Worth Watching 中文验收页
 
-对应英文页：[Part 2: Body Risk Map](../../../../en/book/part-2-body-risk-map/README.md)
+对应英文页：[Chapter 2: The Risk Lines Most Worth Watching](../../../../en/book/part-2-body-risk-map/README.md)
 
-本页是英文页面的中文验收辅助，翻译/回译英文读者版内容。
+本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
-## Part 2：身体风险地图
+# 第二章 你最该盯住的几条风险线
 
-> 本部分不是医疗建议。它用来帮助你理解风险模式、准备更好的问题，并知道哪些症状应该进入专业照护。
+本部分按长期风险线组织身体问题。
 
-Part 2 跟随身体几条主要的长期风险线。这些页面不能替代诊断或治疗。它们帮助家庭更早看见模式、记录有用事实，避免把每个结果当成孤立数字。
+家庭很容易被单点问题牵着走：一个血脂箭头、一阵胸闷、连续几周睡不好、父母记忆变化、影像发现结节，或者某个专科症状反复出现。单点当然重要，但真正决定下一步的通常是：它属于哪条风险线，是否急，是否持续影响功能，是否需要专科判断。
 
-## 从这里开始
+这一章不需要一口气读完。前两节适合顺着读：先看“四高”为什么常常连在一起，再看心梗和卒中为什么很少是真的突然发生。如果读完前两节后，你更关心“还没变成病时，日常还能往哪里调”，可以直接跳到第三节“共同上游”。后面的睡眠、大脑心理、癌症、儿童青少年和专科问题，可以按眼前最关心的事进入。
 
-- [Metabolic Health](../../../../en/book/part-2-body-risk-map/metabolic-health.md)
-- [Cardiovascular Event Chain](../../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md)
-- [Common Upstream](../../../../en/book/part-2-body-risk-map/common-upstream.md)
-- [Sleep and Recovery](../../../../en/book/part-2-body-risk-map/sleep-and-recovery.md)
-- [Brain and Mental Health](../../../../en/book/part-2-body-risk-map/brain-and-mental-health.md)
-- [Cancer and Major Illness](../../../../en/book/part-2-body-risk-map/cancer-and-major-illness.md)
-- [Children And Adolescent Health](../../../../en/book/part-2-body-risk-map/children-and-adolescent-health.md)
-- [Specialty Care Map](../../../../en/book/part-2-body-risk-map/specialty-care-map.md)
+这一部分大致按这样的顺序展开：
 
-## 如何读这一部分
+1. 先看代谢和心血管风险，因为它们连接体检指标、慢病、心梗和卒中；
+2. 再看共同上游，把活动、吃喝、恢复、压力和反馈放回可持续的日常默认值；
+3. 再看睡眠恢复和大脑心理，因为它们决定白天功能、长期能力和家庭安全边界；
+4. 最后看癌症重大疾病、儿童青少年和专科问题，把高焦虑主题和特殊人群放回阶段判断、资料准备和专业协作。
 
-一次读一页。每读完一页，写下：
+读完这一部分，下一步不是自己当医生，而是把判断转成家庭流程：谁记录、谁陪诊、谁复查、谁把正确的信息带给临床人员。
 
-- 哪条风险线现在最贴近你的家庭；
-- 哪些事实应该被追踪，而不是靠猜；
-- 哪些问题应该进 primary care、specialty care、urgent care 或 emergency department；
-- 哪些症状会覆盖长期规划，需要立即求助。
+如果按顺序读，直接从代谢和心血管开始即可；如果回头查某个问题，先看每页的二级标题、危险边界、观察卡、门诊问题和小结。具体症状下一步、挂号入口和门诊准备，放在手册页里承接，主书正文不重复做工具页。
 
-有用的产出不是自我诊断，而是更清楚的医生沟通和更冷静的家庭流程。
+## 章节
+
+- [1. Metabolic Health 中文验收页](metabolic-health.md)
+- [2. Cardiovascular Event Chain 中文验收页](cardiovascular-event-chain.md)
+- [3. Common Upstream 中文验收页](common-upstream.md)
+- [4. Sleep And Recovery 中文验收页](sleep-and-recovery.md)
+- [5. Brain And Mental Health 中文验收页](brain-and-mental-health.md)
+- [6. Cancer And Major Illness 中文验收页](cancer-and-major-illness.md)
+- [7. Children And Adolescents 中文验收页](children-and-adolescent-health.md)
+- [8. Common Specialty Problems 中文验收页](specialty-care-map.md)
