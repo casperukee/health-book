@@ -89,3 +89,10 @@ WHO 讨论健康老龄化时，用的是 functional ability：能满足基本需
 ## 一句话
 
 真正有用的问题不是“怎么显得更年轻”，而是“当生活变难时，哪些能力、风险和家庭准备最重要？”
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Medical Boundaries 中文验收页](../medical-boundaries.md)
+- 下一章：[Checkup Markers 中文验收页](checkup-markers.md)
+- 相关工具：[Family Health Card 中文验收页](../../handbook/templates/family-health-card.md)

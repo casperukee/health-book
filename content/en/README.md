@@ -36,9 +36,11 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Understand flagged lab and checkup results | [Checkup Markers](book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | Read blood pressure, cholesterol, glucose, and uric acid as a connected pattern | [Metabolic Health](book/part-2-body-risk-map/metabolic-health.md) |
 | Understand why heart attacks and strokes are often sudden only at the end | [Cardiovascular Event Chain](book/part-2-body-risk-map/cardiovascular-event-chain.md) |
+| Lower repeated daily loads before risk becomes a diagnosis | [Common Upstream](book/part-2-body-risk-map/common-upstream.md) |
 | Protect sleep as a recovery system, not a nightly score | [Sleep and Recovery](book/part-2-body-risk-map/sleep-and-recovery.md) |
 | Notice brain, mood, and cognitive changes without rushing to labels | [Brain and Mental Health](book/part-2-body-risk-map/brain-and-mental-health.md) |
 | Keep cancer fear connected to the right next step | [Cancer and Major Illness](book/part-2-body-risk-map/cancer-and-major-illness.md) |
+| Read children's health through safety, body, function, and relationships | [Children And Adolescent Health](book/part-2-body-risk-map/children-and-adolescent-health.md) |
 | Prepare for specialty care without self-diagnosing | [Specialty Care Map](book/part-2-body-risk-map/specialty-care-map.md) |
 | Know what a family health system should actually manage | [What A Family Health System Actually Manages](book/part-3-family-health-os/what-to-manage.md) |
 | Bring useful facts into a clinic visit | [Doctor Visit Preparation](book/part-3-family-health-os/doctor-visit-preparation.md) |
@@ -49,6 +51,7 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Read health news as a clue, not a command | [Reading Health News](book/part-4-health-information-defense/reading-health-news.md) |
 | Keep the book's decision habits close | [After Reading](book/after-reading.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
+| Sort common flagged markers before a visit | [Common Checkup Markers](handbook/playbooks/common-checkup-markers.md) |
 | Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |
 | Build a fuller family record | [Family Health Record](handbook/templates/family-health-record.md) |
 | Track repeated markers with context | [Chronic Marker Log](handbook/templates/chronic-marker-log.md) |

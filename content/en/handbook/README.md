@@ -14,6 +14,7 @@ This handbook is not medical advice. If warning signs are present, use emergency
 | Sort symptoms into red, yellow, or green actions | [Symptom Action Guide](playbooks/symptom-action-guide.md) |
 | Choose between emergency care, urgent care, primary care, and specialty entry points | [Emergency, Clinic, or Which Department?](playbooks/department-navigation-guide.md) |
 | Prepare for a preventive visit or checkup | [Before a Checkup](playbooks/checkup-planning-guide.md) |
+| Sort common flagged checkup markers | [Common Checkup Markers](playbooks/common-checkup-markers.md) |
 | Prepare for a clinic visit or follow-up | [Doctor Visit Checklist](playbooks/doctor-visit-checklist.md) |
 | Make a small family health record | [Family Health Card](templates/family-health-card.md) |
 | Build a fuller family health record | [Family Health Record](templates/family-health-record.md) |
@@ -37,7 +38,7 @@ Add other tools when real situations appear.
 | --- | --- |
 | [Red Flags](playbooks/red-flags.md) | If no red flag is present but the next action is unclear, use [Symptom Action Guide](playbooks/symptom-action-guide.md) |
 | [Symptom Action Guide](playbooks/symptom-action-guide.md) | If yellow, prepare with [Doctor Visit Checklist](playbooks/doctor-visit-checklist.md); if green, record the upgrade conditions |
-| [Before a Checkup](playbooks/checkup-planning-guide.md) | After results return, read [Checkup Markers](../book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
+| [Before a Checkup](playbooks/checkup-planning-guide.md) | After results return, read [Checkup Markers](../book/part-1-healthspan-risk-and-markers/checkup-markers.md) and use [Common Checkup Markers](playbooks/common-checkup-markers.md) to sort the first questions |
 | [Doctor Visit Checklist](playbooks/doctor-visit-checklist.md) | After the visit, update the [Family Health Card](templates/family-health-card.md) or [Family Health Record](templates/family-health-record.md) |
 | [Family Health Record](templates/family-health-record.md) | If repeated numbers matter, use [Chronic Marker Log](templates/chronic-marker-log.md) |
 | [Health Product Checklist](templates/health-product-checklist.md) | If the claim involves devices, tests, or longevity services, read [Devices, Tests, and Longevity Marketing](../book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md) |

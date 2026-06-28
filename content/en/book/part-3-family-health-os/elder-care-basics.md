@@ -89,3 +89,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Elder care begins by protecting mobility, cognition, medication safety, daily living, connection, and the caregiver system before a crisis forces every decision.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Talking With Parents About Health](talking-with-parents.md)
+- Next chapter: [Supplement Evidence Traps](../part-4-health-information-defense/supplement-evidence-traps.md)

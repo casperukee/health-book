@@ -106,3 +106,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Read health information well by slowing the jump from "this is interesting" to "my family should act today."
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Devices, Tests, And Longevity Marketing](devices-tests-and-longevity-marketing.md)
+- Next chapter: [After Reading](../after-reading.md)

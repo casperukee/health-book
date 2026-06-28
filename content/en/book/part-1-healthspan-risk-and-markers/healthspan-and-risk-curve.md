@@ -141,3 +141,10 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 The useful question is not "How do I look younger?" It is "What abilities, risks, and family preparations will matter most when life gets harder?"
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Medical Boundaries and Warning Signs](../medical-boundaries.md)
+- Next chapter: [Checkup Markers](checkup-markers.md)
+- Related tools: [Family Health Card](../../handbook/templates/family-health-card.md)

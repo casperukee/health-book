@@ -138,3 +138,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 For brain and mental health, do not start with a label. Start with safety, function, pattern, and support.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Sleep and Recovery](sleep-and-recovery.md)
+- Next chapter: [Cancer and Major Illness](cancer-and-major-illness.md)

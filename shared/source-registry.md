@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -152,7 +152,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢性病公共卫生资料
 - 用途：校准慢性病长期风险、疾病负担和常见风险因素表述。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -184,7 +184,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准化验结果的用途、局限、参考范围和医生解释边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/chronic-marker-log.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/chronic-marker-log.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -204,7 +204,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病指标资料
 - 用途：校准血压波动、长期风险、无症状和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -274,7 +274,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方糖尿病检测资料
 - 用途：校准血糖检测类型、A1C 时间尺度和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`、`content/en/handbook/templates/chronic-marker-log.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`、`content/en/handbook/templates/chronic-marker-log.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -394,7 +394,7 @@
 - 机构：National Institute of Diabetes and Digestive and Kidney Diseases, NIH
 - 类型：美国官方专业速查资料
 - 用途：校准 eGFR、UACR 和尿白蛋白/肌酐比的数字参考入口。
-- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -434,7 +434,7 @@
 - 机构：National Cancer Institute, NIH
 - 类型：美国官方癌症资料
 - 用途：校准循环肿瘤标志物不适合作为普通人癌症筛查工具的边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/cancer-and-major-illness.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-13
 
@@ -558,7 +558,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病指标资料
 - 用途：校准胆固醇、心血管风险和患者教育边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -638,7 +638,7 @@
 - 机构：American Heart Association
 - 类型：专业协会健康生活资料
 - 用途：校准心血管健康生活方式和风险因素框架。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -648,7 +648,7 @@
 - 机构：World Health Organization
 - 类型：国际官方公众健康资料
 - 用途：校准身体活动、久坐行为、慢病风险和“任何活动都比完全不动好”的公众边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-19
 
@@ -658,7 +658,7 @@
 - 机构：World Health Organization
 - 类型：国际官方公众健康资料
 - 用途：校准健康饮食、蔬果、盐、糖、脂肪和慢病风险的公众边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-19
 
@@ -668,7 +668,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病预防资料
 - 用途：校准 2 型糖尿病风险、生活方式改变和长期可持续行动的公众边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-19
 
@@ -678,7 +678,7 @@
 - 机构：National Institute of Arthritis and Musculoskeletal and Skin Diseases, NIH
 - 类型：美国官方健康主题资料
 - 用途：校准尿酸、痛风、饮酒、含糖饮料、肥胖、代谢综合征、肾脏问题、药物和家族背景等风险因素边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/common-upstream.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-19
 
@@ -700,7 +700,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准身体活动对睡眠、情绪和整体健康的基础表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -710,7 +710,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准身体活动对睡眠、大脑、心血管、代谢和长期健康影响的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-2-body-risk-map/common-upstream.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
 
@@ -922,7 +922,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方儿童心理健康资料
 - 用途：校准儿童和青少年情绪、行为、学习、睡眠、自伤风险和何时寻求专业评估的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-14
 
@@ -942,7 +942,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方青少年心理健康与学校健康资料
 - 用途：校准青少年心理健康、学校连接感、家庭和学校支持、风险识别和求助边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-13
 
@@ -1433,7 +1433,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方青少年健康资料入口
 - 用途：提供青少年身体、心理、发育和生活方式健康主题入口，校准青春期不应只按成人经验或管教问题处理的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-13
 
@@ -1443,7 +1443,7 @@
 - 机构：American Academy of Pediatrics
 - 类型：专业协会儿童健康资料入口
 - 用途：提供儿科健康主题入口，校准儿童和青少年健康问题需要儿科/专业入口的公众表达。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-2-body-risk-map/specialty-care-map.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-10
 
@@ -1453,7 +1453,7 @@
 - 机构：American Academy of Pediatrics
 - 类型：专业协会青少年健康资料入口
 - 用途：提供青春期、青少年健康、家庭沟通和年龄阶段健康主题入口，校准青少年不是“小号成人”的公众表达。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-13
 

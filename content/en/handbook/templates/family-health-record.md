@@ -16,6 +16,8 @@ evidence_status: stable
 
 [中文验收页](../../../en-review/zh-CN/handbook/templates/family-health-record.md)
 
+**Location:** Handbook / Templates
+
 Use this when a one-page card is not enough. Do not build a perfect archive first. Start with the facts that make the next visit, urgent-care trip, hospital discharge, or caregiving handoff less chaotic.
 
 ## One-Page Profile
@@ -94,3 +96,8 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 A family health record is not a perfect archive; it is a way to keep the facts that matter from disappearing under stress.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Templates](README.md)

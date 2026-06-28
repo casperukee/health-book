@@ -14,7 +14,12 @@ Part 2 跟随身体几条主要的长期风险线。这些页面不能替代诊�
 
 - [Metabolic Health](../../../../en/book/part-2-body-risk-map/metabolic-health.md)
 - [Cardiovascular Event Chain](../../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md)
+- [Common Upstream](../../../../en/book/part-2-body-risk-map/common-upstream.md)
 - [Sleep and Recovery](../../../../en/book/part-2-body-risk-map/sleep-and-recovery.md)
+- [Brain and Mental Health](../../../../en/book/part-2-body-risk-map/brain-and-mental-health.md)
+- [Cancer and Major Illness](../../../../en/book/part-2-body-risk-map/cancer-and-major-illness.md)
+- [Children And Adolescent Health](../../../../en/book/part-2-body-risk-map/children-and-adolescent-health.md)
+- [Specialty Care Map](../../../../en/book/part-2-body-risk-map/specialty-care-map.md)
 
 ## 如何读这一部分
 

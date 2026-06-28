@@ -42,9 +42,11 @@
 | 理解标红的化验和体检结果 | [Checkup Markers](../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
 | 把血压、胆固醇、血糖和尿酸读成连接模式 | [Metabolic Health](../../en/book/part-2-body-risk-map/metabolic-health.md) |
 | 理解为什么心梗和卒中常常只是终点突然 | [Cardiovascular Event Chain](../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md) |
+| 在风险变成诊断前，先降低反复日常负荷 | [Common Upstream](../../en/book/part-2-body-risk-map/common-upstream.md) |
 | 把睡眠当作恢复系统，而不是每晚分数 | [Sleep and Recovery](../../en/book/part-2-body-risk-map/sleep-and-recovery.md) |
 | 观察大脑、情绪和认知变化，同时不急着贴标签 | [Brain and Mental Health](../../en/book/part-2-body-risk-map/brain-and-mental-health.md) |
 | 让癌症恐惧接回正确下一步 | [Cancer and Major Illness](../../en/book/part-2-body-risk-map/cancer-and-major-illness.md) |
+| 用安全、身体、功能和关系看儿童青少年健康 | [Children And Adolescent Health](../../en/book/part-2-body-risk-map/children-and-adolescent-health.md) |
 | 准备专科就医，但不自我诊断 | [Specialty Care Map](../../en/book/part-2-body-risk-map/specialty-care-map.md) |
 | 理解家庭健康系统真正该管理什么 | [What A Family Health System Actually Manages](../../en/book/part-3-family-health-os/what-to-manage.md) |
 | 把有用事实带进诊室 | [Doctor Visit Preparation](../../en/book/part-3-family-health-os/doctor-visit-preparation.md) |
@@ -55,6 +57,7 @@
 | 把健康新闻当线索，而不是命令 | [Reading Health News](../../en/book/part-4-health-information-defense/reading-health-news.md) |
 | 留住整本书的判断习惯 | [After Reading](../../en/book/after-reading.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
+| 就诊前先分层常见标红指标 | [Common Checkup Markers](../../en/handbook/playbooks/common-checkup-markers.md) |
 | 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
 | 建立更完整的家庭记录 | [Family Health Record](../../en/handbook/templates/family-health-record.md) |
 | 带背景追踪反复指标 | [Chronic Marker Log](../../en/handbook/templates/chronic-marker-log.md) |
@@ -86,9 +89,11 @@
 - [Part 2 中文验收页](book/part-2-body-risk-map/README.md)
 - [Metabolic Health 中文验收页](book/part-2-body-risk-map/metabolic-health.md)
 - [Cardiovascular Event Chain 中文验收页](book/part-2-body-risk-map/cardiovascular-event-chain.md)
+- [Common Upstream 中文验收页](book/part-2-body-risk-map/common-upstream.md)
 - [Sleep and Recovery 中文验收页](book/part-2-body-risk-map/sleep-and-recovery.md)
 - [Brain and Mental Health 中文验收页](book/part-2-body-risk-map/brain-and-mental-health.md)
 - [Cancer and Major Illness 中文验收页](book/part-2-body-risk-map/cancer-and-major-illness.md)
+- [Children And Adolescent Health 中文验收页](book/part-2-body-risk-map/children-and-adolescent-health.md)
 - [Specialty Care Map 中文验收页](book/part-2-body-risk-map/specialty-care-map.md)
 - [Part 3 中文验收页](book/part-3-family-health-os/README.md)
 - [What To Manage 中文验收页](book/part-3-family-health-os/what-to-manage.md)
@@ -107,6 +112,7 @@
 - [Symptom Action Guide 中文验收页](handbook/playbooks/symptom-action-guide.md)
 - [Department Navigation 中文验收页](handbook/playbooks/department-navigation-guide.md)
 - [Before A Checkup 中文验收页](handbook/playbooks/checkup-planning-guide.md)
+- [Common Checkup Markers 中文验收页](handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist 中文验收页](handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card 中文验收页](handbook/templates/family-health-card.md)
 - [Family Health Record 中文验收页](handbook/templates/family-health-record.md)

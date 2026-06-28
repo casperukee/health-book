@@ -126,9 +126,8 @@ Reviewed on 2026-06-28:
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - Poison Control: [Poison Control](https://www.poison.org/)
 
-## Next
+## Reading Navigation
 
-- [Red Flags](../handbook/playbooks/red-flags.md)
-- [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
-- [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../handbook/templates/family-health-card.md)
+- [Book contents](README.md)
+- Previous chapter: [Start Here](00-start-here.md)
+- Next chapter: [Healthspan and the Risk Curve](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)

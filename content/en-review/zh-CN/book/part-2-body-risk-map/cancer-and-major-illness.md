@@ -77,3 +77,9 @@
 ## 一句话
 
 癌症恐惧更可处理的方式，是先找到问题所处阶段并接上正确下一步，而不是让恐惧决定下一个检测、产品或治疗。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Brain and Mental Health 中文验收页](brain-and-mental-health.md)
+- 下一章：[Children And Adolescent Health 中文验收页](children-and-adolescent-health.md)

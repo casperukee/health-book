@@ -105,3 +105,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Talking with parents works better when concern protects safety and records without turning care into control.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Doctor Visit Preparation](doctor-visit-preparation.md)
+- Next chapter: [Elder Care Basics](elder-care-basics.md)

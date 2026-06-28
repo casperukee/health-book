@@ -77,3 +77,9 @@
 ## 一句话
 
 补剂最危险的决定不只是买错一瓶东西，而是让销售路径替代医疗照护、记录和家庭判断。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Elder Care Basics 中文验收页](../part-3-family-health-os/elder-care-basics.md)
+- 下一章：[Devices, Tests, And Longevity Marketing 中文验收页](devices-tests-and-longevity-marketing.md)

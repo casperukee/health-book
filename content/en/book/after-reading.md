@@ -28,19 +28,8 @@ Keep the moves:
 
 This book does not turn a family into doctors. It helps a family bring clearer facts and better questions into the moments where doctors, clinicians, pharmacists, crisis teams, and emergency services are needed.
 
-## Keep These Pages Close
+## Reading Navigation
 
-| Situation | Start here |
-| --- | --- |
-| Someone may need urgent help | [Red Flags](../handbook/playbooks/red-flags.md) |
-| Symptoms are unclear | [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md) |
-| A visit or follow-up is coming | [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) |
-| A preventive visit or checkup is coming | [Before A Checkup](../handbook/playbooks/checkup-planning-guide.md) |
-| You need a small record fast | [Family Health Card](../handbook/templates/family-health-card.md) |
-| You need a fuller family record | [Family Health Record](../handbook/templates/family-health-record.md) |
-| You need to track repeated markers | [Chronic Marker Log](../handbook/templates/chronic-marker-log.md) |
-| A health product claim feels persuasive | [Health Product Checklist](../handbook/templates/health-product-checklist.md) |
-
-## One Sentence
-
-The useful outcome is not knowing everything; it is knowing how to slow down, sort risk, preserve facts, and ask for the right help.
+- [Book contents](README.md)
+- Previous chapter: [Reading Health News](part-4-health-information-defense/reading-health-news.md)
+- Next step: [Handbook](../handbook/README.md)

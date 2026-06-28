@@ -16,6 +16,8 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/symptom-action-guide.md)
 
+**Location:** Handbook / Playbooks
+
 If warning signs are already present, use [Red Flags](red-flags.md) and seek appropriate help first. Do not read a full checklist while someone may need urgent care.
 
 ## 30-Second Sorting
@@ -134,3 +136,8 @@ Reviewed on 2026-06-28:
 ## Last Reminder
 
 Use this page to reduce hesitation when care is needed, and reduce panic when careful recording is enough for the moment.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Playbooks](README.md)

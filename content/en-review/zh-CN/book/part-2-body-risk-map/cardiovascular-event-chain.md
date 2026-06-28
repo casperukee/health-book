@@ -82,3 +82,10 @@
 ## 一句话
 
 心梗和卒中可能在终点突然发生，但家庭常常可以更早行动：追踪上游风险，认真看待血管发现，识别危险信号，并把恢复当成预防。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Metabolic Health 中文验收页](metabolic-health.md)
+- 下一章：[Common Upstream 中文验收页](common-upstream.md)
+- 相关工具：[Red Flags 中文验收页](../../handbook/playbooks/red-flags.md)、[Symptom Action Guide 中文验收页](../../handbook/playbooks/symptom-action-guide.md)、[Chronic Marker Log 中文验收页](../../handbook/templates/chronic-marker-log.md)

@@ -93,3 +93,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 The most dangerous supplement decision is not buying the wrong bottle; it is letting a sales path replace medical care, records, and family judgment.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Elder Care Basics](../part-3-family-health-os/elder-care-basics.md)
+- Next chapter: [Devices, Tests, And Longevity Marketing](devices-tests-and-longevity-marketing.md)

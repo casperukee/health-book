@@ -130,10 +130,6 @@ These actions will not make a family medically independent. They can reduce pani
 2. **Record facts before conclusions.** Timelines, medications, allergies, prior results, and what changed are more useful than guesses.
 3. **Keep the boundary.** This book helps with preparation and judgment; it does not replace diagnosis, treatment, medication decisions, crisis care, or individualized screening plans.
 
-## Next
+## Reading Navigation
 
-- [Medical Boundaries and Warning Signs](medical-boundaries.md)
-- [Book Contents](README.md)
-- [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
-- [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../handbook/templates/family-health-card.md)
+- Next chapter: [Medical Boundaries and Warning Signs](medical-boundaries.md)

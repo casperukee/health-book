@@ -84,3 +84,9 @@
 ## 一句话
 
 大脑和心理健康，不要从标签开始。先看安全、功能、模式和支持。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Sleep and Recovery 中文验收页](sleep-and-recovery.md)
+- 下一章：[Cancer and Major Illness 中文验收页](cancer-and-major-illness.md)

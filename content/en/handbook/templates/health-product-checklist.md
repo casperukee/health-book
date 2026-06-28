@@ -16,6 +16,8 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/templates/health-product-checklist.md)
 
+**Location:** Handbook / Templates
+
 Use this page before paying, forwarding a product link, or buying something for a parent.
 
 ## First: Stop If Any Red Flag Appears
@@ -78,3 +80,8 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 A health product should be stopped at the door if it replaces care, hides risk, pressures payment, or outruns the facts.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Templates](README.md)

@@ -4,6 +4,8 @@
 
 本页是英文家庭健康卡的中文验收辅助，翻译/回译英文读者版内容。
 
+**位置：** 手册 / 模板
+
 ## 家庭健康卡
 
 > 这个模板不是正式病历，也不是医疗建议。它帮助家庭在 urgent care、门诊、照护和复诊中不漏掉关键信息。
@@ -79,7 +81,7 @@ Current medications:
 
 有变化就更新；没有变化就写“no change this visit”。
 
-## 下一步
+## 配合使用
 
 有症状不确定下一步，看 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)。要就诊或复诊，看 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)。想理解记录里该放什么，看 [Handbook](../../../../en/handbook/README.md)。
 
@@ -90,3 +92,8 @@ Current medications:
 ## 最后提醒
 
 家庭健康卡不是为了把家人变成病人，而是为了在需要照护时减少慌乱、遗漏事实和临时搜索。
+
+## 手册导航
+
+- [Handbook 中文验收页](../README.md)
+- [Templates 中文验收页](README.md)

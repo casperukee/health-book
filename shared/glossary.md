@@ -17,6 +17,7 @@
 | 基层医疗 | primary care | 非急症和长期健康管理的常见入口，可包含家庭医生、内科医生或 primary care team |
 | 复诊/返院警示 | return precautions | 医生或出院文件中说明“出现哪些情况要尽快回来或升级就医”的条件 |
 | 体检指标 | checkup markers | 体检、化验和测量项目中的风险信号 |
+| 常见异常指标速查 | common checkup markers | 帮助家庭把常见标红结果先分急缓、看风险线和准备问题的工具页 |
 | 参考范围 | reference range | 帮助解释检测结果的参照范围，不等于绝对诊断线 |
 | 趋势 | trend | 同一指标随时间的变化方向 |
 | 组合风险 | combined risk | 多个指标、病史和生活背景叠加后的风险 |
@@ -25,6 +26,7 @@
 | 心肾代谢风险 | cardio-kidney-metabolic risk | 心血管、肾脏和代谢系统交织的长期风险 |
 | 动脉粥样硬化 | atherosclerosis | 动脉内斑块逐渐形成并影响血流的过程 |
 | 心血管事件链 | cardiovascular event chain | 从风险因素到血管变化、急性事件和防复发的链条 |
+| 共同上游 | common upstream | 多条长期风险线共享的日常负荷入口，如活动、饮食、恢复、压力和反馈 |
 | 睡眠动力 | sleep pressure | 清醒时间、活动和睡眠债推动入睡的生理倾向 |
 | 昼夜节律 | circadian rhythm | 身体内部的时间节律，受光照、起床、进食和活动影响 |
 | 身体阻力 | somatic resistance | 疼痛、肌肉紧张、身体高张力或不适对睡眠和恢复形成的阻力 |

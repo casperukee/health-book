@@ -10,9 +10,11 @@ Part 2 follows the body's main long-running risk lines. These pages are not a su
 
 - [Metabolic Health](metabolic-health.md)
 - [Cardiovascular Event Chain](cardiovascular-event-chain.md)
+- [Common Upstream](common-upstream.md)
 - [Sleep and Recovery](sleep-and-recovery.md)
 - [Brain and Mental Health](brain-and-mental-health.md)
 - [Cancer and Major Illness](cancer-and-major-illness.md)
+- [Children And Adolescent Health](children-and-adolescent-health.md)
 - [Specialty Care Map](specialty-care-map.md)
 
 ## How To Read This Part

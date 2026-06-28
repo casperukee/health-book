@@ -16,6 +16,7 @@
 - [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)
 - [Emergency, Clinic, or Which Department?](../../../../en/handbook/playbooks/department-navigation-guide.md)
 - [Before a Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)
+- [Common Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)
 
 ## 怎么选
@@ -26,4 +27,5 @@
 | 症状不明确，但没有明显红旗 | [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md) |
 | 不知道该急诊、urgent care、primary care 还是专科 | [Emergency, Clinic, or Which Department?](../../../../en/handbook/playbooks/department-navigation-guide.md) |
 | 要做预防性就诊或体检 | [Before a Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md) |
+| 报告出现常见标红指标 | [Common Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md) |
 | 要门诊、urgent-care visit 或复诊 | [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) |

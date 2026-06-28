@@ -68,3 +68,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 A family health system is useful when facts are findable, danger boundaries are clear, next steps are written down, and roles are shared.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Specialty Care Map](../part-2-body-risk-map/specialty-care-map.md)
+- Next chapter: [Doctor Visit Preparation](doctor-visit-preparation.md)

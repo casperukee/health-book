@@ -70,3 +70,9 @@ Life: eating, sleep, toileting, bathing, social contact, mood, caregiver strain?
 ## 一句话
 
 老年照护从保护行动能力、认知、用药安全、日常生活、社会连接和照护者系统开始，而不是等危机逼迫每个决定。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Talking With Parents 中文验收页](talking-with-parents.md)
+- 下一章：[Supplement Evidence Traps 中文验收页](../part-4-health-information-defense/supplement-evidence-traps.md)

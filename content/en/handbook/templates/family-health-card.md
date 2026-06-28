@@ -16,6 +16,8 @@ evidence_status: stable
 
 [中文验收页](../../../en-review/zh-CN/handbook/templates/family-health-card.md)
 
+**Location:** Handbook / Templates
+
 Many people avoid creating a family health record because it sounds huge: lab reports, imaging, discharge summaries, medication photos, insurance papers, portal messages, and years of chat history.
 
 Start smaller.
@@ -147,7 +149,7 @@ After a clinic visit, emergency visit, hospitalization, or checkup, ask:
 
 If something changed, update the card. If nothing changed, write "no change this visit."
 
-## Next
+## Use With
 
 | Need | Next page |
 | --- | --- |
@@ -166,3 +168,8 @@ Reviewed on 2026-06-28:
 ## Last Reminder
 
 A family health card is not meant to turn family members into patients. It is meant to reduce panic, missing facts, and last-minute searching when care is needed.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Templates](README.md)

@@ -16,6 +16,8 @@ evidence_status: stable
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/doctor-visit-checklist.md)
 
+**Location:** Handbook / Playbooks
+
 Clinic time is short. The most useful family contribution is not a theory about the diagnosis. It is a clear timeline, medication list, relevant records, and the questions that need an answer.
 
 If you are not sure whether the situation is urgent, start with the [Symptom Action Guide](symptom-action-guide.md).
@@ -185,3 +187,8 @@ Reviewed on 2026-06-28:
 ## Last Reminder
 
 A timeline, medication list, allergies, records, and 1-3 questions can make a short visit much more useful.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Playbooks](README.md)

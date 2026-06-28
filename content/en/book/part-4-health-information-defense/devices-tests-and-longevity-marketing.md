@@ -89,3 +89,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Good tools help you notice signals and take safer next steps; bad marketing turns signals into certainty and sells the certainty back to you.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Supplement Evidence Traps](supplement-evidence-traps.md)
+- Next chapter: [Reading Health News](reading-health-news.md)

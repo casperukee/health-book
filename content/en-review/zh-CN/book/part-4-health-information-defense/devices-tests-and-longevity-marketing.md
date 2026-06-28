@@ -72,3 +72,9 @@
 ## 一句话
 
 好的工具帮助你发现信号并走向更安全的下一步；坏营销把信号变成确定性，再把确定性卖还给你。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Supplement Evidence Traps 中文验收页](supplement-evidence-traps.md)
+- 下一章：[Reading Health News 中文验收页](reading-health-news.md)

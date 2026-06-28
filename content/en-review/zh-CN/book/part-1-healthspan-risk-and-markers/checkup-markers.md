@@ -99,3 +99,9 @@ Positive 或 suspicious 不总是最终诊断，通常意味着需要确认、�
 ## 一句话
 
 体检指标不是判决书。它是一条线索，只有连上趋势、组合、背景和行动后才有用。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Healthspan 中文验收页](healthspan-and-risk-curve.md)
+- 下一章：[Metabolic Health 中文验收页](../part-2-body-risk-map/metabolic-health.md)

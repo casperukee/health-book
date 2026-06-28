@@ -90,3 +90,9 @@
 ## 一句话
 
 读健康信息读得好，是把“这很有意思”到“我家今天就该行动”之间的跳跃放慢。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Devices, Tests, And Longevity Marketing 中文验收页](devices-tests-and-longevity-marketing.md)
+- 下一章：[After Reading 中文验收页](../after-reading.md)

@@ -82,9 +82,8 @@
 
 英文页截至 2026-06-28 参考：AHA 心梗/卒中/心脏骤停症状、NHLBI 心梗症状、CDC 卒中症状、MedlinePlus 急症识别、SAMHSA 988、CDC Hear Her 孕产期危险信号、CDC 脓毒症、Poison Control。
 
-## 下一步
+## 阅读导航
 
-- [Red Flags](../../../en/handbook/playbooks/red-flags.md)
-- [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)
-- [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../../../en/handbook/templates/family-health-card.md)
+- [回到英文主书目录验收页](README.md)
+- 上一章：[Start Here 中文验收页](00-start-here.md)
+- 下一章：[Healthspan 中文验收页](part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)

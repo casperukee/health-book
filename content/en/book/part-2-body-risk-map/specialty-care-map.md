@@ -111,3 +111,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Specialty care gets better when a family sorts urgency, function, timeline, and whole-person context before trying to guess the disease name.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Children And Adolescent Health](children-and-adolescent-health.md)
+- Next chapter: [What A Family Health System Actually Manages](../part-3-family-health-os/what-to-manage.md)

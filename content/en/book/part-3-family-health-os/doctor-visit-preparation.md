@@ -87,3 +87,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 You do not need to guess the diagnosis. Bring the timeline, records, medications, allergies, and three questions so the visit can start closer to the real problem.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [What A Family Health System Actually Manages](what-to-manage.md)
+- Next chapter: [Talking With Parents About Health](talking-with-parents.md)

@@ -130,3 +130,10 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Heart attacks and strokes may be sudden at the end, but families can often act earlier by tracking upstream risk, taking vessel findings seriously, recognizing warning signs, and treating recovery as prevention.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Metabolic Health](metabolic-health.md)
+- Next chapter: [Common Upstream](common-upstream.md)
+- Related tools: [Red Flags](../../handbook/playbooks/red-flags.md), [Symptom Action Guide](../../handbook/playbooks/symptom-action-guide.md), [Chronic Marker Log](../../handbook/templates/chronic-marker-log.md)

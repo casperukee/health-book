@@ -34,3 +34,9 @@
 ## 一句话
 
 有用的结果不是知道一切，而是知道怎样慢下来、分风险、保留事实，并请求正确的帮助。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](README.md)
+- 上一章：[Reading Health News 中文验收页](part-4-health-information-defense/reading-health-news.md)
+- 下一步：[Handbook 中文验收页](../handbook/README.md)

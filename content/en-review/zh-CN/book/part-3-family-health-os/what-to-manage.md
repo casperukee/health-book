@@ -52,3 +52,9 @@
 ## 一句话
 
 当事实找得到、危险边界清楚、下一步写下来、角色有人分担时，家庭健康系统才真正有用。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Specialty Care Map 中文验收页](../part-2-body-risk-map/specialty-care-map.md)
+- 下一章：[Doctor Visit Preparation 中文验收页](doctor-visit-preparation.md)

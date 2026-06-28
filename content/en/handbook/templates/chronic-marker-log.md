@@ -16,6 +16,8 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/templates/chronic-marker-log.md)
 
+**Location:** Handbook / Templates
+
 Use this for repeated numbers that need context: home blood pressure, glucose, A1C, lipids, kidney tests, uric acid, weight, waist, symptoms, medication changes, or follow-up results.
 
 Do not turn health into a spreadsheet contest. The value is trend plus context.
@@ -77,3 +79,8 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Track repeated markers to make the next clinical conversation clearer, not to turn every number into a diagnosis.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Templates](README.md)

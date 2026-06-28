@@ -16,6 +16,8 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/checkup-planning-guide.md)
 
+**Location:** Handbook / Playbooks
+
 For U.S. readers, the question before a checkup is usually not "Which package should I buy?"
 
 It is closer to:
@@ -96,3 +98,8 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 A checkup works best when symptoms, prior results, medicines, risks, and preventive-care questions are on the table before tests are ordered.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Playbooks](README.md)

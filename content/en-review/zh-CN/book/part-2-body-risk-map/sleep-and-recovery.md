@@ -110,3 +110,9 @@ CBT-I 不是“多放松一点”，而是针对慢性失眠的结构化临床�
 ## 一句话
 
 睡眠不是每晚打分。它是恢复系统；保护让它工作的条件，并在呼吸、安全、情绪、疼痛、用药或白天功能把睡眠变成医学问题时寻求帮助。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Common Upstream 中文验收页](common-upstream.md)
+- 下一章：[Brain and Mental Health 中文验收页](brain-and-mental-health.md)

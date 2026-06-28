@@ -150,3 +150,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Cancer fear becomes more manageable when a family finds the stage of the problem and connects the right next step instead of letting fear choose the next test, product, or treatment.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Brain and Mental Health](brain-and-mental-health.md)
+- Next chapter: [Children And Adolescent Health](children-and-adolescent-health.md)

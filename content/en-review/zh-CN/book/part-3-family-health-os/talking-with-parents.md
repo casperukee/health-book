@@ -87,3 +87,9 @@
 ## 一句话
 
 和父母谈健康时，关心如果能保护安全和资料，而不把照护变成控制，效果会更好。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Doctor Visit Preparation 中文验收页](doctor-visit-preparation.md)
+- 下一章：[Elder Care Basics 中文验收页](elder-care-basics.md)

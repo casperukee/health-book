@@ -71,3 +71,9 @@ Follow-up is ____.
 ## 一句话
 
 你不需要猜诊断。带上时间线、资料、用药、过敏和三个问题，让门诊能更接近真实问题开始。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[What To Manage 中文验收页](what-to-manage.md)
+- 下一章：[Talking With Parents 中文验收页](talking-with-parents.md)

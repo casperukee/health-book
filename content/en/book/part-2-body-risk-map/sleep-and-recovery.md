@@ -154,3 +154,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Sleep is not a nightly grade. It is a recovery system; protect the conditions that let it work, and get help when breathing, safety, mood, pain, medication, or daytime function turns sleep into a medical problem.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Common Upstream](common-upstream.md)
+- Next chapter: [Brain and Mental Health](brain-and-mental-health.md)

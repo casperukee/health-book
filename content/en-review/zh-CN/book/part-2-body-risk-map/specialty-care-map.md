@@ -73,3 +73,9 @@
 ## 一句话
 
 专科就医质量会在家庭先分清急缓、功能、时间线和全身背景后提高，而不是靠猜病名。
+
+## 阅读导航
+
+- [回到英文主书目录验收页](../README.md)
+- 上一章：[Children And Adolescent Health 中文验收页](children-and-adolescent-health.md)
+- 下一章：[What To Manage 中文验收页](../part-3-family-health-os/what-to-manage.md)

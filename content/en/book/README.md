@@ -24,9 +24,11 @@ This part helps readers connect long-term function, major risk lines, family rea
 
 - [Metabolic Health](part-2-body-risk-map/metabolic-health.md)
 - [Cardiovascular Event Chain](part-2-body-risk-map/cardiovascular-event-chain.md)
+- [Common Upstream](part-2-body-risk-map/common-upstream.md)
 - [Sleep and Recovery](part-2-body-risk-map/sleep-and-recovery.md)
 - [Brain and Mental Health](part-2-body-risk-map/brain-and-mental-health.md)
 - [Cancer and Major Illness](part-2-body-risk-map/cancer-and-major-illness.md)
+- [Children And Adolescent Health](part-2-body-risk-map/children-and-adolescent-health.md)
 - [Specialty Care Map](part-2-body-risk-map/specialty-care-map.md)
 
 This part looks at long-running risk lines such as metabolic health, cardiovascular risk, sleep, mental health, cancer, and specialty-care questions. Do not use it for self-diagnosis; use it to know what to record, what to ask, and when a problem needs professional care.
@@ -52,11 +54,11 @@ This part helps readers slow down before acting on supplements, devices, tests, 
 
 The handbook is the fastest place to go when a family needs a next action:
 
-- [After Reading](after-reading.md)
 - [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)
 - [Red Flags](../handbook/playbooks/red-flags.md)
 - [Emergency, Clinic, or Which Department?](../handbook/playbooks/department-navigation-guide.md)
 - [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
+- [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
 - [Family Health Card](../handbook/templates/family-health-card.md)
 - [Family Health Record](../handbook/templates/family-health-record.md)
@@ -65,4 +67,4 @@ The handbook is the fastest place to go when a family needs a next action:
 
 ## Reading Path
 
-If you are reading rather than looking up a tool, start with [Start Here](00-start-here.md), then read [Medical Boundaries and Warning Signs](medical-boundaries.md). After that, move between the book and the handbook as real situations come up.
+If you are reading rather than looking up a tool, start with [Start Here](00-start-here.md), then follow each page's Reading Navigation. The final book page is [After Reading](after-reading.md); the handbook is a separate tool area for real situations.

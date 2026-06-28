@@ -16,6 +16,8 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/red-flags.md)
 
+**Location:** Handbook / Playbooks
+
 Use this page when the first question is:
 
 > Should we get help now?
@@ -133,3 +135,8 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 When red flags appear, get help first and explain later.
+
+## Handbook Navigation
+
+- [Handbook](../README.md)
+- [Playbooks](README.md)

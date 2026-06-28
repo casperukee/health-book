@@ -130,10 +130,6 @@
 2. **先记录事实，再下结论。** 时间线、用药、过敏、既往结果和发生了什么变化，比猜测更有用。
 3. **守住边界。** 这本书帮助准备和判断；它不替代诊断、治疗、用药决定、危机照护或个体化筛查计划。
 
-## 下一步
+## 阅读导航
 
-- [Medical Boundaries and Warning Signs](../../../en/book/medical-boundaries.md)
-- [Book Contents](../../../en/book/README.md)
-- [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)
-- [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../../../en/handbook/templates/family-health-card.md)
+- 下一章：[Medical Boundaries 中文验收页](medical-boundaries.md)

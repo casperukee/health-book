@@ -170,3 +170,9 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 A checkup marker is not a verdict. It is a clue that becomes useful only when you connect trend, combination, context, and action.
+
+## Reading Navigation
+
+- [Book contents](../README.md)
+- Previous chapter: [Healthspan and the Risk Curve](healthspan-and-risk-curve.md)
+- Next chapter: [Metabolic Health](../part-2-body-risk-map/metabolic-health.md)
