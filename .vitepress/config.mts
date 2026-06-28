@@ -127,8 +127,7 @@ const updatesSidebar = [
     text: '主题 brief',
     items: [
       { text: '家庭病历整理 Agent brief', link: '/content/zh-CN/updates/topic-briefs/family-medical-record-agent' },
-      { text: '长期健康底座 brief', link: '/content/zh-CN/updates/topic-briefs/lifestyle-foundation' },
-      { text: '长期健康思想地图 brief', link: '/content/zh-CN/updates/topic-briefs/longevity-thought-map' }
+      { text: '长期健康底座 brief', link: '/content/zh-CN/updates/topic-briefs/lifestyle-foundation' }
     ]
   },
   {
@@ -306,8 +305,7 @@ const englishUpdatesSidebar = [
     text: 'Topic Briefs',
     items: [
       { text: 'Family Medical Record Agent Brief', link: '/content/en/updates/topic-briefs/family-medical-record-agent' },
-      { text: 'Lifestyle Foundation Brief', link: '/content/en/updates/topic-briefs/lifestyle-foundation' },
-      { text: 'Longevity Thought Map Brief', link: '/content/en/updates/topic-briefs/longevity-thought-map' }
+      { text: 'Lifestyle Foundation Brief', link: '/content/en/updates/topic-briefs/lifestyle-foundation' }
     ]
   },
   {
@@ -398,8 +396,7 @@ const reviewUpdatesSidebar = [
     text: '主题 brief 验收',
     items: [
       { text: 'Family Medical Record Agent Brief 中文验收页', link: '/content/en-review/zh-CN/updates/topic-briefs/family-medical-record-agent' },
-      { text: 'Lifestyle Foundation Brief 中文验收页', link: '/content/en-review/zh-CN/updates/topic-briefs/lifestyle-foundation' },
-      { text: 'Longevity Thought Map Brief 中文验收页', link: '/content/en-review/zh-CN/updates/topic-briefs/longevity-thought-map' }
+      { text: 'Lifestyle Foundation Brief 中文验收页', link: '/content/en-review/zh-CN/updates/topic-briefs/lifestyle-foundation' }
     ]
   },
   {
@@ -666,6 +663,7 @@ export default defineConfig({
     'AGENTS.md',
     'local-notes/**',
     'promo/**',
+    'content/zh-CN/updates/topic-briefs/longevity-thought-map.md',
   ],
   lastUpdated: false,
   ignoreDeadLinks: [

@@ -28,7 +28,6 @@ evidence_status: stable
 
 - [Family Medical Record Agent Brief 中文验收页](topic-briefs/family-medical-record-agent.md)
 - [Lifestyle Foundation Brief 中文验收页](topic-briefs/lifestyle-foundation.md)
-- [Longevity Thought Map Brief 中文验收页](topic-briefs/longevity-thought-map.md)
 
 ## 写作包
 

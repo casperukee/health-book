@@ -15,7 +15,6 @@
 
 - [家庭病历整理 Agent brief](topic-briefs/family-medical-record-agent.md)
 - [长期健康底座 brief](topic-briefs/lifestyle-foundation.md)
-- [长期健康思想地图 brief](topic-briefs/longevity-thought-map.md)
 
 ## 写作包
 

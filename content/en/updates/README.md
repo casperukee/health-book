@@ -15,7 +15,6 @@ English update notes, adaptation planning, topic briefs, and writing packets liv
 
 - [Family Medical Record Agent Brief](topic-briefs/family-medical-record-agent.md)
 - [Lifestyle Foundation Brief](topic-briefs/lifestyle-foundation.md)
-- [Longevity Thought Map Brief](topic-briefs/longevity-thought-map.md)
 
 ## Writing Packets
 
