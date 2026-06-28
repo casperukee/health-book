@@ -18,10 +18,16 @@ const shouldShow = computed(() => {
   const path = route.path || ''
   return !(path.includes('/content/zh-CN/') && frontmatter.value.evidence_status === 'needs_periodic_review')
 })
+
+const label = computed(() => {
+  const path = route.path || ''
+  if (path.includes('/content/en/')) return 'Last updated: '
+  return '最后更新：'
+})
 </script>
 
 <template>
   <p v-if="shouldShow && lastReviewed" class="last-reviewed">
-    最后更新：<time :datetime="lastReviewed">{{ lastReviewed }}</time>
+    {{ label }}<time :datetime="lastReviewed">{{ lastReviewed }}</time>
   </p>
 </template>

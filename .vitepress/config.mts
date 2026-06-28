@@ -172,6 +172,205 @@ const englishFeedbackSidebar = [
   }
 ]
 
+function remapSidebarLinks(sidebar: typeof bookSidebar, from: string, to: string) {
+  return sidebar.map((group) => ({
+    ...group,
+    items: group.items.map((item) => ({
+      ...item,
+      link: item.link.replace(from, to)
+    }))
+  }))
+}
+
+const reviewBookSidebar = remapSidebarLinks(bookSidebar, '/content/zh-CN/', '/content/en-review/zh-CN/')
+const reviewHandbookSidebar = remapSidebarLinks(handbookSidebar, '/content/zh-CN/', '/content/en-review/zh-CN/')
+const reviewFeedbackSidebar = remapSidebarLinks(feedbackSidebar, '/content/zh-CN/', '/content/en-review/zh-CN/')
+
+const chineseNav = [
+  { text: '主书', link: '/content/zh-CN/book/README' },
+  { text: '危险信号', link: '/content/zh-CN/handbook/playbooks/red-flags' },
+  { text: '手册', link: '/content/zh-CN/handbook/README' }
+]
+
+const englishNav = [
+  { text: 'Book', link: '/content/en/book/README' },
+  { text: 'Red Flags', link: '/content/en/handbook/playbooks/red-flags' },
+  { text: 'Handbook', link: '/content/en/handbook/README' }
+]
+
+const reviewNav = [
+  { text: '主书验收', link: '/content/en-review/zh-CN/book/README' },
+  { text: '危险信号验收', link: '/content/en-review/zh-CN/handbook/playbooks/red-flags' },
+  { text: '手册验收', link: '/content/en-review/zh-CN/handbook/README' }
+]
+
+const chineseSearchTranslations = {
+  button: {
+    buttonText: '搜索',
+    buttonAriaLabel: '搜索'
+  },
+  modal: {
+    displayDetails: '显示详情',
+    resetButtonTitle: '重置搜索',
+    backButtonTitle: '关闭搜索',
+    noResultsText: '没有结果',
+    footer: {
+      selectText: '选择',
+      selectKeyAriaLabel: '回车',
+      navigateText: '切换',
+      navigateUpKeyAriaLabel: '上箭头',
+      navigateDownKeyAriaLabel: '下箭头',
+      closeText: '关闭',
+      closeKeyAriaLabel: 'Esc'
+    }
+  }
+}
+
+const englishSearchTranslations = {
+  button: {
+    buttonText: 'Search',
+    buttonAriaLabel: 'Search'
+  },
+  modal: {
+    displayDetails: 'Display detailed list',
+    resetButtonTitle: 'Reset search',
+    backButtonTitle: 'Close search',
+    noResultsText: 'No results for',
+    footer: {
+      selectText: 'to select',
+      selectKeyAriaLabel: 'enter',
+      navigateText: 'to navigate',
+      navigateUpKeyAriaLabel: 'up arrow',
+      navigateDownKeyAriaLabel: 'down arrow',
+      closeText: 'to close',
+      closeKeyAriaLabel: 'escape'
+    }
+  }
+}
+
+const zhThemeConfig = {
+  logo: { src: '/logo.svg', alt: '健康有谱' },
+  siteTitle: '健康有谱',
+  nav: chineseNav,
+  sidebar: {
+    '/content/zh-CN/book/': bookSidebar,
+    '/content/zh-CN/handbook/': handbookSidebar,
+    '/content/zh-CN/feedback/': feedbackSidebar
+  },
+  outline: {
+    level: [2, 3] as const,
+    label: '本页'
+  },
+  docFooter: {
+    prev: '上一章',
+    next: '下一章'
+  },
+  darkModeSwitchLabel: '外观',
+  sidebarMenuLabel: '菜单',
+  returnToTopLabel: '回到顶部',
+  langMenuLabel: '切换版本',
+  skipToContentLabel: '跳到正文',
+  search: {
+    provider: 'local',
+    options: {
+      translations: chineseSearchTranslations
+    }
+  },
+  lastUpdated: {
+    text: '最后更新',
+    formatOptions: {
+      dateStyle: 'medium',
+      timeStyle: 'short'
+    }
+  }
+}
+
+const enThemeConfig = {
+  logo: { src: '/logo.svg', alt: 'Health Decisions for Families' },
+  siteTitle: 'Health Decisions',
+  nav: englishNav,
+  sidebar: {
+    '/content/en/book/': englishBookSidebar,
+    '/content/en/handbook/': englishHandbookSidebar,
+    '/content/en/feedback/': englishFeedbackSidebar,
+    '/content/en/': englishHomeSidebar
+  },
+  outline: {
+    level: [2, 3] as const,
+    label: 'On This Page'
+  },
+  docFooter: {
+    prev: 'Previous',
+    next: 'Next'
+  },
+  darkModeSwitchLabel: 'Appearance',
+  sidebarMenuLabel: 'Menu',
+  returnToTopLabel: 'Return to top',
+  langMenuLabel: 'Switch edition',
+  skipToContentLabel: 'Skip to content',
+  search: {
+    provider: 'local',
+    options: {
+      translations: englishSearchTranslations
+    }
+  },
+  lastUpdated: {
+    text: 'Last updated',
+    formatOptions: {
+      dateStyle: 'medium',
+      timeStyle: 'short'
+    }
+  }
+}
+
+const reviewThemeConfig = {
+  logo: { src: '/logo.svg', alt: '健康有谱英文校验版' },
+  siteTitle: '英文校验版',
+  nav: reviewNav,
+  sidebar: {
+    '/content/en-review/zh-CN/book/': reviewBookSidebar,
+    '/content/en-review/zh-CN/handbook/': reviewHandbookSidebar,
+    '/content/en-review/zh-CN/feedback/': reviewFeedbackSidebar,
+    '/content/en-review/zh-CN/': [
+      {
+        text: '英文校验版',
+        items: [
+          { text: '校验版说明', link: '/content/en-review/zh-CN/README' },
+          { text: '主书验收', link: '/content/en-review/zh-CN/book/README' },
+          { text: '手册验收', link: '/content/en-review/zh-CN/handbook/README' },
+          { text: '反馈验收', link: '/content/en-review/zh-CN/feedback/gray-trial-guide' }
+        ]
+      }
+    ]
+  },
+  outline: {
+    level: [2, 3] as const,
+    label: '本页'
+  },
+  docFooter: {
+    prev: '上一章',
+    next: '下一章'
+  },
+  darkModeSwitchLabel: '外观',
+  sidebarMenuLabel: '菜单',
+  returnToTopLabel: '回到顶部',
+  langMenuLabel: '切换版本',
+  skipToContentLabel: '跳到正文',
+  search: {
+    provider: 'local',
+    options: {
+      translations: chineseSearchTranslations
+    }
+  },
+  lastUpdated: {
+    text: '最后更新',
+    formatOptions: {
+      dateStyle: 'medium',
+      timeStyle: 'short'
+    }
+  }
+}
+
 export default defineConfig({
   title: '健康有谱',
   description: '给家庭的长期健康读本',
@@ -199,63 +398,30 @@ export default defineConfig({
     './LICENSE',
     '/LICENSE'
   ],
-  themeConfig: {
-    logo: { src: '/logo.svg', alt: '健康有谱' },
-    siteTitle: '健康有谱',
-    nav: [
-      { text: '主书', link: '/content/zh-CN/book/README' },
-      { text: '危险信号', link: '/content/zh-CN/handbook/playbooks/red-flags' },
-      { text: '手册', link: '/content/zh-CN/handbook/README' }
-    ],
-    sidebar: {
-      '/content/zh-CN/book/': bookSidebar,
-      '/content/zh-CN/handbook/': handbookSidebar,
-      '/content/zh-CN/feedback/': feedbackSidebar,
-      '/content/en/book/': englishBookSidebar,
-      '/content/en/handbook/': englishHandbookSidebar,
-      '/content/en/feedback/': englishFeedbackSidebar,
-      '/content/en/': englishHomeSidebar
+  themeConfig: zhThemeConfig,
+  locales: {
+    root: {
+      label: '中文版',
+      lang: 'zh-CN',
+      link: '/content/zh-CN/',
+      title: '健康有谱',
+      description: '给家庭的长期健康读本'
     },
-    outline: {
-      level: [2, 3],
-      label: '本页'
+    'content/en': {
+      label: 'English',
+      lang: 'en-US',
+      link: '/content/en/',
+      title: 'Health Decisions for Families',
+      description: 'A U.S.-first health literacy book for families.',
+      themeConfig: enThemeConfig
     },
-    docFooter: {
-      prev: '上一章',
-      next: '下一章'
-    },
-    search: {
-      provider: 'local',
-      options: {
-        translations: {
-          button: {
-            buttonText: '搜索',
-            buttonAriaLabel: '搜索'
-          },
-          modal: {
-            displayDetails: '显示详情',
-            resetButtonTitle: '重置搜索',
-            backButtonTitle: '关闭搜索',
-            noResultsText: '没有结果',
-            footer: {
-              selectText: '选择',
-              selectKeyAriaLabel: '回车',
-              navigateText: '切换',
-              navigateUpKeyAriaLabel: '上箭头',
-              navigateDownKeyAriaLabel: '下箭头',
-              closeText: '关闭',
-              closeKeyAriaLabel: 'Esc'
-            }
-          }
-        }
-      }
-    },
-    lastUpdated: {
-      text: '最后更新',
-      formatOptions: {
-        dateStyle: 'medium',
-        timeStyle: 'short'
-      }
+    'content/en-review/zh-CN': {
+      label: '英文校验版',
+      lang: 'zh-CN',
+      link: '/content/en-review/zh-CN/',
+      title: '健康有谱英文校验版',
+      description: '英文 adaptation 的中文验收工作台。',
+      themeConfig: reviewThemeConfig
     }
   }
 })
