@@ -10,7 +10,7 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 6. Cancer And Major Illness: Separate The Stage Before Fear Decides For You
+# 6. Cancer And Major Illness: Find The Stage Before Fear Takes Over
 
 > Cancer screening, diagnosis, staging, treatment, follow-up, and care must be judged by professional medical teams in the context of the individual person. This page helps families understand the problem, prepare records, ask about goals, and keep boundaries. It does not replace medical advice, and it should not be used to delay standard care.
 
@@ -90,7 +90,7 @@ For ordinary families, the actions most worth doing first are usually not expens
 
 WHO materials list tobacco, alcohol, unhealthy diet, physical inactivity, air pollution, and some infections among important risk factors, and also note that a meaningful share of cancers can be reduced by avoiding risk factors and using evidence-supported prevention strategies. What is reliable is not "magic"; it is "long-term, basic, and sustainable."
 
-With parents, avoid opening with "you need to prevent cancer." It is often more effective to bring the words down to concrete issues: blood in stool should not always be assumed to be hemorrhoids; coughing blood should not be dismissed as "heat"; hepatitis B and liver disease should not be managed with random supplements; gastrointestinal symptoms, weight loss, and persistent pain should not be delayed again and again.
+With parents, avoid opening with "you need to prevent cancer." It is often more effective to bring the words down to concrete issues: blood in stool should not always be assumed to be hemorrhoids; coughing blood should not be brushed off as irritation; hepatitis B and liver disease should not be managed with random supplements; gastrointestinal symptoms, weight loss, and persistent pain should not be delayed again and again.
 
 ## Screening: More Testing Is Not More Peace
 
@@ -165,7 +165,7 @@ Prepare a major-illness information card:
 
 This card does not replace the medical record. It helps family members stop restarting the story from memory in every conversation. More complete record organization can go into the [Family Health Record And Chronic Marker Log](../../handbook/templates/family-health-record.md).
 
-## Treatment Communication: Ask The Goal Before The Weapons
+## Treatment Communication: Clarify The Goal Before Choosing Tools
 
 Cancer treatment is not a competition for the "strongest plan."
 
@@ -224,7 +224,7 @@ Do not delay in these situations:
 - major bleeding, severe rash, severe pain, or any urgent situation specifically named by the care team;
 - the patient or caregiver develops severe anxiety, depression, insomnia, self-harm, or suicide risk.
 
-The worst mistake in cancer and major illness is to replace standard diagnosis and treatment with folk remedies, supplements, one news article, friend-and-family experience, or commercial testing. When unsure, contact the medical team responsible for treatment first instead of letting the family chat vote.
+The worst mistake in cancer and major illness is to replace standard diagnosis and treatment with folk remedies, supplements, one news article, friends' or relatives' stories, or commercial testing. When unsure, contact the medical team responsible for treatment first instead of letting the family chat vote.
 
 ## First Write Down The Stage
 

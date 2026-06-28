@@ -241,7 +241,7 @@ Red Flags 已经处理红色情况。本页主要处理更常见的时刻：第�
 如果是绿色：
 
 - 记录症状和背景；
-- 长期指标使用 [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking) 看趋势；
+- 长期指标使用 [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log) 看趋势；
 - 把本页和 [Red Flags](./red-flags.md) 放在家庭群或家庭健康档案首页。
 
 ## 参考资料

@@ -162,7 +162,7 @@ When facing health devices, tests, and longevity programs, do not rush to decide
 
 ## How To Talk About It At Home
 
-If a family member wants to buy a health device, test, or longevity program, do not begin with "that's a stupidity tax." Often what they want to buy is not the device itself. They want reassurance that their body is okay, a little more control, or a way to do more for their parents.
+If a family member wants to buy a health device, test, or longevity program, do not begin with "that's a waste of money." Often what they want to buy is not the device itself. They want reassurance that their body is okay, a little more control, or a way to do more for their parents.
 
 Use more specific sentences:
 
@@ -174,7 +174,7 @@ Use more specific sentences:
 
 If the other person simply wants a low-risk reminder tool, state the boundary clearly: use it for trends, not diagnosis; use it to prompt action, not to create anxiety; if abnormalities persist or symptoms are obvious, return to medical care.
 
-If the other person is already preparing to buy high-priced testing, a longevity program, a membership package, or long-term supplements, first try to win a pause button:
+If the other person is already preparing to buy high-priced testing, a longevity program, a membership package, or long-term supplements, first try to create a pause:
 
 ```text
 We are not against you paying attention to your body. First let's write down what it measures, how accurate it is, how the result will be explained, what happens after an abnormal result, and whether it affects follow-up or medication before deciding whether to buy.

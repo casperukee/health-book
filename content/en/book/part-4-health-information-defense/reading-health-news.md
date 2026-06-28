@@ -97,7 +97,7 @@ Another is using the comment section as evidence. Hundreds of comments like "my 
 
 Another is fear first, exit second. The first half tells you the risk is huge; the second half gives you a test, course, product, community, direct message, link, or offline talk.
 
-Another compresses a complex health issue into one enemy: dampness, toxins, inflammation, sugar, salt, cholesterol, nodules, plaque, H. pylori, uric acid, or free radicals. The body does have real risks, but if a video compresses every problem into one word and then offers one universal solution, stop.
+Another compresses a complex health issue into one enemy: toxins, inflammation, sugar, salt, cholesterol, nodules, plaque, H. pylori, uric acid, or free radicals. The body does have real risks, but if a video compresses every problem into one word and then offers one universal solution, stop.
 
 You do not need to argue with the short video first. Ask: has it pushed me toward an exit? If the exit is stopping medication, buying something, doing an expensive test, bypassing clinicians, or completing a private sale, return to the health-product check logic from the previous two chapters.
 

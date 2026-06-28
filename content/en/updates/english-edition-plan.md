@@ -208,7 +208,7 @@ Then draft the English page from that brief rather than translating sentence by 
 
 - Update `content/en/README.md` to say the English edition is being rebuilt as a U.S.-first adaptation from the Chinese `v1.0.0` source edition.
 - Update `content/en/book/README.md` to mirror the Chinese `v1.0.0` structure while marking chapter status clearly.
-- Keep existing English pages as preview material until rewritten.
+- Treat the current main book and handbook pages as `en-v0.2` content-review pages: structure-aligned and usable for review, but not yet production-ready.
 - Update `shared/glossary.md` when English terminology decisions become stable.
 
 ### Phase 1: Safety and entry pack
@@ -259,11 +259,11 @@ Pages:
 
 - `metabolic-health.md`
 - `cardiovascular-event-chain.md`
-- common-upstream chapter if added to English;
+- `common-upstream.md`
 - `sleep-and-recovery.md`
 - `brain-and-mental-health.md`
 - `cancer-and-major-illness.md`
-- children/adolescent health chapter if added to English;
+- `children-and-adolescent-health.md`
 - `specialty-care-map.md`
 
 Special U.S. adaptation issues:
@@ -324,27 +324,25 @@ Before treating the English edition as ready for broader publication or Amazon/K
 - run a medical-boundary review focused on care-seeking, screening, medication, mental health crisis, and cancer content;
 - run an English editorial pass for tone, rhythm, and U.S. reader fit;
 - ensure the book does not read like a translation;
-- decide whether the English book name should remain "Health Youpu" or use a more self-explanatory title/subtitle for English stores;
+- decide whether the English web title, "Health Decisions for Families," should also be used for any later reading edition or store package;
 - prepare a separate publication package rather than exporting directly from the current preview pages.
 
 Do not upload or publish an English ebook until the English edition has its own review trail.
 
 ## Current Assessment Of Existing English Pages
 
-The existing English pages are useful as early previews, but they should not be treated as production-quality English chapters.
+The English main book and handbook have moved past early preview status. They are now structure-aligned `en-v0.2` adaptation pages with matching Chinese review companions.
 
-They can be reused for:
+They should be treated as usable review pages for:
 
-- basic project vocabulary;
-- links and file structure;
-- a few safety-boundary patterns;
-- early examples of U.S. adaptation.
+- checking whether every page stays inside the English edition loop;
+- reviewing U.S.-first healthcare pathways, source anchors, units, and family scenarios;
+- checking whether the Chinese review companions translate the English adaptation rather than copying the Chinese source edition;
+- finding remaining tone, title, navigation, and medical-boundary issues before broader publication.
 
-They should be replaced or substantially rewritten for:
+They still need review before any `en-v1.0.0` label or reading-edition packaging:
 
-- chapter rhythm and voice;
-- U.S.-specific healthcare pathways;
-- units and lab/report conventions;
-- insurance and access friction;
-- family communication and elder-care scenarios;
-- source review and metadata.
+- source checks for high-risk medical claims;
+- an English editorial pass for rhythm and U.S. reader fit;
+- a medical-boundary pass focused on emergency care, screening, medication, mental health crisis, cancer, children, and older adults;
+- final metadata and release notes.

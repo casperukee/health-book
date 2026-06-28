@@ -42,7 +42,7 @@ For adult children, the health issue is risk. For parents, it may also mean agin
 
 If we start with arranging, correcting, or negating, what the other person hears is often not care. It is control.
 
-A better starting point is to lower the posture a little: I am not here to manage you. I want us to talk through the important moments before they happen. In ordinary times, you make your own decisions; for a few situations, our family needs shared rules.
+A better starting point is to lower the temperature a little: I am not here to manage you. I want us to talk through the important moments before they happen. In ordinary times, you make your own decisions; for a few situations, our family needs shared rules.
 
 ## First Agree On Four Things As A Family
 
@@ -237,4 +237,4 @@ The best version of health communication is this: people can talk in ordinary ti
 
 - [Back to English book contents](../README.md)
 - Previous chapter: [2. How To Prepare For A Doctor Visit: Bring Facts Into The Room](doctor-visit-preparation.md)
-- Next chapter: [4. Elder Care Basics: Protect The Ability To Keep Living](elder-care-basics.md)
+- Next chapter: [4. Elder Care Basics: Protect Daily Independence](elder-care-basics.md)

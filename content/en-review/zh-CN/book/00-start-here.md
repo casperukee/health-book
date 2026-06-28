@@ -10,9 +10,9 @@
 
 本书不能替代诊断、治疗、用药决定、停药决定、筛查决定、急救判断、心理健康危机干预或任何个体化医疗决策。涉及慢病指标、检查异常、筛查选择、药物使用、手术决策、心理健康、孕产健康、儿童或老年人时，请结合医生建议、个人病史、检查结果和本地照护资源。
 
-如果已经出现危险信号，或情况正在加重、明显让家人担心，请先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。具体边界见下一章 [1. Warning Signs: Sort Urgency Before Searching Disease Names](./medical-boundaries.md) 和 [Red Flags](../handbook/playbooks/red-flags.md)。
+如果已经出现危险信号，或情况正在加重、明显让家人担心，请先联系急救、急诊、危机服务或其他合格的本地急症路径。具体边界见下一章 [1. Warning Signs: Sort Urgency Before Searching Disease Names](./medical-boundaries.md) 和 [Red Flags](../handbook/playbooks/red-flags.md)。
 
-医学知识会更新。本书的安全边界、来源、勘误和复查记录也会持续检查；面对具体健康问题，请以临床人员判断、本地医疗资源和当前权威资料为准。英文维护说明见 [English Edition Adaptation Plan](../updates/english-edition-plan.md)，来源登记见 [source registry](../references/source-registry.md)。
+医学知识会更新。本书的安全边界、来源、勘误和复查记录也会持续检查；面对具体健康问题，请以临床人员判断、本地医疗资源和当前权威资料为准。在线勘误见 [Errata](../errata/README.md)，资料入口见 [Official Medical Sources](../references/official-medical-sources.md) 和 [Source Registry](../references/source-registry.md)。
 
 ## 前言：健康信息很多，下一步仍然不清楚
 
@@ -34,7 +34,7 @@
 
 ### 已经有人不舒服
 
-先分急缓。已经出现明确危险信号，或情况正在快速变坏、明显令人担心时，先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。[1. Warning Signs: Sort Urgency Before Searching Disease Names](./medical-boundaries.md) 和 [Red Flags](../handbook/playbooks/red-flags.md) 帮助你说清情况，不替你判断能不能等。
+先分急缓。已经出现明确危险信号，或情况正在快速变坏、明显令人担心时，先联系急救、急诊、危机服务或其他合格的本地急症路径。[1. Warning Signs: Sort Urgency Before Searching Disease Names](./medical-boundaries.md) 和 [Red Flags](../handbook/playbooks/red-flags.md) 帮助你说清情况，不替你判断能不能等。
 
 如果不是明显红旗，但仍拿不准能不能等，先读下一章。如果想按胸痛、发热、腹痛、跌倒、情绪危机等常见症状分出下一步动作，使用 [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)。
 

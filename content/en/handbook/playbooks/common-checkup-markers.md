@@ -93,5 +93,5 @@ Markers are most useful not when they diagnose you, but when they help you see u
 ## Next Step
 
 - [Checkup Planning Guide](checkup-planning-guide.md)
-- [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking)
+- [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log)
 - [Doctor Visit Checklist](doctor-visit-checklist.md)

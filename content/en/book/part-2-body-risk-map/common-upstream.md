@@ -30,11 +30,11 @@ Many people get stuck here. If they take it lightly, they think they are not sic
 
 I prefer to call this pulling the trend back, not treating a specific disease through lifestyle. It does not replace clinicians, medicines, or follow-up; but before many risks become serious consequences, daily life really does provide a window where intervention is possible.
 
-That window is not in one magical action. It is in a set of daily defaults: whether the body is called on often, whether food and drink keep making systems work overtime, whether sleep has a recovery window, whether stress and relationships keep a person in alert mode for too long, and whether feedback lets you see change.
+That window is not in one magical action. It is in a set of daily defaults: whether the body is called on often, whether food and drink keep adding daily load, whether sleep has a recovery window, whether stress and relationships keep a person in alert mode for too long, and whether feedback lets you see change.
 
 Put these five entrances together, and lifestyle is no longer four sets of prohibitions. It becomes a daily map for lowering upstream load: adjust what happens often before obsessing over what happens occasionally; adjust what can be repeated before designing perfection; adjust what affects several markers before believing in one isolated trick. Activity has structure, food has quality, recovery has a window, stress has an exit, and feedback can show a trend.
 
-First, lower the pressure a little: you do not need to become a highly disciplined person before you are allowed to manage health. Many chronic risks are not pushed up by one indulgent day. They are pushed up little by little by default life. Change the default a little, and the body has to work overtime a little less.
+First, lower the pressure a little: you do not need to become a highly disciplined person before you are allowed to manage health. Many chronic risks are not pushed up by one indulgent day. They are pushed up little by little by default life. Change the default a little, and the body carries a little less load.
 
 <figure class="book-figure">
   <img src="../assets/figures/fig-15-common-upstream-defaults.svg" alt="Common upstream: five daily defaults">
@@ -80,7 +80,7 @@ The World Health Organization defines physical activity broadly: body movement d
 
 Of course, activity has boundaries. If exercise brings chest pain or pressure, obvious shortness of breath, near-fainting, cold sweat, severe palpitations, or if the person already has cardiovascular disease, recent heart attack or stroke, heart failure, atrial fibrillation, severe joint pain, or develops face drooping, one-sided weakness, speech problems, or other possible neurologic signs, do not force generic fitness advice onto the situation. Activity is meant to increase reserve, not prove discipline through danger.
 
-## Second Thing: Make Food And Drink Less System Overtime
+## Second Thing: Make Food And Drink Add Less Daily Load
 
 Ordinary families do not need to calculate every gram of nutrition first, and they do not need to start by studying every food's glycemic index, purine table, or fatty-acid ratio. It is more useful to ask two questions first: is the repeated daily load too high, and does the plate contain enough for the body to handle this meal gradually?
 
@@ -136,7 +136,7 @@ Short videos, sweets, and alcohol can make someone feel better briefly, but the 
 
 Active recovery means the person participates rather than being pushed by information. Walk outside for a few minutes after dinner without debating whether it meets a standard. Start one small piece of a hard task so you can see, "I have begun." When stress is high, speak a few sentences with a real person rather than continuing to scroll.
 
-These actions are small, but they have real meaning. They help the body confirm three things again: I still have a little agency, I am still connected with others, and I can still recover a little from real life. The value of a stress exit is that the body lives with a little less long-term alert.
+These actions are small, but they have real meaning. They help the body confirm three things again: I still have a little agency, I am still connected with others, and I can still recover a little from real life. The value of a stress outlet is that the body lives with a little less long-term alert.
 
 If stress, anxiety, low mood, panic, sleep problems, or physical symptoms are persistently affecting life, or if there is any self-harm or suicide risk, do not carry it alone as a lifestyle problem. That has entered the boundary of professional help.
 

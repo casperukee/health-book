@@ -178,7 +178,7 @@
 - CDC: [About Chronic Diseases](https://www.cdc.gov/chronic-disease/about/index.html)
 - MedlinePlus: [Healthy Aging](https://medlineplus.gov/healthyaging.html)
 
-更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/README.md)。
+更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

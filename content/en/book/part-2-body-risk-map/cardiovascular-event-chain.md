@@ -113,7 +113,7 @@ The easiest mistake in the acute stage is that the family keeps looking for a de
 
 Whether chest pain is angina, heart attack, stomach pain, anxiety, or muscle pain is not something an ordinary family needs to prove at home. Whether sudden one-sided weakness, slurred speech, face drooping, vision change, or trouble walking is one type of stroke or another is also not something the family should discuss fully before acting.
 
-The family needs to recognize entrance signals that cannot wait. Do not wait until it "looks exactly like a heart attack," and do not wait until it is "definitely a stroke." In the acute stage, the most important job is not proving the name; it is not spending time proving.
+The family needs to recognize entrance signals that cannot wait. Do not wait until it "looks exactly like a heart attack," and do not wait until it is "definitely a stroke." In the acute stage, the most important job is not proving the name; it is acting quickly when danger cannot be ruled out.
 
 Several kinds of signals are especially easy to delay and should be remembered in advance: chest pain, chest pressure, or chest heaviness, especially with shortness of breath, sweating, nausea, dizziness, or pain spreading to the arm, back, shoulder, neck, jaw, or upper abdomen; sudden face drooping, one-sided weakness or numbness, slurred speech, vision change, unsteady walking, or sudden severe headache; fainting, altered consciousness, severe breathing difficulty, or abnormal heartbeat with obvious distress; and in someone with known cardiovascular disease, chest discomfort, clearly worse activity tolerance, or possible recurrence signals that are different from usual.
 
@@ -153,7 +153,7 @@ If someone in the family has had a heart attack, stroke, stent, bypass, atrial f
 - what each medicine is preventing;
 - which tests need repeating, and how often;
 - whether there are boundaries around exercise, travel, late nights, alcohol, sex, and work intensity;
-- which symptoms should go directly to urgent care or the emergency department rather than waiting for the next appointment.
+- which symptoms should mean calling emergency services or going to the emergency department rather than waiting for the next appointment.
 
 ## The Family Can Agree On A Few Things In Advance
 

@@ -159,7 +159,7 @@ Questions for the clinician: What risk do these changes mainly suggest? When sho
 - NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
-这些资料帮助理解指标和筛查能做什么、不能做什么，但不能替个人解释报告、诊断疾病、决定用药或设计个体化体检清单。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/README.md)。
+这些资料帮助理解指标和筛查能做什么、不能做什么，但不能替个人解释报告、诊断疾病、决定用药或设计个体化体检清单。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

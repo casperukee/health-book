@@ -18,4 +18,4 @@ This part follows the body risk lines because many health risks finally become r
 - [1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](what-to-manage.md)
 - [2. Preparing For A Doctor Visit: Bring Facts Into The Room](doctor-visit-preparation.md)
 - [3. Talking With Parents About Health: Do Not Turn Care Into Control](talking-with-parents.md)
-- [4. Older Adult Health And Care: Protect The Ability To Keep Living](elder-care-basics.md)
+- [4. Elder Care Basics: Protect Daily Independence](elder-care-basics.md)

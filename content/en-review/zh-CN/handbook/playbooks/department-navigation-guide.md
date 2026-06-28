@@ -59,7 +59,7 @@
 3. 去下一个诊室前应该带什么资料？
 4. 什么情况不能等预约，要直接去急诊？
 
-确定走门诊后，用 [Doctor Visit Checklist](doctor-visit-checklist.md) 整理症状时间线、既往资料和主要问题。回家后把医生的下一步写进 [Family Health Record And Chronic Condition Log](../templates/family-health-record.md)。
+确定走门诊后，用 [Doctor Visit Checklist](doctor-visit-checklist.md) 整理症状时间线、既往资料和主要问题。回家后把医生的下一步写进 [Family Health Record And Chronic Marker Log](../templates/family-health-record.md)。
 
 ## 参考资料
 

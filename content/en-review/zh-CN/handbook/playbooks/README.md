@@ -1,5 +1,7 @@
 # Playbooks 中文验收页
 
+本页是英文 Playbooks 页的中文验收辅助，翻译/回译英文 adaptation，不是中文版源稿。
+
 这些页面适合行动流程和速查。
 
 ::: danger 先看危险信号

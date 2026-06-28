@@ -15,7 +15,7 @@ evidence_status: not_applicable
 
 # 试读与反馈说明
 
-谢谢你阅读和评审《健康有谱》英文网页版。这个版本是基于中文 v1.0.0 结构的美国优先 adaptation。它可以连续阅读，也可以按场景使用；它的用途是检查阅读路径、实用性和医学边界，不应作为医疗建议传播。
+谢谢你阅读和评审 Health Decisions for Families 英文网页版。这个版本是基于中文 v1.0.0 结构的美国优先 adaptation。它可以连续阅读，也可以按场景使用；它的用途是检查阅读路径、实用性和医学边界，不应作为医疗建议传播。
 
 ## 先看边界
 
@@ -121,7 +121,7 @@ evidence_status: not_applicable
 
 ## 如何发送反馈
 
-使用项目 GitHub 仓库，或你已经在使用的维护者沟通渠道。如果直接发送说明，请包含 “Health Youpu English feedback”，方便整理进下一轮维护。
+使用项目 GitHub 仓库，或你已经在使用的维护者沟通渠道。如果直接发送说明，请包含 “Health Decisions for Families English feedback”，方便整理进下一轮维护。
 
 ## 维护者最想知道的三件事
 

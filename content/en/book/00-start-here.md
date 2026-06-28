@@ -18,9 +18,9 @@ This book is for health education and family health information organization. It
 
 This book cannot replace diagnosis, treatment, medication decisions, stopping medication, screening decisions, emergency judgment, mental health crisis intervention, or any individualized medical decision. For chronic markers, abnormal test results, screening choices, medication use, surgery decisions, mental health, pregnancy/postpartum health, children, or older adults, use your clinician's advice, your personal history, test results, and local care options.
 
-If warning signs have already appeared, or the situation is worsening or clearly worrying the family, contact emergency services, an emergency department, urgent care, crisis services, or another qualified local medical entry point first. The specific boundary is in the next chapter, [1. Warning Signs: Sort Urgency Before Searching Disease Names](medical-boundaries.md), and in [Red Flags](../handbook/playbooks/red-flags.md).
+If warning signs have already appeared, or the situation is worsening or clearly worrying the family, contact emergency services, an emergency department, crisis services, or another qualified local emergency pathway first. The specific boundary is in the next chapter, [1. Warning Signs: Sort Urgency Before Searching Disease Names](medical-boundaries.md), and in [Red Flags](../handbook/playbooks/red-flags.md).
 
-Medical knowledge changes. This book's safety boundaries, sources, corrections, and review records will continue to be checked; for a specific health problem, follow clinician judgment, local medical resources, and current authoritative sources. English maintenance notes are in [English Edition Adaptation Plan](../updates/english-edition-plan.md), and the source registry is in [source registry](../references/source-registry.md).
+Medical knowledge changes. This book's safety boundaries, sources, corrections, and review records will continue to be checked; for a specific health problem, follow clinician judgment, local medical resources, and current authoritative sources. Online corrections are in [Errata](../errata/README.md), and source entry points are in [Official Medical Sources](../references/official-medical-sources.md) and the [Source Registry](../references/source-registry.md).
 
 ## Preface: So Much Health Information, Still No Clear Next Step
 
@@ -42,7 +42,7 @@ You do not need to memorize this book from beginning to end. Start with the situ
 
 ### Someone Already Feels Unwell
 
-Sort urgency first. If clear warning signs have appeared, or the situation is rapidly worsening or clearly worrying, contact emergency services, an emergency department, urgent care, crisis services, or another qualified local medical entry point first. [1. Warning Signs: Sort Urgency Before Searching Disease Names](medical-boundaries.md) and [Red Flags](../handbook/playbooks/red-flags.md) help you describe the situation; they do not decide whether waiting is safe.
+Sort urgency first. If clear warning signs have appeared, or the situation is rapidly worsening or clearly worrying, contact emergency services, an emergency department, crisis services, or another qualified local emergency pathway first. [1. Warning Signs: Sort Urgency Before Searching Disease Names](medical-boundaries.md) and [Red Flags](../handbook/playbooks/red-flags.md) help you describe the situation; they do not decide whether waiting is safe.
 
 If it is not an obvious red flag but you are still unsure whether waiting is safe, read the next chapter first. If you want to sort common symptoms such as chest pain, fever, abdominal pain, falls, or emotional crisis into next actions, use [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md).
 

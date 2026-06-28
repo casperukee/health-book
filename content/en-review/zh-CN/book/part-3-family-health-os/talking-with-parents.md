@@ -32,7 +32,7 @@
 
 如果我们一开始就是安排、纠正、否定，对方听到的往往不是关心，而是控制。
 
-更好的起点，是把姿态放低一点：我不是来管你。我想和你一起把重要时刻提前说清楚。平时你自己做决定；但有几类情况，全家需要共同规则。
+更好的起点，是先把对话的温度降下来：我不是来管你。我想和你一起把重要时刻提前说清楚。平时你自己做决定；但有几类情况，全家需要共同规则。
 
 ## 一家人先约四件事
 
@@ -227,4 +227,4 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 - [回到英文主书目录验收页](../README.md)
 - 上一章：[2. How To Prepare For A Doctor Visit: Bring Facts Into The Room 中文验收页](doctor-visit-preparation.md)
-- 下一章：[4. Elder Care Basics: Protect The Ability To Keep Living 中文验收页](elder-care-basics.md)
+- 下一章：[4. Elder Care Basics: Protect Daily Independence 中文验收页](elder-care-basics.md)

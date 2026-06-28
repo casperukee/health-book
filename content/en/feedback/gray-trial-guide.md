@@ -12,7 +12,7 @@ evidence_status: not_applicable
 
 # Trial Reading And Feedback Guide
 
-Thank you for reading and reviewing the English web edition of Health Youpu. This edition is a U.S.-first adaptation based on the Chinese v1.0.0 structure. It can be read continuously or used by situation, and it is meant for reviewing reading flow, usefulness, and medical boundaries. It is not meant to be shared as medical advice.
+Thank you for reading and reviewing the English web edition of Health Decisions for Families. This edition is a U.S.-first adaptation based on the Chinese v1.0.0 structure. It can be read continuously or used by situation, and it is meant for reviewing reading flow, usefulness, and medical boundaries. It is not meant to be shared as medical advice.
 
 ## Start With The Boundary
 
@@ -118,7 +118,7 @@ What I hope the next version adds or improves:
 
 ## How To Send Feedback
 
-Use the project's GitHub repository or the maintainer channel you already use. If you send a note directly, include "Health Youpu English feedback" so it can be sorted into the next maintenance pass.
+Use the project's GitHub repository or the maintainer channel you already use. If you send a note directly, include "Health Decisions for Families English feedback" so it can be sorted into the next maintenance pass.
 
 ## The Three Things The Maintainer Most Wants To Know
 

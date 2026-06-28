@@ -16,9 +16,9 @@ evidence_status: needs_periodic_review
 
 Some health problems are heavy and clear, and they often need the medical system to take over quickly. Children's problems often look different: many things are not clear at the beginning, but they happen at home every day.
 
-A child says their stomach hurts in the morning and does not want to go to school. At night they cannot stop scrolling, and the next day they cannot get up. A teenage girl becomes sensitive about periods, acne, and body shape. A boy suddenly stops talking, talks back, stays up late, and closes the door. Grades drop, and the parent's first reaction is study attitude, while the child cannot clearly say what is wrong.
+A child says their stomach hurts in the morning and does not want to go to school. At night they cannot stop scrolling, and the next day they cannot get up. A teenage girl becomes sensitive about periods, acne, and body shape. A boy suddenly stops talking, talks back, stays up late, and closes the door. Grades drop, and the parent's first reaction is school attitude, while the child cannot clearly say what is wrong.
 
-When these scenes appear, adults easily grab an explanation immediately: the phone did it, school pressure is too high, this is puberty, pretending to be sick, laziness, not being sensible, mental health problem.
+When these scenes appear, adults easily grab an explanation immediately: the phone did it, school pressure is too high, this is puberty, pretending to be sick, laziness, poor judgment, mental health problem.
 
 These explanations sometimes touch part of the truth, but they are often too fast. A too-fast explanation makes parents miss the more important questions: is the child's body in danger? Has daily function been dragged down? What developmental change are they experiencing? Is there pressure at school, with peers, or online? Is the family's response helping recovery, or making the child less willing to speak?
 
@@ -62,7 +62,7 @@ In childhood and adolescence, what families should manage most is the health bas
 
 First, sleep. Sleep is not leftover time after schoolwork; it is the base for growth, attention, emotion regulation, and body recovery. If children chronically do not sleep enough, many problems worsen together: daytime sleepiness, irritability, poor attention, less movement, disordered appetite, and harder stopping with screens.
 
-Second, movement and outdoors. Movement is not only "exercise"; it is also a way for children to experience frustration, cooperation, competence, and peer connection. Instead of turning movement into another task, it is more important to help a child find a body activity they are willing to keep playing.
+Second, movement and outdoors. Movement is not only "exercise"; it is also a way for children to experience frustration, cooperation, competence, and peer connection. Instead of turning movement into another task, it is more important to help a child find a body activity they enjoy enough to repeat.
 
 Third, food environment and weight trend. What children eat, what the household buys, and whether snacks and sweet drinks are easy to reach are largely decided by the family. This is not a place for body shaming or ridicule. What matters is the long-term trend, food pattern, physical activity, sleep, and mental state.
 
@@ -116,7 +116,7 @@ The family can do one very plain thing first: put symptoms back onto a timeline.
 
 That timeline is more useful than the sentence "What is wrong with you?"
 
-## The Phone Is Not The Only Cause, But Often It Is A Stress Exit
+## The Phone Is Not The Only Cause, But Often It Is A Stress Outlet
 
 Phones, games, and short videos can certainly create problems: sleep gets squeezed out, attention is fragmented, outdoor activity decreases, eyes get tired, sitting and head-down posture increase, and online conflict, cyberbullying, sexual or violent content, spending, privacy risk, and dangerous challenges can appear.
 
@@ -196,9 +196,9 @@ The more complex the child's problem is, the more important it is to reduce info
 
 You can record when the change started, whether body symptoms, sleep, and appetite changed, whether functions such as school, homework, movement, social contact, and hygiene changed, whether mood, behavior, school or peer relationships, and family environment changed clearly. The child's own words are especially important. If online spaces and phone use involve bedtime use, group-chat conflict, privacy, spending, or tips/gifts, write that down too.
 
-Red signals cannot wait for the record to be complete. Any self-harm, suicide, harm-to-others, risk of being harmed, running away, severe loss of control, or inability to stay safe means safety and help come first.
+Red signals cannot wait for the record to be complete. Any self-harm, suicide, risk of harming others, risk of being harmed, running away, severe loss of control, or inability to stay safe means safety and help come first.
 
-Bringing this record to pediatrics, adolescent medicine, eye care, gynecology, orthopedics/sports medicine, school counseling, child and adolescent mental health, or another professional entry point will be more useful than saying "their state has been bad lately." Do not solve everything at once; choose the one change that worries you most, find a low-pressure time, and ask the child one specific question without chasing to the bottom, such as "Which step of school has been hardest recently?" or "What is hardest to stop before bed?" If possible, add one more support point: outdoor activity, a trusted teacher, a relative, an interest activity, a clinician appointment, or psychological support for the parent.
+Bringing this record to pediatrics, adolescent medicine, eye care, gynecology, orthopedics/sports medicine, school counseling, child and adolescent mental health, or another professional entry point will be more useful than saying "their state has been bad lately." Do not solve everything at once; choose the one change that worries you most, find a low-pressure time, and ask the child one specific question without cross-examining every detail, such as "Which step of school has been hardest recently?" or "What is hardest to stop before bed?" If possible, add one more support point: outdoor activity, a trusted teacher, a relative, an interest activity, a clinician appointment, or psychological support for the parent.
 
 Often, children do not lack explanations; they lack an environment where they can regain safety, connection, control, and a little hope.
 
@@ -223,5 +223,5 @@ Start directly with: [WHO Adolescent mental health](https://www.who.int/news-roo
 ## Reading Navigation
 
 - [Back to English book contents](../README.md)
-- Previous chapter: [6. Cancer And Major Illness: Separate The Stage Before Fear Decides For You](cancer-and-major-illness.md)
+- Previous chapter: [6. Cancer And Major Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)
 - Next chapter: [8. Common Specialty Problems: Improve Care Quality Without Becoming Your Own Doctor](specialty-care-map.md)

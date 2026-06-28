@@ -10,9 +10,9 @@ medical_review_status: needs_review
 evidence_status: needs_periodic_review
 ---
 
-# 4. Elder Care Basics: Protect The Ability To Keep Living
+# 4. Elder Care Basics: Protect Daily Independence
 
-> If an older adult has an injurious fall, altered consciousness, sudden cognitive or mobility decline, chest pain, trouble breathing, stroke-like symptoms, severe pain, abnormal bleeding, or a serious medication reaction, seek medical care or emergency care promptly. This chapter only helps families observe changes, organize information, and prepare caregiving collaboration. It does not replace clinician diagnosis, treatment, medication decisions, stopping-medication decisions, rehabilitation plans, or care-level assessment.
+> If an older adult has an injurious fall, altered consciousness, sudden cognitive or mobility decline, chest pain, trouble breathing, stroke-like symptoms, severe pain, abnormal bleeding, or a serious medication reaction, seek medical care or emergency care promptly. This chapter only helps families observe changes, organize information, and prepare caregiving collaboration. It does not replace clinician diagnosis, treatment, medication decisions, stopping-medication decisions, rehabilitation plans, or level-of-care assessment.
 
 Sometimes caregiving does not begin at the moment when "parents need care." It begins with a tiny hesitation.
 
@@ -52,13 +52,13 @@ So the better question for older adult health is: which abilities are weakening,
   <section class="decision-card decision-card-green decision-card-wide">
     <div class="decision-label">No crisis yet</div>
     <h3>Prepare the home, medication list, and follow-up rhythm first</h3>
-    <p>Clear floor hazards, improve nighttime routes and bathroom safety; put medicines, supplements, allergies, and medical history on one page; add checkups, follow-up, vaccines, eye care, dental care, hearing, and chronic-condition visits to the family calendar.</p>
+    <p>Clear floor hazards, improve nighttime routes and bathroom safety; put medicines, supplements, allergies, and medical history on one page; add checkups, follow-up, vaccines, eye care, dental care, hearing, and chronic-care visits to the family calendar.</p>
   </section>
 </div>
 
 The same symptom can deserve more caution in an older adult than in a younger person. Not because "older people are fragile," but because falls, infection, dehydration, medication reactions, stroke, fracture, and chronic disease loss of control may first appear as "not themselves," "suddenly confused," or "cannot walk."
 
-At home, keep the [symptom action guide](../../handbook/playbooks/symptom-action-guide.md) together with the [family health record and chronic condition log](../../handbook/templates/family-health-record.md): one helps decide the next action, and the other keeps medical history, medicines, allergies, follow-up, and emergency contacts from disappearing.
+At home, keep the [symptom action guide](../../handbook/playbooks/symptom-action-guide.md) together with the [family health record and chronic marker log](../../handbook/templates/family-health-record.md): one helps decide the next action, and the other keeps medical history, medicines, allergies, follow-up, and emergency contacts from disappearing.
 
 ## Four Abilities Explain More Than One Marker
 
@@ -208,9 +208,9 @@ Do not delay in the following situations:
 
 Older adult problems often move the whole system. Seeking help earlier is usually safer than forcing the family to hold everything alone.
 
-## Start With One Small Organizing Pass
+## Start With One Small Organizing Step
 
-You do not need to wait until the whole family has time for a meeting. One small organizing pass is enough:
+You do not need to wait until the whole family has time for a meeting. One small organizing step is enough:
 
 Clear one safe route from bed to bathroom and from the living room to the door.
 
@@ -222,7 +222,7 @@ Mark follow-up dates on a calendar.
 
 Finally, ask your parent one life goal: what ability do they most want to protect? Walking outside, cooking for themselves, seeing friends, spending time with grandchildren, traveling, or sleeping peacefully?
 
-If the older adult has long-term markers such as blood pressure, blood sugar, cholesterol, uric acid, or kidney function, put follow-up results into the [chronic condition tracking table](../../handbook/templates/family-health-record.md#_2-chronic-condition-tracking), so each visit does not start from zero.
+If the older adult has long-term markers such as blood pressure, blood sugar, cholesterol, uric acid, or kidney function, put follow-up results into the [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log), so each visit does not start from zero.
 
 When talking about these things with parents, you do not need to begin with "what will we do when you need care later?" You can say it more naturally:
 
@@ -234,7 +234,7 @@ Helping parents keep safely doing their own things is the best starting point fo
 
 As of 2026-06-15, this chapter mainly uses CDC materials on healthy aging, older adult fall prevention, and adult vaccines, and MedlinePlus materials on older adult health, fall risk assessment, taking multiple medicines safely, and caregiver health to calibrate boundaries around healthy aging, fall prevention, cognitive and functional change, polypharmacy, caregiver stress, and adult vaccines.
 
-These materials calibrate healthy aging, fall prevention, cognitive and functional change, polypharmacy, caregiver stress, and adult vaccine boundaries. This chapter does not provide diagnosis, medication, stopping-medication, rehabilitation prescription, senior living choices, or individualized care-level assessment.
+These materials calibrate healthy aging, fall prevention, cognitive and functional change, polypharmacy, caregiver stress, and adult vaccine boundaries. This chapter does not provide diagnosis, medication, stopping-medication, rehabilitation prescription, senior living choices, or individualized level-of-care assessment.
 
 Direct sources: [CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html), [CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html), [CDC STEADI](https://www.cdc.gov/steadi/index.html), [MedlinePlus Older Adult Health](https://medlineplus.gov/olderadulthealth.html), [MedlinePlus Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/), [MedlinePlus Caregiver Health](https://medlineplus.gov/caregiverhealth.html), [CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html), [source registry](../../references/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
 

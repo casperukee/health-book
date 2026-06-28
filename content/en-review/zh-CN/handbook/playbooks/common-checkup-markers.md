@@ -83,5 +83,5 @@
 ## 下一步
 
 - [Checkup Planning Guide 中文验收页](checkup-planning-guide.md)
-- [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking)
+- [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log)
 - [Doctor Visit Checklist 中文验收页](doctor-visit-checklist.md)

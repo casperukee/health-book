@@ -16,7 +16,7 @@ evidence_status: needs_periodic_review
 
 > Supplements, herbs, and dietary products can interact with medicines, medical conditions, surgery, pregnancy and postpartum care, and liver or kidney function. Do not use any product to replace regular diagnosis, treatment, follow-up, or emergency care. If someone is taking medication, has a chronic condition, is preparing for surgery, is pregnant or postpartum, is a child or older adult, or has abnormal liver or kidney function, ask a clinician or pharmacist first.
 
-Once a family starts putting facts, boundaries, next steps, and roles on the table, health spending becomes harder.
+Once a family starts putting facts, boundaries, next steps, and roles on the table, health purchases become harder to judge.
 
 Because what enters the home is often not simply a product. It is a promise that sounds gentle.
 
@@ -32,13 +32,13 @@ Product blacklists do not solve this problem, and they should not replace a fami
 
 Many people buy supplements for reasons beyond believing an advertisement.
 
-Some are tired for a long time and want to take something that makes the body feel better. Some have lived with chronic disease for years and feel that daily medication never brings "root improvement." Some fear aging, cancer, or becoming a burden. Others have not felt seriously listened to for a long time, and suddenly a presenter, group leader, or old friend checks in every day, explains things, and encourages them; emotionally, that can feel like being cared for.
+Some are tired for a long time and want to take something that makes the body feel better. Some have lived with chronic disease for years and feel that daily medication never fixes the root cause. Some fear aging, cancer, or becoming a burden. Others have not felt seriously listened to for a long time, and suddenly a presenter, group leader, or old friend checks in every day, explains things, and encourages them; emotionally, that can feel like being cared for.
 
 That is why starting a family argument with "this is all a scam" usually goes nowhere. You may think you are refuting a bottle. The other person may feel you are denying their worry, hope, and ability to choose.
 
 But understanding those emotions does not mean loosening the boundary. Precisely because supplements often enter the home attached to anxiety and hope, families need a way to judge them that does not shame people and does not tolerate risk.
 
-I have seen this familiar-person trap.
+I have seen this trusted-contact trap.
 
 A friend became a representative for a supplement brand. At first she only forwarded a few links, saying she slept better after taking it, felt more energetic, and older relatives in the family seemed to be doing well. Later she invited people to meals and spoke sincerely: this was not selling, she said; she just felt such a good product should be shared with people she knew first. Later still, she suggested buying a starter pack, joining a learning group, and attending online talks. If it felt good, people could also become representatives: "help the family and earn an extra income."
 
@@ -52,7 +52,7 @@ When judging a supplement, do not start with "does it work?" Start with a simple
 
 It may only want you to buy a small bottle of a nutrient product. Or it may want you to subscribe long term, join a membership, pay for a package, enter a private group, listen to more classes, forward messages for a friend, and recruit relatives into resale. More dangerously, it may make you increasingly suspicious of clinicians, follow-up, prescription medicines, and regular treatment.
 
-The same phrase, "supports immunity," can have very different exits.
+The same phrase, "supports immunity," can lead in very different directions.
 
 If the exit is low-cost, short-term, not overpromised, and does not affect medical care, it may be ordinary spending that should simply be recorded. If the exit becomes "do not let your doctor know," "you can slowly reduce the medicine," "hospitals only treat symptoms," "only a few discounted spots are left," or "if you do not buy this, you do not care about health," it is no longer ordinary spending. It is changing who controls the family's health decisions.
 
@@ -146,7 +146,7 @@ Use lower-conflict language:
 
 "I support the goal of feeling better. Let's block the high-risk parts first: no large payment, no stopping medication, and no recruiting others to buy."
 
-The goal of the conversation is not to make the family member admit they were fooled in one sitting. It is to win a pause button: no large payment, no change to medical care, and the information is visible enough to examine together.
+The goal of the conversation is not to make the family member admit they were fooled in one sitting. It is to create a pause: no large payment, no change to medical care, and the information is visible enough to examine together.
 
 Once the family member is willing to stop for a moment, the family has already stepped one pace out of the sales rhythm.
 
@@ -195,5 +195,5 @@ The most dangerous part of supplement problems is not only buying the wrong bott
 ## Reading Navigation
 
 - [Back to English book contents](../README.md)
-- Previous chapter: [4. Elder Care Basics: Protect The Ability To Keep Living](../part-3-family-health-os/elder-care-basics.md)
+- Previous chapter: [4. Elder Care Basics: Protect Daily Independence](../part-3-family-health-os/elder-care-basics.md)
 - Next chapter: [2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying](devices-tests-and-longevity-marketing.md)

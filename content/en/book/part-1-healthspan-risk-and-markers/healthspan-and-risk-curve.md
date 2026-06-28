@@ -186,7 +186,7 @@ The following sources calibrate this chapter's frame for healthspan, healthy age
 - CDC: [About Chronic Diseases](https://www.cdc.gov/chronic-disease/about/index.html)
 - MedlinePlus: [Healthy Aging](https://medlineplus.gov/healthyaging.html)
 
-More source entries are in the [source registry](../../references/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/README.md).
+More source entries are in the [source registry](../../references/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## Summary
 

@@ -1,6 +1,6 @@
 # Evidence Policy
 
-This project is not a medical guideline. But when it discusses red flags, screening, chronic-condition markers, mental health crisis, medication boundaries, or family decisions about care, the boundaries must be calibrated against credible public sources.
+This project is not a medical guideline. But when it discusses red flags, screening, chronic markers, mental health crisis, medication boundaries, or family decisions about care, the boundaries must be calibrated against credible public sources.
 
 Evidence priority:
 

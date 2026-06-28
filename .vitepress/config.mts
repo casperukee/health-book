@@ -215,7 +215,7 @@ const englishBookSidebar = [
       { text: '3. Common Upstream: Lower The Load Before It Becomes A Diagnosis', link: '/content/en/book/part-2-body-risk-map/common-upstream' },
       { text: "4. Sleep And Recovery: The Body's Repair System", link: '/content/en/book/part-2-body-risk-map/sleep-and-recovery' },
       { text: '5. Brain And Mental Health: Start With Safety, Function, And Support', link: '/content/en/book/part-2-body-risk-map/brain-and-mental-health' },
-      { text: '6. Cancer And Major Illness: Separate The Stage Before Fear Decides', link: '/content/en/book/part-2-body-risk-map/cancer-and-major-illness' },
+      { text: '6. Cancer And Major Illness: Find The Stage Before Fear Takes Over', link: '/content/en/book/part-2-body-risk-map/cancer-and-major-illness' },
       { text: '7. Children And Adolescents: Body And Mind Grow Together', link: '/content/en/book/part-2-body-risk-map/children-and-adolescent-health' },
       { text: '8. Common Specialty Problems: Improve The Visit, Do Not Become The Doctor', link: '/content/en/book/part-2-body-risk-map/specialty-care-map' }
     ]
@@ -226,15 +226,15 @@ const englishBookSidebar = [
       { text: '1. What A Family Health System Actually Manages: Facts And Boundaries, Not People', link: '/content/en/book/part-3-family-health-os/what-to-manage' },
       { text: '2. Preparing For A Doctor Visit: Bring Facts Into The Room', link: '/content/en/book/part-3-family-health-os/doctor-visit-preparation' },
       { text: '3. Talking With Parents About Health: Do Not Turn Care Into Control', link: '/content/en/book/part-3-family-health-os/talking-with-parents' },
-      { text: '4. Elder Care Basics: Protect The Ability To Keep Living', link: '/content/en/book/part-3-family-health-os/elder-care-basics' }
+      { text: '4. Elder Care Basics: Protect Daily Independence', link: '/content/en/book/part-3-family-health-os/elder-care-basics' }
     ]
   },
   {
     text: 'Chapter 4. Health Information Defense',
     items: [
       { text: '1. Supplement Evidence Traps: "Trying It" Is Not Always Harmless', link: '/content/en/book/part-4-health-information-defense/supplement-evidence-traps' },
-      { text: '2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Make It Worth Buying', link: '/content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
-      { text: '3. Health News, New Studies, And Short Videos: Slow Down Before Acting', link: '/content/en/book/part-4-health-information-defense/reading-health-news' }
+      { text: '2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying', link: '/content/en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing' },
+      { text: '3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down', link: '/content/en/book/part-4-health-information-defense/reading-health-news' }
     ]
   },
   {
@@ -653,7 +653,7 @@ export default defineConfig({
   cleanUrls: false,
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: `${siteBase}logo.svg` }],
-    ['meta', { property: 'og:title', content: 'Health Youpu / 健康有谱' }],
+    ['meta', { property: 'og:title', content: '健康有谱 / Health Decisions for Families' }],
     ['meta', { property: 'og:description', content: 'An open-source health literacy book for families.' }],
     ['meta', { property: 'og:image', content: 'https://casperukee.github.io/health-book/social-preview.png' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],

@@ -1,6 +1,6 @@
 # English Web Edition
 
-**Health Youpu / 健康有谱** is an open-source health decision literacy book for families.
+**Health Decisions for Families** is an open-source health decision literacy book for families.
 
 It helps ordinary families handle everyday health questions with less panic and more structure: when to seek urgent help, when to contact a clinician, how to prepare for a visit, how to keep basic health records, and how to slow down before acting on health claims.
 

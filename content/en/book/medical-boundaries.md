@@ -38,11 +38,11 @@ The fourth hesitation is turning care into argument. Families often spend too lo
 
 ## Three Boundaries: Red, Yellow, Green
 
-You can sort health problems into three action layers first: red for emergency or urgent care, yellow for timely clinician contact, and green for recording and follow-up.
+You can sort health problems into three action layers first: red for emergency care, yellow for timely clinician contact, and green for recording and follow-up.
 
 These three layers are not diagnoses. They are action priorities. Once a red signal appears, or once you cannot tell whether waiting is safe, do not downgrade the situation to green because "it does not look that bad" or "it just got better."
 
-### Red: Emergency Or Urgent Care
+### Red: Emergency Care
 
 The key words in this layer are: may threaten life, may cause irreversible harm, is rapidly worsening, or you cannot be sure that waiting is safe. In this layer, do not treat this book, search results, short videos, or relatives' experience as the care plan. Contact local emergency services or enter the emergency-care system promptly.
 
@@ -143,7 +143,7 @@ As of 2026-06-28, this chapter mainly uses these sources to calibrate warning-si
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - Poison Control: [Poison Control](https://www.poison.org/)
 
-More source entries are in the [source registry](../references/source-registry.md). This book's evidence rules are in the [evidence policy](../references/README.md).
+More source entries are in the [source registry](../references/source-registry.md). This book's evidence rules are in the [evidence policy](../references/evidence-policy.md).
 
 These sources are used to calibrate "when reading and watching are no longer enough." They should not be turned into a self-diagnosis table, and they cannot replace local emergency care, emergency departments, or clinical triage.
 
@@ -155,7 +155,7 @@ These sources are used to calibrate "when reading and watching are no longer eno
 - Yellow situations need prepared information and clinician judgment.
 - Green recording is not delay. It makes the next conversation clearer.
 
-The first lesson of Health Youpu is not learning to practice medicine on yourself. It is knowing when you should no longer rely on yourself alone.
+The first lesson of Health Decisions for Families is not learning to practice medicine on yourself. It is knowing when you should no longer rely on yourself alone.
 
 ---
 

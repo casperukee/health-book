@@ -1,9 +1,9 @@
 # Handbook
 
-This is the practical layer of Health Youpu. The main book explains why, how to judge, and where the boundaries are; the handbook helps a family take the next step in a concrete situation.
+This is the practical layer of Health Decisions for Families. The main book explains why, how to judge, and where the boundaries are; the handbook helps a family take the next step in a concrete situation.
 
 ::: danger Check red flags first
-If chest pain or pressure, possible stroke signs, severe breathing trouble, altered consciousness, uncontrolled bleeding, sudden severe pain, severe allergic reaction, poisoning, serious injury, self-harm or suicide risk, pregnancy/postpartum warning signs, or another possible emergency is already present, do not browse slowly through the handbook. Use emergency services, an emergency department, urgent care, crisis services, or another qualified local entry point first. You can open [Red Flags](playbooks/red-flags.md) at the same time to help family members state what is happening.
+If chest pain or pressure, possible stroke signs, severe breathing trouble, altered consciousness, uncontrolled bleeding, sudden severe pain, severe allergic reaction, poisoning, serious injury, self-harm or suicide risk, pregnancy/postpartum warning signs, or another possible emergency is already present, do not browse slowly through the handbook. Use emergency services, an emergency department, crisis services, or another qualified local emergency pathway first. You can open [Red Flags](playbooks/red-flags.md) at the same time to help family members state what is happening.
 :::
 
 ## Pick Your Situation
@@ -58,5 +58,5 @@ Add other tools only when the matching situation appears:
 ## Maintenance Entry
 
 - [Trial Reading And Feedback Guide](../feedback/gray-trial-guide.md)
-- [Official Medical Sources](../references/README.md)
+- [Official Medical Sources](../references/official-medical-sources.md)
 - [Errata, Updates, And Feedback](../errata/README.md)

@@ -9,7 +9,7 @@ evidence_status: maintenance
 ---
 # Learning Influences And Acknowledgments 中文验收页
 
-本页是英文学习影响与致谢页的中文验收辅助。英文版是基于中文版家庭健康判断系统的原创 U.S.-first adaptation，不是私有材料或付费课程的公开整理。
+本页是英文学习影响与致谢页的中文验收辅助，翻译/回译英文 adaptation，不是中文版源稿。英文版是基于中文版家庭健康判断系统的原创 U.S.-first adaptation，不是私有材料或付费课程的公开整理。
 
 ## 规则
 

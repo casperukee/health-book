@@ -184,7 +184,7 @@ The following sorting does not try to be complete. It only covers situations tha
 | Headache or dizziness | sudden worst headache, neurologic signs, fever/stiff neck, head injury, confusion, seizure, fainting | new, persistent, recurring, different from usual, affects walking/vision/hearing | known mild pattern, improving with rest, no red signs |
 | Abdominal pain, vomiting, diarrhea | severe or worsening pain, vomiting blood, black/bloody stool, fainting, severe dehydration, cannot keep fluids down | lasting or worsening symptoms, fever, low urine, older adult/child/pregnancy/chronic disease | mild, short, improving, able to drink |
 | Fall, injury, sudden severe pain | head/neck/spine injury, suspected fracture, loss of consciousness, seizure, cannot walk, older adult with changed state | older adult fall, persistent pain, swelling, limited movement, anticoagulant use | minor bump, mild pain, normal movement, no worsening |
-| Mental health crisis | self-harm, suicide, harm-to-others thoughts/plans/actions, unsafe impulses | anxiety, depression, insomnia, panic, mood problems affecting function or safety concerns | temporary distress with no safety risk and support available |
+| Mental health crisis | self-harm, suicide, thoughts/plans/actions of harming others, unsafe impulses | anxiety, depression, insomnia, panic, mood problems affecting function or safety concerns | temporary distress with no safety risk and support available |
 
 ## Preconditions For Handling At Home First
 
@@ -249,7 +249,7 @@ If yellow:
 If green:
 
 - record symptoms and context;
-- for long-term markers, use the [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking) to see trends;
+- for long-term markers, use the [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log) to see trends;
 - keep this page and [Red Flags](red-flags.md) in the family chat or health record front page.
 
 ## References

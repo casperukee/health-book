@@ -69,7 +69,7 @@ If the clinician says this problem does not belong in that clinic, ask before le
 3. What records should I bring before the next clinic?
 4. What situation cannot wait for the appointment and should go directly to emergency care?
 
-After deciding on outpatient care, use the [Doctor Visit Checklist](doctor-visit-checklist.md) to organize the symptom timeline, prior records, and main questions. Write the clinician's next step into the [Family Health Record And Chronic Condition Log](../templates/family-health-record.md) after returning home.
+After deciding on outpatient care, use the [Doctor Visit Checklist](doctor-visit-checklist.md) to organize the symptom timeline, prior records, and main questions. Write the clinician's next step into the [Family Health Record And Chronic Marker Log](../templates/family-health-record.md) after returning home.
 
 ## References
 

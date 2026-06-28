@@ -39,7 +39,7 @@ The handbook is a set of tool pages you can open. When something real happens, s
 - Someone feels unwell now: start with [Red Flags](../handbook/playbooks/red-flags.md).
 - Looking at a checkup or report: use the [Checkup Planning Guide](../handbook/playbooks/checkup-planning-guide.md) and [Common Abnormal Checkup Markers](../handbook/playbooks/common-checkup-markers.md).
 - Preparing for a visit, follow-up, or accompanying someone: use the [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md).
-- Want to leave a basic family record: start with the [Family Health Record And Chronic Condition Log](../handbook/templates/family-health-record.md).
+- Want to leave a basic family record: start with the [Family Health Record And Chronic Marker Log](../handbook/templates/family-health-record.md).
 - Troubled by a product, test, device, or longevity claim: start with the [Health Product Checklist](../handbook/templates/health-product-checklist.md).
 
 ## Reading Navigation

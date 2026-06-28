@@ -119,4 +119,4 @@ A checkup is not safer because it contains more tests; it works when basic infor
 
 - [Common Abnormal Checkup Markers](common-checkup-markers.md)
 - [Checkup Markers: Not A Verdict, But A Language Of Risk](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md)
-- [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking)
+- [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log)

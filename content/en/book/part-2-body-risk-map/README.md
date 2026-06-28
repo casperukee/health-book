@@ -24,6 +24,6 @@ If you are reading in order, start directly with metabolism and cardiovascular r
 - [3. Common Upstream: Pull Risk Back Before It Becomes Disease](common-upstream.md)
 - [4. Sleep And Recovery: The Hidden Work Of Body Repair](sleep-and-recovery.md)
 - [5. Brain And Mental Health: Start With Safety, Function, And Support](brain-and-mental-health.md)
-- [6. Cancer And Major Illness: Separate The Stage Before Fear Decides For You](cancer-and-major-illness.md)
+- [6. Cancer And Major Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)
 - [7. Children And Adolescents: Body And Mind Grow Together](children-and-adolescent-health.md)
 - [8. Common Specialty Problems: Improve Care Quality Without Becoming Your Own Doctor](specialty-care-map.md)

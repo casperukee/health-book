@@ -26,7 +26,7 @@ At that moment, what the family lacks is often not care, and not search ability.
 
 Many families do not lack love in health management. They start from zero every time. Reports are buried in the phone camera roll; the imaging link has expired; an older parent has taken several long-term medicines and nobody can say the dose; the recheck time a clinician gave last time is hidden in some chat; when the emergency department arrives, everyone is panicking and asking, "Do you remember?"
 
-Family health management is not turning the home into a small hospital, and not turning each person into someone else's health supervisor. It is more like installing a low-end but reliable operating system for the family: usually quiet and small, but able to start when it matters.
+Family health management is not turning the home into a small hospital, and not turning each person into someone else's health supervisor. It is more like installing a basic but reliable operating system for the family: usually quiet and small, but able to start when it matters.
 
 What this system truly manages is not family members themselves. It manages what repeatedly gets lost at key moments: facts, boundaries, next steps, and roles.
 
@@ -134,7 +134,7 @@ So the family can agree on a few triggers ahead of time:
 - severe allergic reaction, throat swelling, cannot breathe;
 - an older adult after a fall with headache, vomiting, altered consciousness, or clear loss of mobility;
 - during pregnancy or within one year postpartum: clear bleeding, severe abdominal pain, breathing difficulty, persistent severe headache, vision changes, or thoughts of harming self/baby;
-- self-harm, suicide, or harm-to-others risk.
+- self-harm, suicide, or risk of harming others.
 
 Triggers are not a diagnosis table. They answer only one question: should this enter the medical system quickly now?
 
@@ -168,7 +168,7 @@ Before a visit, you do not need to diagnose for the clinician, but you do need t
 - what should make the person seek care earlier or use the emergency department;
 - what care, rehabilitation, food, or records the family needs to support.
 
-AHRQ and MedlinePlus materials on patient communication both emphasize preparing questions, explaining symptoms and medicines, and confirming understanding of the clinician's explanation. Put into family language: bring facts in, and bring questions out.
+AHRQ and MedlinePlus materials on patient communication both emphasize preparing questions, explaining symptoms and medicines, and confirming understanding of the clinician's explanation. Put into family language: bring facts in, and bring the plan back out.
 
 Before a visit, use the [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md). If you do not know whether this is emergency care, outpatient care, or which specialty to choose, start with [Department And Specialty Navigation](../../handbook/playbooks/department-navigation-guide.md).
 

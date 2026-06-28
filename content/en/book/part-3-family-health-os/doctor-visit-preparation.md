@@ -12,7 +12,7 @@ evidence_status: stable
 
 # 2. How To Prepare For A Doctor Visit: Bring Facts Into The Room
 
-> If there is chest pain, stroke-like symptoms, severe trouble breathing, altered consciousness, uncontrolled bleeding, serious injury, or risk of self-harm or suicide, call local emergency services or go to the emergency department first. Do not delay urgent care to organize paperwork. This chapter helps you prepare for outpatient visits. It does not provide diagnosis, medication, stopping-medication, or treatment-choice advice.
+> If there is chest pain, stroke-like symptoms, severe trouble breathing, altered consciousness, uncontrolled bleeding, serious injury, or risk of self-harm or suicide, call local emergency services or go to the emergency department first. Do not delay urgent evaluation to organize paperwork. This chapter helps you prepare for outpatient visits. It does not provide diagnosis, medication, stopping-medication, or treatment-choice advice.
 
 The actual day of a medical visit often becomes concrete and tense very quickly.
 
@@ -113,7 +113,7 @@ Do not replace records with "I had it checked before, and it was probably fine."
 
 Medication information is often underestimated, but it can directly affect clinical judgment.
 
-Before the visit, photograph everything actually being used: pill bottles, medication boxes, pharmacy bags, eye drops, topical products, injections, supplements, Chinese patent medicines, herbs, and other nonprescription products. Then write down as much as you can:
+Before the visit, photograph everything actually being used: pill bottles, medication boxes, pharmacy bags, eye drops, topical products, injections, supplements, traditional medicines, herbs, and other nonprescription products. Then write down as much as you can:
 
 - name;
 - dose;
@@ -193,7 +193,7 @@ Within five minutes after leaving, while the visit is still fresh, write down:
 
 HealthIT.gov's health-record guidance emphasizes that records help patients and caregivers share, coordinate, check, and use health information. At home, that means a visit should not leave behind only vague sentences like "they prescribed medicine," "come back for review," or "nothing major."
 
-A useful record is one the next person can understand. After seeing the clinician, put diagnoses, medications, follow-up, and earlier-care conditions into the [family health record and chronic condition log](../../handbook/templates/family-health-record.md), instead of leaving them only in memory.
+A useful record is one the next person can understand. After seeing the clinician, put diagnoses, medications, follow-up, and earlier-care conditions into the [family health record and chronic marker log](../../handbook/templates/family-health-record.md), instead of leaving them only in memory.
 
 ## What You Can Prepare Today
 

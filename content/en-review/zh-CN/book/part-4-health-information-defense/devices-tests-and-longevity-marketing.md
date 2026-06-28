@@ -152,7 +152,7 @@
 
 ## 家庭里怎么谈
 
-如果家人想买健康设备、检测或抗衰项目，不要一开口就说“智商税”。很多时候，对方想买的不是设备本身，而是想确认自己身体还好，想抓住一点可控感，或想为父母多做点什么。
+如果家人想买健康设备、检测或抗衰项目，不要一开口就说“浪费钱”。很多时候，对方想买的不是设备本身，而是想确认自己身体还好，想抓住一点可控感，或想为父母多做点什么。
 
 可以用更具体的话：
 
@@ -164,7 +164,7 @@
 
 如果对方只是想买一个低风险提醒工具，把边界说清楚：用它看趋势，不用它诊断；用它提醒行动，不用它制造焦虑；如果异常持续或症状明显，回到医疗照护。
 
-如果对方已经准备购买高价检测、抗衰疗程、会员套餐或长期补剂，先争取一个暂停键：
+如果对方已经准备购买高价检测、抗衰疗程、会员套餐或长期补剂，先制造一个暂停：
 
 ```text
 We are not against you paying attention to your body. First let's write down what it measures, how accurate it is, how the result will be explained, what happens after an abnormal result, and whether it affects follow-up or medication before deciding whether to buy.

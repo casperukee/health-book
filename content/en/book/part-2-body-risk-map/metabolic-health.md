@@ -113,10 +113,10 @@ That is also why a lipid report should not be read only through "total cholester
 
 - what is happening with LDL-C, non-HDL-C, triglycerides, and HDL-C;
 - whether high blood pressure, diabetes, smoking, obesity, abnormal kidney function, or family history of early cardiovascular disease is also present;
-- whether the clinician is thinking about short-term rechecking or long-term reduction of heart and brain vascular events;
+- whether the clinician is thinking about short-term rechecking or long-term reduction of heart attacks, strokes, and related vascular events;
 - which part belongs to lifestyle, medication, and follow-up.
 
-The purpose of lipid management is not to make numbers look prettier. It is to have fewer heart and brain vascular events that actually matter.
+The purpose of lipid management is not to make numbers look prettier. It is to have fewer heart attacks, strokes, and related vascular events that actually matter.
 
 ## Blood Glucose: An Early Alarm From The Insulin System
 
@@ -160,7 +160,7 @@ The acute phase and long-term management are two different problems. During an a
 
 If uric acid is abnormal together with blood pressure, glucose, lipids, weight and waist, and kidney function, it is no longer only a joint-pain issue. It is part of metabolic and kidney risk. The better question is not just "Can I still eat seafood?" It is whether alcohol, sweet drinks, weight and waist, hydration, kidney function, medicines, and the other three highs are together pushing the clearance system into a more strained state.
 
-## Do Not Be Fooled By Four Little Prohibitions
+## Do Not Reduce This To Four Simple "Don'ts"
 
 "Less salt, less fat, less sugar, less seafood" are not useless. Their problem is that they sound like four sticky notes. Once they are posted, people may think they understand the four highs.
 

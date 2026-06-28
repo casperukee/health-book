@@ -109,4 +109,4 @@
 
 - [Common Abnormal Checkup Markers 中文验收页](common-checkup-markers.md)
 - [Checkup Markers: Not A Verdict, But A Language Of Risk 中文验收页](../../book/part-1-healthspan-risk-and-markers/checkup-markers.md)
-- [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking)
+- [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log)

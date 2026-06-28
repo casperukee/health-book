@@ -11,6 +11,8 @@ evidence_status: needs_periodic_review
 
 # Mental Health Check-In And Support 中文验收页
 
+本页是英文 Mental Health Check-In And Support 页的中文验收辅助，翻译/回译英文 adaptation，不是中文版源稿。
+
 > 本页不是心理健康诊断，也不能替代心理治疗师、精神科医生、初级保健医生、急诊或危机服务。如果有人可能伤害自己或他人，或无法保证安全，请通过 988、911、急诊、当地危机服务、可信赖的人或其他合格的本地入口立即求助。
 
 心理健康风险的第一步，不是给状况命名，而是检查安全、日常功能和支持是否接得上。

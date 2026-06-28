@@ -34,7 +34,7 @@ For ordinary families, the steadier starting point is not to decide "what diseas
 
 First, is it safe?
 
-Sudden one-sided weakness, face drooping, slurred speech, abnormal vision, severe headache, altered consciousness, seizure, self-harm or suicidal thoughts, plans, or actions, severe impulse loss, hallucinations, or delusions should be handled as an emergency or mental-health crisis first. Once safety risk appears, do not keep advising, arguing, or watching.
+Sudden one-sided weakness, face drooping, slurred speech, abnormal vision, severe headache, altered consciousness, seizure, self-harm or suicidal thoughts, plans, or actions, severe loss of impulse control, hallucinations, or delusions should be handled as an emergency or mental-health crisis first. Once safety risk appears, do not keep advising, arguing, or watching.
 
 Second, has function been affected?
 
@@ -46,7 +46,7 @@ Occasional low mood does not equal depression. But if someone has had lower inte
 
 Occasional forgetfulness does not equal dementia either. But if an older adult repeatedly asks the same question, struggles to find words, makes mistakes in familiar tasks, shows clearly worse judgment, gets lost outside, or has money and medication safety affected, it should not be covered over with "everyone is like this when old."
 
-Third, is the family's response making the problem tighter?
+Third, is the family's response making the situation more trapped?
 
 Common family solutions sometimes become new pressure. The more the family pushes, the more the child hides. The more the family says "nothing is wrong," the more the anxious person feels unheard and keeps checking. The more the family covers for an older adult, the less real change the clinician sees. The more the family says "be positive" to a depressed person, the more that person may feel like a burden.
 
@@ -129,7 +129,7 @@ You can look in six directions: attention and response speed, whether cooking, d
 
 These observations are not meant to diagnose a parent. They are meant to give medical conversations a factual base. What a clinician needs is not only "we feel they changed," but "in the past two months, medicines were missed three times, the stove was left on once, money was sent to a stranger once, sleep has been poor, and walking is less stable than before."
 
-## Long-Term Maintenance: Keep The Base And Connection
+## Long-Term Maintenance: Protect The Body Base And Social Connection
 
 When there are no obvious symptoms, it does not mean "nothing needs attention." Long-term brain maintenance does not depend on one brain supplement. It depends on the body base and life connection.
 
@@ -172,7 +172,7 @@ Families can accompany, record, and push care forward, but do not use encouragem
 Pick someone you care about, or observe yourself, and make a one-week brain-function card. You do not need a long medical history. The point is to make change visible:
 
 ```text
-Safety: Any self-harm, suicide, harm-to-others thoughts, plans, tools, or actions?
+Safety: Any self-harm, suicide, thoughts of harming others, plans, tools, or actions?
 
 Function: Sleep, eating, school, work, housework, medicines, going out, social contact, money, and judgment: what changed?
 
@@ -203,4 +203,4 @@ When the family faces a larger diagnostic fear, the same principle still holds: 
 
 - [Back to English book contents](../README.md)
 - Previous chapter: [4. Sleep And Recovery: The Hidden Work Of Body Repair](sleep-and-recovery.md)
-- Next chapter: [6. Cancer And Major Illness: Separate The Stage Before Fear Decides For You](cancer-and-major-illness.md)
+- Next chapter: [6. Cancer And Major Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)

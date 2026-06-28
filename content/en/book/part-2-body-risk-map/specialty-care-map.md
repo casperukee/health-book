@@ -12,13 +12,13 @@ evidence_status: needs_periodic_review
 
 # 8. Common Specialty Problems: Improve Care Quality Without Becoming Your Own Doctor
 
-> Sudden vision loss, eye injury, danger signs during pregnancy or within one year postpartum, serious injury, severe pain, blood in urine with fever, clear trouble urinating, altered consciousness, numbness or weakness, self-harm or suicide risk, and similar situations need urgent care, the emergency department, or local professional support. This page helps you prepare information and choose an entry point. It does not provide specialty diagnosis.
+> Sudden vision loss, eye injury, danger signs during pregnancy or within one year postpartum, serious injury, severe pain, blood in urine with fever, clear trouble urinating, altered consciousness, numbness or weakness, self-harm or suicide risk, and similar situations need urgent evaluation, the emergency department, or local professional support. This page helps you prepare information and choose an entry point. It does not provide specialty diagnosis.
 
 ## Not Every Problem Looks Serious At First
 
 Many families are not knocked down all at once by a major illness. They are slowly held back by a string of "it probably isn't that serious."
 
-A father has back and leg pain for half a year. At first he calls it an old problem, uses patches and massage, and walks less. Later he goes from walking through the market to barely making it to the community gate. A mother gets up again and again at night, avoids drinking water during the day, and sometimes sees blood in urine but says it is "heat," because urinary problems and leakage are embarrassing to discuss with her children. A partner is several months postpartum, still leaking urine, sleeping poorly, and emotionally collapsing, while older relatives say, "Everyone is like that after giving birth." You keep seeing floaters and flashes and wonder whether you looked at the phone too much, so you buy eye drops first. Toothache keeps coming back, but you feel a few more days of waiting may solve it.
+A father has back and leg pain for half a year. At first he calls it an old problem, uses patches and massage, and walks less. Later he goes from walking through the market to barely making it to the end of the block. A mother gets up again and again at night, avoids drinking water during the day, and sometimes sees blood in urine but calls it "probably just irritation," because urinary problems and leakage are embarrassing to discuss with her children. A partner is several months postpartum, still leaking urine, sleeping poorly, and emotionally collapsing, while older relatives say, "Everyone is like that after giving birth." You keep seeing floaters and flashes and wonder whether you looked at the phone too much, so you buy eye drops first. Toothache keeps coming back, but you feel a few more days of waiting may solve it.
 
 Not all of these are dangerous, but none of them should be handed only to endurance, guessing, or remedies.
 
@@ -40,7 +40,7 @@ A steadier order has four steps:
 1. **Are there warning signs?** If yes, handle urgency first and do not get stuck on the department name.
 2. **What function is affected?** Vision, walking, sleep, urination, work, caregiving, school, social life, and mood are all important information.
 3. **What is the timeline?** When did it start, sudden or gradual, better or worse, what triggers or relieves it.
-4. **What should this visit clarify?** The risk that most needs ruling out, what the test is meant to answer, when to return early or use urgent care, and the next plan.
+4. **What should this visit clarify?** The risk that most needs ruling out, what the test is meant to answer, when to return early or use urgent or emergency care, and the next plan.
 
 <figure class="book-figure">
   <img src="../assets/figures/fig-10-specialty-care-four-questions.svg" alt="Specialty problems: ask four things first">
@@ -87,7 +87,7 @@ More useful preparation includes age, menstrual history, how long trying has bee
 
 ### During Pregnancy And Within One Year Postpartum, Warning Signs Count More
 
-CDC HEAR HER lists several signs during pregnancy and within one year postpartum that need immediate medical care: severe headache that does not go away or gets worse, vision changes, fainting, fever, chest pain or abnormal heartbeat, trouble breathing, severe belly pain, a clear decrease in the baby's movement, heavy bleeding or fluid leaking, severe nausea and vomiting, severe swelling or pain in one limb, and thoughts of harming yourself or the baby. Families do not need to memorize every English item, but should remember one sentence: during pregnancy and within one year postpartum, "something feels wrong" deserves more caution.
+CDC HEAR HER lists several signs during pregnancy and within one year postpartum that need immediate medical care: severe headache that does not go away or gets worse, vision changes, fainting, fever, chest pain or abnormal heartbeat, trouble breathing, severe belly pain, a clear decrease in the baby's movement, heavy bleeding or fluid leaking, severe nausea and vomiting, severe swelling or pain in one limb, and thoughts of harming yourself or the baby. Families do not need to memorize every item, but should remember one sentence: during pregnancy and within one year postpartum, "something feels wrong" deserves more caution.
 
 Postpartum care is not only about incision or tear healing. Sleep, mood, feeding pressure, pain, urinary leaking, pelvic-floor discomfort, bleeding, fever, family roles, and follow-up can all be discussed. A caregiver's job is not to supervise someone into "doing postpartum right," but to help her speak about body, emotion, and caregiving load.
 
@@ -112,7 +112,7 @@ The following is not a specialty-diagnosis table. It only helps families organiz
 | Situation | What To Look At First |
 |---|---|
 | Eyes and vision | Record which eye, whether vision changed suddenly, whether there are distorted lines, floaters, flashes, field loss, double vision, red eye, pain, light sensitivity, headache, nausea, injury, or chemical exposure. Sudden vision loss, eye pain with vision change, eye injury, chemical injury, or red eye with clear vision change should not be handled only with eye drops. |
-| Urinary and bladder symptoms | Record day and night urination frequency, urgency, leaking, inability to urinate, burning, blood in urine, fever, back/flank pain, lower abdominal pain, and whether sleep, leaving home, or intimacy is affected. Blood in urine, fever with flank pain, clear inability to urinate, and severe pain should not be handled only with water, "clearing heat," kidney tonics, or self-medication. |
+| Urinary and bladder symptoms | Record day and night urination frequency, urgency, leaking, inability to urinate, burning, blood in urine, fever, back/flank pain, lower abdominal pain, and whether sleep, leaving home, or intimacy is affected. Blood in urine, fever with flank pain, clear inability to urinate, and severe pain should not be handled only with extra water, cranberry products, detox supplements, or self-medication. |
 | Orthopedics and movement | Record whether the person can stand, walk, bear weight, climb stairs, raise the arm, turn, squat, and whether there was injury or fall, numbness or weakness, radiating pain, bowel or bladder changes, or fever. Inability to bear weight after injury, rapidly worsening pain, numbness or weakness, persistent pain after an older adult falls, night pain, or basic activity limits should not be delayed. |
 | Skin and external products | Prepare clear photos and date comparisons. Record location, itching or pain, drainage or crusting, recent skincare, ointments, oral medicines, supplements, and exposures. Rapid worsening, fever, severe pain, spreading infection, clear face/eye-area swelling and pain, or severe skin problems in higher-risk groups should move to care earlier. |
 | ENT, thyroid, digestive, breast, anorectal, and pain problems | Record duration, recurrence, what has been tried, whether sleep, work, and life are affected, and whether there is weight change, trouble swallowing, obvious bleeding, or whole-body worsening. Rapid worsening, fever, severe pain, trouble swallowing or breathing, obvious bleeding, and weight loss should raise the urgency level. |
@@ -126,7 +126,7 @@ Do not ask only, "What disease is this?" More useful questions are:
 
 1. What risk do we most need to rule out now?
 2. What question does this test or treatment answer?
-3. What situations mean we should come back early or go to urgent/emergency care?
+3. What situations mean we should come back early or use urgent or emergency care?
 4. If this is not better in 1-2 weeks, one month, or one treatment cycle, what is the next step?
 
 If the person is a child, older adult, pregnant or postpartum, in cancer treatment, immunocompromised, or using many medicines, add one more question: does this person's situation change the observation and follow-up boundary?

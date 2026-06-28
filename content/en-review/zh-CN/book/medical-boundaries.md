@@ -30,11 +30,11 @@
 
 ## 三层边界：红色、黄色、绿色
 
-可以先把健康问题分成三层行动：红色是急救或紧急照护，黄色是及时联系临床人员，绿色是记录和复查。
+可以先把健康问题分成三层行动：红色是急症照护，黄色是及时联系临床人员，绿色是记录和复查。
 
 这三层不是诊断。它们是行动优先级。只要红色信号出现，或你无法判断等待是否安全，就不要因为“看起来没那么严重”或“刚刚又好了一点”而降级到绿色。
 
-### 红色：急救或紧急照护
+### 红色：急症照护
 
 这一层的关键词是：可能危及生命、可能造成不可逆损害、正在快速加重，或你无法确定等待是安全的。遇到这类情况，不要把本书、搜索结果、短视频或亲友经验当作照护方案。请及时联系当地急救服务或进入急诊系统。
 
@@ -135,7 +135,7 @@
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - Poison Control: [Poison Control](https://www.poison.org/)
 
-更多来源登记见 [source registry](../references/source-registry.md)。本书的证据规则见 [evidence policy](../references/README.md)。
+更多来源登记见 [source registry](../references/source-registry.md)。本书的证据规则见 [evidence policy](../references/evidence-policy.md)。
 
 这些资料用于校准“什么时候阅读和观察已经不够”。它们不应被改写成自我诊断表，也不能替代当地急救、急诊或临床分诊。
 
@@ -147,7 +147,7 @@
 - 黄色情况需要准备信息和临床判断。
 - 绿色记录不是拖延，而是让下一次沟通更清楚。
 
-Health Youpu 的第一课，不是学会自己给自己看病，而是知道什么时候不该再只靠自己。
+Health Decisions for Families 的第一课，不是学会自己给自己看病，而是知道什么时候不该再只靠自己。
 
 ---
 

@@ -1,9 +1,11 @@
 # Handbook 中文验收页
 
-这是 Health Youpu 的操作层。主书解释为什么、如何判断、边界在哪里；手册帮助家庭在具体场景里采取下一步。
+本页是英文 Handbook 页的中文验收辅助，翻译/回译英文 adaptation，不是中文版源稿。
+
+这是 Health Decisions for Families 的操作层。主书解释为什么、如何判断、边界在哪里；手册帮助家庭在具体场景里采取下一步。
 
 ::: danger 先看危险信号
-如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒、严重外伤、自伤或自杀风险、孕产期危险信号，或其他可能的急症，不要慢慢翻手册。先使用急救服务、急诊、urgent care、危机服务或其他合格的本地入口。可以同时打开 [Red Flags](./playbooks/red-flags.md)，帮助家人说清发生了什么。
+如果已经出现胸痛胸闷、疑似卒中、严重呼吸困难、意识改变、无法控制出血、突发剧烈疼痛、严重过敏、中毒、严重外伤、自伤或自杀风险、孕产期危险信号，或其他可能的急症，不要慢慢翻手册。先使用急救服务、急诊、危机服务或其他合格的本地急症入口。可以同时打开 [Red Flags](./playbooks/red-flags.md)，帮助家人说清发生了什么。
 :::
 
 ## 选择你现在的场景
@@ -58,5 +60,5 @@
 ## 维护入口
 
 - [Trial Reading And Feedback Guide](../feedback/gray-trial-guide.md)
-- [Official Medical Sources](../references/README.md)
+- [Official Medical Sources](../references/official-medical-sources.md)
 - [Errata, Updates, And Feedback](../errata/README.md)
