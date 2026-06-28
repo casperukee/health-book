@@ -26,9 +26,9 @@
 | 症状不明确 | [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md) |
 | 准备就诊或随访 | [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 准备预防性就诊或体检 | [Before A Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md) |
-| 需要快速做一张小记录 | [Family Health Card](../../../en/handbook/templates/family-health-card.md) |
+| 需要快速做一张小记录 | [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) |
 | 需要更完整的家庭记录 | [Family Health Record](../../../en/handbook/templates/family-health-record.md) |
-| 需要追踪反复出现的指标 | [Chronic Marker Log](../../../en/handbook/templates/chronic-marker-log.md) |
+| 需要追踪反复出现的指标 | [Chronic Marker Log](../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log) |
 | 健康产品宣称很有说服力 | [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md) |
 
 ## 一句话

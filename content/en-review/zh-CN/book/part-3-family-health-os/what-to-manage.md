@@ -19,7 +19,7 @@
 
 事实包括症状、发生时间、诊断、手术、住院、过敏、用药清单、补剂、近期报告、影像、出院说明和医生交代。
 
-从小处开始。一页 [Family Health Card](../../../../en/handbook/templates/family-health-card.md) 比永远搭不起来的完美档案更有用。
+从小处开始。一页 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) 比永远搭不起来的完美档案更有用。
 
 ## 边界
 

@@ -8,8 +8,6 @@
 
 > 本页不是医疗建议。它不能解释你的个人化验单、诊断疾病、设定目标、建议改药，也不能替代了解你的症状、病史、查体、既往结果和用药的临床人员。
 
-**位置：** 手册 / 行动工具
-
 本页不是每个化验值的小教科书。它帮助家庭更安全地做三件事：分急缓、把异常放到风险线里、给医生准备更好的问题。
 
 ## 30 秒分层
@@ -75,7 +73,10 @@
 
 体检指标最有用的时候，是帮你分急缓、看趋势、背景、组合和下一步临床问题。
 
-## 手册导航
+---
 
-- [Handbook 中文验收页](../README.md)
-- [Playbooks 中文验收页](README.md)
+## 下一步
+
+- [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)
+- [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log)
+- [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)

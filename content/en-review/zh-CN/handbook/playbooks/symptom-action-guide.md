@@ -4,8 +4,6 @@
 
 本页是英文症状行动工具的中文验收辅助，翻译/回译英文读者版内容。
 
-**位置：** 手册 / 行动工具
-
 ## 症状行动指南
 
 > 本页不是诊断表，也不是医疗建议。它帮助家庭选择下一步动作：尽快求助、尽快联系医生，或带着清楚升级条件记录观察。
@@ -57,7 +55,7 @@
 
 黄色：使用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)，准备症状时间线和 1-3 个问题，问清要观察什么、什么时候复诊、什么情况要急诊。
 
-绿色：记录发生了什么和升级条件；必要时更新 [Family Health Card](../../../../en/handbook/templates/family-health-card.md)；不要用补剂、草药或多种非处方药替代专业判断。
+绿色：记录发生了什么和升级条件；必要时更新 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)；不要用补剂、草药或多种非处方药替代专业判断。
 
 ## 公开资料
 
@@ -66,8 +64,3 @@
 ## 最后提醒
 
 这页用于在需要照护时减少犹豫，也在暂时可以记录时减少恐慌。
-
-## 手册导航
-
-- [Handbook 中文验收页](../README.md)
-- [Playbooks 中文验收页](README.md)

@@ -222,7 +222,7 @@ Pages:
 - `content/en/handbook/playbooks/red-flags.md`
 - `content/en/handbook/playbooks/symptom-action-guide.md`
 - `content/en/handbook/playbooks/doctor-visit-checklist.md`
-- `content/en/handbook/templates/family-health-card.md`
+- `content/en/handbook/templates/family-health-record.md` (including the one-page family health card section)
 
 Special U.S. adaptation issues:
 
@@ -241,7 +241,7 @@ Pages:
 - `checkup-markers.md`
 - `checkup-planning-guide.md`
 - `common-checkup-markers` equivalent if added in English;
-- `chronic-marker-log.md`
+- `family-health-record.md` (including the chronic marker log section)
 
 Special U.S. adaptation issues:
 

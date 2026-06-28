@@ -4,8 +4,6 @@
 
 本页是英文就医清单的中文验收辅助，翻译/回译英文读者版内容。
 
-**位置：** 手册 / 行动工具
-
 ## 就医前清单
 
 > 本页不是医疗建议。如果已经有危险信号，先寻求急救或 urgent care。不要为了填清单而延误照护。
@@ -61,11 +59,11 @@
 
 ## 离开前
 
-确认四件事：当前判断和不确定性、下一步检查/治疗/观察/转诊、用药和观察点、复诊和提前就医条件。用自己的话复述计划，如果医生纠正，纠正本身很有价值。看完后更新 [Family Health Card](../../../../en/handbook/templates/family-health-card.md) 或家庭记录。
+确认四件事：当前判断和不确定性、下一步检查/治疗/观察/转诊、用药和观察点、复诊和提前就医条件。用自己的话复述计划，如果医生纠正，纠正本身很有价值。看完后更新 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) 或家庭记录。
 
 ## 连接到哪里
 
-不确定是否紧急看 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)；缺病史、过敏、用药或联系人看 [Family Health Card](../../../../en/handbook/templates/family-health-card.md)；要理解体检结果看 [Checkup Markers](../../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)。
+不确定是否紧急看 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)；缺病史、过敏、用药或联系人看 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)；要理解体检结果看 [Checkup Markers](../../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)。
 
 ## 公开资料
 
@@ -74,8 +72,3 @@
 ## 最后提醒
 
 时间线、用药清单、过敏、记录和 1-3 个问题，可以让一次短门诊更有用。
-
-## 手册导航
-
-- [Handbook 中文验收页](../README.md)
-- [Playbooks 中文验收页](README.md)

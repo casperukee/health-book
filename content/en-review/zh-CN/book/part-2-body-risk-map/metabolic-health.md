@@ -140,4 +140,4 @@ AHA 的 cardio-kidney-metabolic 框架有用，就在于心脏、肾脏和代谢
 - [回到英文主书目录验收页](../README.md)
 - 上一章：[Checkup Markers 中文验收页](../part-1-healthspan-risk-and-markers/checkup-markers.md)
 - 下一章：[Cardiovascular Event Chain 中文验收页](cardiovascular-event-chain.md)
-- 相关工具：[Chronic Marker Log 中文验收页](../../handbook/templates/chronic-marker-log.md)、[Common Checkup Markers 中文验收页](../../handbook/playbooks/common-checkup-markers.md)
+- 相关工具：[Chronic Marker Log 中文验收页](../../handbook/templates/family-health-record.md#_2-慢病指标记录)、[Common Checkup Markers 中文验收页](../../handbook/playbooks/common-checkup-markers.md)

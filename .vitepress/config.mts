@@ -110,13 +110,12 @@ const englishSidebar = [
       { text: 'Handbook', link: '/content/en/handbook/README' },
       { text: 'Red Flags', link: '/content/en/handbook/playbooks/red-flags' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
+      { text: 'Mental Health Check-In', link: '/content/en/handbook/playbooks/mental-health-check-in' },
       { text: 'Department Navigation', link: '/content/en/handbook/playbooks/department-navigation-guide' },
       { text: 'Before A Checkup', link: '/content/en/handbook/playbooks/checkup-planning-guide' },
-      { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
       { text: 'Common Checkup Markers', link: '/content/en/handbook/playbooks/common-checkup-markers' },
-      { text: 'Family Health Card', link: '/content/en/handbook/templates/family-health-card' },
+      { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
       { text: 'Family Health Record', link: '/content/en/handbook/templates/family-health-record' },
-      { text: 'Chronic Marker Log', link: '/content/en/handbook/templates/chronic-marker-log' },
       { text: 'Health Product Checklist', link: '/content/en/handbook/templates/health-product-checklist' }
     ]
   },

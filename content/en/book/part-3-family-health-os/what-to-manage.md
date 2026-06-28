@@ -29,7 +29,7 @@ A family health system does not manage people. It manages four things:
 
 Facts include symptoms, timing, diagnoses, surgeries, hospitalizations, allergies, medication lists, supplements, recent reports, imaging, discharge instructions, and clinician instructions.
 
-Start small. A one-page [Family Health Card](../../handbook/templates/family-health-card.md) is better than a perfect archive that never gets built.
+Start small. A one-page [Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card) is better than a perfect archive that never gets built.
 
 ## Boundaries
 

@@ -134,4 +134,4 @@
 - [回到英文主书目录验收页](../README.md)
 - 上一章：[Cardiovascular Event Chain 中文验收页](cardiovascular-event-chain.md)
 - 下一章：[Sleep and Recovery 中文验收页](sleep-and-recovery.md)
-- 相关工具：[Chronic Marker Log 中文验收页](../../handbook/templates/chronic-marker-log.md)、[Before A Checkup 中文验收页](../../handbook/playbooks/checkup-planning-guide.md)、[Common Checkup Markers 中文验收页](../../handbook/playbooks/common-checkup-markers.md)
+- 相关工具：[Chronic Marker Log 中文验收页](../../handbook/templates/family-health-record.md#_2-慢病指标记录)、[Before A Checkup 中文验收页](../../handbook/playbooks/checkup-planning-guide.md)、[Common Checkup Markers 中文验收页](../../handbook/playbooks/common-checkup-markers.md)

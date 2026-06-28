@@ -30,6 +30,7 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Check the medical safety boundary | [Medical Boundaries and Warning Signs](book/medical-boundaries.md) |
 | Check whether a situation may need urgent help | [Red Flags](handbook/playbooks/red-flags.md) |
 | Decide what to do with symptoms | [Symptom Action Guide](handbook/playbooks/symptom-action-guide.md) |
+| Check mental health risk and support needs | [Mental Health Check-In And Support](handbook/playbooks/mental-health-check-in.md) |
 | Choose between emergency, clinic, and department entry points | [Emergency, Clinic, or Which Department?](handbook/playbooks/department-navigation-guide.md) |
 | Prepare for a preventive visit or checkup | [Before a Checkup](handbook/playbooks/checkup-planning-guide.md) |
 | Think about long-term health without chasing anti-aging claims | [Healthspan and the Risk Curve](book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
@@ -52,9 +53,9 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 | Keep the book's decision habits close | [After Reading](book/after-reading.md) |
 | Prepare for a visit | [Doctor Visit Checklist](handbook/playbooks/doctor-visit-checklist.md) |
 | Sort common flagged markers before a visit | [Common Checkup Markers](handbook/playbooks/common-checkup-markers.md) |
-| Make a small family record | [Family Health Card](handbook/templates/family-health-card.md) |
+| Make a small family record | [Family Health Card](handbook/templates/family-health-record.md#_1-one-page-family-health-card) |
 | Build a fuller family record | [Family Health Record](handbook/templates/family-health-record.md) |
-| Track repeated markers with context | [Chronic Marker Log](handbook/templates/chronic-marker-log.md) |
+| Track repeated markers with context | [Chronic Marker Log](handbook/templates/family-health-record.md#_2-chronic-marker-log) |
 | Slow down before buying a health product | [Health Product Checklist](handbook/templates/health-product-checklist.md) |
 
 ## Book And Handbook

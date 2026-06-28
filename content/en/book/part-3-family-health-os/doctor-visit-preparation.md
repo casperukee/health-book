@@ -72,7 +72,7 @@ Follow-up is ____.
 
 Write the plan down within 10 minutes: main assessment, tests ordered, medication or care instructions, follow-up timing, return precautions, and who will handle the next step.
 
-Save it in the [Family Health Card](../../handbook/templates/family-health-card.md) or a shared record if the patient agrees.
+Save it in the [Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card) or a shared record if the patient agrees.
 
 ## Public Sources
 

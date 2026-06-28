@@ -150,4 +150,4 @@ Common upstream work is not a stricter life; it is lowering the repeated daily l
 - [Book contents](../README.md)
 - Previous chapter: [Cardiovascular Event Chain](cardiovascular-event-chain.md)
 - Next chapter: [Sleep and Recovery](sleep-and-recovery.md)
-- Related tools: [Chronic Marker Log](../../handbook/templates/chronic-marker-log.md), [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md), [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)
+- Related tools: [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log), [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md), [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)

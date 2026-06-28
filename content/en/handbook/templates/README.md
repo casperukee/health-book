@@ -1,23 +1,17 @@
 # Templates
 
+These are copyable family health templates.
+
 [中文验收页](../../../en-review/zh-CN/handbook/templates/README.md)
 
-Use these templates to keep small pieces of family health information findable.
+## Which Template First
 
-They are not medical records and not medical advice. Their job is to reduce missing facts during visits, caregiving, follow-up, and health-product decisions.
+| Situation | Template |
+|---|---|
+| You want to make one usable health card for a family member | [One-Page Family Health Card](family-health-record.md#_1-one-page-family-health-card) |
+| You want to build a minimal record for one family member | [Family Health Record And Chronic Marker Log](family-health-record.md) |
+| You want to organize long-running markers by trend before a visit | [Chronic Marker Log](family-health-record.md#_2-chronic-marker-log) |
+| A checkup report has flagged markers, and you want to sort the next step | [Common Checkup Markers](../playbooks/common-checkup-markers.md) |
+| You want to judge risk before buying a health product | [Health Product Checklist](health-product-checklist.md) |
 
-## Templates
-
-- [Family Health Card](family-health-card.md)
-- [Family Health Record](family-health-record.md)
-- [Chronic Marker Log](chronic-marker-log.md)
-- [Health Product Checklist](health-product-checklist.md)
-
-## How To Choose
-
-| Situation | Start with |
-| --- | --- |
-| You need one small record for urgent care, visits, caregiving, or follow-up | [Family Health Card](family-health-card.md) |
-| You need a fuller record for visits, discharge, caregiving, or follow-up | [Family Health Record](family-health-record.md) |
-| You need to track repeated values and context | [Chronic Marker Log](chronic-marker-log.md) |
-| You are considering a supplement, device, test, longevity service, or health program | [Health Product Checklist](health-product-checklist.md) |
+The goal of a template is not to collect more information. It is to make key information easy to find during visits, follow-up, caregiving, and health-consumption decisions.

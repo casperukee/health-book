@@ -101,7 +101,7 @@ Before a crisis, make the basics easy to find:
 - emergency contacts, primary care clinician, cardiologist, neurologist, pharmacy, and patient portal access;
 - discharge instructions and return precautions from any recent ED visit or hospital stay.
 
-The [Family Health Card](../../handbook/templates/family-health-card.md) is enough for a first pass. A usable one-page record beats a perfect archive no one can find.
+The [Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card) is enough for a first pass. A usable one-page record beats a perfect archive no one can find.
 
 ## When To Move Fast
 
@@ -136,4 +136,4 @@ Heart attacks and strokes may be sudden at the end, but families can often act e
 - [Book contents](../README.md)
 - Previous chapter: [Metabolic Health](metabolic-health.md)
 - Next chapter: [Common Upstream](common-upstream.md)
-- Related tools: [Red Flags](../../handbook/playbooks/red-flags.md), [Symptom Action Guide](../../handbook/playbooks/symptom-action-guide.md), [Chronic Marker Log](../../handbook/templates/chronic-marker-log.md)
+- Related tools: [Red Flags](../../handbook/playbooks/red-flags.md), [Symptom Action Guide](../../handbook/playbooks/symptom-action-guide.md), [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log)

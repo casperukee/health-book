@@ -60,9 +60,9 @@ The handbook is the fastest place to go when a family needs a next action:
 - [Before a Checkup](../handbook/playbooks/checkup-planning-guide.md)
 - [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../handbook/templates/family-health-card.md)
+- [Family Health Card](../handbook/templates/family-health-record.md#_1-one-page-family-health-card)
 - [Family Health Record](../handbook/templates/family-health-record.md)
-- [Chronic Marker Log](../handbook/templates/chronic-marker-log.md)
+- [Chronic Marker Log](../handbook/templates/family-health-record.md#_2-chronic-marker-log)
 - [Health Product Checklist](../handbook/templates/health-product-checklist.md)
 
 ## Reading Path

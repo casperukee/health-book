@@ -121,7 +121,7 @@ Try this once:
 - Is anything already affecting sleep, movement, mood, memory, social connection, or caregiving load?
 - Which questions need a clinician, and which need better family records?
 
-Start with one [Family Health Card](../../handbook/templates/family-health-card.md). A small usable record beats a perfect archive that no one starts.
+Start with one [Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card). A small usable record beats a perfect archive that no one starts.
 
 ## Do Not Use A Long-Term Frame For Emergencies
 
@@ -147,4 +147,4 @@ The useful question is not "How do I look younger?" It is "What abilities, risks
 - [Book contents](../README.md)
 - Previous chapter: [Medical Boundaries and Warning Signs](../medical-boundaries.md)
 - Next chapter: [Checkup Markers](checkup-markers.md)
-- Related tools: [Family Health Card](../../handbook/templates/family-health-card.md)
+- Related tools: [Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card)

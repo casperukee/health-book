@@ -36,6 +36,7 @@
 | 检查医学安全边界 | [Medical Boundaries and Warning Signs](../../en/book/medical-boundaries.md) |
 | 判断情况是否可能需要紧急求助 | [Red Flags](../../en/handbook/playbooks/red-flags.md) |
 | 判断症状下一步 | [Symptom Action Guide](../../en/handbook/playbooks/symptom-action-guide.md) |
+| 识别心理健康风险和支持需求 | [Mental Health Check-In And Support](../../en/handbook/playbooks/mental-health-check-in.md) |
 | 在急诊、门诊和科室入口之间选择 | [Emergency, Clinic, or Which Department?](../../en/handbook/playbooks/department-navigation-guide.md) |
 | 准备预防性就诊或体检 | [Before a Checkup](../../en/handbook/playbooks/checkup-planning-guide.md) |
 | 不追抗衰宣称，而是理解长期健康 | [Healthspan and the Risk Curve](../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
@@ -58,9 +59,9 @@
 | 留住整本书的判断习惯 | [After Reading](../../en/book/after-reading.md) |
 | 准备看医生 | [Doctor Visit Checklist](../../en/handbook/playbooks/doctor-visit-checklist.md) |
 | 就诊前先分层常见标红指标 | [Common Checkup Markers](../../en/handbook/playbooks/common-checkup-markers.md) |
-| 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-card.md) |
+| 建一张小型家庭健康记录 | [Family Health Card](../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) |
 | 建立更完整的家庭记录 | [Family Health Record](../../en/handbook/templates/family-health-record.md) |
-| 带背景追踪反复指标 | [Chronic Marker Log](../../en/handbook/templates/chronic-marker-log.md) |
+| 带背景追踪反复指标 | [Chronic Marker Log](../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log) |
 | 买健康产品前慢下来 | [Health Product Checklist](../../en/handbook/templates/health-product-checklist.md) |
 
 ## 主书和手册
@@ -110,11 +111,12 @@
 - [Templates 中文验收页](handbook/templates/README.md)
 - [Red Flags 中文验收页](handbook/playbooks/red-flags.md)
 - [Symptom Action Guide 中文验收页](handbook/playbooks/symptom-action-guide.md)
+- [Mental Health Check-In 中文验收页](handbook/playbooks/mental-health-check-in.md)
 - [Department Navigation 中文验收页](handbook/playbooks/department-navigation-guide.md)
 - [Before A Checkup 中文验收页](handbook/playbooks/checkup-planning-guide.md)
 - [Common Checkup Markers 中文验收页](handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist 中文验收页](handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card 中文验收页](handbook/templates/family-health-card.md)
+- [Family Health Card 中文验收页](handbook/templates/family-health-record.md#_1-一页家庭健康卡)
 - [Family Health Record 中文验收页](handbook/templates/family-health-record.md)
-- [Chronic Marker Log 中文验收页](handbook/templates/chronic-marker-log.md)
+- [Chronic Marker Log 中文验收页](handbook/templates/family-health-record.md#_2-慢病指标记录)
 - [Health Product Checklist 中文验收页](handbook/templates/health-product-checklist.md)

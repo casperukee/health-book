@@ -73,7 +73,7 @@
 
 使用：
 
-- [Family Health Card](../../../en/handbook/templates/family-health-card.md)
+- [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)
 - [Handbook](../../../en/handbook/README.md)
 
 对美国家庭来说，准备工作还可能包括 patient portal、proxy access、HIPAA 授权、紧急联系人、advance directives 和远距离照护。这些细节很重要，但第一步仍然简单：在压力时刻到来前，让关键信息找得到。
@@ -120,7 +120,7 @@
 
 1. 读 [Medical Boundaries and Warning Signs](../../../en/book/medical-boundaries.md) 的前半部分。
 2. 保存 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)。
-3. 给自己、父母、伴侣、孩子、年长亲属或你照护的人做一张 [Family Health Card](../../../en/handbook/templates/family-health-card.md)。
+3. 给自己、父母、伴侣、孩子、年长亲属或你照护的人做一张 [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)。
 
 这些动作不会让家庭在医学上独立。它们能在真正出事时减少慌乱、遗漏事实和临时搜索。
 

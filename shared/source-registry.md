@@ -30,7 +30,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准卒中危险信号、B.E. F.A.S.T. 和症状出现时间记录。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/handbook/playbooks/department-navigation-guide.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/zh-CN/handbook/playbooks/department-navigation-guide.md`、`content/en/book/part-2-body-risk-map/cardiovascular-event-chain.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/handbook/playbooks/department-navigation-guide.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
 
@@ -40,7 +40,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方心理危机入口资料
 - 用途：校准美国 988 心理健康、物质使用和自杀危机支持入口。
-- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
+- 已用于：`content/zh-CN/book/medical-boundaries.md`、`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-2-body-risk-map/children-and-adolescent-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/playbooks/red-flags.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/sleep-and-recovery.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`、`content/en/book/part-2-body-risk-map/children-and-adolescent-health.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-01
 
@@ -184,7 +184,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方患者教育资料
 - 用途：校准化验结果的用途、局限、参考范围和医生解释边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/chronic-marker-log.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/family-health-record.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-01
 
@@ -274,7 +274,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方糖尿病检测资料
 - 用途：校准血糖检测类型、A1C 时间尺度和医生诊断边界。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`、`content/en/handbook/templates/chronic-marker-log.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/book/part-2-body-risk-map/metabolic-health.md`、`content/zh-CN/handbook/playbooks/checkup-planning-guide.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/book/part-2-body-risk-map/metabolic-health.md`、`content/en/handbook/templates/family-health-record.md`、`content/en/handbook/playbooks/common-checkup-markers.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -374,7 +374,7 @@
 - 机构：National Library of Medicine, NIH
 - 类型：美国官方医学检测资料
 - 用途：校准肾功能、肌酐、eGFR、尿白蛋白和影像检查的基础解释。
-- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/chronic-marker-log.md`
+- 已用于：`content/zh-CN/book/part-1-healthspan-risk-and-markers/checkup-markers.md`、`content/zh-CN/handbook/playbooks/common-checkup-markers.md`、`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/family-health-record.md`
 - 复查频率：12 个月
 - 最后复查：2026-06-04
 
@@ -852,7 +852,7 @@
 - 机构：National Institute on Aging, NIH
 - 类型：美国官方老年健康资料
 - 用途：校准认知健康、正常衰老和需要关注的认知变化。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/book/part-3-family-health-os/elder-care-basics.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/en/book/part-3-family-health-os/talking-with-parents.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-02
 
@@ -862,7 +862,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准可改变风险因素和痴呆风险降低的谨慎表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -872,7 +872,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方公众健康资料
 - 用途：校准痴呆症状、日常功能变化和专业评估边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -882,7 +882,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准抑郁症状、治疗和求助边界的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -892,7 +892,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准焦虑障碍和专业帮助边界的公众表述。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -912,7 +912,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康资料
 - 用途：校准心理健康何时需要求助的公众判断边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -952,7 +952,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方心理健康公众资料
 - 用途：校准压力管理、暂停、呼吸和寻求支持的低风险辅助边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/symptom-action-guide.md`、`content/zh-CN/book/part-3-family-health-os/talking-with-parents.md`、`content/zh-CN/handbook/templates/health-product-checklist.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-03
 
@@ -962,7 +962,7 @@
 - 机构：Substance Abuse and Mental Health Services Administration
 - 类型：美国官方自杀风险警示资料
 - 用途：校准自伤、自杀、告别、准备工具等心理危机红色信号。
-- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-04
 
@@ -972,7 +972,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方自杀预防资料
 - 用途：校准自杀风险、危机求助和家庭不能继续单独观察的边界。
-- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
+- 已用于：`content/zh-CN/book/part-2-body-risk-map/brain-and-mental-health.md`、`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`、`content/en/book/part-2-body-risk-map/brain-and-mental-health.md`
 - 复查频率：3-6 个月
 - 最后复查：2026-06-14
 
@@ -982,7 +982,7 @@
 - 机构：National Institute of Mental Health, NIH
 - 类型：美国官方心理健康求助资料
 - 用途：校准如何寻找心理健康专业帮助、如何和医疗人员讨论心理健康问题。
-- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`
+- 已用于：`content/zh-CN/handbook/playbooks/mental-health-check-in.md`、`content/en/handbook/playbooks/mental-health-check-in.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-04
 
@@ -1207,7 +1207,7 @@
 - 机构：Centers for Disease Control and Prevention
 - 类型：美国官方慢病管理资料
 - 用途：校准家庭血压测量、记录和医生沟通边界。
-- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/chronic-marker-log.md`
+- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/family-health-record.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 
@@ -1217,7 +1217,7 @@
 - 机构：American Heart Association
 - 类型：专业协会患者教育资料
 - 用途：校准家庭血压监测的使用边界和就医沟通价值。
-- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/chronic-marker-log.md`
+- 已用于：`content/zh-CN/handbook/templates/family-health-record.md`、`content/en/handbook/templates/family-health-record.md`
 - 复查频率：6-12 个月
 - 最后复查：2026-06-01
 

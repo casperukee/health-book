@@ -73,7 +73,7 @@ The first useful family health record is often a one-page card:
 
 Use:
 
-- [Family Health Card](../handbook/templates/family-health-card.md)
+- [Family Health Card](../handbook/templates/family-health-record.md#_1-one-page-family-health-card)
 - [Handbook](../handbook/README.md)
 
 For U.S. families, preparation may also involve patient portals, proxy access, HIPAA permissions, emergency contacts, advance directives, and long-distance caregiving. Those details matter, but the first step is still simple: make the key facts findable before a stressful moment.
@@ -120,7 +120,7 @@ Do three small things:
 
 1. Read the first half of [Medical Boundaries and Warning Signs](medical-boundaries.md).
 2. Save the [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md).
-3. Make one [Family Health Card](../handbook/templates/family-health-card.md) for yourself, a parent, a partner, a child, an older relative, or someone you help care for.
+3. Make one [Family Health Card](../handbook/templates/family-health-record.md#_1-one-page-family-health-card) for yourself, a parent, a partner, a child, an older relative, or someone you help care for.
 
 These actions will not make a family medically independent. They can reduce panic, missing facts, and last-minute searching when a real problem appears.
 

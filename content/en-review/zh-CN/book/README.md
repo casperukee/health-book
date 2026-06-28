@@ -64,9 +64,9 @@ Health Youpu 不是按医学百科的方式组织。它跟随家庭常常遇到�
 - [Before a Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md)
 - [Common Checkup Markers](../../../en/handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](../../../en/handbook/templates/family-health-card.md)
+- [Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)
 - [Family Health Record](../../../en/handbook/templates/family-health-record.md)
-- [Chronic Marker Log](../../../en/handbook/templates/chronic-marker-log.md)
+- [Chronic Marker Log](../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log)
 - [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)
 
 ## 阅读路径

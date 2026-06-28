@@ -76,7 +76,7 @@ WHO 讨论健康老龄化时，用的是 functional ability：能满足基本需
 
 可以试一次：每个家庭成员最重要的日常能力是什么？哪两三类风险最可能打断这些能力？能否快速找到用药、过敏、重要疾病、近期报告和紧急联系人？是否已有问题影响睡眠、行动、情绪、记忆、社会连接或照护负担？哪些问题需要医生，哪些需要更好的家庭记录？
 
-先从一张 [Family Health Card](../../../../en/handbook/templates/family-health-card.md) 开始。小但能用的记录，胜过没人开始的完美档案。
+先从一张 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) 开始。小但能用的记录，胜过没人开始的完美档案。
 
 ## 急症不要用长期框架处理
 
@@ -95,4 +95,4 @@ WHO 讨论健康老龄化时，用的是 functional ability：能满足基本需
 - [回到英文主书目录验收页](../README.md)
 - 上一章：[Medical Boundaries 中文验收页](../medical-boundaries.md)
 - 下一章：[Checkup Markers 中文验收页](checkup-markers.md)
-- 相关工具：[Family Health Card 中文验收页](../../handbook/templates/family-health-card.md)
+- 相关工具：[Family Health Card 中文验收页](../../handbook/templates/family-health-record.md#_1-一页家庭健康卡)

@@ -16,8 +16,6 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/common-checkup-markers.md)
 
-**Location:** Handbook / Playbooks
-
 This page is not a mini textbook for every lab value. It helps a family do three safer things: sort urgency, place the abnormal result on a risk line, and prepare better questions for a clinician.
 
 ## 30-Second Sort
@@ -91,7 +89,10 @@ Start here:
 
 Checkup markers are most useful when they help you sort urgency, trend, context, combination, and the next clinical question.
 
-## Handbook Navigation
+---
 
-- [Handbook](../README.md)
-- [Playbooks](README.md)
+## Next Step
+
+- [Before A Checkup](checkup-planning-guide.md)
+- [Chronic Marker Log](../templates/family-health-record.md#_2-chronic-marker-log)
+- [Doctor Visit Checklist](doctor-visit-checklist.md)

@@ -16,8 +16,6 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/department-navigation-guide.md)
 
-**Location:** Handbook / Playbooks
-
 Many families get stuck at the wrong first question:
 
 ```text
@@ -97,8 +95,3 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 Entering the right care pathway matters more than guessing the disease name at home.
-
-## Handbook Navigation
-
-- [Handbook](../README.md)
-- [Playbooks](README.md)

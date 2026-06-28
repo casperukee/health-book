@@ -67,7 +67,7 @@
 
 危机之前，把基础信息放在容易找到的地方：当前药物清单（剂量和频率）、过敏和严重反应、高血压、高胆固醇、糖尿病、肾病、冠心病、卒中/TIA、房颤、心衰、支架、搭桥或瓣膜病等诊断、最近的血压/胆固醇/A1C 或血糖/肾功能及相关影像或操作报告、紧急联系人、primary care clinician、cardiologist、neurologist、pharmacy、patient portal access，以及近期 ED 或住院后的出院说明和 return precautions。
 
-[Family Health Card](../../../../en/handbook/templates/family-health-card.md) 足够做第一步。能用的一页记录胜过没人找得到的完美档案。
+[Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) 足够做第一步。能用的一页记录胜过没人找得到的完美档案。
 
 ## 什么时候要快
 
@@ -88,4 +88,4 @@
 - [回到英文主书目录验收页](../README.md)
 - 上一章：[Metabolic Health 中文验收页](metabolic-health.md)
 - 下一章：[Common Upstream 中文验收页](common-upstream.md)
-- 相关工具：[Red Flags 中文验收页](../../handbook/playbooks/red-flags.md)、[Symptom Action Guide 中文验收页](../../handbook/playbooks/symptom-action-guide.md)、[Chronic Marker Log 中文验收页](../../handbook/templates/chronic-marker-log.md)
+- 相关工具：[Red Flags 中文验收页](../../handbook/playbooks/red-flags.md)、[Symptom Action Guide 中文验收页](../../handbook/playbooks/symptom-action-guide.md)、[Chronic Marker Log 中文验收页](../../handbook/templates/family-health-record.md#_2-慢病指标记录)

@@ -186,4 +186,4 @@ The four highs are not four separate scoldings. They are connected signals about
 - [Book contents](../README.md)
 - Previous chapter: [Checkup Markers](../part-1-healthspan-risk-and-markers/checkup-markers.md)
 - Next chapter: [Cardiovascular Event Chain](cardiovascular-event-chain.md)
-- Related tools: [Chronic Marker Log](../../handbook/templates/chronic-marker-log.md), [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)
+- Related tools: [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log), [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)

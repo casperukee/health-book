@@ -16,8 +16,6 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/red-flags.md)
 
-**Location:** Handbook / Playbooks
-
 Use this page when the first question is:
 
 > Should we get help now?
@@ -111,13 +109,22 @@ If help is already on the way or you are going to emergency or urgent care, brin
 - medications, supplements, and allergies;
 - recent discharge instructions or return precautions;
 - emergency contact;
-- the person's [Family Health Card](../templates/family-health-card.md), if available.
+- the person's [Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card), if available.
 
 If gathering information would delay care, skip it.
 
 ## If There Is No Red Flag
 
 If no red flag is present but you still do not know whether waiting is safe, use the [Symptom Action Guide](symptom-action-guide.md). When in doubt, treat the situation as yellow and contact a clinician or triage service.
+
+## After This Page, Next Step
+
+| Current situation | Next step |
+|---|---|
+| A red flag is present | Use emergency services, an emergency department, urgent care, crisis services, or another qualified local entry point first; bring only the smallest useful information, and do not delay care to organize records |
+| No clear red flag is present, but you are still unsure whether it can wait | Open [Symptom Action Guide](symptom-action-guide.md) and sort the situation into red, yellow, or green |
+| You are preparing to contact a clinician or go to a visit | Use [Doctor Visit Checklist](doctor-visit-checklist.md) to organize the symptom timeline, medicines, and top questions |
+| You want the family to be less chaotic next time | Make one [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) for key conditions, allergies, medicines, and emergency contacts |
 
 ## Public Sources
 
@@ -135,8 +142,3 @@ Reviewed on 2026-06-28:
 ## One Sentence
 
 When red flags appear, get help first and explain later.
-
-## Handbook Navigation
-
-- [Handbook](../README.md)
-- [Playbooks](README.md)

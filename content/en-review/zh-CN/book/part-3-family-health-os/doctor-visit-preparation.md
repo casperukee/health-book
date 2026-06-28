@@ -62,7 +62,7 @@ Follow-up is ____.
 
 10 分钟内写下计划：主要评估、开出的检查、用药或照护说明、随访时间、何时提前回来，以及谁处理下一步。
 
-在患者同意的前提下，把它保存到 [Family Health Card](../../../../en/handbook/templates/family-health-card.md) 或共享记录中。
+在患者同意的前提下，把它保存到 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) 或共享记录中。
 
 ## 公开资料
 

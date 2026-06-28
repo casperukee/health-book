@@ -32,7 +32,7 @@ The Chinese edition is the source edition. A small English preview is available 
 - [Talking With Parents](content/en/book/part-3-family-health-os/talking-with-parents.md)
 - [Health Product Checklist](content/en/handbook/templates/health-product-checklist.md)
 - [Doctor Visit Checklist](content/en/handbook/playbooks/doctor-visit-checklist.md)
-- [Family Health Card](content/en/handbook/templates/family-health-card.md)
+- [Family Health Card](content/en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)
 
 These pages are adaptations, not literal translations. They preserve the same product idea and medical boundaries while using language that fits English-speaking readers.
 

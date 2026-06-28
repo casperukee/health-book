@@ -4,8 +4,6 @@
 
 本页是英文 Red Flags 页的中文验收辅助，翻译/回译英文读者版内容。
 
-**位置：** 手册 / 行动工具
-
 ## 危险信号
 
 > 本页不是诊断表，也不是医疗建议。如果情况可能紧急，请使用当地急救服务、急诊、urgent care、危机服务或其他合格医疗入口。
@@ -93,13 +91,22 @@
 - 用药、补剂和过敏；
 - 最近出院说明或 return precautions；
 - 紧急联系人；
-- 有的话带 [Family Health Card](../../../../en/handbook/templates/family-health-card.md)。
+- 有的话带 [Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)。
 
 整理资料会延误时，跳过资料。
 
 ## 没有红色信号怎么办
 
 没有红色信号但仍不知道能不能等，使用 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)。拿不准时按黄色处理，联系医生或分诊服务。
+
+## 看完这页，下一步
+
+| 当前情况 | 下一步 |
+|---|---|
+| 已经出现红色危险信号 | 先使用急救服务、急诊、urgent care、危机服务或其他合格本地入口；只带最小必要信息，不为了整理资料拖延 |
+| 没有明确红色信号，但仍不确定能不能等 | 打开 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)，按红色、黄色、绿色分层 |
+| 准备联系医生或去门诊 | 用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 整理症状时间线、用药和最想问的问题 |
+| 想让家里下次少混乱 | 做一张 [One-Page Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)，把基础病、过敏、用药和紧急联系人放在一起 |
 
 ## 公开资料
 
@@ -108,8 +115,3 @@
 ## 一句话
 
 红色危险信号出现时，先求助，再解释。
-
-## 手册导航
-
-- [Handbook 中文验收页](../README.md)
-- [Playbooks 中文验收页](README.md)

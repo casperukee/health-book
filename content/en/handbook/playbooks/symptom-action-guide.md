@@ -16,8 +16,6 @@ evidence_status: needs_periodic_review
 
 [中文验收页](../../../en-review/zh-CN/handbook/playbooks/symptom-action-guide.md)
 
-**Location:** Handbook / Playbooks
-
 If warning signs are already present, use [Red Flags](red-flags.md) and seek appropriate help first. Do not read a full checklist while someone may need urgent care.
 
 ## 30-Second Sorting
@@ -118,7 +116,7 @@ If yellow:
 If green:
 
 - write down what happened and what would trigger an upgrade;
-- update the [Family Health Card](../templates/family-health-card.md) if the information may matter later;
+- update the [Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) if the information may matter later;
 - do not use supplements, herbs, or multiple over-the-counter medicines as a substitute for professional judgment.
 
 ## Public Sources
@@ -136,8 +134,3 @@ Reviewed on 2026-06-28:
 ## Last Reminder
 
 Use this page to reduce hesitation when care is needed, and reduce panic when careful recording is enough for the moment.
-
-## Handbook Navigation
-
-- [Handbook](../README.md)
-- [Playbooks](README.md)
