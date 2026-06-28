@@ -18,14 +18,6 @@
 - 支持父母、伴侣、孩子、年长亲属或 chosen family，同时不把关心变成控制。
 - 更谨慎地阅读保健品、检测、设备和抗衰服务的宣称。
 
-## 美国就医路径，本地判断
-
-很多例子会使用美国读者熟悉的表达：911、emergency department、urgent care、primary care、specialist referral、telehealth、pharmacy、patient portal、discharge instructions 和 return precautions。
-
-保险覆盖、网络内外、copay、deductible 和 prior authorization 会影响安排方式。但出现危险信号时，它们不应成为推迟就医的理由。
-
-如果你在美国以外，需要把就医路径、急救电话、筛查建议、保险规则和公共卫生来源映射到自己所在国家或地区。
-
 ## 从这些页面开始
 
 | 想做什么 | 打开 |

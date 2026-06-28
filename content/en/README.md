@@ -14,14 +14,6 @@ This project is **not medical advice**. It does not diagnose, prescribe, recomme
 - Support parents, partners, children, older relatives, or chosen family without turning care into control.
 - Read claims about supplements, tests, devices, and longevity services with more caution.
 
-## U.S. Care Pathways, Local Judgment
-
-Many examples use familiar U.S. language: 911, emergency department, urgent care, primary care, specialist referral, telehealth, pharmacies, patient portals, discharge instructions, and return precautions.
-
-Insurance coverage, network status, copays, deductibles, and prior authorization can affect planning. They should not be used as reasons to delay care when warning signs appear.
-
-If you live outside the U.S., map the care pathways, emergency numbers, screening guidance, insurance rules, and public-health sources to your own country or region.
-
 ## Start With These Pages
 
 | If you want to... | Open |
