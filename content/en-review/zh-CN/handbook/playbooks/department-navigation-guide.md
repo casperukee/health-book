@@ -1,8 +1,8 @@
-# Care Entry And Specialty Navigation 中文验收页
+# Care Entry And Specialist Navigation 中文验收页
 
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
-> 本页只帮助选择就医入口，不负责诊断。出现急症信号时，先使用急救服务或急诊。不要为了选到完美专科而延误照护。
+> 本页只帮助选择就医入口，不负责诊断。出现急症信号时，先拨打 911 或当地急救电话，或先去急诊。不要为了选到完美专科诊室而延误照护。
 
 ## 先问：这是不是急症？
 
@@ -12,7 +12,7 @@
 
 如果仍然分不清急缓，先看 [Red Flags](red-flags.md) 和 [Symptom Action Guide](symptom-action-guide.md)。
 
-## 不知道选哪个科怎么办？
+## 不知道该用哪个医疗入口怎么办？
 
 这些入口可以帮助你：
 
@@ -24,7 +24,7 @@
   </section>
   <section class="decision-card decision-card-blue">
     <div class="decision-label">不清楚</div>
-    <h3>初级保健、家庭医生或分诊</h3>
+    <h3>初级保健、家庭医生、urgent care 或分诊</h3>
     <p>症状跨多个系统、用药复杂或不知道该看什么科时，使用初级保健、门诊分诊、护士热线或医院导诊入口。</p>
   </section>
   <section class="decision-card decision-card-green">
@@ -48,7 +48,7 @@
 - **眼痛或视力变化：** 眼科常见；突然视力丧失、严重眼痛、外伤或化学暴露需要紧急/急诊处理。
 - **关节、颈背或外伤问题：** 可能涉及骨科、运动医学、康复或物理治疗；严重外伤、无力麻木、大小便控制变化或不能负重需紧急评估。
 - **焦虑、抑郁、失眠、惊恐、异常行为：** 可从初级保健、心理健康、咨询、精神科或危机服务进入；自伤、自杀、精神病性症状、暴力风险或无法保证安全时先危机/急诊。
-- **没有症状的体检异常：** 初级保健或内科通常是好入口；看过报告后再决定专科随访。
+- **没有症状的化验或筛查结果异常：** 初级保健或内科通常是好入口；看过报告后再决定专科随访。
 
 ## 看错入口后问四句话
 
@@ -59,11 +59,11 @@
 3. 去下一个诊室前应该带什么资料？
 4. 什么情况不能等预约，要直接去急诊？
 
-确定走门诊后，用 [Doctor Visit Checklist](doctor-visit-checklist.md) 整理症状时间线、既往资料和主要问题。回家后把医生的下一步写进 [Family Health Record And Chronic Marker Log](../templates/family-health-record.md)。
+确定走门诊或其他非急症照护后，用 [Doctor Visit Checklist](doctor-visit-checklist.md) 整理症状时间线、既往资料和主要问题。回家后把医生的下一步写进 [Family Health Record And Chronic Marker Log](../templates/family-health-record.md)。
 
 ## 参考资料
 
-截至 2026-06-15，本页主要使用：
+截至 2026-06-28，本页主要使用：
 
 - MedlinePlus: [Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)
 - MedlinePlus: [Choosing a Primary Care Provider](https://medlineplus.gov/ency/article/001939.htm)

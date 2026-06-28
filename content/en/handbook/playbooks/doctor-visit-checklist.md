@@ -12,7 +12,7 @@ evidence_status: stable
 
 # Doctor Visit Checklist
 
-> This page is not medical advice. If there is chest pain or tightness, stroke-like symptoms, severe trouble breathing, altered consciousness, uncontrolled bleeding, severe pain, self-harm risk, or other red flags, use emergency services or the emergency department first. Do not delay care to organize a checklist.
+> This page is not medical advice. If there is chest pain or tightness, stroke-like symptoms, severe trouble breathing, altered consciousness, uncontrolled bleeding, severe pain, self-harm risk, or other red flags, call 911 or local emergency services, or go to an emergency department first. Do not delay care to organize a checklist.
 
 You do not need to write a long document before a clinic visit. Put the short tables below into a phone note, and it is enough.
 
@@ -31,12 +31,12 @@ You do not need to write a long document before a clinic visit. Put the short ta
 | Bring this | Focus |
 | --- | --- |
 | Recent reports | Labs, imaging, pathology, discharge summaries; prioritize abnormal and latest results |
-| Medications and allergies | Prescriptions, over-the-counter medicines, supplements, herbs, missed/stopped medicines, allergy history |
-| Key trends | Blood pressure, glucose, cholesterol, uric acid, kidney function, weight/waist; bring the last 1-3 readings when useful |
-| Prior background | Major illness, surgery, emergency visits, family history, pregnancy/postpartum, cancer treatment, important diagnoses |
+| Medications and allergies | Prescriptions, over-the-counter medications, supplements, herbs, missed/stopped medications, allergy history |
+| Key trends | Blood pressure, glucose/A1C, cholesterol and triglycerides, uric acid, kidney function, weight/waist circumference; bring the last 1-3 readings when useful |
+| Prior background | Serious illness, surgery, emergency visits, family history, pregnancy/postpartum, cancer treatment, important diagnoses |
 | Three questions | The 1-3 questions you most need answered, in order |
 
-If you are preparing for dental extraction, implants, endoscopy, minor surgery, or another invasive procedure, proactively mention underlying conditions and medicines that affect clotting, immunity, bone metabolism, or cancer treatment. Do not stop medication on your own.
+If you are preparing for dental extraction, implants, endoscopy, minor surgery, or another invasive procedure, proactively mention underlying conditions and medications that affect clotting, immunity, bone metabolism, or cancer treatment. Do not stop medication on your own.
 
 ## Confirm Before Leaving The Room
 
@@ -52,20 +52,20 @@ If you are preparing for dental extraction, implants, endoscopy, minor surgery, 
 | Role | Note |
 | --- | --- |
 | Add facts | Let the patient speak first when they can |
-| Record the next step | Write down tests, medicines, follow-up, and danger boundaries |
+| Record the next step | Write down tests, medications, follow-up, and return precautions |
 | Turn the plan into actions at home | Who fills prescriptions, schedules, records, and reminds |
 
 A companion is not there to decide for the patient. They help keep real information from falling outside the exam room.
 
 ## Related Tools
 
-- Clear red flags: start with [Red Flags](red-flags.md), and use emergency services or the emergency department when needed.
-- Not sure what care entry point to use: see [Care Entry And Specialty Navigation](department-navigation-guide.md).
-- Missing conditions, allergies, medicines, or contacts: fill the [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card).
+- Clear red flags: start with [Red Flags](red-flags.md), and call 911 or local emergency services, or use the emergency department when needed.
+- Not sure what care entry point to use: see [Care Entry And Specialist Navigation](department-navigation-guide.md).
+- Missing conditions, allergies, medications, or contacts: fill the [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card).
 
 ## References
 
-As of 2026-06-20, this page mainly uses:
+As of 2026-06-28, this page mainly uses:
 
 - MedlinePlus: [Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)

@@ -26,7 +26,7 @@ Medical knowledge changes. This book's safety boundaries, sources, corrections, 
 
 Many families are not short on health information. They have too much of it.
 
-A lab report shows arrows. Someone in a group chat forwards a supplement that everyone "must" take. A parent says their chest feels a little tight and then says it is fine. A child or partner is emotionally collapsing. Short videos warn every day that one thing causes cancer and another slows aging. An ordinary person cannot turn all of that into medical judgment.
+A lab report shows several flagged results. Someone in a group chat forwards a supplement that everyone "must" take. A parent says their chest feels a little tight and then says it is fine. A child or partner is emotionally collapsing. Short videos warn every day that one thing causes cancer and another slows aging. An ordinary person cannot turn all of that into medical judgment.
 
 This book does not try to train you to be a clinician. It tries to help you do something more realistic: build a stable way to judge health problems inside family life.
 
@@ -48,17 +48,17 @@ If it is not an obvious red flag but you are still unsure whether waiting is saf
 
 The symptom guide is not a tool for proving that "watching is safe." Anything that may affect breathing, circulation, consciousness, speech, limb movement, or safety, or that includes major bleeding, severe pain, serious injury, poisoning, severe allergic reaction, self-harm risk, or pregnancy/postpartum warning signs, should not be downgraded by a tool page. Use emergency care or another qualified local entry point first.
 
-### A Report Or Doctor Visit Is Coming
+### A Lab Result Or Clinic Visit Is Coming
 
 Organize facts first, then discuss judgment.
 
-When a checkup report has arrows, look at trend, combination, background, and next action instead of staring at one number. Before a checkup, read [Before A Checkup](../handbook/playbooks/checkup-planning-guide.md). After results arrive, read [3. Checkup Markers: Not A Verdict, But A Risk Language](part-1-healthspan-risk-and-markers/checkup-markers.md) and [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md). If a clinic visit is coming, use [2. Before A Visit: Bring Facts Into The Room](part-3-family-health-os/doctor-visit-preparation.md) and [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) to prepare the symptom timeline, prior history, medicines, allergies, test results, and the questions you most need answered.
+When lab results or checkup findings are flagged, look at trend, combination, background, and next action instead of staring at one number. Before a preventive visit or routine checkup, read [Before A Checkup](../handbook/playbooks/checkup-planning-guide.md). After results arrive, read [3. Checkup Markers: Not A Verdict, But A Risk Language](part-1-healthspan-risk-and-markers/checkup-markers.md) and [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md). If a clinic visit is coming, use [2. How To Prepare For A Medical Visit: Bring Facts Into The Room](part-3-family-health-os/doctor-visit-preparation.md) and [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) to prepare the symptom timeline, prior history, medications, allergies, test results, and the questions you most need answered.
 
 ### You Want To Prepare For Family Care
 
 Start with the smallest health card. Do not begin by building a pile of archives.
 
-In a stressful moment, the most useful facts are often emergency contacts, major conditions, allergies, current medicines, recent follow-up, and where important records live. [1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](part-3-family-health-os/what-to-manage.md) explains family health coordination, and [Family Health Record And Chronic Marker Log](../handbook/templates/family-health-record.md) gives a copyable one-page card, chronic marker log, and pre-visit summary.
+In a stressful moment, the most useful facts are often emergency contacts, major conditions, allergies, current medications, recent follow-up, and where important records live. [1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](part-3-family-health-os/what-to-manage.md) explains family health coordination, and [Family Health Record And Chronic Marker Log](../handbook/templates/family-health-record.md) gives a copyable one-page card, chronic marker log, and pre-visit summary.
 
 ### Health Products Or Short Videos Are Bothering You
 

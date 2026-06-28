@@ -12,15 +12,15 @@ evidence_status: needs_periodic_review
 
 # 7. Children And Adolescents: Body And Mind Grow Together
 
-> If a child has trouble breathing, altered consciousness, seizures, serious injury, clear dehydration, severe pain, self-harm or suicide risk, risk of being harmed, or severe mental or behavioral changes, contact emergency care, the emergency department, or local professional support promptly. This page helps families understand body and mental changes, organize information, and choose support entries. It does not diagnose.
+> If a child has trouble breathing, altered consciousness, seizures, serious injury, clear dehydration, severe pain, self-harm or suicide risk, risk of being harmed, or severe mental or behavioral changes, call emergency services, go to an emergency department, or contact local crisis or professional support promptly. This page helps families understand body and mental changes, organize information, and choose care or support entry points. It does not diagnose.
 
 Some health problems are heavy and clear, and they often need the medical system to take over quickly. Children's problems often look different: many things are not clear at the beginning, but they happen at home every day.
 
-A child says their stomach hurts in the morning and does not want to go to school. At night they cannot stop scrolling, and the next day they cannot get up. A teenage girl becomes sensitive about periods, acne, and body shape. A boy suddenly stops talking, talks back, stays up late, and closes the door. Grades drop, and the parent's first reaction is school attitude, while the child cannot clearly say what is wrong.
+A child says their stomach hurts in the morning and does not want to go to school. At night they cannot stop scrolling, and the next day they cannot get up. A teen becomes sensitive about periods, acne, and body shape. Another teen suddenly stops talking, talks back, stays up late, and closes the door. Grades drop, and the parent's first reaction is school attitude, while the child cannot clearly say what is wrong.
 
 When these scenes appear, adults easily grab an explanation immediately: the phone did it, school pressure is too high, this is puberty, pretending to be sick, laziness, poor judgment, mental health problem.
 
-These explanations sometimes touch part of the truth, but they are often too fast. A too-fast explanation makes parents miss the more important questions: is the child's body in danger? Has daily function been dragged down? What developmental change are they experiencing? Is there pressure at school, with peers, or online? Is the family's response helping recovery, or making the child less willing to speak?
+These explanations sometimes touch part of the truth, but they are often too fast. A too-fast explanation makes parents and caregivers miss the more important questions: is the child's body in danger? Has daily function been dragged down? What developmental change are they experiencing? Is there pressure at school, with peers, or online? Is the family's response helping recovery, or making the child less willing to speak?
 
 This is not a pediatric encyclopedia, and it is not a complete parenting method. The more important goal is to help families look at children through a health lens, not only through grades, obedience, screens, and mood.
 
@@ -68,7 +68,9 @@ Third, food environment and weight trend. What children eat, what the household 
 
 Fourth, basic medical care and safety boundaries. Fever, abdominal pain, headache, allergy, vision, periods, sports injury, and emotional or behavioral changes all require knowing when to observe, when to use outpatient care, and when to use urgent or emergency care. Safety cannot depend only on "the child will say something."
 
-Fifth, gradually return agency to the child. Adolescents need to move from "the person being arranged" to "the person participating in decisions." Parents can provide boundaries, resources, and explanations of consequences, but not every health issue should become control. If control is too detailed, children hide information; if support is too empty, children may carry risks beyond their age alone.
+Fifth, gradually return agency to the child. Adolescents need to move from "the person being arranged" to "the person participating in decisions." Parents and caregivers can provide boundaries, resources, and explanations of consequences, but not every health issue should become control. If control is too detailed, children hide information; if support is too empty, children may carry risks beyond their age alone.
+
+In U.S. care, adolescents may also need some private time with a clinician, especially around mental health, safety, sexual health, substance use, and relationship pressure. Confidentiality rules vary by state and situation, and immediate safety risks are handled differently. The practical family message is still useful: make room for the adolescent to speak directly with a professional, while keeping clear safety and follow-up boundaries.
 
 The family principle can be simple: manage what must be managed, especially the base and red lines; leave space where control should not be too tight, especially around identity, privacy, and the autonomy that is gradually growing.
 
@@ -108,7 +110,7 @@ Many children's psychological stress does not first say, "I am anxious" or "I am
 
 A child has stomach pain every Monday morning, and tests do not find a clear cause. Adults easily say, "You just don't want to go to school." A better question is: when does the pain appear? Does it appear on weekends? Have eating, bowel movements, fever, weight, and sleep changed? Which step is hardest: entering the school gate, entering the classroom, seeing classmates, or taking a certain class?
 
-This does not mean abdominal pain is psychological. Abdominal pain should be evaluated as abdominal pain; headache as headache; periods, allergy, vision problems, infection, anemia, thyroid disease, medicines, and chronic illness can all affect the state. The body line should never be skipped.
+This does not mean abdominal pain is psychological. Abdominal pain should be evaluated as abdominal pain; headache as headache; periods, allergy, vision problems, infection, anemia, thyroid disease, medications, and chronic illness can all affect the state. The body line should never be skipped.
 
 But if body symptoms, mood, and life function change together, it is not enough to say "tests were fine" or "they are just not trying." Stress can show itself through sleep, appetite, gastrointestinal response, muscle tension, and autonomic nervous-system response. A child not being able to explain clearly does not mean the body is not suffering; no clear explanation on testing so far does not mean the child is pretending.
 
@@ -150,7 +152,7 @@ A third space does not mean parents stop caring. Safety, money, adult boundaries
 
 ## How To Talk With A Child About Health
 
-Many parents care deeply, but as soon as they speak, it sounds like interrogation.
+Many parents and caregivers care deeply, but as soon as they speak, it sounds like interrogation.
 
 "Why won't you go to school?"
 
@@ -186,9 +188,9 @@ Trouble breathing, blue lips, obvious gasping; altered consciousness, cannot be 
 
 Mental-health and safety red lines also exist: the child clearly says they want to die, disappear, hurt themselves, or hurt others; they have prepared tools, a place, or begun saying goodbye; self-harm has occurred; there is bullying, abuse, sexual assault, or serious threats; hallucinations, delusions, severe confusion, extreme excitement, or many hours/days without sleep with clearly abnormal behavior; a parent strongly feels "this child cannot be left alone tonight."
 
-In these moments, family actions should be simple: do not leave the child alone, remove tools that could cause harm, find a trusted adult to stay present, and contact emergency services, the emergency department, pediatric emergency care, psychiatric emergency care, school emergency staff, or local crisis support promptly. Entry points differ by region, but the principle is the same: safety first, reasons later.
+In these moments, family actions should be simple: do not leave the child alone, remove tools that could cause harm, find a trusted adult to stay present, and contact 911 or local emergency services, go to an emergency department or pediatric emergency department if available, contact 988 or mobile crisis support for a mental-health crisis where available, or involve school crisis staff when the risk is at school. Entry points differ by region, but the principle is the same: safety first, reasons later.
 
-If you do not know whether this is emergency care, outpatient care, or which specialty to choose, first use [Department And Specialty Navigation](../../handbook/playbooks/department-navigation-guide.md). Before an outpatient visit, use the [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md) to compress the material into one page.
+If you do not know whether this is emergency care, outpatient care, or a specialist issue, first use [Care Entry And Specialist Navigation](../../handbook/playbooks/department-navigation-guide.md). Before an outpatient visit, use the [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md) to compress the material into one page.
 
 ## Record Changes For One Week
 
@@ -198,7 +200,7 @@ You can record when the change started, whether body symptoms, sleep, and appeti
 
 Red signals cannot wait for the record to be complete. Any self-harm, suicide, risk of harming others, risk of being harmed, running away, severe loss of control, or inability to stay safe means safety and help come first.
 
-Bringing this record to pediatrics, adolescent medicine, eye care, gynecology, orthopedics/sports medicine, school counseling, child and adolescent mental health, or another professional entry point will be more useful than saying "their state has been bad lately." Do not solve everything at once; choose the one change that worries you most, find a low-pressure time, and ask the child one specific question without cross-examining every detail, such as "Which step of school has been hardest recently?" or "What is hardest to stop before bed?" If possible, add one more support point: outdoor activity, a trusted teacher, a relative, an interest activity, a clinician appointment, or psychological support for the parent.
+Bringing this record to a pediatrician or primary care clinician, adolescent medicine, eye care, gynecology, orthopedics/sports medicine, school counseling, child and adolescent mental health, or another professional entry point will be more useful than saying "their state has been bad lately." Do not solve everything at once; choose the one change that worries you most, find a low-pressure time, and ask the child one specific question without cross-examining every detail, such as "Which step of school has been hardest recently?" or "What is hardest to stop before bed?" If possible, add one more support point: outdoor activity, a trusted teacher, a relative, an interest activity, a clinician appointment, or psychological support for the parent or caregiver.
 
 Often, children do not lack explanations; they lack an environment where they can regain safety, connection, control, and a little hope.
 
@@ -223,5 +225,5 @@ Start directly with: [WHO Adolescent mental health](https://www.who.int/news-roo
 ## Reading Navigation
 
 - [Back to English book contents](../README.md)
-- Previous chapter: [6. Cancer And Major Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)
+- Previous chapter: [6. Cancer And Serious Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)
 - Next chapter: [8. Common Specialty Problems: Improve Care Quality Without Becoming Your Own Doctor](specialty-care-map.md)

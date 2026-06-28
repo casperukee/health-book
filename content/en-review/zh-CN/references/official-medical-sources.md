@@ -14,7 +14,7 @@ evidence_status: needs_periodic_review
 ## 美国和国际来源锚点
 
 - CDC：公共卫生、疫苗、传染病、应急准备和预防资料。
-- NIH 与 MedlinePlus：疾病、检查、药物和身体系统的患者友好解释。
+- NIH 与 MedlinePlus：疾病、检查、用药和身体系统的患者友好解释。
 - NHLBI、NCI、NIA、NIMH 等 NIH 下属机构：用于更具体主题。
 - USPSTF：预防服务和筛查建议。
 - AHA、ACC、ADA、ACS、AAP、ACOG、AGS 等专业组织：用于专科边界。

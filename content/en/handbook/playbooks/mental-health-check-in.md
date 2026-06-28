@@ -39,7 +39,7 @@ Get timely help when any of these appear:
 - hallucinations, delusions, major loss of behavioral control, or a long period without sleep with markedly unusual behavior;
 - a child or teen says they do not want to live, may harm themselves, may harm someone else, or shows unsafe behavior;
 - an older adult suddenly becomes confused, cannot recognize people, acts very differently, or walks much worse than usual;
-- cognition or behavior changes after a recent fall, infection, dehydration, new medicine, or medication change.
+- cognition or behavior changes after a recent fall, infection, dehydration, new medication, or medication change.
 
 In the U.S., call or text 988 for suicidal crisis or emotional distress support; use 911 or an emergency department when immediate safety is at risk. Outside the U.S., use local emergency numbers, crisis lines, or emergency departments.
 
@@ -55,7 +55,7 @@ Once safety risk appears, do not keep debating, coaching, or watching.
 
 ### 2. Is function affected?
 
-Can the person sleep, eat, attend school, work, care for family, leave home, cook, take medicines, handle money and information, and keep basic human connection?
+Can the person sleep, eat, attend school, work, care for family, leave home, cook, take medications, handle money and information, and keep basic human connection?
 
 Mental health and cognitive changes usually need attention not because a label sounds frightening, but because life is being persistently changed.
 
@@ -86,8 +86,8 @@ Low mood, anxiety, irritability, panic, numbness, and whether they affect daily 
 Body:
 Palpitations, chest tightness, stomach pain, headache, pain, muscle tension, falls, or unsteady walking.
 
-Chronic conditions and medicines:
-Blood pressure, blood sugar, medicine changes, missed doses, new medicines, or alcohol changes.
+Chronic conditions and medications:
+Blood pressure, glucose/A1C, medication changes, missed doses, new medications, or alcohol changes.
 
 Cognition:
 Memory, language, judgment, orientation, and attention changes that affect daily function.

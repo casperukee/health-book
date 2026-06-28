@@ -13,7 +13,7 @@ Chest pain or pressure, possible stroke signs, severe breathing trouble, altered
 | Red flags may already be present, and you are unsure whether it can wait | [Red Flags](red-flags.md) |
 | Symptoms are already present, and the next action is unclear | [Symptom Action Guide](symptom-action-guide.md) |
 | Mood, anxiety, stress, insomnia, or self-harm risk is involved | [Mental Health Check-In And Support](mental-health-check-in.md) |
-| You do not know whether to use emergency care, a clinic, or a specialist | [Emergency, Clinic, or Which Department?](department-navigation-guide.md) |
+| You do not know whether to use emergency care, urgent care, a clinic, or a specialist | [Care Entry And Specialist Navigation](department-navigation-guide.md) |
 | A preventive visit or checkup is coming, and you are unsure what to discuss | [Before A Checkup](checkup-planning-guide.md) |
 | A report came back with common flagged markers | [Common Checkup Markers](common-checkup-markers.md) |
 | You want to agree in advance on what cannot wait | [Red Flags](red-flags.md) |

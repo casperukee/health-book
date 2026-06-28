@@ -14,7 +14,7 @@ evidence_status: needs_periodic_review
 
 # 1. Warning Signs: Sort Urgency Before Searching Disease Names
 
-> This page is not medical advice. It cannot replace diagnosis, treatment, medication decisions, stopping medication, screening decisions, or emergency judgment. If chest pain, fainting, stroke symptoms, severe pain, abnormal bleeding, trouble breathing, self-harm risk, suicide risk, or other warning signs appear, seek medical care or contact local emergency services promptly.
+> This page is not medical advice. It cannot replace diagnosis, treatment, medication decisions, stopping medication, screening decisions, or emergency judgment. If chest pain, fainting, stroke symptoms, severe pain, abnormal bleeding, trouble breathing, self-harm risk, suicide risk, or other warning signs appear, seek emergency care or contact local emergency services promptly.
 
 The moments that unsettle a family are often not confirmed diagnoses. They are the moments when no one knows whether something is serious.
 
@@ -32,7 +32,7 @@ The first hesitation is treating "mild symptom" as "low risk." Some heart attack
 
 The second hesitation is treating "the symptom went away" as "the problem went away." Brief slurred speech, one-sided weakness, or recurring chest pain or pressure may still need timely medical evaluation even if it improves for the moment.
 
-The third hesitation is using search results as triage. Search can give you the lightest and scariest possibilities at the same time, but it does not know this person's age, underlying conditions, medicines, vital signs, test results, or on-the-ground change.
+The third hesitation is using search results as triage. Search can give you the lightest and scariest possibilities at the same time, but it does not know this person's age, underlying conditions, medications, vital signs, test results, or on-the-ground change.
 
 The fourth hesitation is turning care into argument. Families often spend too long debating whether to go to the hospital. When warning signs appear, the family rule should be simple: get help first, discuss later.
 
@@ -46,7 +46,7 @@ These three layers are not diagnoses. They are action priorities. Once a red sig
 
 The key words in this layer are: may threaten life, may cause irreversible harm, is rapidly worsening, or you cannot be sure that waiting is safe. In this layer, do not treat this book, search results, short videos, or relatives' experience as the care plan. Contact local emergency services or enter the emergency-care system promptly.
 
-In the United States, common emergency entries include 911 and emergency departments; urgent care may be appropriate for some time-sensitive but less severe problems, and mental health crisis support is available through 988. Poison Control can help with poison exposure guidance, but severe symptoms still require emergency services. Outside the U.S., use your local emergency number, crisis line, and emergency department system.
+In the United States, this usually means calling 911 or going to a hospital emergency department; urgent care clinics may be appropriate for some time-sensitive but less severe problems, and mental health crisis support is available through 988. Poison Control can help with poison exposure guidance, but severe symptoms still require emergency services. Outside the U.S., use your local emergency number, crisis line, and emergency department system.
 
 Remember a few entry signals first:
 
@@ -71,11 +71,11 @@ For example:
 - new neurologic problems appear, such as numbness, weakness, obvious memory decline, unstable walking, or repeated falls;
 - palpitations, chest discomfort, shortness of breath, or fatigue recur but do not meet the red emergency line;
 - sleep, mood, anxiety, or depression keeps affecting work, school, caregiving, or relationships;
-- a medicine causes clear discomfort, a side effect is suspected, or the person is unsure whether several medicines can be taken together;
+- a medication causes clear discomfort, a side effect is suspected, or the person is unsure whether several medications can be taken together;
 - an older adult has a fall, clear appetite or weight change, cognitive change, or decline in daily function;
 - chronic markers are repeatedly abnormal, or the family does not know how to repeat, record, and follow them over time.
 
-The correct action in this layer is not "find the answer." It is "prepare information and arrange clinical judgment." Record the symptom timeline, prior history, medicines, allergies, test results, and the questions you most need answered, then contact primary care, a clinic, a nurse line, urgent-care triage, telehealth, a specialist office, or another local care entry point.
+The correct action in this layer is not "find the answer." It is "prepare information and arrange clinical judgment." Record the symptom timeline, prior history, medications, allergies, test results, and the questions you most need answered, then contact primary care, an urgent care clinic, a nurse advice line, telehealth, a specialist office, or another local care entry point.
 
 ### Green: Record And Follow Up
 
@@ -83,7 +83,7 @@ The key words in this layer are: currently stable, no warning signs, and recordi
 
 For example:
 
-- a checkup report has a mild abnormality, but there are no warning signs, and you need to understand trend and repeat testing;
+- a lab result or screening result has a mild abnormality, but there are no warning signs, and you need to understand trend and repeat testing;
 - blood pressure, glucose, weight, sleep, activity, or another long-running marker needs tracking over time;
 - a mild symptom happens once, does not worsen quickly, and can be recorded with time, trigger, duration, and what helped;
 - you want to discuss screening, vaccines, lifestyle, or chronic disease management with a clinician, but there is no current emergency.
@@ -104,7 +104,7 @@ This rule does not need a fight. It can sit on a shared visual. Family members r
 
 Green in the figure only means short-term recording and watching may be reasonable. It does not mean "safe." Higher-risk people, unclear causes, or a family member's strong sense that something is wrong should move the situation back to the first two questions.
 
-What family members need to coordinate is not who knows more. It is work division: who contacts emergency help, who brings IDs and records, who notes the time symptoms began, who watches children or older adults, and who prepares medicine and allergy information.
+What family members need to coordinate is not who knows more. It is work division: who contacts emergency help, who brings IDs and records, who notes the time symptoms began, who watches children or older adults, and who prepares medication and allergy information.
 
 ## The Most Useful Information Before Care
 
@@ -114,17 +114,17 @@ If the situation allows, prepare these before emergency care or a clinic visit:
 - how the symptom has changed, whether it is worsening, and whether it has recurred;
 - whether there are warning signs such as chest pain, trouble breathing, altered consciousness, one-sided weakness, abnormal bleeding, or self-harm risk;
 - prior diagnoses, surgeries, and allergies;
-- prescription medicines, over-the-counter medicines, supplements, and herbs currently being used;
-- recent test results, checkup reports, imaging, or discharge summaries;
+- prescription medications, over-the-counter medications, supplements, and herbs currently being used;
+- recent test results, lab results, imaging, or discharge summaries;
 - the 1-3 questions you most want the clinician to help answer this time.
 
 If stroke is possible, try to note the earliest time symptoms appeared. If it is a mental health crisis, do not leave the person alone, and contact professional crisis support or emergency services promptly.
 
 ## Three Things You Can Prepare Today
 
-Write down your local emergency number, nearby emergency departments, usual hospitals or clinics, primary care entry points, crisis lines, and mental health support lines on a family emergency information page.
+Write down your local emergency number, nearby hospital emergency departments, usual clinics, primary care entry points, crisis lines, and mental health support lines on a family emergency information page.
 
-Make a minimum medical information sheet for each family member: chronic conditions, allergies, long-term medicines, major medical history, and emergency contact.
+Make a minimum medical information sheet for each family member: chronic conditions, allergies, long-term medications, major medical history, and emergency contact.
 
 Agree on one sentence in the family chat: red triggers are not debated; get help first.
 

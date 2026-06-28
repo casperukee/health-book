@@ -15,7 +15,7 @@
 | 已经可能出现危险信号，不确定能不能等 | [Red Flags](./red-flags.md) |
 | 已经有症状，不知道下一步 | [Symptom Action Guide](./symptom-action-guide.md) |
 | 情绪、焦虑、压力、失眠或自伤风险 | [Mental Health Check-In And Support](./mental-health-check-in.md) |
-| 不知道该急诊、门诊还是找专科 | [Emergency, Clinic, or Which Department?](./department-navigation-guide.md) |
+| 不知道该急诊、urgent care、门诊还是找专科 | [Care Entry And Specialist Navigation](./department-navigation-guide.md) |
 | 预防性就诊或体检要到了，不确定该讨论什么 | [Before A Checkup](./checkup-planning-guide.md) |
 | 报告出现常见标红指标 | [Common Checkup Markers](./common-checkup-markers.md) |
 | 想先约定哪些情况不能等 | [Red Flags](./red-flags.md) |

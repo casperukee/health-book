@@ -18,7 +18,7 @@
 
 很多家庭不是缺少健康信息，而是信息太多。
 
-化验报告有箭头。群里有人转发每个人都“必须”吃的补剂。父母说胸口有点紧，又说没事。孩子或伴侣情绪崩溃。短视频每天警告这个会致癌、那个能抗衰。普通人不可能把这些全部变成医学判断。
+化验报告出现几项 flagged results。群里有人转发每个人都“必须”吃的补剂。父母说胸口有点紧，又说没事。孩子或伴侣情绪崩溃。短视频每天警告这个会致癌、那个能抗衰。普通人不可能把这些全部变成医学判断。
 
 这本书不想把你训练成临床人员。它想帮助你做一件更现实的事：在家庭生活中建立一套稳定的健康判断方式。
 
@@ -40,11 +40,11 @@
 
 症状速查不是用来证明“观察是安全的”。任何可能影响呼吸、循环、意识、说话、肢体活动或安全的情况，或者伴随明显出血、严重疼痛、严重外伤、中毒、严重过敏、自伤风险、孕产期危险信号，都不要用工具页给自己降级。先使用急症照护或其他合格的本地入口。
 
-### 要看报告或见医生
+### 要看化验结果或去门诊
 
 先整理事实，再讨论判断。
 
-体检报告有箭头时，先看趋势、组合、背景和下一步行动，不要只盯一个数字。体检前读 [Before A Checkup](../handbook/playbooks/checkup-planning-guide.md)。拿到结果后读 [3. Checkup Markers: Not A Verdict, But A Risk Language](./part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md)。如果近期要门诊，用 [2. Before A Visit: Bring Facts Into The Room](./part-3-family-health-os/doctor-visit-preparation.md) 和 [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) 准备症状时间线、既往病史、用药、过敏、检查结果和最想问的问题。
+化验结果或体检发现被标记异常时，先看趋势、组合、背景和下一步行动，不要只盯一个数字。预防性就诊或常规体检前读 [Before A Checkup](../handbook/playbooks/checkup-planning-guide.md)。拿到结果后读 [3. Checkup Markers: Not A Verdict, But A Risk Language](./part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md)。如果近期要门诊，用 [2. How To Prepare For A Medical Visit: Bring Facts Into The Room](./part-3-family-health-os/doctor-visit-preparation.md) 和 [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) 准备症状时间线、既往病史、用药、过敏、检查结果和最想问的问题。
 
 ### 想为家庭照护做准备
 

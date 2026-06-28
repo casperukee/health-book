@@ -2,7 +2,7 @@
 
 > This book is not medical advice. If red flags are present, seek medical care promptly.
 
-Health Decisions for Families is for people who often need to make health judgments for themselves and family members: reading checkup reports, accompanying parents to visits, helping a child or partner sort urgency, organizing long-term health records, and recognizing persuasion in supplements and short-form health content.
+Health Decisions for Families is for people who often need to make health judgments for themselves and family members: reading flagged lab results or preventive-visit notes, accompanying parents to visits, helping a child or partner sort urgency, organizing long-term health records, and recognizing persuasion in supplements and short-form health content.
 
 Start with [Start Here](00-start-here.md) and read continuously. Every chapter ends with previous / next navigation; the web edition also provides a sidebar, search, and page outline.
 
@@ -37,12 +37,12 @@ First translate health problems from "do I have a disease?" into the language of
 
 At this point, many problems stop looking isolated: blood pressure, glucose, sleep, mood, mobility, screening, and specialty symptoms often connect to long-term risk lines and family action.
 
-- [1. Metabolic Health And The Four Highs: Why Four Useful Systems Lose Balance](part-2-body-risk-map/metabolic-health.md)
+- [1. Metabolic Health: Blood Pressure, Cholesterol, Glucose, And Uric Acid](part-2-body-risk-map/metabolic-health.md)
 - [2. Cardiovascular Event Chain: The Chain Reaction From Blood Pressure To Heart Attack](part-2-body-risk-map/cardiovascular-event-chain.md)
 - [3. Common Upstream: Pull Risk Back Before It Becomes Disease](part-2-body-risk-map/common-upstream.md)
 - [4. Sleep And Recovery: The Hidden Engineering Of Body Repair](part-2-body-risk-map/sleep-and-recovery.md)
 - [5. Brain And Mental Health: First Look At Safety, Function, And Support](part-2-body-risk-map/brain-and-mental-health.md)
-- [6. Cancer And Major Illness: Find The Stage Before Fear Takes Over](part-2-body-risk-map/cancer-and-major-illness.md)
+- [6. Cancer And Serious Illness: Find The Stage Before Fear Takes Over](part-2-body-risk-map/cancer-and-major-illness.md)
 - [7. Children And Adolescents: Body And Mind Grow Together](part-2-body-risk-map/children-and-adolescent-health.md)
 - [8. Common Specialty Problems: Improve Visit Quality, Do Not Become Your Own Doctor](part-2-body-risk-map/specialty-care-map.md)
 
@@ -51,9 +51,9 @@ At this point, many problems stop looking isolated: blood pressure, glucose, sle
 After you understand risk, the hard part is execution: where the records are, who goes to visits, how to talk with parents, who records older-adult changes, and who reminds follow-up.
 
 - [1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](part-3-family-health-os/what-to-manage.md)
-- [2. How To Prepare For A Doctor Visit: Bring Facts Into The Room](part-3-family-health-os/doctor-visit-preparation.md)
+- [2. How To Prepare For A Medical Visit: Bring Facts Into The Room](part-3-family-health-os/doctor-visit-preparation.md)
 - [3. Talking With Parents About Health: Do Not Turn Care Into Control](part-3-family-health-os/talking-with-parents.md)
-- [4. Elder Care Basics: Protect Daily Independence](part-3-family-health-os/elder-care-basics.md)
+- [4. Older Adult Health And Care: Protect Daily Independence](part-3-family-health-os/elder-care-basics.md)
 
 ## Part 4: Do Not Be Pushed Around: Health Information Defense
 

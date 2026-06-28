@@ -12,10 +12,10 @@ evidence_status: needs_periodic_review
 
 # Symptom Action Guide
 
-> This page is not a diagnosis table and is not medical advice. It only helps families choose the next action: emergency care, contact a clinician soon, or record and watch. If red flags are present, or you cannot judge whether waiting is safe, prioritize local emergency services, the emergency department, hospital triage, or another local medical triage entry point.
+> This page is not a diagnosis table and is not medical advice. It only helps families choose the next action: emergency care, contact a clinician soon, or record and watch. If red flags are present, or you cannot judge whether waiting is safe, call 911 or local emergency services, go to an emergency department, or use another local medical triage entry point.
 
 ::: danger Already Red?
-If there is chest pain or tightness, possible stroke, severe trouble breathing, altered consciousness, uncontrolled bleeding, severe allergic reaction, poisoning or serious injury, self-harm or suicide risk, or pregnancy/postpartum danger signs, do not read the whole table first. Contact emergency services, the emergency department, or a local medical entry point directly; if you need the minimal script, use [Red Flags](red-flags.md).
+If there is chest pain or tightness, possible stroke, severe trouble breathing, altered consciousness, uncontrolled bleeding, severe allergic reaction, poisoning or serious injury, self-harm or suicide risk, or pregnancy/postpartum danger signs, do not read the whole table first. Call 911 or local emergency services, go to an emergency department, or contact a local medical entry point directly; if you need the minimal script, use [Red Flags](red-flags.md).
 :::
 
 Symptom quick reference is not for deciding "what disease is this." It is for deciding "what should we do now?"
@@ -57,7 +57,7 @@ Green observation is not "do nothing." If you decide to record and watch, agree 
     <div class="triage-label">Red</div>
     <h3>Emergency care</h3>
     <p><strong>What you see:</strong> red flags, rapid worsening, unsafe mental state, or a situation where time may change outcome.</p>
-    <p><strong>Family action:</strong> contact emergency services, the emergency department, crisis services, Poison Control, or the local urgent medical entry point.</p>
+    <p><strong>Family action:</strong> call 911 or local emergency services, go to an emergency department, contact crisis services, Poison Control, or the local urgent medical entry point.</p>
     <p><strong>Do not:</strong> wait for group-chat votes, search for a disease name first, or let a very unwell person drive themselves.</p>
   </section>
   <section class="triage-card triage-card-yellow">
@@ -72,7 +72,7 @@ Green observation is not "do nothing." If you decide to record and watch, agree 
     <h3>Record and watch</h3>
     <p><strong>What you see:</strong> mild, short, improving symptoms, no red flags, no higher-risk context.</p>
     <p><strong>Family action:</strong> rest, reduce triggers, record what happened, and set upgrade conditions.</p>
-    <p><strong>Do not:</strong> treat observation as ignoring, or stack over-the-counter medicines, supplements, herbs, or home remedies without checking safety.</p>
+    <p><strong>Do not:</strong> treat observation as ignoring, or stack over-the-counter medications, supplements, herbs, or home remedies without checking safety.</p>
   </section>
 </div>
 
@@ -165,7 +165,7 @@ First ask:
 - Did they hit the head, neck, or lower back? Was there brief loss of consciousness, vomiting, or seizure?
 - Can they stand, walk, raise an arm, or grip objects now? Is there clear deformity, swelling, or worsening pain?
 - Before an older adult fell, was there dizziness, chest tightness, palpitations, or sudden leg weakness?
-- Are they taking anticoagulant or antiplatelet medicines, or have they recently had surgery or osteoporosis?
+- Are they taking anticoagulant or antiplatelet medications, or have they recently had surgery or osteoporosis?
 - After the fall, compared with usual, has walking, speech, or response changed?
 
 Older adult falls deserve cautious evaluation even when they look minor. Do not look only for visible injury.
@@ -208,7 +208,7 @@ At that point, do five things first:
 1. Stop possible triggers: intense activity, alcohol, sleep deprivation, irritating food, unsafe environment, and similar factors.
 2. Provide basic care: rest, hydration, ventilation, and a safe environment.
 3. Record change: start time, duration, associated symptoms, temperature, blood pressure, glucose, or other needed markers.
-4. Avoid unsafe stacking: do not combine multiple over-the-counter medicines, supplements, herbs, or home remedies; ask a clinician or pharmacist if unsure.
+4. Avoid unsafe stacking: do not combine multiple over-the-counter medications, supplements, herbs, or home remedies; ask a clinician or pharmacist if unsure.
 5. Set upgrade conditions: worsening, recurrence, new red flags, or failure to improve means contact a clinician or emergency care according to severity.
 
 If the family is already panicking, do one three-minute stabilizing action: have the person sit or lie safely, stop dangerous activity, and have someone calmly ask start time, duration, chest pain or shortness of breath, not waking or clear confusion, severe pain, bleeding, facial droop, one-sided weakness, or abnormal speech. This is not treatment and not delay; it prevents missing a red signal in panic.
@@ -224,7 +224,7 @@ These people are better handled cautiously:
 - older adults, especially living alone, after a fall, with cognitive change, or with declining daily function;
 - people on chemotherapy, immunosuppressive treatment, long-term steroids, or with weakened immunity;
 - people with serious heart, lung, kidney, liver disease, diabetes, cancer, or blood disease;
-- people using anticoagulant or antiplatelet medicines, or after recent surgery, hospitalization, or injury;
+- people using anticoagulant or antiplatelet medications, or after recent surgery, hospitalization, or injury;
 - anyone whose clinician previously said certain symptoms must trigger care.
 
 For these people, green more easily becomes yellow, and yellow more easily becomes red. Do not automatically downgrade because "this has happened before."
@@ -233,7 +233,7 @@ For these people, green more easily becomes yellow, and yellow more easily becom
 
 If red:
 
-- contact emergency services or the emergency department;
+- call 911 or local emergency services, or go to the emergency department;
 - if needed, return to [Red Flags](red-flags.md), bring only minimal information, and do not delay help to read tables;
 - record earliest symptom time, especially for possible stroke;
 - bring minimal information: conditions, medications, allergies, recent tests, emergency contact;
@@ -242,7 +242,7 @@ If red:
 If yellow:
 
 - organize the symptom into a timeline;
-- bring checkup reports, medication list, and the 1-3 questions you most need answered;
+- bring relevant lab, imaging, or visit reports, a medication list, and the 1-3 questions you most need answered;
 - ask the clinician: what requires follow-up, and what requires emergency care;
 - use the [Doctor Visit Checklist](doctor-visit-checklist.md) when organizing questions.
 
@@ -254,7 +254,7 @@ If green:
 
 ## References
 
-As of 2026-06-15, this page mainly uses:
+As of 2026-06-28, this page mainly uses:
 
 - MedlinePlus: [Recognizing medical emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - MedlinePlus: [Chest pain](https://medlineplus.gov/ency/article/003079.htm)

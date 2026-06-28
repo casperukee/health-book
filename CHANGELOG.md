@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- 完成英文网页版专业术语与美国本土用法审校：统一 911、emergency department、urgent care、primary care、specialist、patient portal、return precautions、medications、glucose/A1C、cholesterol and triglycerides 等英文医疗与就医表达，并同步维护 `content/en-review/zh-CN/` 中文验收页。
 - 完成英文网页版结构对齐版：按中文 v1.0.0 主书、手册和反馈目录补齐英文 `content/en/` 文件清单，所有英文页面推进到 `en-v0.2-structure-aligned`，不再保留短版 preview 页。
 - 同步英文验收体系：为英文 book、handbook 和 feedback 页面维护 `content/en-review/zh-CN/` 中文回译验收页，验收页翻译英文 U.S.-first adaptation，不复制中文版源稿。
 - 对齐英文导航与菜单：英文主书侧边栏按 Front Matter、Chapter 1-4 和 After The Main Book 分组，英文手册页单独显示 Handbook And Templates，反馈页单独显示 Feedback And Maintenance，避免读者在手册页被整本书长列表干扰。

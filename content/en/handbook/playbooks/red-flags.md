@@ -12,7 +12,7 @@ evidence_status: needs_periodic_review
 
 # Red Flags
 
-> This page is not a diagnosis table and is not medical advice. When an emergency is possible, contact local emergency services or go to the emergency department. Do not delay to search, ask acquaintances, or organize records.
+> This page is not a diagnosis table and is not medical advice. When an emergency is possible, call 911 or local emergency services, or go to an emergency department. Do not delay to search, ask acquaintances, or organize records.
 
 ## This Page Answers One Question
 
@@ -26,11 +26,11 @@ This page handles red situations only. If there is no obvious red flag but you s
 
 You can put the following paragraph in a family chat or at the top of a family health record:
 
-Red flags: chest pain or tightness; possible stroke signs, such as sudden facial droop, slurred speech, one-sided weakness or numbness; severe trouble breathing, such as unable to catch breath, unable to speak full sentences, or blue lips; altered consciousness, such as cannot wake up, obvious confusion, or responding very differently from usual; uncontrolled bleeding; sudden severe pain; severe allergic reaction; poisoning or serious injury; self-harm or suicide risk; pregnancy or postpartum danger signs. Do not vote in a group chat. Do not wait until tomorrow. Even if symptoms ease for a while, contact emergency services, the emergency department, or a local triage entry point first to confirm the next step.
+Red flags: chest pain or tightness; possible stroke signs, such as sudden facial droop, slurred speech, one-sided weakness or numbness; severe trouble breathing, such as unable to catch breath, unable to speak full sentences, or blue lips; altered consciousness, such as cannot wake up, obvious confusion, or responding very differently from usual; uncontrolled bleeding; sudden severe pain; severe allergic reaction; poisoning or serious injury; self-harm or suicide risk; pregnancy or postpartum danger signs. Do not vote in a group chat. Do not wait until tomorrow. Even if symptoms ease for a while, call 911 or local emergency services, go to an emergency department, or contact a local triage entry point first to confirm the next step.
 
 In an emergency, do only three things:
 
-1. Get help first: contact local emergency services or the emergency system.
+1. Get help first: call 911 or local emergency services, or use the emergency system.
 2. Record time: when symptoms started and whether they appeared suddenly.
 3. Bring minimal information: key conditions, medications, allergies, and emergency contact.
 
@@ -56,12 +56,12 @@ The following is not a diagnosis list. It covers emergency entry points families
 ### Heart Attack Or Serious Heart Event
 
 - Look for: chest pressure, squeezing, tightness, or persistent discomfort; pain spreading to the arm, shoulder/back, neck, jaw, or upper abdomen; shortness of breath, cold sweat, nausea, dizziness, or no response.
-- Act now: contact emergency services or the emergency department; do not let the person drive themselves.
+- Act now: call emergency services or go to the emergency department; do not let the person drive themselves.
 
 ### Stroke Or Transient Ischemic Attack
 
 - Look for: sudden facial droop, one-sided weakness or numbness, slurred speech, trouble understanding, vision change, unsteady walking, severe dizziness, or sudden severe headache.
-- Act now: record the earliest time symptoms appeared; even if they improve, contact emergency services or the emergency department.
+- Act now: record the earliest time symptoms appeared; even if they improve, call emergency services or go to the emergency department.
 
 ### Severe Infection Or Sepsis Risk
 
@@ -93,7 +93,7 @@ Some dangerous signals do not always look like "something huge is happening now,
 
 ### If It Improved, Do Not Automatically Downgrade
 
-Repeated chest pain or tightness, sudden slurred speech, or one-sided weakness that later improves should not be sent back to simple observation because "it seems fine now." Contact emergency services, the emergency department, or a triage entry point first to confirm.
+Repeated chest pain or tightness, sudden slurred speech, or one-sided weakness that later improves should not be sent back to simple observation because "it seems fine now." Call emergency services, go to the emergency department, or contact a triage entry point first to confirm.
 
 ### Mental Health Crisis
 
@@ -109,7 +109,7 @@ During pregnancy and within one year postpartum, severe headache, vision changes
 
 ### No Red Signal, But Still Uneasy
 
-Unexplained weight loss, long-term fever, repeated bleeding, a new lump, changed state after an older adult falls, persistent abnormal chronic-disease markers, or clear discomfort after a new medicine may not all require emergency care, but they should not be delayed for a long time. Use the [Symptom Action Guide](symptom-action-guide.md) to sort them into yellow or green; when unsure, treat as yellow and contact a clinician or triage entry point soon.
+Unexplained weight loss, long-term fever, repeated bleeding, a new lump, changed state after an older adult falls, persistent abnormal chronic-disease markers, or clear discomfort after a new medication may not all require emergency care, but they should not be delayed for a long time. Use the [Symptom Action Guide](symptom-action-guide.md) to sort them into yellow or green; when unsure, treat as yellow and contact a clinician or triage entry point soon.
 
 ## Minimal Information Pack For Emergency Care
 
@@ -117,7 +117,7 @@ During emergency care, do not chase perfect records. Try to bring four kinds of 
 
 - what happened: symptoms, start time, whether worsening;
 - existing conditions: cardiovascular disease, diabetes, kidney disease, cancer, mental health conditions, pregnancy/postpartum, etc.;
-- current use: prescription medicines, over-the-counter medicines, supplements, herbs, allergies;
+- current use: prescription medications, over-the-counter medications, supplements, herbs, allergies;
 - who to contact: emergency contact, usual hospital, recent clinician or tests.
 
 If there is no time to organize, get help first. Records serve care; they should not serve delay.
@@ -128,14 +128,14 @@ If emergency dispatch, emergency triage, or the hospital entry point gives speci
 
 | Current situation | Next step |
 |---|---|
-| Red flag present | Contact emergency services, the emergency department, or a local medical entry point first; bring only minimal information and do not delay for records |
+| Red flag present | Call 911 or local emergency services, go to the emergency department, or contact a local medical entry point first; bring only minimal information and do not delay for records |
 | No clear red flag, but still unsure whether it can wait | Open [Symptom Action Guide](symptom-action-guide.md) and sort red, yellow, or green |
-| Preparing to contact a clinician or go to a visit | Use [Doctor Visit Checklist](doctor-visit-checklist.md) to organize symptom timeline, medicines, and questions |
+| Preparing to contact a clinician or go to a visit | Use [Doctor Visit Checklist](doctor-visit-checklist.md) to organize symptom timeline, medications, and questions |
 | Want the family to be less chaotic next time | Make a [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) |
 
 ## References
 
-As of 2026-06-15, this page mainly uses:
+As of 2026-06-28, this page mainly uses:
 
 - American Heart Association: [Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - CDC: [Signs and Symptoms of Stroke](https://www.cdc.gov/stroke/signs-symptoms/index.html)

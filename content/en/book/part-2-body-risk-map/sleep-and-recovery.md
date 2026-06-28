@@ -12,7 +12,7 @@ evidence_status: needs_periodic_review
 
 # 4. Sleep And Recovery: The Hidden Work Of Body Repair
 
-> This page is not medical advice. It cannot replace clinician diagnosis, treatment, medication decisions, medication changes, or sleep-disorder evaluation. Persistent insomnia, clear daytime impairment, suspected sleep apnea, sleep problems related to major illness, self-harm or suicide risk, and other high-risk situations need timely help from a clinician, sleep specialist, or mental-health professional.
+> This page is not medical advice. It cannot replace clinician diagnosis, treatment, medication decisions, medication changes, or sleep-disorder evaluation. Persistent insomnia, clear daytime impairment, suspected sleep apnea, sleep problems related to serious illness, self-harm or suicide risk, and other high-risk situations need timely help from a clinician, sleep medicine specialist, or mental-health professional.
 
 The previous chapter put common upstream drivers back into daily life: activity, food and drink, recovery, stress and connection, and feedback all shape long-term risk. Sleep gets its own page because it is both underestimated and misunderstood.
 
@@ -99,9 +99,9 @@ Seek medical or professional help in these situations:
 - insomnia persists and clearly affects daytime function;
 - severe snoring, waking up gasping, or daytime sleepiness raises concern for sleep apnea;
 - sleep problems come with depression, anxiety, panic, self-harm, or suicide risk;
-- alcohol, sleep medicines, or other medicines are being relied on long-term to fall asleep;
+- alcohol, sleep medications, or other medications are being relied on long-term to fall asleep;
 - an older adult has nighttime falls, confusion, or clear daytime sleepiness;
-- sleep problems begin after a major illness, pregnancy or postpartum change, or a new medicine;
+- sleep problems begin after a serious illness, pregnancy or postpartum change, or a new medication;
 - neck, shoulder, back, or other pain persistently affects sleep, or comes with numbness, weakness, pain after injury, fever with headache and neck stiffness, trouble swallowing or breathing, waking from night pain, or abnormal walking and balance.
 
 If the main issue is chronic insomnia, do not only search online for sleep tips. A better path is for clinicians or qualified professionals to assess possible causes and then discuss whether structured insomnia treatment or psychological-behavioral support is needed.

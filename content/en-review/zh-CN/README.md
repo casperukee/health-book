@@ -27,7 +27,7 @@
 | 判断情况是否可能需要紧急求助 | [Red Flags](./handbook/playbooks/red-flags.md) |
 | 判断症状下一步 | [Symptom Action Guide](./handbook/playbooks/symptom-action-guide.md) |
 | 识别心理健康风险和支持需求 | [Mental Health Check-In And Support](./handbook/playbooks/mental-health-check-in.md) |
-| 在急诊、门诊和科室入口之间选择 | [Emergency, Clinic, or Which Department?](./handbook/playbooks/department-navigation-guide.md) |
+| 在急诊、urgent care、primary care 和专科入口之间选择 | [Care Entry And Specialist Navigation](./handbook/playbooks/department-navigation-guide.md) |
 | 准备预防性就诊或体检 | [Before a Checkup](./handbook/playbooks/checkup-planning-guide.md) |
 | 不追抗衰宣称，而是理解长期健康 | [Healthspan and the Risk Curve](./book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
 | 理解标红的化验和体检结果 | [Checkup Markers](./book/part-1-healthspan-risk-and-markers/checkup-markers.md) |
@@ -100,7 +100,7 @@
 - [Red Flags 中文验收页](handbook/playbooks/red-flags.md)
 - [Symptom Action Guide 中文验收页](handbook/playbooks/symptom-action-guide.md)
 - [Mental Health Check-In 中文验收页](handbook/playbooks/mental-health-check-in.md)
-- [Department Navigation 中文验收页](handbook/playbooks/department-navigation-guide.md)
+- [Care Entry And Specialist Navigation 中文验收页](handbook/playbooks/department-navigation-guide.md)
 - [Before A Checkup 中文验收页](handbook/playbooks/checkup-planning-guide.md)
 - [Common Checkup Markers 中文验收页](handbook/playbooks/common-checkup-markers.md)
 - [Doctor Visit Checklist 中文验收页](handbook/playbooks/doctor-visit-checklist.md)

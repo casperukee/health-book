@@ -18,7 +18,7 @@ Long-term insufficient recovery first affects attention, mood, memory, and judgm
 
 This kind of change often does not arrive with a disease name.
 
-An adult spends several weeks sleeping poorly, feeling palpitations and stomach discomfort, repeatedly checking the report, and the family says, "The doctor said you are fine. Stop overthinking." An older adult starts missing medicines, leaves the stove on, sends money to a stranger, and the family says, "Everyone gets like that with age." A child suddenly refuses school, hides in the room during the day, cannot sleep at night, and the parents' first reaction is, "Are they too fragile, too rebellious, or playing too much on the phone?"
+An adult spends several weeks sleeping poorly, feeling palpitations and stomach discomfort, repeatedly checking the report, and the family says, "The clinician said the dangerous things were ruled out. Stop overthinking." An older adult starts missing medications, leaves the stove on, sends money to a stranger, and the family says, "Everyone gets like that with age." A child suddenly refuses school, hides in the room during the day, cannot sleep at night, and the parents' first reaction is, "Are they too fragile, too rebellious, or playing too much on the phone?"
 
 Those words may contain concern, but they share one problem: they explain the state too quickly as personality, age, or willpower.
 
@@ -38,7 +38,7 @@ Sudden one-sided weakness, face drooping, slurred speech, abnormal vision, sever
 
 Second, has function been affected?
 
-Mental state and cognitive change deserve attention not mainly because a word sounds frightening, but because life has been changed over time. Can the person sleep, eat, attend school, work, care for family, leave the house, cook, take medicines, handle money and information, and keep basic connection with people? These are closer to what families should observe than "what is the diagnosis called?"
+Mental state and cognitive change deserve attention not mainly because a word sounds frightening, but because life has been changed over time. Can the person sleep, eat, attend school, work, care for family, leave the house, cook, take medications, handle money and information, and keep basic connection with people? These are closer to what families should observe than "what is the diagnosis called?"
 
 Occasional anxiety does not equal an anxiety disorder. But if fear of mistakes, medical tests, or other people leads someone to repeatedly check, search, avoid leaving home, and live in a smaller and smaller radius, it should not be dismissed as "thinking too much."
 
@@ -70,7 +70,7 @@ An older person's forgetfulness is not necessarily dementia. With aging, occasio
 
 Another misunderstanding is treating brain health as only "something in the brain."
 
-The brain does not work in isolation. Sleep, blood pressure, glucose, lipids, exercise, hearing, vision, pain, social contact, medicines, and chronic-disease management all affect attention, mood, and cognition. An older adult becoming quiet may be low mood, but it may also be poor hearing, poor vision, pain, fear of falls, or long-term loss of meaningful daily roles. An adult with palpitations and chest tightness may have anxiety, but heart disease, thyroid disease, anemia, and medication effects may need to be ruled out first.
+The brain does not work in isolation. Sleep, blood pressure, glucose, cholesterol and triglycerides, exercise, hearing, vision, pain, social contact, medications, and chronic-disease management all affect attention, mood, and cognition. An older adult becoming quiet may be low mood, but it may also be poor hearing, poor vision, pain, fear of falls, or long-term loss of meaningful daily roles. An adult with palpitations and chest tightness may have anxiety, but heart disease, thyroid disease, anemia, and medication effects may need to be ruled out first.
 
 So the better question is not "Is this psychological or physical?" It is: what has changed recently across the body, mood, sleep, relationships, and function?
 
@@ -125,15 +125,15 @@ If anxiety lasts for weeks to months and clearly affects sleep, school, work, so
 
 When judging cognitive change in an older adult, what the family most needs to record is not "their memory is bad," but concrete life function.
 
-You can look in six directions: attention and response speed, whether cooking, driving, and caregiving have become unsafe; memory and language, whether the person repeatedly asks the same question, forgets important appointments, struggles for words, or speaks less coherently; judgment and planning, whether bill payment, medicines, routes, simple finances, and scam risk are affected; mood and sleep, whether there is persistent low mood, irritability, anxiety, insomnia, or clear fluctuation; movement and balance, whether walking is unstable, falls are frequent, movement slows, tremor appears, or sudden one-sided weakness occurs; social connection and interest, whether participation clearly decreases, past enjoyable activities are abandoned, or isolation lasts for long periods.
+You can look in six directions: attention and response speed, whether cooking, driving, and caregiving have become unsafe; memory and language, whether the person repeatedly asks the same question, forgets important appointments, struggles for words, or speaks less coherently; judgment and planning, whether bill payment, medications, routes, simple finances, and scam risk are affected; mood and sleep, whether there is persistent low mood, irritability, anxiety, insomnia, or clear fluctuation; movement and balance, whether walking is unstable, falls are frequent, movement slows, tremor appears, or sudden one-sided weakness occurs; social connection and interest, whether participation clearly decreases, past enjoyable activities are abandoned, or isolation lasts for long periods.
 
-These observations are not meant to diagnose a parent. They are meant to give medical conversations a factual base. What a clinician needs is not only "we feel they changed," but "in the past two months, medicines were missed three times, the stove was left on once, money was sent to a stranger once, sleep has been poor, and walking is less stable than before."
+These observations are not meant to diagnose a parent. They are meant to give medical conversations a factual base. What a clinician needs is not only "we feel they changed," but "in the past two months, medications were missed three times, the stove was left on once, money was sent to a stranger once, sleep has been poor, and walking is less stable than before."
 
 ## Long-Term Maintenance: Protect The Body Base And Social Connection
 
 When there are no obvious symptoms, it does not mean "nothing needs attention." Long-term brain maintenance does not depend on one brain supplement. It depends on the body base and life connection.
 
-The body base includes blood pressure, glucose, lipids, sleep, activity, pain, hearing, vision, teeth, medicines, and chronic-disease management. They sound scattered, but together they affect brain vessels, attention, mood, cognition, and life radius. Brain health is not "feeding the brain" alone; it is keeping the body usable and life supported.
+The body base includes blood pressure, glucose, cholesterol and triglycerides, sleep, activity, pain, hearing, vision, dental health, medications, and chronic-disease management. They sound scattered, but together they affect brain vessels, attention, mood, cognition, and life radius. Brain health is not "feeding the brain" alone; it is keeping the body usable and life supported.
 
 Life connection matters just as much. Going out to meet people, taking part in housework, contacting old friends, caring for plants, grocery shopping and cooking, walking with grandchildren: these ordinary activities are everyday supports for brain and mental health. For older adults, handling poor hearing, poor vision, pain, and fear of falling may be more practical than urging them to "use the brain more."
 
@@ -161,7 +161,7 @@ Seek help promptly in these situations:
 - hallucinations, delusions, clear behavioral loss of control, or long periods without sleep with obviously abnormal behavior;
 - a child or adolescent mentions not wanting to live, self-harm, harming others, or shows clearly unsafe behavior;
 - an older adult suddenly becomes confused, does not recognize people, acts abnormally, or walks much worse;
-- cognitive and behavioral changes appear after a recent fall, infection, dehydration, new medicine, or medication adjustment.
+- cognitive and behavioral changes appear after a recent fall, infection, dehydration, new medication, or medication adjustment.
 
 In the United States and Canada, if there is an immediate safety risk, call 911 or go to the nearest emergency department; for suicidal crisis, mental-health crisis, or substance-use crisis, call or text 988. In other regions, use the local emergency number, crisis line, or emergency department.
 
@@ -174,7 +174,7 @@ Pick someone you care about, or observe yourself, and make a one-week brain-func
 ```text
 Safety: Any self-harm, suicide, thoughts of harming others, plans, tools, or actions?
 
-Function: Sleep, eating, school, work, housework, medicines, going out, social contact, money, and judgment: what changed?
+Function: Sleep, eating, school, work, housework, medications, going out, social contact, money, and judgment: what changed?
 
 Body and mood: Palpitations, chest tightness, pain, falls, unsteady walking, low mood, anxiety, irritability, numbness: how long has it lasted?
 
@@ -203,4 +203,4 @@ When the family faces a larger diagnostic fear, the same principle still holds: 
 
 - [Back to English book contents](../README.md)
 - Previous chapter: [4. Sleep And Recovery: The Hidden Work Of Body Repair](sleep-and-recovery.md)
-- Next chapter: [6. Cancer And Major Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)
+- Next chapter: [6. Cancer And Serious Illness: Find The Stage Before Fear Takes Over](cancer-and-major-illness.md)

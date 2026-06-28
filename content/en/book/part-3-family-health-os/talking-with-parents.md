@@ -12,13 +12,13 @@ evidence_status: stable
 
 # 3. Talking With Parents About Health: Do Not Turn Care Into Control
 
-> If there is chest pain, stroke-like symptoms, severe trouble breathing, altered consciousness, sudden vision loss, severe pain, risk of self-harm or suicide, or a major change in medication, treatment, or follow-up, contact a clinician, emergency services, or the relevant professional support promptly. This chapter helps families communicate about facts, records, and boundaries. It does not replace medical judgment.
+> If there is chest pain, stroke-like symptoms, severe trouble breathing, altered consciousness, sudden vision loss, severe pain, risk of self-harm or suicide, or a significant change in medication, treatment, or follow-up, contact a clinician, 988 crisis support, 911 or local emergency services, or other relevant professional support promptly. This chapter helps families communicate about facts, records, and boundaries. It does not replace medical judgment.
 
 The information before a visit can be organized into tables: symptom timeline, medication list, test reports, and questions for the clinician. The truly hard part often comes before the table.
 
 How do you even bring it up with your parents?
 
-Many families have had a moment like this. Your father's checkup has a few elevated markers, and the clinician asks him to repeat testing in three months. Six months later, you ask on the phone, "Did you go for the follow-up?" He says, "I feel fine. Stop worrying about it."
+Many families have had a moment like this. Your father's routine labs show a few elevated markers, and the clinician asks him to repeat testing in three months. Six months later, you ask on the phone, "Did you go for the follow-up?" He says, "I feel fine. Stop worrying about it."
 
 You get anxious and the words come out sharply: "Why do you never take this seriously?" The other side hardens just as quickly: "I know my own body."
 
@@ -69,7 +69,7 @@ I know you do not want to trouble me. Then let's make it the other way around: I
 ```
 
 ```text
-I understand that you want to feel better. Let's first make sure this product will not affect the medicines you already take, and let's not let it delay the follow-up.
+I understand that you want to feel better. Let's first make sure this product will not affect the medications you already take, and let's not let it delay the follow-up.
 ```
 
 Gentleness is not giving in. Gentleness keeps the other person able to listen. A real boundary is not a louder voice; it is a clearer next step.
@@ -82,11 +82,11 @@ Families living together can talk after dinner, during a walk, or on the weekend
 
 "How have you been?" often does not reveal much. Not because anyone refuses to talk, but because many changes are hard to describe at first and people do not know whether they matter.
 
-Use four entry points: **seeing, walking, eating-sleeping-bathroom, and medication/follow-up**.
+Use four entry points: **vision, walking, eating-sleeping-bathroom, and medication/follow-up**.
 
 <div class="decision-grid">
   <section class="decision-card decision-card-blue">
-    <span class="decision-label">Seeing</span>
+    <span class="decision-label">Vision</span>
     <h3>Has vision or seeing changed?</h3>
     <p>Any sudden vision loss, eye pain, red eye with vision change, dark shadows, injury, or new severe discomfort? Do not handle these only with over-the-counter eye drops.</p>
   </section>
@@ -102,8 +102,8 @@ Use four entry points: **seeing, walking, eating-sleeping-bathroom, and medicati
   </section>
   <section class="decision-card decision-card-yellow">
     <span class="decision-label">Medication and follow-up</span>
-    <h3>Any missed medicines, refills, or delayed follow-up?</h3>
-    <p>Any change in long-term medicines, eye drops, topical products, supplements, or herbs? Any self-stopping, switching, dose increase, or clinician-requested follow-up that has not happened?</p>
+    <h3>Any missed medications, refills, or delayed follow-up?</h3>
+    <p>Any change in long-term medications, eye drops, topical products, supplements, or herbs? Any self-stopping, switching, dose increase, or clinician-requested follow-up that has not happened?</p>
   </section>
 </div>
 
@@ -111,11 +111,11 @@ These questions are not for remote diagnosis. They help decide the next step: ke
 
 ## Chronic Conditions Are Not Managed By Feeling
 
-Blood pressure, blood sugar, cholesterol, uric acid, bone density, and other long-term issues may not cause obvious symptoms, but risk can accumulate quietly over time.
+Blood pressure, glucose/A1C, cholesterol, uric acid, bone density, and other long-term issues may not cause obvious symptoms, but risk can accumulate quietly over time.
 
 This is also where chronic care most easily turns into family conflict. Parents think, "I do not feel bad." Adult children think, "Why are you still not taking this seriously?" Both sides are holding half the truth: having no symptoms can be real, and so can risk.
 
-Chronic condition management does not work well as one big conversation, and it does not hold together through daily reminders. It is more like a small repeated task: record a little change, follow the clinician's follow-up plan, know whether medicines and markers have been adjusted, and ask a professional when something looks abnormal.
+Chronic condition management does not work well as one big conversation, and it does not hold together through daily reminders. It is more like a small repeated task: record a little change, follow the clinician's follow-up plan, know whether medications and markers have been adjusted, and ask a professional when something looks abnormal.
 
 If chronic care is explained only as "do not eat this" and "do not do that," it quickly starts to feel like punishment. A better approach is to turn the restriction into a small task that can be noticed and completed.
 
@@ -123,13 +123,13 @@ For example, instead of saying "You can never eat salty food again," find two lo
 
 I have seen one very light method work.
 
-A friend's mother needed to manage blood sugar and weight for a while. At first the family said many correct things: eat less, move more, keep recording. All of it was reasonable, but every conversation ended with the adult children supervising and the mother being reminded. Later they changed the format. They stopped calling it "management" and turned the time after dinner into a small challenge: who could walk a little longer today, who could keep a simple movement going, who could write down dinner and how the day felt. The father kept time, the children joined in, and the mother slowly became interested. She was not being ordered to finish a task; she could see herself doing a little more than yesterday in a small family game.
+A friend's mother needed to manage glucose and weight for a while. At first the family said many correct things: eat less, move more, keep recording. All of it was reasonable, but every conversation ended with the adult children supervising and the mother being reminded. Later they changed the format. They stopped calling it "management" and turned the time after dinner into a small challenge: who could walk a little longer today, who could keep a simple movement going, who could write down dinner and how the day felt. The father kept time, the children joined in, and the mother slowly became interested. She was not being ordered to finish a task; she could see herself doing a little more than yesterday in a small family game.
 
 This story is useful not because it gives a universal exercise. Diet, activity, medication, and follow-up in chronic care all need to follow clinical advice and individual circumstances. What it really shows is that parents often fear being treated as a project. What lasts is usually not one correct suggestion, but a family format that preserves dignity, includes companionship, and makes progress visible.
 
 So chronic care does not have to be perfect, but it should be as stable as possible:
 
-- ask a clinician before changing, stopping, or deciding how to use medicines;
+- ask a clinician before changing, stopping, or deciding how to use medications;
 - do not judge markers from one reading only; look for trends;
 - do not rely on memory alone for follow-up timing; write it down or let family help with reminders;
 - for food, activity, sleep, and weight, do not chase an instant overhaul; start with small changes that can actually continue.
@@ -140,11 +140,11 @@ The family's useful role is not to monitor every day. It is to make recording, f
 
 Many health principles are not hard to understand. The hard part is doing them every day.
 
-Eat a little less, take a walk after dinner, keep follow-up appointments, take medicines regularly, and avoid impulsive product purchases: one conversation rarely keeps these going for long. Especially when an action is too big, too inconvenient, or too unlike normal life, the body and the habit will push back.
+Eat a little less, take a walk after dinner, keep follow-up appointments, take medications regularly, and avoid impulsive product purchases: one conversation rarely keeps these going for long. Especially when an action is too big, too inconvenient, or too unlike normal life, the body and the habit will push back.
 
 Inside a family, the steadier approach is to make the action smaller and more fixed:
 
-- agree on one small action, such as walking 10 minutes after dinner, measuring blood pressure twice a week, or putting tomorrow's medicines out before bed;
+- agree on one small action, such as walking 10 minutes after dinner, measuring blood pressure twice a week, or putting tomorrow's medications out before bed;
 - use environmental reminders: pill organizers, calendars, phone reminders, and a fixed photo album are steadier than reminders made up on the spot;
 - allow imperfection: doing it three or four times a week is more useful than waiting for a perfect plan;
 - review without criticism: next time, ask only "where did it get stuck?" and make the action smaller together.
@@ -155,7 +155,7 @@ Long-term health depends more on small arrangements that are easy to repeat than
 
 ## Do Not Understand Health Only As Medical Visits
 
-The things that shape quality of life in later years are not only tests and medicines inside a clinic.
+The things that shape quality of life in later years are not only tests and medications inside a clinic.
 
 Whether someone moves a little each day, whether meals are too salty or too sweet, how sleep is going at night, whether they have recently gone out to see people, and whether they still have something they want to do are also part of health.
 
@@ -167,7 +167,7 @@ Do not only ask, "What was your blood pressure?" Also ask, "Do you feel tired wh
 
 Do not only ask, "Did you go for follow-up?" Also ask, "Is there anywhere you would like to go next month?"
 
-Do not only ask, "Did you take the medicine?" Also ask, "Who have you seen lately? Has anything felt interesting?"
+Do not only ask, "Did you take the medication?" Also ask, "Who have you seen lately? Has anything felt interesting?"
 
 Better family support protects four ordinary goals together:
 
@@ -186,11 +186,11 @@ But do not put this conflict at the very beginning of the whole conversation, an
 
 The first communication boundary is this: **do not let a product replace medical care or follow-up, do not keep stacking products when ingredients, evidence, and risk are unclear, and do not make a same-day decision under sales pressure or fear.**
 
-If parents already have chronic conditions, take medicines, have had surgery, or are considering multiple supplements, it is best to photograph the products and ask a clinician or pharmacist to look. Evidence, regulation, price, and risk can be checked more slowly later; the immediate point is not to win an argument on the spot, but to slow down buying, stopping medicines, stockpiling, and payment.
+If parents already have chronic conditions, take medications, have had surgery, or are considering multiple supplements, it is best to photograph the products and ask a clinician or pharmacist to look. Evidence, regulation, price, and risk can be checked more slowly later; the immediate point is not to win an argument on the spot, but to slow down buying, stopping medications, stockpiling, and payment.
 
 Use the [health product checklist](../../handbook/templates/health-product-checklist.md) for product decisions.
 
-## Do Not Wait For An Emergency Or Major Illness To Discuss The Basics
+## Do Not Wait For An Emergency Or Serious Illness To Discuss The Basics
 
 Some health conversations feel awkward in ordinary times, but when it is midnight, an emergency department visit is happening, forms need signatures, or a clinician must be contacted, it is already too late to start.
 
@@ -198,9 +198,9 @@ Agree on a few questions in advance.
 
 First, who is the emergency contact? If parents live alone, live far away, or only an older couple is at home, be especially clear: how bad does discomfort need to be before they call someone, who can go with them, and who knows where the insurance card, ID, records, and medication list are?
 
-Second, where are emergency records kept? Recent checkups, hospital records, imaging materials, long-term medication lists, allergies, and important diagnoses should ideally have both paper backups and phone photos. In emergency care, one of the worst situations is everyone panicking while nobody can clearly say what conditions were already present or what medicines were being used.
+Second, where are emergency records kept? Recent lab results or preventive-visit notes, hospital records, imaging materials, long-term medication lists, allergies, and important diagnoses should ideally have both paper backups and phone photos. In emergency care, one of the worst situations is everyone panicking while nobody can clearly say what conditions were already present or what medications were being used.
 
-Third, talk a little about preferences for serious illness. If a major illness really happens in the future, how much does your parent want to know? Who do they want to accompany them? What matters most: trying to extend time as much as possible, staying clear-minded, suffering less, or being with family? These questions do not need to be finished in one conversation, but the earlier there is some shared understanding, the less the family has to guess in a critical moment.
+Third, talk a little about preferences for serious illness. If a serious illness really happens in the future, how much does your parent want to know? Who do they want to accompany them? What matters most: trying to extend time as much as possible, staying clear-minded, suffering less, or being with family? These questions do not need to be finished in one conversation, but the earlier there is some shared understanding, the less the family has to guess in a critical moment.
 
 This is not asking family members to make medical judgments, and it is not deciding treatment plans in advance. It simply brings basic family information and value preferences into the open. Medical questions belong with clinicians; the family's job is not to lose records, misunderstand each other, or miss help in a panic.
 
@@ -221,7 +221,7 @@ At that point, the job is not to keep arguing about who is right. It is to get p
 
 ## References
 
-As of 2026-06-15, this chapter mainly uses CDC materials on healthy aging, MedlinePlus materials on healthy aging, talking with your doctor, eye emergencies, and taking multiple medicines safely, NIA/NIH materials on cognitive health in older adults, HealthIT.gov materials on getting and using health records, FDA and FTC materials on health scams, and SAMHSA materials on the 988 crisis line to calibrate boundaries around healthy aging, care collaboration, health records, cognitive change, health scams, and mental health crisis response when talking with parents.
+As of 2026-06-28, this chapter mainly uses CDC materials on healthy aging, MedlinePlus materials on healthy aging, talking with your doctor, eye emergencies, and taking multiple medications safely, NIA/NIH materials on cognitive health in older adults, HealthIT.gov materials on getting and using health records, FDA and FTC materials on health scams, and SAMHSA materials on the 988 crisis line to calibrate boundaries around healthy aging, care collaboration, health records, cognitive change, health scams, and mental health crisis response when talking with parents.
 
 These materials help families turn concern into records, collaboration, and timely help. They should not be used to diagnose parents, decide medication, stop medication, rank treatments, arrange screening, or replace emergency care or mental health crisis services.
 
@@ -236,5 +236,5 @@ The best version of health communication is this: people can talk in ordinary ti
 ## Reading Navigation
 
 - [Back to English book contents](../README.md)
-- Previous chapter: [2. How To Prepare For A Doctor Visit: Bring Facts Into The Room](doctor-visit-preparation.md)
-- Next chapter: [4. Elder Care Basics: Protect Daily Independence](elder-care-basics.md)
+- Previous chapter: [2. How To Prepare For A Medical Visit: Bring Facts Into The Room](doctor-visit-preparation.md)
+- Next chapter: [4. Older Adult Health And Care: Protect Daily Independence](elder-care-basics.md)

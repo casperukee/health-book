@@ -23,7 +23,7 @@ This project is **not medical advice**. It does not diagnose, prescribe, recomme
 | Check whether a situation may need urgent help | [Red Flags](handbook/playbooks/red-flags.md) |
 | Decide what to do with symptoms | [Symptom Action Guide](handbook/playbooks/symptom-action-guide.md) |
 | Check mental health risk and support needs | [Mental Health Check-In And Support](handbook/playbooks/mental-health-check-in.md) |
-| Choose between emergency, clinic, and department entry points | [Emergency, Clinic, or Which Department?](handbook/playbooks/department-navigation-guide.md) |
+| Choose between emergency, urgent care, primary care, and specialist entry points | [Care Entry And Specialist Navigation](handbook/playbooks/department-navigation-guide.md) |
 | Prepare for a preventive visit or checkup | [Before a Checkup](handbook/playbooks/checkup-planning-guide.md) |
 | Think about long-term health without chasing anti-aging claims | [Healthspan and the Risk Curve](book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md) |
 | Understand flagged lab and checkup results | [Checkup Markers](book/part-1-healthspan-risk-and-markers/checkup-markers.md) |

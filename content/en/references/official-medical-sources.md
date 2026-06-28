@@ -14,7 +14,7 @@ This page lists the kinds of official or professional sources the English editio
 ## U.S. And International Anchors
 
 - CDC for public-health topics, vaccines, infectious disease, emergency preparedness, and prevention materials.
-- NIH and MedlinePlus for patient-facing explanations of diseases, tests, medicines, and body systems.
+- NIH and MedlinePlus for patient-facing explanations of diseases, tests, medications, and body systems.
 - NHLBI, NCI, NIA, NIMH, and other NIH institutes when a topic needs a more specific anchor.
 - USPSTF for preventive services and screening recommendations.
 - AHA, ACC, ADA, ACS, AAP, ACOG, AGS, and similar professional organizations when a chapter needs specialty boundaries.

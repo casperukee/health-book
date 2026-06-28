@@ -2,7 +2,7 @@
 
 This part handles the outside noise around health decisions.
 
-Once a family starts managing health seriously, the hardest problem is often not too little information. It is too much: supplement promotion, extra checkup add-ons, watch and device scores, anti-aging tests, short-video "new studies," and the "experts say" messages in family chats. These messages do not always lie directly. They often combine mechanisms, numbers, stories, and fear so that someone wants to spend money or change life immediately.
+Once a family starts managing health seriously, the hardest problem is often not too little information. It is too much: supplement promotion, extra labs or screening add-ons, watch and device scores, anti-aging tests, short-video "new studies," and the "experts say" messages in family chats. These messages do not always lie directly. They often combine mechanisms, numbers, stories, and fear so that someone wants to spend money or change life immediately.
 
 The goal of this part is to help the family's health gatekeeper slow down first:
 

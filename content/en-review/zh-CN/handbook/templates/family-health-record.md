@@ -24,9 +24,9 @@ Emergency contact:
 
 Major diagnoses or long-running issues:
 Medication allergies or serious reactions:
-Current long-term medicines:
+Current long-term medications:
 Major surgeries, hospitalizations, or important tests:
-Usual clinic / department / clinician:
+Usual clinic / care team / specialist / clinician:
 Insurance, Medicare/Medicaid, or important document location:
 
 Most recent important follow-up:
@@ -43,13 +43,13 @@ Next follow-up:
 
 ```text
 Date:
-Setting: home measurement / checkup follow-up / clinic visit / symptom change
+Setting: home measurement / preventive visit or lab follow-up / clinic visit / symptom change
 Marker or issue:
 Result:
 Unit and reference range:
 Compared with last time:
 Context: poor sleep / alcohol / infection / pain / stress / exercise / other
-Medicine, missed-dose, or supplement change:
+Medication, missed-dose, or supplement change:
 Symptom or daily function change:
 Clinician's next step:
 ```
@@ -65,7 +65,7 @@ Clinician's next step:
   <section class="decision-card decision-card-blue">
     <div class="decision-label">Combination</div>
     <h3>是不是几件事一起变差？</h3>
-    <p>血压、血脂、血糖、尿酸、肾功能、体重或腰围是不是朝同一方向变化？</p>
+    <p>血压、胆固醇和甘油三酯、血糖/A1C、尿酸、肾功能、体重或腰围是不是朝同一方向变化？</p>
   </section>
   <section class="decision-card decision-card-yellow">
     <div class="decision-label">Context</div>
@@ -74,7 +74,7 @@ Clinician's next step:
   </section>
 </div>
 
-胸痛胸闷、严重呼吸困难、晕厥、意识改变、卒中样症状、严重低血糖症状或严重高血糖症状，不要等记录表。先求助。
+胸痛胸闷、严重呼吸困难、晕厥、意识改变、卒中样症状、严重低血糖或高血糖症状，不要等记录表。先求助。
 
 ## 3. 复诊前摘要
 

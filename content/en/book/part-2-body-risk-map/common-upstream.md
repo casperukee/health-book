@@ -16,19 +16,19 @@ evidence_status: needs_periodic_review
 
 After the first two sections, many people feel a little tense.
 
-Blood pressure, lipids, glucose, and uric acid are not four isolated numbers after all; major events such as heart attack and stroke are also often not sudden without any earlier signals. Risk is like a slope moving forward. Sometimes it has been moving for a long time before a person first notices the arrow on a report.
+Blood pressure, cholesterol and triglycerides, glucose/A1C, and uric acid are not isolated numbers after all; major events such as heart attack and stroke are also often not sudden without any earlier signals. Risk is like a slope moving forward. Sometimes it has been moving for a long time before a person first notices abnormal flags on a report.
 
 So next, instead of pushing the atmosphere further down, bring the question back to daily life: if things have not yet become severe disease, the body often gives us some time to adjust the trend back.
 
-The most typical scene is after a checkup, when a clinician says, "Work on lifestyle first, then recheck in a while."
+The most typical scene is after routine labs or a preventive visit, when a clinician says, "Work on lifestyle first, then recheck in a while."
 
 That sentence sounds gentle, but at home it is hard to act on. It is not an emergency order, and it does not carry the weight of a diagnosis, so many people understand it as "probably not a big problem." But for chronic risk, that sentence often means exactly that you still have active room: not yet at the stage of complex treatment decisions, but no longer a stage where the old default life should continue unchecked.
 
-The next question is: improve what, exactly? Less seafood, or less alcohol? Run every day, or sleep first? If weight, uric acid, triglycerides, blood pressure, and waist are all changing, does it mean nothing can be eaten starting today?
+The next question is: improve what, exactly? Less seafood, or less alcohol? Run every day, or sleep first? If weight, waist circumference, uric acid, triglycerides, and blood pressure are all changing, does it mean nothing can be eaten starting today?
 
 Many people get stuck here. If they take it lightly, they think they are not sick anyway. If they take it heavily, they immediately design a plan they cannot sustain. More commonly, they buy supplements, save ten recipes, download an exercise app, push hard for the first week, and return to the old pattern when life gets busy in week two.
 
-I prefer to call this pulling the trend back, not treating a specific disease through lifestyle. It does not replace clinicians, medicines, or follow-up; but before many risks become serious consequences, daily life really does provide a window where intervention is possible.
+I prefer to call this pulling the trend back, not treating a specific disease through lifestyle. It does not replace clinicians, medications, or follow-up; but before many risks become serious consequences, daily life really does provide a window where intervention is possible.
 
 That window is not in one magical action. It is in a set of daily defaults: whether the body is called on often, whether food and drink keep adding daily load, whether sleep has a recovery window, whether stress and relationships keep a person in alert mode for too long, and whether feedback lets you see change.
 
@@ -42,9 +42,9 @@ First, lower the pressure a little: you do not need to become a highly disciplin
 
 ## Adjust The Defaults First
 
-When you get to lifestyle, put the four highs back into the same daily background first: behind these markers, is there a set of default living patterns repeatedly adding load?
+When you get to lifestyle, put these metabolic markers back into the same daily background first: behind the numbers, is there a set of default living patterns repeatedly adding load?
 
-Blood pressure, lipids, glucose, uric acid, weight and waist, fatty liver, sleep, and mood often do not worsen one line at a time. Long sitting, low muscle use, takeout and late-night meals, sweet drinks and alcohol becoming routine, compressed sleep, and pressure that never comes down can all push the body toward the same high-load background.
+Blood pressure, cholesterol and triglycerides, glucose/A1C, uric acid, weight, waist circumference, fatty liver, sleep, and mood often do not worsen one line at a time. Long sitting, low muscle use, restaurant or takeout meals with heavy sauces and large portions, late-night meals, sweet drinks and alcohol becoming routine, compressed sleep, and pressure that never comes down can all push the body toward the same high-load background.
 
 So do not start by trying to be impressive, and do not expect to become a "health person" overnight. A steadier idea is to give the body a new daily default: the body is used often, the plate does not push the system into high load every day, night provides recovery, stress has an exit, and changes in markers and body feeling can be seen.
 
@@ -56,7 +56,7 @@ The strangest part of modern life is not that people do not work hard enough. It
 
 Many people are busy all day while hardly moving. Morning commute, desk work, takeout meals, evening sofa and phone. The body seems always online, but what truly participates in life is mostly eyes, fingers, and brain. Legs, hips, back, lungs, heart, and muscles briefly appear only when climbing stairs, catching a train, or carrying something.
 
-That is very different from how the body was built to work. Glucose needs muscles to help handle it. Blood pressure and vessels need activity-driven regulation. Weight and waist need an energy outlet. Sleep also needs enough daytime body use to build rhythm.
+That is very different from how the body was built to work. Glucose needs muscles to help handle it. Blood pressure and vessels need activity-driven regulation. Weight and waist circumference need an energy outlet. Sleep also needs enough daytime body use to build rhythm.
 
 So the first step is not necessarily "start exercising." It is first to let the body appear again during the day.
 
@@ -84,11 +84,11 @@ Of course, activity has boundaries. If exercise brings chest pain or pressure, o
 
 Ordinary families do not need to calculate every gram of nutrition first, and they do not need to start by studying every food's glycemic index, purine table, or fatty-acid ratio. It is more useful to ask two questions first: is the repeated daily load too high, and does the plate contain enough for the body to handle this meal gradually?
 
-The first things worth adjusting are often the defaults that appear frequently: has sweet drink become routine, is alcohol common, are late-night meals getting later, are takeout broth and sauces getting heavier, are refined grains and processed snacks arriving meal after meal? One item alone may not look dramatic. Connected together, they mean the body is handling high load every day.
+The first things worth adjusting are often the defaults that appear frequently: have sugary drinks become routine, is alcohol common, are late-night meals getting later, are restaurant or takeout sauces getting heavier, are refined grains and processed snacks arriving meal after meal? One item alone may not look dramatic. Connected together, they mean the body is handling high load every day.
 
-So plate structure is more useful than a list of taboos. Let vegetables, beans, whole grains, and good protein take the main roles first; then look at how much staple food is needed. Oil, salt, sugar, alcohol, and processed foods should mostly become supporting characters. Carbohydrates, fat, and meat are not enemies by nature, but source, combination, and frequency decide whether a meal is handled calmly or pushes the system into high load from the start.
+So plate structure is more useful than a list of taboos. Let vegetables, beans, whole grains, and good protein take the main roles first; then look at how much starch or grain the meal needs. Oil, salt, sugar, alcohol, and processed foods should mostly become supporting characters. Carbohydrates, fat, and meat are not enemies by nature, but source, combination, and frequency decide whether a meal is handled calmly or pushes the system into high load from the start.
 
-Glucose control is a good example. Once you understand the glucose curve, a lower-risk and easier starting point is not to let starch and sweets always appear alone: have a few bites of vegetables, beans or tofu, eggs, fish or meat, dairy, or another protein food in the meal before the staple; if you want something sweet, put it after a meal rather than as an empty-stomach snack; when eating staple foods, pair them with some fiber, protein, or healthy fat. A gentle walk after eating is also closer to how the body works than sitting down immediately after a meal.
+Glucose control is a good example. Once you understand the glucose curve, a lower-risk and easier starting point is not to let starches and sweets always appear alone: have a few bites of vegetables, beans or tofu, eggs, fish or meat, dairy, or another protein food in the meal before the starch or grain; if you want something sweet, put it after a meal rather than as an empty-stomach snack; when eating starchy foods, pair them with some fiber, protein, or healthy fat. A gentle walk after eating is also closer to how the body works than sitting down immediately after a meal.
 
 <figure class="book-figure">
   <img src="../assets/figures/fig-17-glucose-curve-meal-order.svg" alt="Meal order can make the glucose curve gentler">
@@ -96,13 +96,13 @@ Glucose control is a good example. Once you understand the glucose curve, a lowe
 
 Often, action does not need to begin with "quit everything." It can start with making this meal less of a shock. People who already have diabetes or use medication still need to manage according to clinician advice.
 
-Uric acid also illustrates the point well. Many people hear "high uric acid" and think only of seafood and beer. But uric acid also relates to body production, kidney clearance, weight, alcohol, sweetened drinks, insulin resistance, certain medicines, and genetic background. NIAMS information on gout also lists alcohol, sugary drinks, obesity, metabolic syndrome, kidney problems, certain medicines, and family background among risk factors rather than focusing on one food.
+Uric acid also illustrates the point well. Many people hear "high uric acid" and think only of seafood and beer. But uric acid also relates to body production, kidney clearance, weight, alcohol, sweetened drinks, insulin resistance, certain medications, and genetic background. NIAMS information on gout also lists alcohol, sugary drinks, obesity, metabolic syndrome, kidney problems, certain medications, and family background among risk factors rather than focusing on one food.
 
-That reminds us that lifestyle change is better started from repeated load. If someone with high uric acid only focuses on seafood while continuing alcohol, sweet drinks, late nights, weight and waist gain, the direction can easily drift. In contrast, taking alcohol out of the routine first, replacing sweet drinks, avoiding dehydration and extreme dieting, pulling back late-night meals and oversized staples, using less takeout broth and heavy sauces, and bringing vegetables, beans, whole grains, good protein, and enough fluids back into daily life are usually closer to the upstream. Every food does not need to be judged; what deserves attention is the habit that appears every day and repeatedly raises load.
+That reminds us that lifestyle change is better started from repeated load. If someone with high uric acid only focuses on seafood while continuing alcohol, sweet drinks, late nights, and weight or waist-circumference gain, the direction can easily drift. In contrast, taking alcohol out of the routine first, replacing sweet drinks, avoiding dehydration and extreme dieting, pulling back late-night meals and oversized portions of refined carbohydrates, using less salty restaurant or takeout sauce, and bringing vegetables, beans, whole grains, good protein, and enough fluids back into daily life are usually closer to the upstream. Every food does not need to be judged; what deserves attention is the habit that appears every day and repeatedly raises load.
 
-There is no need to promise "this will lower the number by X." The body is not a vending machine where one action is inserted and one number comes out. The steadier judgment is this: if the eating and drinking pattern is more stable over time, weight and waist, glucose, lipids, uric acid, fatty liver, and daytime energy have a better chance of moving in the right direction together.
+There is no need to promise "this will lower the number by X." The body is not a vending machine where one action is inserted and one number comes out. The steadier judgment is this: if the eating and drinking pattern is more stable over time, weight, waist circumference, glucose/A1C, cholesterol and triglycerides, uric acid, fatty liver, and daytime energy have a better chance of moving in the right direction together.
 
-People with diabetes, gout, high blood pressure, kidney disease, cardiovascular disease, or those using glucose-lowering, blood-pressure, lipid, uric-acid, diuretic, anticoagulant, or similar medicines should not treat diet changes as a replacement for treatment. What to eat, when to recheck, whether medicines are needed, and what targets apply should be discussed with clinicians.
+People with diabetes, gout, high blood pressure, kidney disease, cardiovascular disease, or those using glucose-lowering, blood-pressure, cholesterol, uric-acid, diuretic, anticoagulant, or similar medications should not treat diet changes as a replacement for treatment. What to eat, when to recheck, whether medications are needed, and what targets apply should be discussed with clinicians.
 
 ## Third Thing: Leave The Body A Recovery Window
 
@@ -154,7 +154,7 @@ The most important word here is not "restriction," but "discovery."
 
 You may discover that a ten-minute walk after meals is easier to keep than hard evening workouts; that replacing sweet drinks with unsweetened tea makes afternoons a little less foggy; that eating vegetables and protein first makes post-meal sleepiness milder; that continuing work messages before sleep worsens blood pressure and mood the next day; that uric acid, weight, alcohol, sweet drinks, and late nights may be related. These discoveries are more useful than slogans. They let the family move from "you should be disciplined" to "what pattern do we see, and what small thing do we change next?"
 
-Feedback does not need to be complicated. You can look at only a few lines: whether weight and waist are slowly changing, whether blood pressure has a trend, whether glucose or A1C, lipids, and uric acid move after clinician-recommended repeat testing, whether sleep and daytime energy improve, whether activity can be maintained, and which situations most easily make you lose control.
+Feedback does not need to be complicated. You can look at only a few lines: whether weight and waist circumference are slowly changing, whether blood pressure has a trend, whether glucose/A1C, cholesterol and triglycerides, and uric acid move after clinician-recommended repeat testing, whether sleep and daytime energy improve, whether activity can be maintained, and which situations most easily make you lose control.
 
 CDC materials on prediabetes include a direction worth borrowing: lifestyle change is not one burst of determination. It is small, manageable steps, learning healthier eating, increasing activity, managing stress, staying motivated, and solving problems. This applies beyond glucose. Many chronic risks need methods that can fit into life.
 
@@ -165,7 +165,7 @@ After reading this, do not renovate your whole life immediately. One small exper
 For the next seven days, do not change ten things at once. Choose one category:
 
 - Body: walk 10 minutes after meals each day, or turn one phone call, one commute segment, or one housework task into standing and moving;
-- Food and drink: remove one high-frequency load first, such as sweet drinks, late-night snacks, alcohol, takeout broth, or empty-stomach sweets;
+- Food and drink: remove one high-frequency load first, such as sugary drinks, late-night snacks, alcohol, salty restaurant or takeout sauces, or empty-stomach sweets;
 - Recovery: leave the last half hour before bed free from work messages and late short-video scrolling.
 
 Do not grade yourself, punish yourself, or hurry to announce a plan online. After seven days, ask only three questions: which small action was easiest to keep? Did the body give a little feedback? Can this action fit into the next seven days?
@@ -180,7 +180,7 @@ Common upstream work matters, but it is not a safety cushion.
 
 Do not rely only on self-adjustment in three types of situations.
 
-First, markers are already clearly abnormal, persistently abnormal, or abnormal in clusters. Second, there is already a diagnosed chronic disease, medication use, or a situation that needs more professional judgment: childhood, older age, pregnancy or postpartum, abnormal liver or kidney function, immunosuppression, multiple medicines, recent surgery or hospitalization. Third, chest pain or pressure, obvious shortness of breath, fainting, one-sided weakness, slurred speech, altered consciousness, severe pain, abnormal bleeding, or clear worsening after lifestyle changes appears.
+First, markers are already clearly abnormal, persistently abnormal, or abnormal in clusters. Second, there is already a diagnosed chronic disease, medication use, or a situation that needs more professional judgment: childhood, older age, pregnancy or postpartum, abnormal liver or kidney function, immunosuppression, multiple medications, recent surgery or hospitalization. Third, chest pain or pressure, obvious shortness of breath, fainting, one-sided weakness, slurred speech, altered consciousness, severe pain, abnormal bleeding, or clear worsening after lifestyle changes appears.
 
 The best place for lifestyle is in collaboration with medical judgment: before care, it can help lower load; during care, it helps clinicians see trends; after care, it supports chronic-disease management and rehabilitation over time. It is not a replacement for diagnosis, medicine, follow-up, or emergency judgment.
 

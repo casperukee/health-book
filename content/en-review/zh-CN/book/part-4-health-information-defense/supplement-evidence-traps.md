@@ -10,7 +10,7 @@
 
 因为进入家里的往往不只是一个产品，而是一种听起来很温和的承诺。
 
-晚饭后，家里有人拿出一个链接、一盒彩色包装，或者一段家庭群转来的视频：这不是药，是支持；不是治病，是维护健康；不是让你停药，只是帮你把底子打好。接着出现很多词：抗氧化、免疫、微循环、肠道菌群、细胞修复、抗衰通路。再配上几个“吃了睡得更好”“指标稳定了”“以前爬楼费劲现在能上楼”的故事，它就不再像粗糙骗局，而像一整套科学解释。
+晚饭后，家里有人拿出一个链接、一盒彩色包装，或者一段家庭群转来的视频：这不是药品，是支持；不是治病，是维护健康；不是让你停药，只是帮你把底子打好。接着出现很多词：抗氧化、免疫、微循环、肠道菌群、细胞修复、抗衰通路。再配上几个“吃了睡得更好”“指标稳定了”“以前爬楼费劲现在能上楼”的故事，它就不再像粗糙骗局，而像一整套科学解释。
 
 你听得警铃大作，对方却觉得你太冷。你说“别被骗”，对方听成“你又觉得我糊涂”。你说“没有证据”，对方听成“你不让我有希望”。
 
@@ -102,7 +102,7 @@
 
 有些产品即使风险不大，也未必值得长期花钱；有些东西看起来温和，却可能因为药物、手术或慢病而变得重要。
 
-所以不要把问题简化成“有没有毒”。更好的问题是：对我家这个人，放在他已经在用的药、已有疾病、随访计划和家庭经济承受能力里，整体风险是否可控？
+所以不要把问题简化成“有没有毒”。更好的问题是：对我家这个人，放在他已经在用的药物、已有疾病、随访计划和家庭经济承受能力里，整体风险是否可控？
 
 ## 先守住三条家庭边界
 
@@ -128,11 +128,11 @@
 
 换成冲突更低的说法：
 
-“我不是反对你支持身体。我先想确认它会不会影响现在的药或随访。”
+“我不是反对你支持身体。我先想确认它会不会影响现在的药物或随访。”
 
 “套餐先不急着付。把成分和说明拍下来，下次问医生或药师。”
 
-“如果只是普通营养支持，我们可以一起看。但如果它说能治病或替代药，就不能按普通食品买。”
+“如果只是普通营养支持，我们可以一起看。但如果它说能治病或替代药物，就不能按普通食品买。”
 
 “我支持你想舒服一点这个目标。先把高风险部分拦住：不大额付款，不停药，不拉别人一起买。”
 
@@ -163,14 +163,14 @@
 如果家里已经因为补剂争吵，不要从“你被骗了”开始。从这句话开始：
 
 ```text
-Let's not argue yet about whether it works. First let's confirm that it will not affect medicines, delay follow-up, or cost the family a large amount of money.
+Let's not argue yet about whether it works. First let's confirm that it will not affect medications, delay follow-up, or cost the family a large amount of money.
 ```
 
 这句话不完美，但它能把家庭从真假争吵拉回风险控制。
 
 ## 参考资料
 
-截至 2026-06-15，本章主要使用 FDA 关于膳食补充剂和健康欺诈的消费者资料、NIH Office of Dietary Supplements 的消费者资料、NCCIH 关于明智使用膳食补充剂的资料，以及 FTC 关于膳食补充剂宣称的资料，来校准补剂和药物区别、补剂风险、健康骗局和购买前判断边界。
+截至 2026-06-28，本章主要使用 FDA 关于膳食补充剂和健康欺诈的消费者资料、NIH Office of Dietary Supplements 的消费者资料、NCCIH 关于明智使用膳食补充剂的资料，以及 FTC 关于膳食补充剂宣称的资料，来校准补剂和药物区别、补剂风险、健康骗局和购买前判断边界。
 
 这些资料帮助家庭识别补剂证据陷阱和销售话术。它们不应用来判断某个具体人是否适合使用某个具体产品，也不提供用药、停药、替代治疗或个体化筛查建议。
 
@@ -185,5 +185,5 @@ Let's not argue yet about whether it works. First let's confirm that it will not
 ## 阅读导航
 
 - [回到英文主书目录验收页](../README.md)
-- 上一章：[4. Elder Care Basics: Protect Daily Independence 中文验收页](../part-3-family-health-os/elder-care-basics.md)
+- 上一章：[4. Older Adult Health And Care 中文验收页](../part-3-family-health-os/elder-care-basics.md)
 - 下一章：[2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying 中文验收页](devices-tests-and-longevity-marketing.md)

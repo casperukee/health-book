@@ -93,7 +93,7 @@
 
 ## 参考资料
 
-截至 2026-06-15，本页主要使用：
+截至 2026-06-28，本页主要使用：
 
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)

@@ -210,12 +210,12 @@ const englishBookSidebar = [
   {
     text: 'Chapter 2. The Main Risk Lines To Watch',
     items: [
-      { text: '1. Metabolic Health: Why Four Useful Systems Lose Balance', link: '/content/en/book/part-2-body-risk-map/metabolic-health' },
+      { text: '1. Metabolic Health: Blood Pressure, Cholesterol, Glucose, And Uric Acid', link: '/content/en/book/part-2-body-risk-map/metabolic-health' },
       { text: '2. Cardiovascular Event Chain: Risk Is Often Sudden Only At The End', link: '/content/en/book/part-2-body-risk-map/cardiovascular-event-chain' },
       { text: '3. Common Upstream: Lower The Load Before It Becomes A Diagnosis', link: '/content/en/book/part-2-body-risk-map/common-upstream' },
       { text: "4. Sleep And Recovery: The Body's Repair System", link: '/content/en/book/part-2-body-risk-map/sleep-and-recovery' },
       { text: '5. Brain And Mental Health: Start With Safety, Function, And Support', link: '/content/en/book/part-2-body-risk-map/brain-and-mental-health' },
-      { text: '6. Cancer And Major Illness: Find The Stage Before Fear Takes Over', link: '/content/en/book/part-2-body-risk-map/cancer-and-major-illness' },
+      { text: '6. Cancer And Serious Illness: Find The Stage Before Fear Takes Over', link: '/content/en/book/part-2-body-risk-map/cancer-and-major-illness' },
       { text: '7. Children And Adolescents: Body And Mind Grow Together', link: '/content/en/book/part-2-body-risk-map/children-and-adolescent-health' },
       { text: '8. Common Specialty Problems: Improve The Visit, Do Not Become The Doctor', link: '/content/en/book/part-2-body-risk-map/specialty-care-map' }
     ]
@@ -224,9 +224,9 @@ const englishBookSidebar = [
     text: 'Chapter 3. When Health Becomes A Family System',
     items: [
       { text: '1. What A Family Health System Actually Manages: Facts And Boundaries, Not People', link: '/content/en/book/part-3-family-health-os/what-to-manage' },
-      { text: '2. Preparing For A Doctor Visit: Bring Facts Into The Room', link: '/content/en/book/part-3-family-health-os/doctor-visit-preparation' },
+      { text: '2. How To Prepare For A Medical Visit: Bring Facts Into The Room', link: '/content/en/book/part-3-family-health-os/doctor-visit-preparation' },
       { text: '3. Talking With Parents About Health: Do Not Turn Care Into Control', link: '/content/en/book/part-3-family-health-os/talking-with-parents' },
-      { text: '4. Elder Care Basics: Protect Daily Independence', link: '/content/en/book/part-3-family-health-os/elder-care-basics' }
+      { text: '4. Older Adult Health And Care: Protect Daily Independence', link: '/content/en/book/part-3-family-health-os/elder-care-basics' }
     ]
   },
   {
@@ -255,7 +255,7 @@ const englishHandbookSidebar = [
       { text: 'Red Flags', link: '/content/en/handbook/playbooks/red-flags' },
       { text: 'Symptom Action Guide', link: '/content/en/handbook/playbooks/symptom-action-guide' },
       { text: 'Mental Health Check-In', link: '/content/en/handbook/playbooks/mental-health-check-in' },
-      { text: 'Department Navigation', link: '/content/en/handbook/playbooks/department-navigation-guide' },
+      { text: 'Care Entry And Specialist Navigation', link: '/content/en/handbook/playbooks/department-navigation-guide' },
       { text: 'Before A Checkup', link: '/content/en/handbook/playbooks/checkup-planning-guide' },
       { text: 'Common Checkup Markers', link: '/content/en/handbook/playbooks/common-checkup-markers' },
       { text: 'Doctor Visit Checklist', link: '/content/en/handbook/playbooks/doctor-visit-checklist' },
@@ -320,12 +320,12 @@ const englishUpdatesSidebar = [
       { text: 'Cardiovascular Event Chain Writing Packet', link: '/content/en/updates/writing-packets/cardiovascular-event-chain' },
       { text: 'Sleep And Recovery Writing Packet', link: '/content/en/updates/writing-packets/sleep-and-recovery' },
       { text: 'Brain And Mental Health Writing Packet', link: '/content/en/updates/writing-packets/brain-and-mental-health' },
-      { text: 'Cancer And Major Illness Writing Packet', link: '/content/en/updates/writing-packets/cancer-and-major-illness' },
+      { text: 'Cancer And Serious Illness Writing Packet', link: '/content/en/updates/writing-packets/cancer-and-major-illness' },
       { text: 'Specialty Care Map Writing Packet', link: '/content/en/updates/writing-packets/specialty-care-map' },
       { text: 'What To Manage Writing Packet', link: '/content/en/updates/writing-packets/what-to-manage' },
-      { text: 'Doctor Visit Preparation Writing Packet', link: '/content/en/updates/writing-packets/doctor-visit-preparation' },
+      { text: 'Medical Visit Preparation Writing Packet', link: '/content/en/updates/writing-packets/doctor-visit-preparation' },
       { text: 'Talking With Parents Writing Packet', link: '/content/en/updates/writing-packets/talking-with-parents' },
-      { text: 'Elder Care Basics Writing Packet', link: '/content/en/updates/writing-packets/elder-care-basics' },
+      { text: 'Older Adult Health And Care Writing Packet', link: '/content/en/updates/writing-packets/elder-care-basics' },
       { text: 'Supplement Evidence Traps Writing Packet', link: '/content/en/updates/writing-packets/supplement-evidence-traps' },
       { text: 'Devices And Longevity Marketing Writing Packet', link: '/content/en/updates/writing-packets/devices-tests-and-longevity-marketing' },
       { text: 'Reading Health News Writing Packet', link: '/content/en/updates/writing-packets/reading-health-news' },
@@ -411,12 +411,12 @@ const reviewUpdatesSidebar = [
       { text: 'Cardiovascular Event Chain Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/cardiovascular-event-chain' },
       { text: 'Sleep And Recovery Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/sleep-and-recovery' },
       { text: 'Brain And Mental Health Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/brain-and-mental-health' },
-      { text: 'Cancer And Major Illness Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/cancer-and-major-illness' },
+      { text: 'Cancer And Serious Illness Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/cancer-and-major-illness' },
       { text: 'Specialty Care Map Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/specialty-care-map' },
       { text: 'What To Manage Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/what-to-manage' },
-      { text: 'Doctor Visit Preparation Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/doctor-visit-preparation' },
+      { text: 'Medical Visit Preparation Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/doctor-visit-preparation' },
       { text: 'Talking With Parents Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/talking-with-parents' },
-      { text: 'Elder Care Basics Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/elder-care-basics' },
+      { text: 'Older Adult Health And Care Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/elder-care-basics' },
       { text: 'Supplement Evidence Traps Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/supplement-evidence-traps' },
       { text: 'Devices And Longevity Marketing Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/devices-tests-and-longevity-marketing' },
       { text: 'Reading Health News Writing Packet 中文验收页', link: '/content/en-review/zh-CN/updates/writing-packets/reading-health-news' },

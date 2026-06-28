@@ -20,6 +20,6 @@
 ## 章节
 
 - [1. What A Family Health System Actually Manages 中文验收页](what-to-manage.md)
-- [2. Preparing For A Doctor Visit 中文验收页](doctor-visit-preparation.md)
+- [2. How To Prepare For A Medical Visit 中文验收页](doctor-visit-preparation.md)
 - [3. Talking With Parents About Health 中文验收页](talking-with-parents.md)
 - [4. Older Adult Health And Care 中文验收页](elder-care-basics.md)

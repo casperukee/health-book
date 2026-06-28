@@ -14,13 +14,13 @@ evidence_status: needs_periodic_review
 
 # 1. Supplement Evidence Traps: "Trying It" Is Not Always Harmless
 
-> Supplements, herbs, and dietary products can interact with medicines, medical conditions, surgery, pregnancy and postpartum care, and liver or kidney function. Do not use any product to replace regular diagnosis, treatment, follow-up, or emergency care. If someone is taking medication, has a chronic condition, is preparing for surgery, is pregnant or postpartum, is a child or older adult, or has abnormal liver or kidney function, ask a clinician or pharmacist first.
+> Supplements, herbs, and dietary products can interact with medications, medical conditions, surgery, pregnancy and postpartum care, and liver or kidney function. Do not use any product to replace regular diagnosis, treatment, follow-up, or emergency care. If someone is taking medication, has a chronic condition, is preparing for surgery, is pregnant or postpartum, is a child or older adult, or has abnormal liver or kidney function, ask a clinician or pharmacist first.
 
 Once a family starts putting facts, boundaries, next steps, and roles on the table, health purchases become harder to judge.
 
 Because what enters the home is often not simply a product. It is a promise that sounds gentle.
 
-After dinner, someone brings out a link, a colorful box, or a video forwarded in a family chat: this is not medicine, it is support; it is not treating disease, it is maintaining health; it is not asking you to stop medication, it just helps strengthen the foundation. Then come the words: antioxidants, immunity, microcirculation, gut microbiome, cellular repair, anti-aging pathways. Add a few stories like "I slept better after taking it," "my numbers became stable," or "I used to struggle with stairs and now I can climb them," and it no longer sounds like a crude scam. It sounds like a complete scientific explanation.
+After dinner, someone brings out a link, a colorful box, or a video forwarded in a family chat: this is not a drug, it is support; it is not treating disease, it is maintaining health; it is not asking you to stop medication, it just helps strengthen the foundation. Then come the words: antioxidants, immunity, microcirculation, gut microbiome, cellular repair, anti-aging pathways. Add a few stories like "I slept better after taking it," "my numbers became stable," or "I used to struggle with stairs and now I can climb them," and it no longer sounds like a crude scam. It sounds like a complete scientific explanation.
 
 Your alarm bells ring, but the other person feels you are cold. You say "do not be fooled," and they hear "you think I am confused again." You say "there is no evidence," and they hear "you will not let me have hope."
 
@@ -50,11 +50,11 @@ I do not want to portray everyone who recommends supplements as a fraud. Many pe
 
 When judging a supplement, do not start with "does it work?" Start with a simpler question: what does this message ultimately want me to do?
 
-It may only want you to buy a small bottle of a nutrient product. Or it may want you to subscribe long term, join a membership, pay for a package, enter a private group, listen to more classes, forward messages for a friend, and recruit relatives into resale. More dangerously, it may make you increasingly suspicious of clinicians, follow-up, prescription medicines, and regular treatment.
+It may only want you to buy a small bottle of a nutrient product. Or it may want you to subscribe long term, join a membership, pay for a package, enter a private group, listen to more classes, forward messages for a friend, and recruit relatives into resale. More dangerously, it may make you increasingly suspicious of clinicians, follow-up, prescription medications, and regular treatment.
 
 The same phrase, "supports immunity," can lead in very different directions.
 
-If the exit is low-cost, short-term, not overpromised, and does not affect medical care, it may be ordinary spending that should simply be recorded. If the exit becomes "do not let your doctor know," "you can slowly reduce the medicine," "hospitals only treat symptoms," "only a few discounted spots are left," or "if you do not buy this, you do not care about health," it is no longer ordinary spending. It is changing who controls the family's health decisions.
+If the exit is low-cost, short-term, not overpromised, and does not affect medical care, it may be ordinary spending that should simply be recorded. If the exit becomes "do not let your doctor know," "you can slowly reduce the medication," "hospitals only treat symptoms," "only a few discounted spots are left," or "if you do not buy this, you do not care about health," it is no longer ordinary spending. It is changing who controls the family's health decisions.
 
 The most important question in health spending is not "does this sentence contain a little truth?" It is whether the message pulls a person away from clinicians, family, and stable records, and into a sales site, group pressure, and one product.
 
@@ -70,11 +70,11 @@ Second, "no harm" is not the same as actually safe.
 
 Dietary supplements and drugs are not the same. Drugs face more stringent evidence and regulatory requirements around treating disease, effectiveness, and safety. Supplements generally are not meant to treat disease, and being on the market does not mean they have been proven like drugs to be safe and effective for a specific disease.
 
-Natural ingredients can still affect clotting, blood pressure, blood sugar, liver and kidney function, anesthesia, surgery planning, or prescription medicines. The more someone is an older adult, has chronic disease, takes medicines, is preparing for surgery, is pregnant or breastfeeding, is a child, or is in cancer treatment, the less "food," "natural," "traditional," or "plant extract" can be treated as a safety certificate.
+Natural ingredients can still affect clotting, blood pressure, blood glucose, liver and kidney function, anesthesia, surgery planning, or prescription medications. The more someone is an older adult, has chronic disease, takes medications, is preparing for surgery, is pregnant or breastfeeding, is a child, or is in cancer treatment, the less "food," "natural," "traditional," or "plant extract" can be treated as a safety certificate.
 
 Third, "what if it works" ignores opportunity cost.
 
-If someone delays follow-up, reduces medicine, refuses testing, or spends limited money and attention on the product because of it, the real loss is not the bottle. It is the medical action that could have happened earlier.
+If someone delays follow-up, reduces medication, refuses testing, or spends limited money and attention on the product because of it, the real loss is not the bottle. It is the medical action that could have happened earlier.
 
 The largest risk of supplements is often not "no effect." It is that they make people miss the thing they actually needed to do.
 
@@ -110,9 +110,9 @@ A study may use an ingredient with a specific purity, dose, form, and production
 
 Trap five: natural does not mean safe, and safe does not mean worth buying.
 
-Some products may have low risk and still not be worth long-term spending. Others look gentle but may matter because of medicines, surgery, or chronic disease.
+Some products may have low risk and still not be worth long-term spending. Others look gentle but may matter because of medications, surgery, or chronic disease.
 
-So do not simplify the question into "is it toxic?" A better question is: for this person in our family, considering the medicines they already use, the conditions they already have, their follow-up plan, and the family's financial capacity, is the overall risk controllable?
+So do not simplify the question into "is it toxic?" A better question is: for this person in our family, considering the medications they already use, the conditions they already have, their follow-up plan, and the family's financial capacity, is the overall risk controllable?
 
 ## Protect Three Family Boundaries First
 
@@ -126,11 +126,11 @@ Once these three boundaries are protected, many conflicts become clearer: we are
 
 ## Three Risk Levels
 
-- **Lower risk:** the price is modest, it does not replace medical care, it does not affect medicines or follow-up, it makes no exaggerated promise, and the user is not an older adult, child, pregnant or postpartum person, person with chronic disease, complex medication user, or person in cancer treatment.
-- **Needs confirmation:** if the user has chronic disease, takes medicines, is older, is preparing for surgery or dental work, has liver or kidney problems, has bleeding risk, is pregnant or postpartum, is a child or adolescent, or is in cancer treatment or recovery, do not rely only on sales language.
-- **High risk:** it asks someone to stop medicine, reduce medicine, skip tests, or delay treatment; claims to cure or reverse disease; uses time pressure, membership resale, recruitment, or investment returns; or tells you not to ask a clinician.
+- **Lower risk:** the price is modest, it does not replace medical care, it does not affect medications or follow-up, it makes no exaggerated promise, and the user is not an older adult, child, pregnant or postpartum person, person with chronic disease, complex medication user, or person in cancer treatment.
+- **Needs confirmation:** if the user has chronic disease, takes medications, is older, is preparing for surgery or dental work, has liver or kidney problems, has bleeding risk, is pregnant or postpartum, is a child or adolescent, or is in cancer treatment or recovery, do not rely only on sales language.
+- **High risk:** it asks someone to stop medication, reduce medication, skip tests, or delay treatment; claims to cure or reverse disease; uses time pressure, membership resale, recruitment, or investment returns; or tells you not to ask a clinician.
 
-When a more detailed check is needed, photograph the package, ingredients, dose, purchase channel, price, and the user's health background, then go through the [health product checklist](../../handbook/templates/health-product-checklist.md). If medicines, surgery, chronic disease, pregnancy or postpartum, children, older adults, or cancer treatment are involved, ask a clinician or pharmacist first.
+When a more detailed check is needed, photograph the package, ingredients, dose, purchase channel, price, and the user's health background, then go through the [health product checklist](../../handbook/templates/health-product-checklist.md). If medications, surgery, chronic disease, pregnancy or postpartum, children, older adults, or cancer treatment are involved, ask a clinician or pharmacist first.
 
 ## How To Talk With Family
 
@@ -138,11 +138,11 @@ Saying "scam" directly usually does not work. It turns the question from "has th
 
 Use lower-conflict language:
 
-"I am not against you supporting your body. I first want to confirm whether this affects your current medicines or follow-up."
+"I am not against you supporting your body. I first want to confirm whether this affects your current medications or follow-up."
 
 "Let's not pay for the package yet. Take photos of the ingredients and instructions, and ask a clinician or pharmacist next time."
 
-"If it is ordinary nutrition support, we can look at it together. But if it says it treats disease or replaces medicine, we cannot buy it like ordinary food."
+"If it is ordinary nutrition support, we can look at it together. But if it says it treats disease or replaces medication, we cannot buy it like ordinary food."
 
 "I support the goal of feeling better. Let's block the high-risk parts first: no large payment, no stopping medication, and no recruiting others to buy."
 
@@ -158,29 +158,29 @@ First, will it replace medical care? If it implies stopping medication, reducing
 
 Second, will it create long-term payment and relationship pressure? If it requires membership, stocking up on courses or packages, joining groups, becoming a representative, recruiting relatives, or using limited-time spots and fear to push payment, it is already more than "one bottle."
 
-Third, is the user a higher-risk person? Older adults, children, pregnant or postpartum people, people with chronic disease, people in cancer treatment or recovery, people with abnormal liver or kidney function, people with bleeding risk, people preparing for surgery or dental work, and people taking multiple medicines should not decide from sales language alone.
+Third, is the user a higher-risk person? Older adults, children, pregnant or postpartum people, people with chronic disease, people in cancer treatment or recovery, people with abnormal liver or kidney function, people with bleeding risk, people preparing for surgery or dental work, and people taking multiple medications should not decide from sales language alone.
 
 If the answer is still unclear, do not rush to buy. In health spending, being able to wait is often the most important protection.
 
-When asking a clinician or pharmacist, do not only say, "Is it okay if I take a supplement?" Bring the product name, full ingredient list, dose, photos, purchase channel, current medicines, and existing conditions. The more complete the view, the easier it is for a professional to judge risk.
+When asking a clinician or pharmacist, do not only say, "Is it okay if I take a supplement?" Bring the product name, full ingredient list, dose, photos, purchase channel, current medications, and existing conditions. The more complete the view, the easier it is for a professional to judge risk.
 
 ## Start With The Most Worrying Products
 
-You do not need to investigate every supplement in the house this month. First find three kinds worth worrying about most: the most expensive, the biggest promises, and the least clear relationship with current medicines.
+You do not need to investigate every supplement in the house this month. First find three kinds worth worrying about most: the most expensive, the biggest promises, and the least clear relationship with current medications.
 
-These are the products most likely to create real losses: long-term spending, crowding out follow-up and treatment that should have happened, or making family members hide, argue, and pull each other into conflict. Putting their packaging, payment records, recommendation source, current medicines, and existing conditions together is more useful than debating whether every bottle is true or false.
+These are the products most likely to create real losses: long-term spending, crowding out follow-up and treatment that should have happened, or making family members hide, argue, and pull each other into conflict. Putting their packaging, payment records, recommendation source, current medications, and existing conditions together is more useful than debating whether every bottle is true or false.
 
 If the family is already arguing over supplements, do not start with "you were fooled." Start with this sentence:
 
 ```text
-Let's not argue yet about whether it works. First let's confirm that it will not affect medicines, delay follow-up, or cost the family a large amount of money.
+Let's not argue yet about whether it works. First let's confirm that it will not affect medications, delay follow-up, or cost the family a large amount of money.
 ```
 
 This sentence is not perfect, but it can pull the family back from a true-or-false fight into risk control.
 
 ## References
 
-As of 2026-06-15, this chapter mainly uses FDA consumer materials on dietary supplements and health fraud, NIH Office of Dietary Supplements consumer materials, NCCIH materials on using dietary supplements wisely, and FTC materials on dietary supplement claims to calibrate the difference between supplements and drugs, supplement risk, health scams, and before-purchase judgment boundaries.
+As of 2026-06-28, this chapter mainly uses FDA consumer materials on dietary supplements and health fraud, NIH Office of Dietary Supplements consumer materials, NCCIH materials on using dietary supplements wisely, and FTC materials on dietary supplement claims to calibrate the difference between supplements and drugs, supplement risk, health scams, and before-purchase judgment boundaries.
 
 These materials help families identify supplement evidence traps and sales language. They should not be used to decide whether a specific person should use a specific product, and they do not provide medication, stopping-medication, alternative-treatment, or individualized screening advice.
 
@@ -195,5 +195,5 @@ The most dangerous part of supplement problems is not only buying the wrong bott
 ## Reading Navigation
 
 - [Back to English book contents](../README.md)
-- Previous chapter: [4. Elder Care Basics: Protect Daily Independence](../part-3-family-health-os/elder-care-basics.md)
+- Previous chapter: [4. Older Adult Health And Care: Protect Daily Independence](../part-3-family-health-os/elder-care-basics.md)
 - Next chapter: [2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying](devices-tests-and-longevity-marketing.md)

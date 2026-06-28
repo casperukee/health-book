@@ -29,7 +29,7 @@ It applies to dietary supplements, herbs, nutrition products, health devices, ho
   <section class="decision-card decision-card-yellow">
     <div class="decision-label">Yellow: ask first</div>
     <h3>May involve personal medical risk</h3>
-    <p>The user is an older adult, child, pregnant or postpartum, has chronic disease, takes multiple medicines, has liver/kidney problems, is before or after surgery, or is in cancer treatment.</p>
+    <p>The user is an older adult, child, pregnant or postpartum, has chronic disease, takes multiple medications, has liver/kidney problems, is before or after surgery, or is in cancer treatment.</p>
   </section>
   <section class="decision-card decision-card-blue">
     <div class="decision-label">Blue: slow down</div>
@@ -58,7 +58,7 @@ When a family member wants to buy, you can say:
 
 ```text
 Let's not decide this immediately. I will help photograph the ingredients, price, and cautions.
-If it does not affect medicines, delay follow-up, or cost too much, we can look slowly.
+If it does not affect medications, delay follow-up, or cost too much, we can look slowly.
 But if it involves stopping medication, a high-priced package, membership, recruiting, or secrecy, we block it first.
 ```
 
@@ -82,7 +82,7 @@ It cannot replace follow-up, medical care, medication, regular screening, sleep,
 
 ### 4. Does the user have special risk?
 
-Older adults, children, pregnant or postpartum people, chronic disease, multiple medicines, liver or kidney problems, before/after surgery, and cancer treatment all require asking a clinician or pharmacist first.
+Older adults, children, pregnant or postpartum people, chronic disease, multiple medications, liver or kidney problems, before/after surgery, and cancer treatment all require asking a clinician or pharmacist first.
 
 ### 5. Are money and privacy controllable?
 
@@ -103,7 +103,7 @@ Can buy: low cost, low risk, stoppable, does not replace medical care, and every
 
 ## References
 
-As of 2026-06-15, this page mainly uses:
+As of 2026-06-28, this page mainly uses:
 
 - FDA: [Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)
 - FDA: [Dietary Supplements](https://www.fda.gov/food/dietary-supplements)

@@ -2,7 +2,7 @@
 
 This part builds the risk language for the whole book.
 
-For many families, the first serious health moment does not begin with a diagnosis. It begins when a checkup report has arrows, a parent starts worrying about one number, someone nearby gets sick suddenly, or you realize your body no longer "recovers automatically" the way it did in your twenties.
+For many families, the first serious health moment does not begin with a diagnosis. It begins when lab results or checkup findings are flagged, a parent starts worrying about one number, someone nearby gets sick suddenly, or you realize your body no longer "recovers automatically" the way it did in your twenties.
 
 This chapter answers two questions first:
 

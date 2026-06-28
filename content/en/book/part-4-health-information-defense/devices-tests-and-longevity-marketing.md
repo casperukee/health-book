@@ -12,7 +12,7 @@ evidence_status: needs_periodic_review
 
 # 2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying
 
-> Health devices, direct-to-consumer tests, and longevity products cannot replace clinician diagnosis, screening, treatment, medication decisions, stopping-medication decisions, follow-up, or emergency judgment. If there is chest pain, trouble breathing, fainting, stroke-like symptoms, severe pain, abnormal bleeding, or an abnormal device reading together with obvious discomfort, seek medical care or contact local emergency services promptly.
+> Health devices, direct-to-consumer tests, and longevity products cannot replace clinician diagnosis, screening, treatment, medication decisions, stopping-medication decisions, follow-up, or emergency judgment. If there is chest pain, trouble breathing, fainting, stroke-like symptoms, severe pain, abnormal bleeding, or an abnormal device reading together with obvious discomfort, call 911 or local emergency services, go to an emergency department, or seek urgent medical care promptly as appropriate.
 
 The supplement argument that most easily splits a family is "trying it cannot hurt." Health devices, tests, and longevity marketing are harder, because what enters the home is no longer just a bottle. It is a whole set of technology that looks objective.
 
@@ -121,15 +121,15 @@ Longevity claims need stricter judgment than ordinary health spending because th
 
 First, they swap short-term markers for long-term outcomes.
 
-A pathway being activated, a marker becoming "younger," or a fatigue score improving does not mean longer life, fewer major diseases, less disability, or long-term safety.
+A pathway being activated, a marker becoming "younger," or a fatigue score improving does not mean longer life, fewer serious diseases, less disability, or long-term safety.
 
-Second, they mix medicines, supplements, devices, and lifestyle into one category.
+Second, they mix medications, supplements, devices, and lifestyle into one category.
 
-A medicine having a clear role in treating a disease does not mean a healthy person should self-use it long term for longevity. A supplement having research potential does not mean the product on the market has the same effect. A device changing a local marker does not mean whole-body anti-aging.
+A medication having a clear role in treating a disease does not mean a healthy person should self-use it long term for longevity. A supplement having research potential does not mean the product on the market has the same effect. A device changing a local marker does not mean whole-body anti-aging.
 
 Third, they move attention away from the base layer.
 
-The most certain, long-term, low-cost, repeatable base layer for healthspan is still sleep, activity, diet, weight, blood pressure, cholesterol and glucose management, dental care, vaccines, not smoking, limiting alcohol, mental recovery, and social connection. If a longevity program makes people ignore these, it is using advanced language to sell health anxiety.
+The most certain, long-term, low-cost, repeatable base layer for healthspan is still sleep, activity, diet, weight, blood pressure, cholesterol and triglyceride management, glucose/A1C management, dental care, vaccines, not smoking, limiting alcohol, mental recovery, and social connection. If a longevity program makes people ignore these, it is using advanced language to sell health anxiety.
 
 Anti-aging is not something that should never be researched, and not every new technology is worthless. A better stance is: welcome research, be cautious with self-use; respect hope, but do not outsource hope to a package.
 
@@ -156,7 +156,7 @@ When facing health devices, tests, and longevity programs, do not rush to decide
   <section class="decision-card decision-card-red">
     <span class="decision-label">Intercept directly</span>
     <h3>Replaces treatment or creates pressure</h3>
-    <p>It claims to cure or reverse major disease, replace regular treatment, stop medicines or tests, stresses scarce slots and expensive packages, or tells you not to consult clinicians or family.</p>
+    <p>It claims to cure or reverse serious disease, replace regular treatment, stop medications or skip tests, stresses scarce slots and expensive packages, or tells you not to consult clinicians or family.</p>
   </section>
 </div>
 
@@ -189,9 +189,9 @@ Do not handle the following situations by relying on devices, test reports, or l
 - chest pain, trouble breathing, fainting, stroke-like symptoms, severe pain, or abnormal bleeding;
 - an abnormal device reading together with obvious discomfort;
 - a normal device reading while symptoms continue or worsen;
-- a test result that may lead you to change prescription medicine, surgery, screening, or cancer treatment plans;
-- a consumer report suggesting major disease risk that needs further explanation;
-- a longevity or testing program that asks you to stop medicines, stop treatment, or delay follow-up;
+- a test result that may lead you to change prescription medication, surgery, screening, or cancer treatment plans;
+- a consumer report suggesting serious disease risk that needs further explanation;
+- a longevity or testing program that asks you to stop medications, stop treatment, or delay follow-up;
 - expensive packages, long-term memberships, loans, investment pitches, recruiting, or hiding the purchase from family.
 
 Health tools can help you see changes earlier, but they cannot carry medical judgment for you.
@@ -210,7 +210,7 @@ If the product also involves supplements, dietary products, or herbs, read [1. S
 
 ## References
 
-As of 2026-06-15, this chapter mainly uses FDA materials on home and consumer health devices, medical devices, the boundaries among FDA registered/certified/cleared/authorized/approved language, direct-to-consumer tests, and health fraud, as well as FTC materials on common health scams, to calibrate home devices, consumer tests, regulatory language, longevity marketing, and health fraud boundaries.
+As of 2026-06-28, this chapter mainly uses FDA materials on home and consumer health devices, medical devices, the boundaries among FDA registered/certified/cleared/authorized/approved language, direct-to-consumer tests, and health fraud, as well as FTC materials on common health scams, to calibrate home devices, consumer tests, regulatory language, longevity marketing, and health fraud boundaries.
 
 These materials calibrate home and consumer medical devices, registered/certified/approved language, direct-to-consumer tests, health fraud, and longevity-marketing risk. This chapter does not evaluate any specific product and does not provide diagnosis, screening, medication, stopping-medication, treatment, anti-aging protocol, or individualized testing advice.
 

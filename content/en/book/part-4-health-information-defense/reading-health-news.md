@@ -12,15 +12,15 @@ evidence_status: stable
 
 # 3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down
 
-> Do not stop medication, change medication, refuse treatment, change a screening plan, or buy a high-risk product based on one news item, short video, social media post, or single study. When disease, medication, screening, treatment, pregnancy or postpartum, children, older adults, or major health spending are involved, check authoritative sources first and consult a clinician, pharmacist, or relevant professional.
+> Do not stop medication, change medication, refuse treatment, change a screening plan, or buy a high-risk product based on one news item, short video, social media post, or single study. When disease, medication, screening, treatment, pregnancy or postpartum, children, older adults, or substantial health-related spending are involved, check authoritative sources first and consult a clinician, pharmacist, or relevant professional.
 
 The previous two chapters discussed supplements, health devices, tests, and longevity marketing. Behind all of them is a common move: pushing worry toward a purchase, a test, or a program.
 
 Health news, new studies, and short videos are trickier. They do not always sell something at the beginning. Sometimes they only seem to remind you to "pay attention to health," but after reading or watching, people cannot help wanting to do something immediately.
 
-In the morning you see a headline saying a common food causes cancer, and you want to throw things out of the fridge. At noon a family chat forwards a video saying a long-term medicine harms the liver, and your parents begin wondering whether to stop it. At night you see another "latest study proves" claim that one habit extends life, one test detects risk earlier, or one treatment has overturned standard care.
+In the morning you see a headline saying a common food causes cancer, and you want to throw things out of the fridge. At noon a family chat forwards a video saying a long-term medication harms the liver, and your parents begin wondering whether to stop it. At night you see another "latest study proves" claim that one habit extends life, one test detects risk earlier, or one treatment has overturned standard care.
 
-Not all of this information is false. The real danger is turning one piece of information directly into a personal medical action: stopping medicine, refusing follow-up, changing screening, buying an expensive product, or asking older adults, children, pregnant or postpartum family members, or people with chronic disease to follow it.
+Not all of this information is false. The real danger is turning one piece of information directly into a personal medical action: stopping medication, refusing follow-up, changing screening, buying an expensive product, or asking older adults, children, pregnant or postpartum family members, or people with chronic disease to follow it.
 
 The first step in reading health information is not immediately judging whether it is true or false. It is turning it from a "command" back into a "clue."
 
@@ -38,7 +38,7 @@ So the question that comes even before "is this true?" is:
 
 What action does it want me to take?
 
-If it only helps you understand, save it. If it needs verification, slow down. If it concerns a specific disease, medicine, screening, treatment, or major purchase, turn it into a question for a clinician, pharmacist, or authoritative source. If it asks you to stop medication immediately, refuse care, replace treatment, or pay a large amount of money, intercept it first.
+If it only helps you understand, save it. If it needs verification, slow down. If it concerns a specific disease, medication, screening, treatment, or major purchase, turn it into a question for a clinician, pharmacist, or authoritative source. If it asks you to stop medication immediately, refuse care, replace treatment, or pay a large amount of money, intercept it first.
 
 ## Four Actions: Save, Verify, Ask A Clinician, Pause
 
@@ -58,7 +58,7 @@ Not every health message deserves serious handling. For most information, the be
   <section class="decision-card decision-card-yellow">
     <span class="decision-label">Ask a clinician</span>
     <h3>Personal situation; write it as a question</h3>
-    <p>If a parent is taking a medicine, a child has a symptom, a family member is in cancer follow-up, or a checkup report is abnormal, do not act on your own immediately.</p>
+    <p>If a parent is taking a medication, a child has a symptom, a family member is in cancer follow-up, or a lab or screening result is flagged, do not act on your own immediately.</p>
   </section>
   <section class="decision-card decision-card-red">
     <span class="decision-label">Pause</span>
@@ -73,7 +73,7 @@ Truly important information can survive moving a little slower. What cannot surv
 
 When you see a piece of health information, do not rush to send it to family. Pause one more layer, and a lot of information reveals its direction by itself.
 
-First, look at who is speaking. Is it an official agency, professional association, established hospital, researcher, media organization, company, individual account, or someone selling a product? Identity does not guarantee correctness, but it does indicate responsibility boundaries and possible conflicts of interest. If an account teaches medicine while also selling tests, supplements, programs, courses, or private services, raise the evidence requirement.
+First, look at who is speaking. Is it an official agency, professional association, established hospital, researcher, media organization, company, individual account, or someone selling a product? Identity does not guarantee correctness, but it does indicate responsibility boundaries and possible conflicts of interest. If an account gives medical or health advice while also selling tests, supplements, programs, courses, or private services, raise the evidence requirement.
 
 Then look at what it wants you to do. Is it only helping you understand a concept, or asking you to buy, stop medication, test, switch treatment, or forward it to family? The closer the action is to a medical decision, the higher the evidence requirement.
 
@@ -91,7 +91,7 @@ The problem is that short video naturally rewards certainty: the title must be s
 
 Several patterns are common in short videos.
 
-One is packaging the speaker as "the person telling the truth." It begins with "many doctors dare not say this," "industry secrets," or "finally someone explains it clearly," making you feel that regular medicine is hiding something.
+One is packaging the speaker as "the person telling the truth." It begins with "many doctors dare not say this," "industry secrets," or "finally someone explains it clearly," making you feel that mainstream medical care is hiding something.
 
 Another is using the comment section as evidence. Hundreds of comments like "my mother improved after using it," "my friend found it early," or "I regret learning this late" sound like testimony, but they cannot replace research, guidelines, or clinical judgment.
 
@@ -149,7 +149,7 @@ If the answer is medication, screening, treatment, or buying an expensive produc
 
 Health information in a family chat is often not only an information problem.
 
-When parents forward "you cannot eat this," they may be worrying about their children. When a partner sends an anti-aging video, they may be afraid of getting older. When a relative sends "a doctor says long-term medicine is harmful," they may feel insecure about chronic medication.
+When parents forward "you cannot eat this," they may be worrying about their children. When a partner sends an anti-aging video, they may be afraid of getting older. When a relative sends "a doctor says long-term medication is harmful," they may feel insecure about chronic medication.
 
 If you reply only "fake," what the other person hears may not be "this information has a problem," but "your worry is stupid." Once the relationship tightens, the information becomes harder to handle.
 
@@ -165,14 +165,14 @@ A steadier response is to turn the argument into a next step.
 
 "Let's first see whether it is talking about research, news, or an advertisement."
 
-The goal of a family chat is not winning a science debate. It is preventing high-risk action and moving the family back from "forward now, buy now, stop medicine now" to "verify first, record first, ask a clinician first."
+The goal of a family chat is not winning a science debate. It is preventing high-risk action and moving the family back from "forward now, buy now, stop medication now" to "verify first, record first, ask a clinician first."
 
 ## Raise Your Guard Immediately When You See These Signals
 
 Some signals are not worth slowly debating in the family chat.
 
 - promises to cure, reverse, have no side effects, or work for everyone;
-- attacks regular medicine while selling products, courses, tests, communities, or programs;
+- attacks mainstream medical care while selling products, courses, tests, communities, or programs;
 - uses mainly cases, screenshots, chat records, celebrity experiences, or comment-section feedback as evidence;
 - asks people to stop or switch medication, refuse surgery, refuse chemotherapy, cancel screening, or delay follow-up;
 - recommends extreme plans for older adults, children, pregnant or postpartum people, cancer patients, or people with chronic disease;
@@ -194,7 +194,7 @@ If the information involves products, tests, devices, supplements, or longevity 
 
 ## References
 
-As of 2026-06-15, this chapter mainly uses MedlinePlus materials on evaluating health information, NCCIH materials on evaluating online resources and reading scientific papers, NIH public materials on clinical research, and FTC materials on common health scams.
+As of 2026-06-28, this chapter mainly uses MedlinePlus materials on evaluating health information, NCCIH materials on evaluating online resources and reading scientific papers, NIH public materials on clinical research, and FTC materials on common health scams.
 
 These materials calibrate health information source, purpose, funding, evidence quality, update date, study population, and applicability boundaries. They should not be used for self-diagnosis, stopping medication, screening decisions, or treatment decisions.
 

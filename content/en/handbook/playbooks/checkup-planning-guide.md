@@ -22,7 +22,7 @@ Before a checkup, it is easy to be led by a menu: more items and more advanced n
 Am I here for routine preventive care, or am I bringing symptoms, prior illness, or family risk?
 ```
 
-If there is chest pain, stroke-like symptoms, severe shortness of breath, fainting, abnormal bleeding, severe abdominal pain, altered consciousness, or self-harm risk, do not use a checkup to delay care. Seek medical care or emergency care first.
+If there is chest pain, stroke-like symptoms, severe shortness of breath, fainting, abnormal bleeding, severe abdominal pain, altered consciousness, or self-harm risk, do not use a checkup to delay care. Call 911 or local emergency services, go to an emergency department, or use an appropriate urgent medical entry point first.
 
 If there are clear symptoms, such as blood in stool, black stool, persistent abdominal pain, marked weight loss, repeated chest tightness, coughing blood, or abnormal bleeding, do not only buy a checkup package. It is usually better to start with a clinic visit and let a clinician decide the testing path.
 
@@ -52,7 +52,7 @@ If there is hypertension, diabetes, abnormal cholesterol, gout, kidney disease, 
 ## First Look At Priorities By Age Range
 
 - **18-30:** establish a baseline. Focus on blood pressure, weight and waist, CBC, urinalysis, liver and kidney function when appropriate; consider glucose, cholesterol, uric acid, hepatitis B, STI-related testing, and cervical screening by risk and eligibility.
-- **30-40:** start watching the "three highs," fatty liver risk, and weight/waist trend. Blood pressure, cholesterol, glucose, A1C, uric acid, and liver/kidney context matter more.
+- **30-40:** start watching blood pressure, cholesterol and triglycerides, glucose/A1C, fatty liver risk, and weight/waist trend. Uric acid and liver/kidney context may also matter depending on risk and prior results.
 - **40-50:** bring vascular risk and common cancer screening to the table. Discuss colorectal screening timing, cervical and breast screening where relevant, diabetes and cholesterol risk, smoking-related risk, and family history.
 - **50-65:** follow through on guideline-supported screening and chronic-risk follow-up: colorectal, breast, cervical where relevant, lung cancer for high-risk smokers, cardiovascular risk, diabetes, kidney function, vaccines, vision, hearing, and dental care.
 - **65 and older:** do not only add tests; look at function, falls, cognition, medications, vaccines, bone health, vision/hearing, and what screening still makes sense given health status and life goals.
@@ -82,7 +82,7 @@ Before choosing a package or visit agenda, fill in four boxes:
 ```text
 Recent symptoms:
 Past illnesses, surgeries, or abnormal reports:
-Current medicines, supplements, or herbs:
+Current medications, supplements, or herbs:
 Family history and lifestyle risks:
 ```
 
@@ -98,7 +98,7 @@ These four boxes matter more than "basic package or premium package."
 
 ## References
 
-As of 2026-06-20, this page mainly uses the following sources. They help calibrate target populations, test names, and risk boundaries, and do not constitute a personal checkup or screening plan:
+As of 2026-06-28, this page mainly uses the following sources. They help calibrate target populations, test names, and risk boundaries, and do not constitute a personal checkup or screening plan:
 
 - USPSTF: [Recommendations](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation-topics)
 - CDC: [Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)

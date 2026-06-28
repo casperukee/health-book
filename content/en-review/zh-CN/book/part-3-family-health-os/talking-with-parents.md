@@ -2,13 +2,13 @@
 
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
-> 如果出现胸痛、卒中样症状、严重呼吸困难、意识改变、突然视力丧失、严重疼痛、自伤或自杀风险，或者用药、治疗、随访出现重大变化，请及时联系医生、急救服务或相关专业支持。本章帮助家庭沟通事实、资料和边界，不替代医学判断。
+> 如果出现胸痛、卒中样症状、严重呼吸困难、意识改变、突然视力丧失、严重疼痛、自伤或自杀风险，或者用药、治疗、随访出现显著变化，请及时联系医生、988 危机支持、911 或当地急救服务，或其他相关专业支持。本章帮助家庭沟通事实、资料和边界，不替代医学判断。
 
 就诊前的信息可以整理成表格：症状时间线、用药清单、检查报告和想问医生的问题。真正困难的部分，常常在表格之前。
 
 你到底该怎样和父母开口？
 
-很多家庭都有过这样的时刻。父亲的体检有几项指标偏高，医生让三个月后复查。六个月后，你在电话里问：“复查了吗？”他说：“我感觉挺好，别操心了。”
+很多家庭都有过这样的时刻。父亲的常规化验有几项指标偏高，医生让三个月后复查。六个月后，你在电话里问：“复查了吗？”他说：“我感觉挺好，别操心了。”
 
 你一着急，话说重了：“你为什么总是不认真对待？”对面也马上硬起来：“我自己的身体我知道。”
 
@@ -59,7 +59,7 @@ I know you do not want to trouble me. Then let's make it the other way around: I
 ```
 
 ```text
-I understand that you want to feel better. Let's first make sure this product will not affect the medicines you already take, and let's not let it delay the follow-up.
+I understand that you want to feel better. Let's first make sure this product will not affect the medications you already take, and let's not let it delay the follow-up.
 ```
 
 温和不是让步。温和是让对方还能听进去。真正的边界不是声音更大，而是下一步更清楚。
@@ -72,11 +72,11 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 “最近怎么样？”常常问不出什么。不是谁不愿意说，而是很多变化一开始不好描述，也不知道是否重要。
 
-可以用四个入口：**看、走、吃睡排、用药和随访**。
+可以用四个入口：**视力、走路、吃睡排、用药和随访**。
 
 <div class="decision-grid">
   <section class="decision-card decision-card-blue">
-    <span class="decision-label">看</span>
+    <span class="decision-label">视力</span>
     <h3>视力或看东西有没有变化？</h3>
     <p>有没有突然视力丧失、眼痛、红眼伴视力变化、眼前黑影、外伤或新的严重不适？不要只靠非处方眼药水处理。</p>
   </section>
@@ -101,7 +101,7 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 ## 慢病不是靠感觉管理
 
-血压、血糖、胆固醇、尿酸、骨密度和其他长期问题，可能没有明显症状，但风险会在时间里安静累积。
+血压、血糖/A1C、胆固醇、尿酸、骨密度和其他长期问题，可能没有明显症状，但风险会在时间里安静累积。
 
 这也是慢病照护最容易变成家庭冲突的地方。父母想：“我又没难受。”成年子女想：“你为什么还不重视？”双方各抓住了一半事实：没有症状可能是真的，风险也可能是真的。
 
@@ -130,7 +130,7 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 很多健康原则并不难懂，难的是每天做到。
 
-少吃一点、饭后走一走、按时随访、规律吃药、避免冲动买产品，这些靠一次谈话很难长期维持。尤其是一个动作太大、太麻烦、太不像原本生活时，身体和习惯都会反弹。
+少吃一点、饭后走一走、按时随访、规律用药、避免冲动买产品，这些靠一次谈话很难长期维持。尤其是一个动作太大、太麻烦、太不像原本生活时，身体和习惯都会反弹。
 
 家庭里更稳的做法，是把动作变小、变固定：
 
@@ -145,7 +145,7 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 ## 不要只把健康理解成看病
 
-真正影响晚年生活质量的，不只是诊室里的检查和药。
+真正影响晚年生活质量的，不只是诊室里的检查和药物。
 
 每天能不能动一点，饭菜是不是太咸或太甜，夜里睡得怎样，最近有没有出门见人，还有没有想做的事，这些也是健康的一部分。
 
@@ -176,11 +176,11 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 第一条沟通边界是：**不要让产品替代就医或随访；成分、证据和风险不清时，不要长期叠加；在销售压力或恐惧下，不要当天做决定。**
 
-如果父母已经有慢病、正在吃药、做过手术，或正在考虑多种补剂，最好把产品拍照请医生或药师看看。证据、监管、价格和风险可以之后慢慢查；眼下重点不是当场赢辩论，而是先让购买、停药、囤货和付款都慢下来。
+如果父母已经有慢病、正在用药、做过手术，或正在考虑多种补剂，最好把产品拍照请医生或药师看看。证据、监管、价格和风险可以之后慢慢查；眼下重点不是当场赢辩论，而是先让购买、停药、囤货和付款都慢下来。
 
 产品判断可以配合 [health product checklist](../../handbook/templates/health-product-checklist.md) 使用。
 
-## 不要等急诊或大病来了才讨论基本问题
+## 不要等急诊或严重疾病来了才讨论基本问题
 
 有些健康对话平时会尴尬，但到了半夜要去急诊、需要签字或必须联系医生时，再开始就太晚了。
 
@@ -188,9 +188,9 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 第一，谁是紧急联系人？如果父母独居、异地，或家里只有老两口，尤其要说清楚：不舒服到什么程度要打给谁，谁能陪去，谁知道保险卡、身份证、资料和用药清单在哪里？
 
-第二，急诊资料放在哪里？近期体检、住院记录、影像资料、长期用药清单、过敏史和重要诊断，最好既有纸质备份，也有手机照片。急诊里最糟的情况之一，是所有人都在慌，却没人能说清原来有什么病、正在用什么药。
+第二，急诊资料放在哪里？近期化验结果或预防性就诊记录、住院记录、影像资料、长期用药清单、过敏史和重要诊断，最好既有纸质备份，也有手机照片。急诊里最糟的情况之一，是所有人都在慌，却没人能说清原来有什么病、正在用什么药。
 
-第三，重大疾病偏好先聊一点。如果将来真的遇到大病，父母希望自己知道多少？希望谁陪同？最看重的是尽量延长时间、保持清醒、少受痛苦，还是和家人在一起？这些问题不需要一次聊完，但越早有一点共识，关键时刻越不用全靠猜。
+第三，严重疾病偏好先聊一点。如果将来真的遇到严重疾病，父母希望自己知道多少？希望谁陪同？最看重的是尽量延长时间、保持清醒、少受痛苦，还是和家人在一起？这些问题不需要一次聊完，但越早有一点共识，关键时刻越不用全靠猜。
 
 这不是让家人做医学判断，也不是提前决定治疗方案。它只是把家庭基本信息和价值偏好放到明处。医学问题交给医生；家庭的任务，是别在慌乱里丢资料、误解彼此或错过求助。
 
@@ -211,7 +211,7 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 ## 参考资料
 
-截至 2026-06-15，本章主要使用 CDC 关于健康老龄化的资料，MedlinePlus 关于健康老龄化、和医生沟通、眼部急症和安全使用多种药物的资料，NIA/NIH 关于老年认知健康的资料，HealthIT.gov 关于获取和使用健康记录的资料，FDA 和 FTC 关于健康骗局的资料，以及 SAMHSA 关于 988 危机热线的资料，来校准和父母谈健康时关于健康老龄化、就医协作、健康记录、认知变化、健康骗局和心理危机应对的边界。
+截至 2026-06-28，本章主要使用 CDC 关于健康老龄化的资料，MedlinePlus 关于健康老龄化、和医生沟通、眼部急症和安全使用多种药物的资料，NIA/NIH 关于老年认知健康的资料，HealthIT.gov 关于获取和使用健康记录的资料，FDA 和 FTC 关于健康骗局的资料，以及 SAMHSA 关于 988 危机热线的资料，来校准和父母谈健康时关于健康老龄化、就医协作、健康记录、认知变化、健康骗局和心理危机应对的边界。
 
 这些资料帮助家庭把关心转成记录、协作和及时求助。它们不应用来替父母诊断、决定用药、停药、安排治疗优先级、安排筛查，或替代急救和心理健康危机服务。
 
@@ -226,5 +226,5 @@ I understand that you want to feel better. Let's first make sure this product wi
 ## 阅读导航
 
 - [回到英文主书目录验收页](../README.md)
-- 上一章：[2. How To Prepare For A Doctor Visit: Bring Facts Into The Room 中文验收页](doctor-visit-preparation.md)
-- 下一章：[4. Elder Care Basics: Protect Daily Independence 中文验收页](elder-care-basics.md)
+- 上一章：[2. How To Prepare For A Medical Visit: Bring Facts Into The Room 中文验收页](doctor-visit-preparation.md)
+- 下一章：[4. Older Adult Health And Care 中文验收页](elder-care-basics.md)
