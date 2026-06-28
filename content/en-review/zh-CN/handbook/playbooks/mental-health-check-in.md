@@ -11,8 +11,6 @@ evidence_status: needs_periodic_review
 
 # Mental Health Check-In And Support 中文验收页
 
-对应英文页：[Mental Health Check-In And Support](../../../../en/handbook/playbooks/mental-health-check-in.md)
-
 > 本页不是心理健康诊断，也不能替代心理治疗师、精神科医生、初级保健医生、急诊或危机服务。如果有人可能伤害自己或他人，或无法保证安全，请通过 988、911、急诊、当地危机服务、可信赖的人或其他合格的本地入口立即求助。
 
 心理健康风险的第一步，不是给状况命名，而是检查安全、日常功能和支持是否接得上。
@@ -103,7 +101,7 @@ evidence_status: needs_periodic_review
 明天最小的支持动作是什么？
 ```
 
-每晚两三句话就够。重点不是证明谁有问题，而是让变化被看见。如果观察对象是父母或老人，把这张卡放进 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)，并在就医前配合 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 使用。
+每晚两三句话就够。重点不是证明谁有问题，而是让变化被看见。如果观察对象是父母或老人，把这张卡放进 [Family Health Record And Chronic Marker Log](../templates/family-health-record.md)，并在就医前配合 [Doctor Visit Checklist](./doctor-visit-checklist.md) 使用。
 
 ## 公开资料
 
@@ -119,7 +117,7 @@ evidence_status: needs_periodic_review
 - NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
-更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

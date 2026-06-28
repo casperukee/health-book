@@ -1,7 +1,5 @@
 # Health Product Pre-Purchase Checklist 中文验收页
 
-对应英文页：[Health Product Pre-Purchase Checklist](../../../../en/handbook/templates/health-product-checklist.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 本清单不是医疗建议，也不是产品推荐。任何产品、设备、检测或服务都不能替代医生诊断、治疗、用药决定、复查、筛查或急救判断。
@@ -105,7 +103,7 @@
 - FTC: [Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)
 - NCCIH: [Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)
 
-更多来源见 [source registry](../../../../../shared/source-registry.md)。本书证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源见 [source registry](../../references/source-registry.md)。本书证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

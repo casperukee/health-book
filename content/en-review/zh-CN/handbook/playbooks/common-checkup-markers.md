@@ -1,7 +1,5 @@
 # Common Abnormal Checkup Markers 中文验收页
 
-对应英文页：[Common Abnormal Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 本页不是医疗建议，不能解释你的个人报告、诊断疾病、决定用药或停药。化验结果需要结合症状、病史、体格发现、既往结果、用药和医生判断。
@@ -74,7 +72,7 @@
 - NIDDK: [Quick Reference on UACR and GFR](https://www.niddk.nih.gov/health-information/professionals/advanced-search/quick-reference-uacr-gfr)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
-更多来源见 [source registry](../../../../../shared/source-registry.md)。本书证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源见 [source registry](../../references/source-registry.md)。本书证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

@@ -265,7 +265,7 @@ As of 2026-06-15, this page mainly uses:
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 - Poison Control: [Poison Control](https://www.poison.org/)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

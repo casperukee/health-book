@@ -2,8 +2,6 @@
 
 # 1. Supplement Evidence Traps: "Trying It" Is Not Always Harmless 中文验收页
 
-对应英文页：[1. Supplement Evidence Traps: "Trying It" Is Not Always Harmless](../../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 补剂、草药和膳食产品可能和药物、疾病、手术、孕产期照护以及肝肾功能相互影响。不要用任何产品替代正规诊断、治疗、随访或急救。正在用药、有慢病、准备手术、孕产期、儿童、老人或肝肾功能异常时，先问医生或药师。
@@ -122,7 +120,7 @@
 - **需要确认：** 只要使用者有慢病、正在用药、年龄较大、准备手术或牙科处理、有肝肾问题、出血风险、孕产期、儿童青少年、癌症治疗或康复期，都不要只凭销售话术判断。
 - **高风险：** 要求停药、减药、停检查或推迟治疗；宣称治愈或逆转疾病；使用限时、会员代理、拉人头或投资返利压力；或者告诉你不要问医生。
 
-需要更细核查时，把包装、成分、剂量、购买渠道、价格和使用者健康背景拍下来，再用 [health product checklist](../../../../en/handbook/templates/health-product-checklist.md) 逐项看。涉及用药、手术、慢病、孕产期、儿童、老人或癌症治疗时，先问医生或药师。
+需要更细核查时，把包装、成分、剂量、购买渠道、价格和使用者健康背景拍下来，再用 [health product checklist](../../handbook/templates/health-product-checklist.md) 逐项看。涉及用药、手术、慢病、孕产期、儿童、老人或癌症治疗时，先问医生或药师。
 
 ## 怎样和家人谈
 
@@ -176,7 +174,7 @@ Let's not argue yet about whether it works. First let's confirm that it will not
 
 这些资料帮助家庭识别补剂证据陷阱和销售话术。它们不应用来判断某个具体人是否适合使用某个具体产品，也不提供用药、停药、替代治疗或个体化筛查建议。
 
-可直接查看：[FDA Dietary Supplements](https://www.fda.gov/food/dietary-supplements)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/WYNTK/)、[NCCIH Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)、[FTC Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)、[source registry](../../../../../shared/source-registry.md) 和 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[FDA Dietary Supplements](https://www.fda.gov/food/dietary-supplements)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/WYNTK/)、[NCCIH Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)、[FTC Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)、[source registry](../../references/source-registry.md) 和 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

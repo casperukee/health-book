@@ -1,7 +1,5 @@
 # Part 4: Do Not Be Pushed Around: Health Information Defense 中文验收页
 
-对应英文页：[Part 4: Do Not Be Pushed Around: Health Information Defense](../../../../en/book/part-4-health-information-defense/README.md)
-
 本页是英文 Part 4 目录的中文验收辅助。它翻译/回译的是英文页面当前给读者看的内容，不是《健康有谱》中文版源稿。
 
 本部分处理健康决策周围的外部噪音。

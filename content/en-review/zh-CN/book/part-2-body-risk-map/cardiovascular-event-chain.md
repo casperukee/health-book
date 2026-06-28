@@ -1,7 +1,5 @@
 # Cardiovascular Event Chain 中文验收页
 
-对应英文页：[Cardiovascular Event Chain](../../../../en/book/part-2-body-risk-map/cardiovascular-event-chain.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 2. 心血管事件链：从血压到心梗的连锁反应
@@ -159,7 +157,7 @@ NHLBI 对动脉粥样硬化的介绍中，重点是斑块在动脉壁内逐渐�
 
 第二，复诊资料有人管。
 
-既往诊断、手术或介入史、用药、过敏、最近检查、血压血糖血脂趋势、活动耐量变化，放进 [Family Health Record](../../../../en/handbook/templates/family-health-record.md)。长期指标用 [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log) 追踪。
+既往诊断、手术或介入史、用药、过敏、最近检查、血压血糖血脂趋势、活动耐量变化，放进 [Family Health Record](../../handbook/templates/family-health-record.md)。长期指标用 [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log) 追踪。
 
 第三，防复发不是一个人的自律。
 
@@ -178,8 +176,8 @@ NHLBI 对动脉粥样硬化的介绍中，重点是斑块在动脉壁内逐渐�
 - [CDC: Stroke Signs and Symptoms](https://www.cdc.gov/stroke/signs-symptoms/index.html)
 - [American Heart Association: Heart Attack, Stroke and Cardiac Arrest Symptoms](https://www.heart.org/en/about-us/heart-attack-and-stroke-symptoms)
 - [American Heart Association: Life's Essential 8](https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8)
-- [Project source registry](../../../../en/references/source-registry.md)
-- [Project evidence policy](../../../../en/references/evidence-policy.md)
+- [Project source registry](../../references/source-registry.md)
+- [Project evidence policy](../../references/evidence-policy.md)
 
 ## 小结
 

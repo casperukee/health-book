@@ -11,8 +11,6 @@ evidence_status: not_applicable
 
 # Trial Reading And Feedback Guide 中文验收页
 
-对应英文页：[Trial Reading And Feedback Guide](../../../en/feedback/gray-trial-guide.md)
-
 本页是英文 Trial Reading And Feedback Guide 页的中文回译，用于验收 U.S.-first adaptation；它翻译英文改写稿，不复制中文版源稿。
 
 # 试读与反馈说明
@@ -31,15 +29,15 @@ evidence_status: not_applicable
 
 | 你现在想做什么 | 先打开 |
 |---|---|
-| 已经有人不舒服，不确定能不能等 | [Red Flags](../../../en/handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md) |
-| 要看报告、复查或见医生 | [Checkup Markers](../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 或 [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) |
-| 想给家人做准备 | [One-Page Family Health Card](../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)，再看 [Family Health Record And Chronic Marker Log](../../../en/handbook/templates/family-health-record.md) |
-| 想系统读一遍 | [Start Here](../../../en/book/00-start-here.md)，再进入 [Book Contents](../../../en/book/README.md) |
-| 补剂、检测、设备或抗衰产品引发家庭讨论 | [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)，再看 [Supplement Evidence Traps](../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md) |
+| 已经有人不舒服，不确定能不能等 | [Red Flags](../handbook/playbooks/red-flags.md)；如果不是明显急症，再看 [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md) |
+| 要看报告、复查或见医生 | [Checkup Markers](../book/part-1-healthspan-risk-and-markers/checkup-markers.md) 或 [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) |
+| 想给家人做准备 | [One-Page Family Health Card](../handbook/templates/family-health-record.md#_1-one-page-family-health-card)，再看 [Family Health Record And Chronic Marker Log](../handbook/templates/family-health-record.md) |
+| 想系统读一遍 | [Start Here](../book/00-start-here.md)，再进入 [Book Contents](../book/README.md) |
+| 补剂、检测、设备或抗衰产品引发家庭讨论 | [Health Product Checklist](../handbook/templates/health-product-checklist.md)，再看 [Supplement Evidence Traps](../book/part-4-health-information-defense/supplement-evidence-traps.md) |
 
 如果只有 20 分钟，优先读：
 
-1. [Start Here](../../../en/book/00-start-here.md)
+1. [Start Here](../book/00-start-here.md)
 2. 选择一个最贴近真实生活的章节或工具页；
 3. 读完后回答：入口是否顺，下一步是否清楚，哪里还像套话，哪里还不像一本真正的书？
 

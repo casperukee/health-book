@@ -1,7 +1,5 @@
 # Doctor Visit Checklist 中文验收页
 
-对应英文页：[Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 本页不是医疗建议。出现胸痛胸闷、卒中样症状、严重呼吸困难、意识改变、无法控制出血、严重疼痛、自伤风险或其他危险信号时，先使用急救服务或急诊。不要为了整理清单延误就医。
@@ -63,7 +61,7 @@
 - AHRQ: [Do You Know the Right Questions to Ask?](https://www.ahrq.gov/questions/resources/poster.html)
 - HealthIT.gov: [The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)
 
-更多来源见 [source registry](../../../../../shared/source-registry.md)。本书证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源见 [source registry](../../references/source-registry.md)。本书证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

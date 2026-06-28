@@ -118,7 +118,7 @@ Reviewed on 2026-06-28:
 - NIA/NIH: [Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)
 - SAMHSA: [988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

@@ -1,7 +1,5 @@
 # Metabolic Health 中文验收页
 
-对应英文页：[Metabolic Health](../../../../en/book/part-2-body-risk-map/metabolic-health.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 <p class="chapter-subtitle">第二章 · 你最该盯住的几条风险线</p>
@@ -186,7 +184,7 @@
 
 比如血压高同时血脂异常，就不只是两个箭头，而是血管长期承压和斑块风险可能叠在一起。血糖边缘、腰围增加、甘油三酯升高放在一起，也比单看空腹血糖更接近代谢风险。尿酸高如果还合并血压、肾功能或体重问题，就不能只理解成“少吃海鲜”。
 
-这三个例子指向同一件事：四高不是各管各的数字，而是常常在同一个人身上互相牵连。更多指标怎么组合看，可以回到体检指标那章，或查 [Common Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md)。眼前最重要的不是给自己下诊断，而是把单个红箭头变成临床人员能处理的风险线索。
+这三个例子指向同一件事：四高不是各管各的数字，而是常常在同一个人身上互相牵连。更多指标怎么组合看，可以回到体检指标那章，或查 [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)。眼前最重要的不是给自己下诊断，而是把单个红箭头变成临床人员能处理的风险线索。
 
 ## 生活方式先看共同底座
 
@@ -198,7 +196,7 @@
 
 已经有慢病、肾功能异常、心血管病史、孕产期情况，或临床人员已经给出治疗方案时，生活方式更应该和医疗方案协作，而不是替代治疗。
 
-需要复诊时，也不必重新设计一套表格。把最近几次相关指标、检查背景、用药保健品、既往诊断和家族线索放到一页里，使用 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md) 即可。先弄清这些数字为什么常常是一组问题，再把它们整理成临床人员能快速接住的信息。
+需要复诊时，也不必重新设计一套表格。把最近几次相关指标、检查背景、用药保健品、既往诊断和家族线索放到一页里，使用 [Family Health Record And Chronic Marker Log](../../handbook/templates/family-health-record.md) 即可。先弄清这些数字为什么常常是一组问题，再把它们整理成临床人员能快速接住的信息。
 
 ## 边界：不要自己处理这些情况
 
@@ -226,8 +224,8 @@
 - [NHLBI: Atherosclerosis](https://www.nhlbi.nih.gov/health/atherosclerosis)
 - [American Heart Association: Metabolic Syndrome](https://www.heart.org/en/health-topics/metabolic-syndrome)
 - [American Heart Association: Cardiovascular-Kidney-Metabolic Health](https://www.heart.org/en/health-topics/cardiovascular-kidney-metabolic-health)
-- [Project source registry](../../../../en/references/source-registry.md)
-- [Project evidence policy](../../../../en/references/evidence-policy.md)
+- [Project source registry](../../references/source-registry.md)
+- [Project evidence policy](../../references/evidence-policy.md)
 
 ## 小结
 

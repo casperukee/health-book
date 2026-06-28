@@ -20,7 +20,7 @@ This book cannot replace diagnosis, treatment, medication decisions, stopping me
 
 If warning signs have already appeared, or the situation is worsening or clearly worrying the family, contact emergency services, an emergency department, urgent care, crisis services, or another qualified local medical entry point first. The specific boundary is in the next chapter, [1. Warning Signs: Sort Urgency Before Searching Disease Names](medical-boundaries.md), and in [Red Flags](../handbook/playbooks/red-flags.md).
 
-Medical knowledge changes. This book's safety boundaries, sources, corrections, and review records will continue to be checked; for a specific health problem, follow clinician judgment, local medical resources, and current authoritative sources. English maintenance notes are in [English Edition Adaptation Plan](../updates/english-edition-plan.md), and the source registry is in [source registry](../../../shared/source-registry.md).
+Medical knowledge changes. This book's safety boundaries, sources, corrections, and review records will continue to be checked; for a specific health problem, follow clinician judgment, local medical resources, and current authoritative sources. English maintenance notes are in [English Edition Adaptation Plan](../updates/english-edition-plan.md), and the source registry is in [source registry](../references/source-registry.md).
 
 ## Preface: So Much Health Information, Still No Clear Next Step
 

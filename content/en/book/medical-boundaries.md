@@ -143,7 +143,7 @@ As of 2026-06-28, this chapter mainly uses these sources to calibrate warning-si
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - Poison Control: [Poison Control](https://www.poison.org/)
 
-More source entries are in the [source registry](../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../references/README.md).
+More source entries are in the [source registry](../references/source-registry.md). This book's evidence rules are in the [evidence policy](../references/README.md).
 
 These sources are used to calibrate "when reading and watching are no longer enough." They should not be turned into a self-diagnosis table, and they cannot replace local emergency care, emergency departments, or clinical triage.
 

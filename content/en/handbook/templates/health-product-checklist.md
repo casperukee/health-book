@@ -113,7 +113,7 @@ As of 2026-06-15, this page mainly uses:
 - FTC: [Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements)
 - NCCIH: [Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

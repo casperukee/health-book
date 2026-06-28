@@ -1,7 +1,5 @@
 # Healthspan and the Risk Curve 中文验收页
 
-对应英文页：[Healthspan and the Risk Curve](../../../../en/book/part-1-healthspan-risk-and-markers/healthspan-and-risk-curve.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 2. 健康寿命：你的身体在替谁倒数？
@@ -161,13 +159,13 @@
 
 这会让健康管理从“追热点”变成“保护真正重要的生活”。
 
-如果想把这次盘点留下来，可以先用一张很轻的 [One-Page Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card)，只记录病史、用药、过敏、近期风险和紧急联系人。先能找到，比第一天就追求完整更重要。
+如果想把这次盘点留下来，可以先用一张很轻的 [One-Page Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card)，只记录病史、用药、过敏、近期风险和紧急联系人。先能找到，比第一天就追求完整更重要。
 
 ## 长期框架不能处理急症
 
 健康寿命是长期框架，不用于急症。
 
-如果出现胸痛胸闷、卒中样症状、严重呼吸困难、晕厥或意识改变、无法控制出血、突然剧烈疼痛、严重外伤、中毒、严重过敏、自伤或自杀风险、孕产期危险信号，或感染后状态迅速变差，请回到 [1. Warning Signs 中文验收页](../medical-boundaries.md) 或 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)，优先就医或联系当地急救服务。
+如果出现胸痛胸闷、卒中样症状、严重呼吸困难、晕厥或意识改变、无法控制出血、突然剧烈疼痛、严重外伤、中毒、严重过敏、自伤或自杀风险、孕产期危险信号，或感染后状态迅速变差，请回到 [1. Warning Signs 中文验收页](../medical-boundaries.md) 或 [Red Flags](../../handbook/playbooks/red-flags.md)，优先就医或联系当地急救服务。
 
 如果已经有明确疾病、持续症状、体检明显异常、正在用药或准备筛查，也不要用“健康寿命”这个大框架替代临床建议。
 
@@ -180,7 +178,7 @@
 - CDC: [About Chronic Diseases](https://www.cdc.gov/chronic-disease/about/index.html)
 - MedlinePlus: [Healthy Aging](https://medlineplus.gov/healthyaging.html)
 
-更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/README.md)。
+更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/README.md)。
 
 ## 小结
 

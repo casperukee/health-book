@@ -198,7 +198,7 @@ As of 2026-06-15, this chapter mainly uses MedlinePlus materials on evaluating h
 
 These materials calibrate health information source, purpose, funding, evidence quality, update date, study population, and applicability boundaries. They should not be used for self-diagnosis, stopping medication, screening decisions, or treatment decisions.
 
-Direct sources: [MedlinePlus Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html), [NCCIH Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources), [NCCIH How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview), [NIH Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you), [FTC Common Health Scams](https://consumer.ftc.gov/node/78372), [source registry](../../../../shared/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
+Direct sources: [MedlinePlus Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html), [NCCIH Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources), [NCCIH How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview), [NIH Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you), [FTC Common Health Scams](https://consumer.ftc.gov/node/78372), [source registry](../../references/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
 
 ## Summary
 

@@ -1,7 +1,5 @@
 # Medical Boundaries and Warning Signs 中文验收页
 
-对应英文页：[Medical Boundaries and Warning Signs](../../../en/book/medical-boundaries.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 <p class="chapter-subtitle">第一章 · 身体在说什么：从信号到指标</p>
@@ -18,7 +16,7 @@
 
 普通人不需要诊断自己或家人，也不应该这么做。你真正需要的是边界感：哪些不能等，哪些需要及时临床判断，哪些可以记录、复查并带去沟通。
 
-如果你已经面对一个具体症状，想直接看下一步动作表，可以先用 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)。本章解释它背后的边界原则。
+如果你已经面对一个具体症状，想直接看下一步动作表，可以先用 [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)。本章解释它背后的边界原则。
 
 ## 家庭为什么会犹豫
 
@@ -52,7 +50,7 @@
 - 孕期或产后一年内出现持续或加重的剧烈头痛、视物异常、晕厥、胸痛、呼吸困难、严重腹痛、明显出血、胎动明显减少，或伤害自己/婴儿的念头；
 - 感染后整个人明显变差，例如明显糊涂、反应变慢、呼吸急促、皮肤湿冷、极度疼痛或不适、心跳很快、脉搏弱、状态迅速下降，需要警惕严重感染或脓毒症风险。
 
-这不是完整清单。更完整的红色速查在 [Red Flags](../../../en/handbook/playbooks/red-flags.md)。如果想按胸痛、发热、腹痛、跌倒、情绪崩溃等常见情况分层，使用 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)。先建立一个习惯：只要你觉得“这个人可能撑不到明天”“路上可能变坏”“我无法安全搬动或观察”，就不要靠继续阅读来决定。
+这不是完整清单。更完整的红色速查在 [Red Flags](../handbook/playbooks/red-flags.md)。如果想按胸痛、发热、腹痛、跌倒、情绪崩溃等常见情况分层，使用 [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)。先建立一个习惯：只要你觉得“这个人可能撑不到明天”“路上可能变坏”“我无法安全搬动或观察”，就不要靠继续阅读来决定。
 
 ### 黄色：尽快联系临床人员
 
@@ -122,7 +120,7 @@
 
 在家庭群里约定一句话：红色触发器不争论，先求助。
 
-然后把 [Red Flags](../../../en/handbook/playbooks/red-flags.md) 放在家庭健康档案首页，把 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md) 留给那些“不像急症，但又不知道该不该等”的时刻。
+然后把 [Red Flags](../handbook/playbooks/red-flags.md) 放在家庭健康档案首页，把 [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md) 留给那些“不像急症，但又不知道该不该等”的时刻。
 
 ## 公开资料
 
@@ -137,7 +135,7 @@
 - CDC: [About Sepsis](https://www.cdc.gov/sepsis/about/index.html)
 - Poison Control: [Poison Control](https://www.poison.org/)
 
-更多来源登记见 [source registry](../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../en/references/README.md)。
+更多来源登记见 [source registry](../references/source-registry.md)。本书的证据规则见 [evidence policy](../references/README.md)。
 
 这些资料用于校准“什么时候阅读和观察已经不够”。它们不应被改写成自我诊断表，也不能替代当地急救、急诊或临床分诊。
 

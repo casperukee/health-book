@@ -1,14 +1,12 @@
 # Feedback And Maintenance 中文验收页
 
-对应英文页：[Feedback And Maintenance](../../../en/feedback/README.md)
-
 本页是英文 Feedback And Maintenance 页的中文回译，用于验收 U.S.-first adaptation；它翻译英文改写稿，不复制中文版源稿。
 
 # 反馈与维护
 
 这里放反馈说明和试读指引。你不需要读完整本书再反馈；一页和一句真实反应就已经有价值。
 
-- [Trial Reading And Feedback Guide](../../../en/feedback/gray-trial-guide.md)
+- [Trial Reading And Feedback Guide](./gray-trial-guide.md)
 
 ## 如果你能帮忙看
 
@@ -27,4 +25,4 @@
 - 哪里语气不舒服或太说教；
 - 哪一页你真的会发给家人。
 
-详细说明见 [Trial Reading And Feedback Guide](../../../en/feedback/gray-trial-guide.md)。
+详细说明见 [Trial Reading And Feedback Guide](./gray-trial-guide.md)。

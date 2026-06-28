@@ -80,7 +80,7 @@ As of 2026-06-15, this page mainly uses:
 - MedlinePlus: [Recognizing Medical Emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

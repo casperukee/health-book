@@ -1,7 +1,5 @@
 # Chapter 2: The Risk Lines Most Worth Watching 中文验收页
 
-对应英文页：[Chapter 2: The Risk Lines Most Worth Watching](../../../../en/book/part-2-body-risk-map/README.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 第二章 你最该盯住的几条风险线

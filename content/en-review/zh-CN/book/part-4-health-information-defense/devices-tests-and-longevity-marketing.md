@@ -1,7 +1,5 @@
 # 2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying 中文验收页
 
-对应英文页：[2. Health Devices, Tests, And Longevity Marketing: Numbers Do Not Automatically Make It Worth Buying](../../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 健康设备、直接面向消费者的检测和抗衰产品，不能替代医生诊断、筛查、治疗、用药决策、停药决策、随访或急救判断。出现胸痛、呼吸困难、晕厥、卒中样症状、严重疼痛、异常出血，或设备读数异常并伴随明显不适时，请及时就医或联系当地急救服务。
@@ -30,7 +28,7 @@
 
 所以判断健康科技产品，不要先问“它先进不先进”。先问：它是在帮我走向更清楚的行动，还是用数据把我推向更大的焦虑和消费？
 
-设备、检测和抗衰产品看起来不像传统补剂，但购买前仍可以先用同一张 [health product checklist](../../../../en/handbook/templates/health-product-checklist.md) 过一遍。
+设备、检测和抗衰产品看起来不像传统补剂，但购买前仍可以先用同一张 [health product checklist](../../handbook/templates/health-product-checklist.md) 过一遍。
 
 ## 四层判断：能测、测得准、有用、值得
 
@@ -206,7 +204,7 @@ We are not against you paying attention to your body. First let's write down wha
 
 这些资料用于校准家用和消费级医疗设备、registered/certified/approved 语言、直接面向消费者检测、健康欺诈和抗衰营销风险。本章不评价任何具体产品，也不提供诊断、筛查、用药、停药、治疗、抗衰方案或个体化检测建议。
 
-可直接查看：[FDA Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)、[FDA Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)、[FDA Registered or Certified Medical Devices](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)、[FDA Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[source registry](../../../../../shared/source-registry.md) 和 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[FDA Home Health and Consumer Devices](https://www.fda.gov/medical-devices/products-and-medical-procedures/home-health-and-consumer-devices)、[FDA Medical Devices](https://www.fda.gov/consumers/consumer-updates/medical-devices)、[FDA Registered or Certified Medical Devices](https://www.fda.gov/medical-devices/consumers-medical-devices/are-there-fda-registered-or-fda-certified-medical-devices-how-do-i-know-what-fda-approved)、[FDA Direct-to-Consumer Tests](https://www.fda.gov/medical-devices/in-vitro-diagnostics/direct-consumer-tests)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[source registry](../../references/source-registry.md) 和 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

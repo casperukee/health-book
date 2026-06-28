@@ -1,7 +1,5 @@
 # 4. Elder Care Basics: Protect The Ability To Keep Living 中文验收页
 
-对应英文页：[4. Elder Care Basics: Protect The Ability To Keep Living](../../../../en/book/part-3-family-health-os/elder-care-basics.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 如果老人跌倒受伤、意识改变、认知或行动能力突然下降、胸痛、呼吸困难、卒中样症状、严重疼痛、异常出血或严重药物反应，请及时就医或急诊。本章只帮助家庭观察变化、整理信息和准备照护协作，不替代医生诊断、治疗、用药决策、停药决策、康复方案或照护等级评估。
@@ -50,7 +48,7 @@
 
 同一个症状在老人身上，常常比在年轻人身上更需要谨慎。不是因为“老人都脆弱”，而是跌倒、感染、脱水、药物反应、卒中、骨折和慢病失控，可能先表现为“不像平时”“突然糊涂”或“走不动了”。
 
-家里可以把 [symptom action guide](../../../../en/handbook/playbooks/symptom-action-guide.md) 和 [family health record and chronic condition log](../../../../en/handbook/templates/family-health-record.md) 放在一起：一个帮助判断下一步动作，一个保存病史、用药、过敏、随访和紧急联系人。
+家里可以把 [symptom action guide](../../handbook/playbooks/symptom-action-guide.md) 和 [family health record and chronic condition log](../../handbook/templates/family-health-record.md) 放在一起：一个帮助判断下一步动作，一个保存病史、用药、过敏、随访和紧急联系人。
 
 ## 四种能力，比单次指标更说明问题
 
@@ -214,7 +212,7 @@ MedlinePlus 关于多药使用的提醒很直接：药越多，越需要认真�
 
 最后问父母一个生活目标：最想保护哪种能力？是出门散步、自己做饭、见朋友、陪孙辈、旅行，还是安稳睡觉？
 
-如果老人有血压、血糖、胆固醇、尿酸或肾功能等长期指标，把复查结果放进 [chronic condition tracking table](../../../../en/handbook/templates/family-health-record.md#_2-chronic-condition-tracking)，不要让每次就诊都从零开始。
+如果老人有血压、血糖、胆固醇、尿酸或肾功能等长期指标，把复查结果放进 [chronic condition tracking table](../../handbook/templates/family-health-record.md#_2-chronic-condition-tracking)，不要让每次就诊都从零开始。
 
 和父母谈这些事时，不必从“以后你需要照护怎么办”开始。可以说得更自然：
 
@@ -228,7 +226,7 @@ MedlinePlus 关于多药使用的提醒很直接：药越多，越需要认真�
 
 这些资料用于校准健康老龄化、跌倒预防、认知和功能变化、多药使用、照护者压力和成人疫苗边界。本章不提供诊断、用药、停药、康复处方、养老方式选择或个体化照护等级评估。
 
-可直接查看：[CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html)、[CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)、[CDC STEADI](https://www.cdc.gov/steadi/index.html)、[MedlinePlus Older Adult Health](https://medlineplus.gov/olderadulthealth.html)、[MedlinePlus Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)、[MedlinePlus Caregiver Health](https://medlineplus.gov/caregiverhealth.html)、[CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)、[source registry](../../../../../shared/source-registry.md) 和 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html)、[CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)、[CDC STEADI](https://www.cdc.gov/steadi/index.html)、[MedlinePlus Older Adult Health](https://medlineplus.gov/olderadulthealth.html)、[MedlinePlus Fall Risk Assessment](https://medlineplus.gov/lab-tests/fall-risk-assessment/)、[MedlinePlus Caregiver Health](https://medlineplus.gov/caregiverhealth.html)、[CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)、[source registry](../../references/source-registry.md) 和 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

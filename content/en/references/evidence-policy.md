@@ -23,4 +23,3 @@ Writing rules:
 Related maintenance pages:
 
 - [Source Registry](source-registry.md)
-- [Shared Source Registry](../../../shared/source-registry.md)

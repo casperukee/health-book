@@ -225,7 +225,7 @@ As of 2026-06-15, this chapter mainly uses CDC materials on healthy aging, Medli
 
 These materials help families turn concern into records, collaboration, and timely help. They should not be used to diagnose parents, decide medication, stop medication, rank treatments, arrange screening, or replace emergency care or mental health crisis services.
 
-Direct sources: [CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html), [MedlinePlus Healthy Aging](https://medlineplus.gov/healthyaging.html), [NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults), [HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/), [FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams), [FTC Common Health Scams](https://consumer.ftc.gov/node/78372), [SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988), [source registry](../../../../shared/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
+Direct sources: [CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html), [MedlinePlus Healthy Aging](https://medlineplus.gov/healthyaging.html), [NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults), [HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/), [FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams), [FTC Common Health Scams](https://consumer.ftc.gov/node/78372), [SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988), [source registry](../../references/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
 
 ## Summary
 

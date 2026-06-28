@@ -1,7 +1,5 @@
 # Common Upstream 中文验收页
 
-对应英文页：[Common Upstream](../../../../en/book/part-2-body-risk-map/common-upstream.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 3. 共同上游：还没变成病时，先把风险往回拉
@@ -184,7 +182,7 @@ CDC 关于糖尿病前期的资料中，有一个很值得家庭吸收的方向�
 
 这些资料用于帮助家庭理解生活方式如何影响长期风险，不应用来替个人制定运动处方、营养方案、药物方案、筛查计划或治疗优先级。
 
-可直接查看：[WHO Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)、[WHO Healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)、[American Heart Association Life's Essential 8](https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8)、[CDC On Your Way to Preventing Type 2 Diabetes](https://www.cdc.gov/diabetes-prevention/lifestyle-change-program/on-your-way-to-preventing-type-2-diabetes.html)、[NIAMS Gout Symptoms, Causes, and Risk Factors](https://www.niams.nih.gov/health-topics/gout/symptoms-causes-risk-factors)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[WHO Physical activity](https://www.who.int/news-room/fact-sheets/detail/physical-activity)、[WHO Healthy diet](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)、[American Heart Association Life's Essential 8](https://www.heart.org/en/healthy-living/healthy-lifestyle/lifes-essential-8)、[CDC On Your Way to Preventing Type 2 Diabetes](https://www.cdc.gov/diabetes-prevention/lifestyle-change-program/on-your-way-to-preventing-type-2-diabetes.html)、[NIAMS Gout Symptoms, Causes, and Risk Factors](https://www.niams.nih.gov/health-topics/gout/symptoms-causes-risk-factors)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

@@ -82,7 +82,7 @@ As of 2026-06-20, this page mainly uses the following sources. They help calibra
 - NIDDK: [Quick Reference on UACR and GFR](https://www.niddk.nih.gov/health-information/professionals/advanced-search/quick-reference-uacr-gfr)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

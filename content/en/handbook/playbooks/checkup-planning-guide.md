@@ -107,7 +107,7 @@ As of 2026-06-20, this page mainly uses the following sources. They help calibra
 - CDC: [Breast Cancer Screening](https://www.cdc.gov/breast-cancer/screening/index.html)
 - CDC: [Cervical Cancer Screening](https://www.cdc.gov/cervical-cancer/screening/index.html)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). The book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

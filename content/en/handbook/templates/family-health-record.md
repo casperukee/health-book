@@ -141,7 +141,7 @@ Reviewed on 2026-06-28:
 - MedlinePlus: [Kidney Tests](https://medlineplus.gov/kidneytests.html)
 - NIDDK: [Chronic Kidney Disease Tests and Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 
-More source entries are in the [source registry](../../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+More source entries are in the [source registry](../../references/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## One Sentence
 

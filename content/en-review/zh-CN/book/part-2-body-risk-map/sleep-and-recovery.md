@@ -1,7 +1,5 @@
 # Sleep And Recovery 中文验收页
 
-对应英文页：[Sleep And Recovery](../../../../en/book/part-2-body-risk-map/sleep-and-recovery.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 4. 睡眠与恢复：身体修复的隐形工程
@@ -102,7 +100,7 @@
 
 出现自伤自杀风险时，请不要独处。在美国和加拿大可拨打或短信 988，联系当地急救服务，或前往最近的 emergency department。其他地区请联系所在地危机热线、急救服务或急诊。
 
-如果已经准备买助眠设备、检测或补剂，先用 [Health Product Checklist](../../../../en/handbook/templates/health-product-checklist.md) 判断它是否会替代真正该做的事。
+如果已经准备买助眠设备、检测或补剂，先用 [Health Product Checklist](../../handbook/templates/health-product-checklist.md) 判断它是否会替代真正该做的事。
 
 ## 参考资料
 
@@ -110,7 +108,7 @@
 
 这些资料帮助我们校准睡眠、失眠、放松练习、睡眠呼吸暂停和心理危机边界，但不能替个人诊断睡眠障碍、决定用药、停药或设计个体化治疗方案。
 
-可直接查看：[CDC About Sleep](https://www.cdc.gov/sleep/about/index.html)、[NHLBI Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)、[NINDS Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)、[MedlinePlus Insomnia](https://medlineplus.gov/insomnia.html)、[NCCIH Relaxation Techniques](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[CDC About Sleep](https://www.cdc.gov/sleep/about/index.html)、[NHLBI Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important)、[NINDS Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep)、[MedlinePlus Insomnia](https://medlineplus.gov/insomnia.html)、[NCCIH Relaxation Techniques](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

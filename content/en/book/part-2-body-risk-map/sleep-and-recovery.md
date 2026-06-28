@@ -116,7 +116,7 @@ As of 2026-06-28, this chapter mainly uses CDC information on sleep and physical
 
 These materials help calibrate boundaries around sleep, insomnia, relaxation exercises, sleep apnea, and mental-health crisis. They cannot diagnose an individual's sleep disorder, decide medication, stop medication, or design a personalized treatment plan.
 
-Start directly with: [CDC About Sleep](https://www.cdc.gov/sleep/about/index.html), [NHLBI Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important), [NINDS Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep), [MedlinePlus Insomnia](https://medlineplus.gov/insomnia.html), and [NCCIH Relaxation Techniques](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know). More sources are in the [source registry](../../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
+Start directly with: [CDC About Sleep](https://www.cdc.gov/sleep/about/index.html), [NHLBI Why Is Sleep Important?](https://www.nhlbi.nih.gov/health/sleep/why-sleep-important), [NINDS Brain Basics: Understanding Sleep](https://www.ninds.nih.gov/health-information/public-education/brain-basics/brain-basics-understanding-sleep), [MedlinePlus Insomnia](https://medlineplus.gov/insomnia.html), and [NCCIH Relaxation Techniques](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know). More sources are in the [source registry](../../references/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/evidence-policy.md).
 
 ## Summary
 

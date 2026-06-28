@@ -1,7 +1,5 @@
 # Children And Adolescent Health 中文验收页
 
-对应英文页：[Children And Adolescent Health](../../../../en/book/part-2-body-risk-map/children-and-adolescent-health.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 7. 儿童与青少年：身体和心理一起长大
@@ -182,7 +180,7 @@ CDC 的青少年心理健康资料强调，学校、家庭、朋友和社区里�
 
 这些时候，家庭动作要简单：别让孩子独处，移开可能造成伤害的工具，找一个可信赖的大人陪在现场，尽快联系急救、急诊、儿科急诊、精神专科急诊、学校应急负责人或当地危机支持。不同地区入口不同，但原则一样：先保安全，再谈原因。
 
-如果不知道急诊、门诊还是挂什么科，可以先看 [Department And Specialty Navigation](../../../../en/handbook/playbooks/department-navigation-guide.md)；准备门诊前，用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 把材料压缩成 1 页。
+如果不知道急诊、门诊还是挂什么科，可以先看 [Department And Specialty Navigation](../../handbook/playbooks/department-navigation-guide.md)；准备门诊前，用 [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md) 把材料压缩成 1 页。
 
 ## 把变化记录一周
 
@@ -202,7 +200,7 @@ CDC 的青少年心理健康资料强调，学校、家庭、朋友和社区里�
 
 这些资料共同提醒：青春期是身体、情绪和社会关系快速变化的阶段；健康习惯、家庭和学校支持、同伴连接、及时就医和危险信号识别，都属于儿童青少年健康的一部分。
 
-可直接查看：[WHO Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)、[CDC Youth Mental Health](https://www.cdc.gov/healthy-youth/mental-health/index.html)、[NIMH Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)、[MedlinePlus Teen Health](https://medlineplus.gov/teenhealth.html)、[HealthyChildren Teen](https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx)、[SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[WHO Adolescent mental health](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health)、[CDC Youth Mental Health](https://www.cdc.gov/healthy-youth/mental-health/index.html)、[NIMH Children and Mental Health](https://www.nimh.nih.gov/health/publications/children-and-mental-health)、[MedlinePlus Teen Health](https://medlineplus.gov/teenhealth.html)、[HealthyChildren Teen](https://www.healthychildren.org/English/ages-stages/teen/Pages/default.aspx)、[SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

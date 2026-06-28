@@ -1,7 +1,5 @@
 # Brain And Mental Health 中文验收页
 
-对应英文页：[Brain And Mental Health](../../../../en/book/part-2-body-risk-map/brain-and-mental-health.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 5. 大脑与心理健康：先看安全、功能和支持
@@ -175,7 +173,7 @@
 下一步：明天最小的一件支持动作是什么？是否需要预约医生、急诊或心理健康帮助？
 ```
 
-每晚写两三句话即可。重点不是证明谁有问题，而是让变化被看见。如果观察对象是父母或老人，把这张卡放进 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)，复诊前配合 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 使用。
+每晚写两三句话即可。重点不是证明谁有问题，而是让变化被看见。如果观察对象是父母或老人，把这张卡放进 [Family Health Record And Chronic Marker Log](../../handbook/templates/family-health-record.md)，复诊前配合 [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md) 使用。
 
 ## 参考资料
 
@@ -183,7 +181,7 @@
 
 这些资料用于校准卒中、认知变化、抑郁焦虑和心理危机边界。本文不提供诊断、用药、停药、心理治疗方案、个体化筛查或个体化干预建议。
 
-可直接查看：[CDC Stroke Signs and Symptoms](https://www.cdc.gov/stroke/signs-symptoms/index.html)、[CDC Signs and Symptoms of Dementia](https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html)、[NIMH Depression](https://www.nimh.nih.gov/health/publications/depression)、[NIMH Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)、[NIMH Suicide Prevention](https://www.nimh.nih.gov/health/topics/suicide-prevention)、[NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[CDC Stroke Signs and Symptoms](https://www.cdc.gov/stroke/signs-symptoms/index.html)、[CDC Signs and Symptoms of Dementia](https://www.cdc.gov/alzheimers-dementia/signs-symptoms/index.html)、[NIMH Depression](https://www.nimh.nih.gov/health/publications/depression)、[NIMH Anxiety Disorders](https://www.nimh.nih.gov/health/topics/anxiety-disorders/index.shtml)、[NIMH Suicide Prevention](https://www.nimh.nih.gov/health/topics/suicide-prevention)、[NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

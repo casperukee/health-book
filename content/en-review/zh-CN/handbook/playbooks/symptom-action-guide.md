@@ -1,7 +1,5 @@
 # Symptom Action Guide 中文验收页
 
-对应英文页：[Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)
-
 本页是英文 Symptom Action Guide 页的中文回译，用于验收 U.S.-first adaptation；它翻译英文改写稿，不复制中文版源稿。
 
 # 症状行动指南
@@ -9,7 +7,7 @@
 > 本页不是诊断表，也不是医疗建议。它只帮助家庭选择下一步行动：急诊照护、尽快联系医生，或记录并观察。如果已经出现红旗，或无法判断等待是否安全，请优先使用当地急救、急诊、医院分诊或其他本地医疗分诊入口。
 
 ::: danger 已经是红色？
-如果有胸痛或胸部发紧、疑似卒中、严重呼吸困难、意识改变、无法控制的出血、严重过敏反应、中毒或严重外伤、自伤或自杀风险，或孕期/产后危险信号，不要先读完整张表。直接联系急救、急诊或本地医疗入口；如果需要最短话术，用 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)。
+如果有胸痛或胸部发紧、疑似卒中、严重呼吸困难、意识改变、无法控制的出血、严重过敏反应、中毒或严重外伤、自伤或自杀风险，或孕期/产后危险信号，不要先读完整张表。直接联系急救、急诊或本地医疗入口；如果需要最短话术，用 [Red Flags](./red-flags.md)。
 :::
 
 症状速查不是为了判断“这是什么病”。它是为了判断“我们现在该做什么”。
@@ -38,7 +36,7 @@ Red Flags 已经处理红色情况。本页主要处理更常见的时刻：第�
 
 | 观察中出现什么 | 升级到 |
 | --- | --- |
-| 新出现胸痛或胸部发紧、呼吸困难、意识改变、单侧无力/麻木、出血不止、严重过敏反应、自伤风险或其他红旗 | 红色：先求助；如果需要最短话术，使用 [Red Flags](../../../../en/handbook/playbooks/red-flags.md) |
+| 新出现胸痛或胸部发紧、呼吸困难、意识改变、单侧无力/麻木、出血不止、严重过敏反应、自伤风险或其他红旗 | 红色：先求助；如果需要最短话术，使用 [Red Flags](./red-flags.md) |
 | 症状加重、反复出现，或和平时明显不同 | 黄色：尽快联系医生或分诊入口 |
 | 症状影响喝水、进食、睡眠、走路、照护、工作、上学、排尿、排便或基本活动 | 黄色 |
 | 当事人是婴儿、孕期/产后、老人、免疫低下者、近期手术、使用抗凝药或有严重慢病 | 更早进入黄色 |
@@ -228,7 +226,7 @@ Red Flags 已经处理红色情况。本页主要处理更常见的时刻：第�
 如果是红色：
 
 - 联系急救或急诊；
-- 需要时回到 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)，只带最小信息，不要为了读表延误；
+- 需要时回到 [Red Flags](./red-flags.md)，只带最小信息，不要为了读表延误；
 - 记录最早症状时间，尤其疑似卒中；
 - 带最小信息：疾病、用药、过敏、近期检查、紧急联系人；
 - 安全不确定时，不要让当事人独处或自己开车。
@@ -238,13 +236,13 @@ Red Flags 已经处理红色情况。本页主要处理更常见的时刻：第�
 - 把症状整理成时间线；
 - 带体检报告、用药清单和最想问的 1-3 个问题；
 - 问医生：什么情况需要随访，什么情况需要急诊；
-- 整理问题时使用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)。
+- 整理问题时使用 [Doctor Visit Checklist](./doctor-visit-checklist.md)。
 
 如果是绿色：
 
 - 记录症状和背景；
-- 长期指标使用 [Chronic Condition Tracking Table](../../../../en/handbook/templates/family-health-record.md#_2-chronic-condition-tracking) 看趋势；
-- 把本页和 [Red Flags](../../../../en/handbook/playbooks/red-flags.md) 放在家庭群或家庭健康档案首页。
+- 长期指标使用 [Chronic Condition Tracking Table](../templates/family-health-record.md#_2-chronic-condition-tracking) 看趋势；
+- 把本页和 [Red Flags](./red-flags.md) 放在家庭群或家庭健康档案首页。
 
 ## 参考资料
 
@@ -259,7 +257,7 @@ Red Flags 已经处理红色情况。本页主要处理更常见的时刻：第�
 - SAMHSA: 988 Suicide & Crisis Lifeline
 - Poison Control
 
-更多来源条目见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源条目见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

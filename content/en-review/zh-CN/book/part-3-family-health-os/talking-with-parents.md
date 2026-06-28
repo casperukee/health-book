@@ -1,7 +1,5 @@
 # 3. Talking With Parents About Health: Do Not Turn Care Into Control 中文验收页
 
-对应英文页：[3. Talking With Parents About Health: Do Not Turn Care Into Control](../../../../en/book/part-3-family-health-os/talking-with-parents.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 如果出现胸痛、卒中样症状、严重呼吸困难、意识改变、突然视力丧失、严重疼痛、自伤或自杀风险，或者用药、治疗、随访出现重大变化，请及时联系医生、急救服务或相关专业支持。本章帮助家庭沟通事实、资料和边界，不替代医学判断。
@@ -99,7 +97,7 @@ I understand that you want to feel better. Let's first make sure this product wi
   </section>
 </div>
 
-这些问题不是为了远程诊断，而是为了决定下一步：继续记录、尽快联系医生，还是立即求助。拿不准时，可以看 [symptom action guide](../../../../en/handbook/playbooks/symptom-action-guide.md)。
+这些问题不是为了远程诊断，而是为了决定下一步：继续记录、尽快联系医生，还是立即求助。拿不准时，可以看 [symptom action guide](../../handbook/playbooks/symptom-action-guide.md)。
 
 ## 慢病不是靠感觉管理
 
@@ -180,7 +178,7 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 如果父母已经有慢病、正在吃药、做过手术，或正在考虑多种补剂，最好把产品拍照请医生或药师看看。证据、监管、价格和风险可以之后慢慢查；眼下重点不是当场赢辩论，而是先让购买、停药、囤货和付款都慢下来。
 
-产品判断可以配合 [health product checklist](../../../../en/handbook/templates/health-product-checklist.md) 使用。
+产品判断可以配合 [health product checklist](../../handbook/templates/health-product-checklist.md) 使用。
 
 ## 不要等急诊或大病来了才讨论基本问题
 
@@ -217,7 +215,7 @@ I understand that you want to feel better. Let's first make sure this product wi
 
 这些资料帮助家庭把关心转成记录、协作和及时求助。它们不应用来替父母诊断、决定用药、停药、安排治疗优先级、安排筛查，或替代急救和心理健康危机服务。
 
-可直接查看：[CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html)、[MedlinePlus Healthy Aging](https://medlineplus.gov/healthyaging.html)、[NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)、[source registry](../../../../../shared/source-registry.md) 和 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[CDC Healthy Aging](https://www.cdc.gov/healthy-aging/about/index.html)、[MedlinePlus Healthy Aging](https://medlineplus.gov/healthyaging.html)、[NIA Cognitive Health and Older Adults](https://www.nia.nih.gov/health/brain-health/cognitive-health-and-older-adults)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[SAMHSA 988 Suicide & Crisis Lifeline](https://www.samhsa.gov/find-help/988)、[source registry](../../references/source-registry.md) 和 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

@@ -1,7 +1,5 @@
 # What A Family Health System Actually Manages 中文验收页
 
-对应英文页：[What A Family Health System Actually Manages](../../../../en/book/part-3-family-health-os/what-to-manage.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 <p class="chapter-subtitle">第三章 · 当健康变成一家人的事</p>
@@ -72,7 +70,7 @@
 
 事实不是观点，也不是猜测。它包括：症状什么时候开始，怎样变化；既往有什么病、做过什么手术、住过什么院；正在吃什么处方药、非处方药、保健品和草药；有没有药物或食物过敏；最近的体检、化验、影像、病理、出院小结在哪里。
 
-家庭不需要诊断所有问题，但要知道什么时候不能继续等。如果有胸痛、呼吸困难、晕厥、卒中样症状、意识改变、严重外伤、无法控制的出血、严重过敏、自伤自杀风险，先看 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)，不要让家庭群投票替代行动。
+家庭不需要诊断所有问题，但要知道什么时候不能继续等。如果有胸痛、呼吸困难、晕厥、卒中样症状、意识改变、严重外伤、无法控制的出血、严重过敏、自伤自杀风险，先看 [Red Flags](../../handbook/playbooks/red-flags.md)，不要让家庭群投票替代行动。
 
 家庭最常丢的不是“有没有看过医生”，而是看完医生以后下一步是什么。要不要复查？多久复查？带什么资料？药怎么用？出现什么情况提前回来？如果症状没有改善，下一步找哪个入口？这些问题如果只存在于某个人的记忆里，很快就会丢。
 
@@ -96,7 +94,7 @@
 
 不要一开始就做复杂表格。
 
-如果只做最小版本，每个家庭成员先有一张 [One-Page Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) 就够。它可以很短：
+如果只做最小版本，每个家庭成员先有一张 [One-Page Family Health Card](../../handbook/templates/family-health-record.md#_1-one-page-family-health-card) 就够。它可以很短：
 
 - 基本信息和紧急联系人；
 - 重要病史、手术史、住院史；
@@ -111,7 +109,7 @@ HealthIT.gov 面向患者和照护者的健康记录指南提醒，健康记录�
 
 这里还有隐私边界。健康资料很敏感，谁能看、放在哪里、什么时候给陪诊人或临床人员看，家庭里也要有基本共识。准备资料不是为了让每个人透明，而是为了在必要时不漏关键信息。
 
-资料更复杂的家庭，可以再扩展到 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)。如果有血压、血糖、血脂、尿酸、肾功能等长期指标，再用 [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log) 单独看趋势。
+资料更复杂的家庭，可以再扩展到 [Family Health Record And Chronic Marker Log](../../handbook/templates/family-health-record.md)。如果有血压、血糖、血脂、尿酸、肾功能等长期指标，再用 [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log) 单独看趋势。
 
 ## 触发器：急的时候少争论
 
@@ -164,7 +162,7 @@ HealthIT.gov 面向患者和照护者的健康记录指南提醒，健康记录�
 
 AHRQ 和 MedlinePlus 的患者沟通资料都强调，患者要准备问题、说明症状和用药情况，并确认自己理解了临床人员的说明。放到家庭里，就是一句话：带事实去，带问题走。
 
-准备门诊时，可以用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)。如果不知道急诊、门诊还是挂什么科，可以先看 [Department And Specialty Navigation](../../../../en/handbook/playbooks/department-navigation-guide.md)。
+准备门诊时，可以用 [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md)。如果不知道急诊、门诊还是挂什么科，可以先看 [Department And Specialty Navigation](../../handbook/playbooks/department-navigation-guide.md)。
 
 ## 复盘：不用天天开会
 
@@ -206,7 +204,7 @@ AHRQ 和 MedlinePlus 的患者沟通资料都强调，患者要准备问题、�
 
 这些资料用于校准健康定义、慢性病风险、健康记录、医患沟通、疫苗记录、多药使用和老人跌倒边界。本文不提供诊断、用药、停药、治疗优先级、个体化筛查或个体化健康方案。
 
-可直接查看：[WHO Constitution](https://www.who.int/about/governance/constitution)、[WHO Noncommunicable diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)、[CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[WHO Constitution](https://www.who.int/about/governance/constitution)、[WHO Noncommunicable diseases](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[CDC Recommended Vaccines for Adults](https://www.cdc.gov/vaccines-adults/recommended-vaccines/index.html)、[CDC Older Adult Fall Prevention](https://www.cdc.gov/falls/about/index.html)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

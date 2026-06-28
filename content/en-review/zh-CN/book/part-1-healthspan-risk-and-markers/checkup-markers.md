@@ -1,7 +1,5 @@
 # Checkup Markers Are Risk Language 中文验收页
 
-对应英文页：[Checkup Markers Are Risk Language](../../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 3. 体检指标：不是判决书，而是风险语言
@@ -30,11 +28,11 @@
 
 | 风险线 | 常见指标 | 先看哪一页 |
 |---|---|---|
-| 心血管和代谢 | 血压、血脂、血糖、A1C、尿酸、体重、腰围 | [Blood pressure](../../../../en/handbook/playbooks/common-checkup-markers.md#blood-pressure)、[lipids](../../../../en/handbook/playbooks/common-checkup-markers.md#blood-lipids)、[glucose/A1C](../../../../en/handbook/playbooks/common-checkup-markers.md#blood-glucose-a1c)、[uric acid](../../../../en/handbook/playbooks/common-checkup-markers.md#uric-acid) |
-| 肾脏 | 肌酐、eGFR、尿蛋白、尿白蛋白、尿潜血 | [Kidney function and urine tests](../../../../en/handbook/playbooks/common-checkup-markers.md#kidney-urine) |
-| 肝胆和药物安全 | ALT、AST、胆红素、白蛋白、脂肪肝提示 | [Liver function](../../../../en/handbook/playbooks/common-checkup-markers.md#liver-function) |
-| 血液和感染线索 | 白细胞、血红蛋白、血小板和相关 CBC 指标 | [Blood count](../../../../en/handbook/playbooks/common-checkup-markers.md#blood-count) |
-| 癌症筛查和影像 | 乳腺、宫颈、结直肠、肺癌高风险筛查、结节、肿瘤标志物 | [Tumor markers and imaging findings](../../../../en/handbook/playbooks/common-checkup-markers.md#tumor-imaging)，筛查选择看 [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md) |
+| 心血管和代谢 | 血压、血脂、血糖、A1C、尿酸、体重、腰围 | [Blood pressure](../../handbook/playbooks/common-checkup-markers.md#blood-pressure)、[lipids](../../handbook/playbooks/common-checkup-markers.md#blood-lipids)、[glucose/A1C](../../handbook/playbooks/common-checkup-markers.md#blood-glucose-a1c)、[uric acid](../../handbook/playbooks/common-checkup-markers.md#uric-acid) |
+| 肾脏 | 肌酐、eGFR、尿蛋白、尿白蛋白、尿潜血 | [Kidney function and urine tests](../../handbook/playbooks/common-checkup-markers.md#kidney-urine) |
+| 肝胆和药物安全 | ALT、AST、胆红素、白蛋白、脂肪肝提示 | [Liver function](../../handbook/playbooks/common-checkup-markers.md#liver-function) |
+| 血液和感染线索 | 白细胞、血红蛋白、血小板和相关 CBC 指标 | [Blood count](../../handbook/playbooks/common-checkup-markers.md#blood-count) |
+| 癌症筛查和影像 | 乳腺、宫颈、结直肠、肺癌高风险筛查、结节、肿瘤标志物 | [Tumor markers and imaging findings](../../handbook/playbooks/common-checkup-markers.md#tumor-imaging)，筛查选择看 [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md) |
 
 真正值得注意的，经常不是“一个箭头”，而是“几条风险线同时指向同一个方向”。
 
@@ -51,7 +49,7 @@
 
 血糖也类似。一次空腹血糖正常，不等于整个糖代谢没有压力；一次偏高，也不能脱离前一天饮食、睡眠、感染、压力、用药和既往结果就下诊断。报告是一个窗口，不是整部电影。
 
-如果这些组合反复出现，不要只在家庭群里讨论“吃什么能降”。更好的动作是把它们放进 [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log)，带着趋势去复诊。
+如果这些组合反复出现，不要只在家庭群里讨论“吃什么能降”。更好的动作是把它们放进 [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log)，带着趋势去复诊。
 
 ## 30 秒先分三类
 
@@ -63,7 +61,7 @@
 
 这一步的目的，是先把情绪降下来。报告一出来，人最容易在两个极端之间摆动：要么觉得自己完了，要么觉得没有箭头就彻底没事。先分三类，能让你知道哪些要马上处理，哪些交给医生，哪些先变成记录。
 
-危险信号看 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)。具体症状下一步看 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)。如果只是报告看不懂，再往下读。
+危险信号看 [Red Flags](../../handbook/playbooks/red-flags.md)。具体症状下一步看 [Symptom Action Guide](../../handbook/playbooks/symptom-action-guide.md)。如果只是报告看不懂，再往下读。
 
 ## 拿到报告后的 20 分钟
 
@@ -133,16 +131,16 @@ Questions for the clinician: What risk do these changes mainly suggest? When sho
 
 肿瘤标志物、全身 CT、PET-CT、多癌种早筛血液检测、基因检测等项目，尤其不适合用“越多越安心”理解。它们有各自的使用场景，也有假阳性、过度检查、费用和后续决策成本。
 
-具体怎么选，先看 [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)。这页会把基础项、年龄性别项和个人风险加项拆开讲。
+具体怎么选，先看 [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md)。这页会把基础项、年龄性别项和个人风险加项拆开讲。
 
 ## 细项可以慢慢查
 
 体检指标很多，真正重要的不是把每一项都背下来，而是先掌握读报告的方法：看趋势、看组合、看背景、看行动。
 
 ::: tip 下一步工具
-- 体检前不知道怎么选项目，看 [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)。
-- 已经拿到报告，想查常见指标，看 [Common Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md)。
-- 指标需要长期跟踪，用 [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log)。
+- 体检前不知道怎么选项目，看 [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md)。
+- 已经拿到报告，想查常见指标，看 [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)。
+- 指标需要长期跟踪，用 [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log)。
 :::
 
 先把方法记住，报告就不会只剩一堆箭头。
@@ -161,7 +159,7 @@ Questions for the clinician: What risk do these changes mainly suggest? When sho
 - NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
-这些资料帮助理解指标和筛查能做什么、不能做什么，但不能替个人解释报告、诊断疾病、决定用药或设计个体化体检清单。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/README.md)。
+这些资料帮助理解指标和筛查能做什么、不能做什么，但不能替个人解释报告、诊断疾病、决定用药或设计个体化体检清单。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/README.md)。
 
 ## 小结
 

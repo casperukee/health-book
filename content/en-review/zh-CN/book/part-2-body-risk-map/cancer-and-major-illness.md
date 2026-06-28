@@ -1,7 +1,5 @@
 # Cancer And Major Illness 中文验收页
 
-对应英文页：[Cancer And Major Illness](../../../../en/book/part-2-body-risk-map/cancer-and-major-illness.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 6. 癌症与重大疾病：分清阶段，别让恐惧替你决定
@@ -104,7 +102,7 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 
 肿瘤标志物、全身影像、多癌种早筛和基因检测尤其容易被营销包装成“安心”。但医学上真正要问的是：它适不适合无症状人群？阴性结果能不能排除风险？阳性以后靠什么确诊？它有没有证据改善结局？它会不会把低风险人群带进一连串不必要检查？
 
-如果你正在为自己或父母安排年度体检，而不是已经有明确症状，可以先看 [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)，再决定哪些筛查问题值得带去问临床人员。
+如果你正在为自己或父母安排年度体检，而不是已经有明确症状，可以先看 [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md)，再决定哪些筛查问题值得带去问临床人员。
 
 对老人还要多问一层：如果查出异常，老人是否愿意、也是否能承受后续诊断和治疗？筛查不是孤立动作，它后面连着活检、手术、麻醉、住院、复查、费用和生活质量。
 
@@ -157,7 +155,7 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 | 主要风险 | 副作用、感染风险、出血风险、营养问题、心理压力 |
 | 紧急联系 | 主治团队、复诊时间、出现什么情况要立刻联系 |
 
-这张卡不是替代病历，而是帮助家人不在每次沟通时从头开始。更完整的资料整理可以放进 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)。
+这张卡不是替代病历，而是帮助家人不在每次沟通时从头开始。更完整的资料整理可以放进 [Family Health Record And Chronic Marker Log](../../handbook/templates/family-health-record.md)。
 
 ## 治疗沟通：先问目标，再谈武器
 
@@ -232,7 +230,7 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 | 治疗中 | 记录症状、副作用、饮食饮水、用药和紧急边界 |
 | 治疗后随访 | 确认复查节奏、危险信号和家庭分工 |
 
-先分阶段，家庭才不会被恐惧推着跑。门诊前可以配合 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 使用；如果正在面对急症或明显危险信号，先看 [Red Flags](../../../../en/handbook/playbooks/red-flags.md)。
+先分阶段，家庭才不会被恐惧推着跑。门诊前可以配合 [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md) 使用；如果正在面对急症或明显危险信号，先看 [Red Flags](../../handbook/playbooks/red-flags.md)。
 
 ## 参考资料
 
@@ -240,7 +238,7 @@ WHO 资料把烟草、酒精、不健康饮食、身体活动不足、空气污�
 
 这些资料用于理解癌症和重大疾病的阶段、边界和家庭协作，不应用来替个人选择筛查项目、解释报告、判断分期、决定治疗方案或替代肿瘤专科建议。
 
-可直接查看：[NCI Cancer Statistics](https://www.cancer.gov/about-cancer/understanding/statistics)、[WHO Cancer](https://www.who.int/news-room/fact-sheets/detail/cancer)、[IARC/GLOBOCAN All cancers fact sheet 2022](https://gco.iarc.who.int/media/globocan/factsheets/cancers/39-all-cancers-fact-sheet.pdf)、[NCI What Is Cancer?](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)、[NCI Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)、[NCI Tests and Procedures Used to Diagnose Cancer](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis)、[NCI Palliative Care in Cancer](https://www.cancer.gov/about-cancer/advanced-cancer/care-choices/palliative-care-fact-sheet)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[NCI Cancer Statistics](https://www.cancer.gov/about-cancer/understanding/statistics)、[WHO Cancer](https://www.who.int/news-room/fact-sheets/detail/cancer)、[IARC/GLOBOCAN All cancers fact sheet 2022](https://gco.iarc.who.int/media/globocan/factsheets/cancers/39-all-cancers-fact-sheet.pdf)、[NCI What Is Cancer?](https://www.cancer.gov/about-cancer/understanding/what-is-cancer)、[NCI Cancer Screening Overview](https://www.cancer.gov/about-cancer/screening/patient-screening-overview-pdq)、[NCI Tests and Procedures Used to Diagnose Cancer](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis)、[NCI Palliative Care in Cancer](https://www.cancer.gov/about-cancer/advanced-cancer/care-choices/palliative-care-fact-sheet)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

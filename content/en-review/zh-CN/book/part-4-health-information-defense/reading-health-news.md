@@ -1,7 +1,5 @@
 # 3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down 中文验收页
 
-对应英文页：[3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down](../../../../en/book/part-4-health-information-defense/reading-health-news.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 不要根据一条新闻、短视频、社交媒体帖子或单项研究自行停药、改药、拒绝治疗、改变筛查计划或购买高风险产品。涉及疾病、用药、筛查、治疗、孕产期、儿童、老人或重大健康消费时，请先查权威来源，并咨询医生、药师或相关专业人士。
@@ -182,7 +180,7 @@
 
 写完后，下一步通常会清楚很多：如果只是理解，可以读或保存；涉及食品安全、筛查、风险或新研究，先查证；涉及自己的病、父母慢病、孩子健康、孕产、癌症、用药和随访，变成问题问医生；要求停药、拒医、替代治疗、高价购买或绕开家人，直接暂停。
 
-如果信息涉及产品、检测、设备、补剂或抗衰服务，就回到 [health product checklist](../../../../en/handbook/templates/health-product-checklist.md)。如果已经触发身体危险信号，就不要继续研究资料，先求助；需要整理问题时，可以用 [doctor visit checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md)。
+如果信息涉及产品、检测、设备、补剂或抗衰服务，就回到 [health product checklist](../../handbook/templates/health-product-checklist.md)。如果已经触发身体危险信号，就不要继续研究资料，先求助；需要整理问题时，可以用 [doctor visit checklist](../../handbook/playbooks/doctor-visit-checklist.md)。
 
 ## 参考资料
 
@@ -190,7 +188,7 @@
 
 这些资料用于校准健康信息来源、目的、资助、证据质量、更新时间、研究对象和适用边界。它们不应用来做自我诊断、停药、筛查决定或治疗决定。
 
-可直接查看：[MedlinePlus Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)、[NCCIH Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)、[NCCIH How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)、[NIH Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[source registry](../../../../../shared/source-registry.md) 和 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[MedlinePlus Evaluating Health Information](https://medlineplus.gov/evaluatinghealthinformation.html)、[NCCIH Finding and Evaluating Online Resources](https://www.nccih.nih.gov/health/finding-and-evaluating-online-resources)、[NCCIH How To Make Sense of a Scientific Journal Article](https://www.nccih.nih.gov/health/know-science/how-to-make-sense-of-a-scientific-journal-article/overview)、[NIH Clinical Research Trials and You](https://www.nih.gov/health-information/nih-clinical-research-trials-you)、[FTC Common Health Scams](https://consumer.ftc.gov/node/78372)、[source registry](../../references/source-registry.md) 和 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

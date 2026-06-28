@@ -1,7 +1,5 @@
 # Red Flags 中文验收页
 
-对应英文页：[Red Flags](../../../../en/handbook/playbooks/red-flags.md)
-
 本页是英文 Red Flags 页的中文回译，用于验收 U.S.-first adaptation；它翻译英文改写稿，不复制中文版源稿。
 
 # 危险信号
@@ -14,7 +12,7 @@
 
 它不判断“这是什么病”，也不判断“还能不能再忍一忍”。当一个信号已经足够危险，家庭最重要的动作不是解释，而是求助。
 
-本页只处理红色情况。如果没有明显红旗，但仍想把症状分到下一步行动，请使用 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)。
+本页只处理红色情况。如果没有明显红旗，但仍想把症状分到下一步行动，请使用 [Symptom Action Guide](./symptom-action-guide.md)。
 
 ## 家庭短版
 
@@ -103,7 +101,7 @@
 
 ### 没有红旗，但仍不安心
 
-不明原因体重下降、长期发热、反复出血、新出现的肿块、老人跌倒后状态改变、慢病指标持续异常，或新药后明显不适，不一定都需要急诊，但也不该长期拖延。使用 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md) 分到黄色或绿色；拿不准时按黄色处理，尽快联系医生或分诊入口。
+不明原因体重下降、长期发热、反复出血、新出现的肿块、老人跌倒后状态改变、慢病指标持续异常，或新药后明显不适，不一定都需要急诊，但也不该长期拖延。使用 [Symptom Action Guide](./symptom-action-guide.md) 分到黄色或绿色；拿不准时按黄色处理，尽快联系医生或分诊入口。
 
 ## 急诊最小信息包
 
@@ -123,9 +121,9 @@
 | 当前情况 | 下一步 |
 |---|---|
 | 已经出现红旗 | 先联系急救、急诊或本地医疗入口；只带最小信息，不为整理记录拖延 |
-| 没有明确红旗，但仍不确定能不能等 | 打开 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)，分成红、黄、绿 |
-| 准备联系医生或去门诊 | 用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 整理症状时间线、用药和问题 |
-| 想让家里下次少混乱 | 做一张 [One-Page Family Health Card](../../../../en/handbook/templates/family-health-record.md#_1-one-page-family-health-card) |
+| 没有明确红旗，但仍不确定能不能等 | 打开 [Symptom Action Guide](./symptom-action-guide.md)，分成红、黄、绿 |
+| 准备联系医生或去门诊 | 用 [Doctor Visit Checklist](./doctor-visit-checklist.md) 整理症状时间线、用药和问题 |
+| 想让家里下次少混乱 | 做一张 [One-Page Family Health Card](../templates/family-health-record.md#_1-one-page-family-health-card) |
 
 ## 参考资料
 
@@ -140,7 +138,7 @@
 - SAMHSA: 988 Suicide & Crisis Lifeline
 - Poison Control
 
-更多来源条目见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源条目见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

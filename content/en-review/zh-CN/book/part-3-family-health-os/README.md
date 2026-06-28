@@ -1,7 +1,5 @@
 # Chapter 3: When Health Becomes A Family Matter 中文验收页
 
-对应英文页：[Chapter 3: When Health Becomes A Family Matter](../../../../en/book/part-3-family-health-os/README.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 第三章 当健康变成一家人的事

@@ -144,9 +144,9 @@ These review pages should:
 - translate or back-translate the English adaptation into Chinese for maintainer review;
 - not copy the original Chinese source chapter as the review text;
 - clearly state that the page is a Chinese review aid for the English adaptation, not the Chinese source edition;
-- be reachable from the corresponding English page through a low-profile link such as `中文验收页`;
-- have a low-profile index link from `content/en/README.md` so the maintainer can open the review area from a phone;
-- stay out of primary navigation unless the maintainer asks for a review index to be more visible.
+- stay inside the review edition's own navigation, sidebar, footer links, and internal links;
+- not be linked from ordinary English body content;
+- be reached through the site edition switcher or the review edition's own index.
 
 Use Chinese review companions for:
 

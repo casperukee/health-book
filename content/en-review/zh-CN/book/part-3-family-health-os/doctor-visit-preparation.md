@@ -1,7 +1,5 @@
 # 2. How To Prepare For A Doctor Visit: Bring Facts Into The Room 中文验收页
 
-对应英文页：[2. How To Prepare For A Doctor Visit: Bring Facts Into The Room](../../../../en/book/part-3-family-health-os/doctor-visit-preparation.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 如果出现胸痛、卒中样症状、严重呼吸困难、意识改变、无法控制出血、严重外伤、自伤或自杀风险，请先拨打当地急救电话或去急诊。不要为了整理材料而延误紧急处理。本章帮助你准备门诊信息，不提供诊断、用药、停药或治疗选择建议。
@@ -25,7 +23,7 @@
 
 最大的区别是：急诊争取时间；门诊争取信息质量。不要把普通问题拖成急症，也不要在急症已经出现时把材料整理得很漂亮。
 
-如果你不确定该急诊、门诊还是观察，先看 [症状行动指南](../../../../en/handbook/playbooks/symptom-action-guide.md) 和 [危险信号速查](../../../../en/handbook/playbooks/red-flags.md)。更短的可复制页面见 [就医清单](../../../../en/handbook/playbooks/doctor-visit-checklist.md)。
+如果你不确定该急诊、门诊还是观察，先看 [症状行动指南](../../handbook/playbooks/symptom-action-guide.md) 和 [危险信号速查](../../handbook/playbooks/red-flags.md)。更短的可复制页面见 [就医清单](../../handbook/playbooks/doctor-visit-checklist.md)。
 
 ## 就医资料四包
 
@@ -185,7 +183,7 @@ AHRQ 的患者提问资料把提问、理解情况和权衡选择视为参与医
 
 HealthIT.gov 的健康记录指南强调，记录可以帮助患者和照护者分享、协调、核对和使用健康信息。放到家庭里，就是一次就诊后不要只留下“开药了”“让复查”“没大事”这种模糊句子。
 
-真正有用的记录，是下一个接手的人也能看懂的记录。看完医生后，把诊断、用药、复查和提前就医条件写进 [家庭健康档案和慢病记录](../../../../en/handbook/templates/family-health-record.md)，不要只留在记忆里。
+真正有用的记录，是下一个接手的人也能看懂的记录。看完医生后，把诊断、用药、复查和提前就医条件写进 [家庭健康档案和慢病记录](../../handbook/templates/family-health-record.md)，不要只留在记忆里。
 
 ## 今天可以准备什么
 
@@ -207,7 +205,7 @@ HealthIT.gov 的健康记录指南强调，记录可以帮助患者和照护者�
 
 这些资料用于校准门诊准备、症状描述、用药清单、患者提问和健康记录边界。本章不提供诊断、用药、停药、治疗优先级、个体化筛查或个体化就医路径建议。
 
-可直接查看：[MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)、[MedlinePlus Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[AHRQ Questions Are the Answer](https://www.ahrq.gov/questions/resources/poster.html)、[HealthIT.gov The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[source registry](../../../../../shared/source-registry.md) 和 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html)、[MedlinePlus Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[AHRQ Questions Are the Answer](https://www.ahrq.gov/questions/resources/poster.html)、[HealthIT.gov The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[source registry](../../references/source-registry.md) 和 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

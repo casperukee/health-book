@@ -1,7 +1,5 @@
 # Part 1 中文验收页
 
-对应英文页：[Part 1](../../../../en/book/part-1-healthspan-risk-and-markers/README.md)
-
 本页是英文 Part 1 目录的中文验收辅助。
 
 # 第一章：身体在说什么：从信号到指标
@@ -25,6 +23,6 @@
 
 ## 配套工具
 
-- [Before A Checkup](../../../../en/handbook/playbooks/checkup-planning-guide.md)
-- [Common Checkup Markers](../../../../en/handbook/playbooks/common-checkup-markers.md)
-- [Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md#_2-chronic-marker-log)
+- [Before A Checkup](../../handbook/playbooks/checkup-planning-guide.md)
+- [Common Checkup Markers](../../handbook/playbooks/common-checkup-markers.md)
+- [Chronic Marker Log](../../handbook/templates/family-health-record.md#_2-chronic-marker-log)

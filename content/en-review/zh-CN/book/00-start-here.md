@@ -1,7 +1,5 @@
 # Start Here 中文验收页
 
-对应英文页：[Start Here](../../../en/book/00-start-here.md)
-
 本页是英文 `Start Here` 页的中文验收辅助。它翻译/回译的是英文 adaptation，不是中文版《写在前面》的原稿。
 
 # 从这里开始
@@ -12,9 +10,9 @@
 
 本书不能替代诊断、治疗、用药决定、停药决定、筛查决定、急救判断、心理健康危机干预或任何个体化医疗决策。涉及慢病指标、检查异常、筛查选择、药物使用、手术决策、心理健康、孕产健康、儿童或老年人时，请结合医生建议、个人病史、检查结果和本地照护资源。
 
-如果已经出现危险信号，或情况正在加重、明显让家人担心，请先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。具体边界见下一章 [1. Warning Signs: Sort Urgency Before Searching Disease Names](../../../en/book/medical-boundaries.md) 和 [Red Flags](../../../en/handbook/playbooks/red-flags.md)。
+如果已经出现危险信号，或情况正在加重、明显让家人担心，请先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。具体边界见下一章 [1. Warning Signs: Sort Urgency Before Searching Disease Names](./medical-boundaries.md) 和 [Red Flags](../handbook/playbooks/red-flags.md)。
 
-医学知识会更新。本书的安全边界、来源、勘误和复查记录也会持续检查；面对具体健康问题，请以临床人员判断、本地医疗资源和当前权威资料为准。英文维护说明见 [English Edition Adaptation Plan](../../../en/updates/english-edition-plan.md)，来源登记见 [source registry](../../../../shared/source-registry.md)。
+医学知识会更新。本书的安全边界、来源、勘误和复查记录也会持续检查；面对具体健康问题，请以临床人员判断、本地医疗资源和当前权威资料为准。英文维护说明见 [English Edition Adaptation Plan](../updates/english-edition-plan.md)，来源登记见 [source registry](../references/source-registry.md)。
 
 ## 前言：健康信息很多，下一步仍然不清楚
 
@@ -36,9 +34,9 @@
 
 ### 已经有人不舒服
 
-先分急缓。已经出现明确危险信号，或情况正在快速变坏、明显令人担心时，先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。[1. Warning Signs: Sort Urgency Before Searching Disease Names](../../../en/book/medical-boundaries.md) 和 [Red Flags](../../../en/handbook/playbooks/red-flags.md) 帮助你说清情况，不替你判断能不能等。
+先分急缓。已经出现明确危险信号，或情况正在快速变坏、明显令人担心时，先联系急救、急诊、urgent care、危机服务或其他合格的本地医疗入口。[1. Warning Signs: Sort Urgency Before Searching Disease Names](./medical-boundaries.md) 和 [Red Flags](../handbook/playbooks/red-flags.md) 帮助你说清情况，不替你判断能不能等。
 
-如果不是明显红旗，但仍拿不准能不能等，先读下一章。如果想按胸痛、发热、腹痛、跌倒、情绪危机等常见症状分出下一步动作，使用 [Symptom Action Guide](../../../en/handbook/playbooks/symptom-action-guide.md)。
+如果不是明显红旗，但仍拿不准能不能等，先读下一章。如果想按胸痛、发热、腹痛、跌倒、情绪危机等常见症状分出下一步动作，使用 [Symptom Action Guide](../handbook/playbooks/symptom-action-guide.md)。
 
 症状速查不是用来证明“观察是安全的”。任何可能影响呼吸、循环、意识、说话、肢体活动或安全的情况，或者伴随明显出血、严重疼痛、严重外伤、中毒、严重过敏、自伤风险、孕产期危险信号，都不要用工具页给自己降级。先使用急症照护或其他合格的本地入口。
 
@@ -46,19 +44,19 @@
 
 先整理事实，再讨论判断。
 
-体检报告有箭头时，先看趋势、组合、背景和下一步行动，不要只盯一个数字。体检前读 [Before A Checkup](../../../en/handbook/playbooks/checkup-planning-guide.md)。拿到结果后读 [3. Checkup Markers: Not A Verdict, But A Risk Language](../../../en/book/part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [Common Checkup Markers](../../../en/handbook/playbooks/common-checkup-markers.md)。如果近期要门诊，用 [2. Before A Visit: Bring Facts Into The Room](../../../en/book/part-3-family-health-os/doctor-visit-preparation.md) 和 [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md) 准备症状时间线、既往病史、用药、过敏、检查结果和最想问的问题。
+体检报告有箭头时，先看趋势、组合、背景和下一步行动，不要只盯一个数字。体检前读 [Before A Checkup](../handbook/playbooks/checkup-planning-guide.md)。拿到结果后读 [3. Checkup Markers: Not A Verdict, But A Risk Language](./part-1-healthspan-risk-and-markers/checkup-markers.md) 和 [Common Checkup Markers](../handbook/playbooks/common-checkup-markers.md)。如果近期要门诊，用 [2. Before A Visit: Bring Facts Into The Room](./part-3-family-health-os/doctor-visit-preparation.md) 和 [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md) 准备症状时间线、既往病史、用药、过敏、检查结果和最想问的问题。
 
 ### 想为家庭照护做准备
 
 先做一张最小健康卡。不要一开始就建立一堆档案。
 
-压力时刻最有用的，往往是紧急联系人、主要疾病、过敏、当前用药、近期复查和重要资料位置。[1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](../../../en/book/part-3-family-health-os/what-to-manage.md) 解释家庭健康协作，[Family Health Record And Chronic Marker Log](../../../en/handbook/templates/family-health-record.md) 提供可复制的一页卡、慢病指标记录和复诊前摘要。
+压力时刻最有用的，往往是紧急联系人、主要疾病、过敏、当前用药、近期复查和重要资料位置。[1. What A Family Health System Actually Manages: Facts And Boundaries, Not People](./part-3-family-health-os/what-to-manage.md) 解释家庭健康协作，[Family Health Record And Chronic Marker Log](../handbook/templates/family-health-record.md) 提供可复制的一页卡、慢病指标记录和复诊前摘要。
 
 ### 被健康产品或短视频困扰
 
 先问它想让你做什么。
 
-它是让你买产品、进群、做检测、付套餐费、改变用药或复查，还是只是提醒你记录、睡觉、活动、问医生？第四部分会讨论 [1. Supplement Evidence Traps: Is "No Harm In Trying" Really Harmless?](../../../en/book/part-4-health-information-defense/supplement-evidence-traps.md)、[2. Devices, Tests, And Longevity Marketing: Having Numbers Does Not Mean It Is Worth Buying](../../../en/book/part-4-health-information-defense/devices-tests-and-longevity-marketing.md)、[3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down](../../../en/book/part-4-health-information-defense/reading-health-news.md)；[Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md) 留给那些差一点就要付款的时刻。
+它是让你买产品、进群、做检测、付套餐费、改变用药或复查，还是只是提醒你记录、睡觉、活动、问医生？第四部分会讨论 [1. Supplement Evidence Traps: Is "No Harm In Trying" Really Harmless?](./part-4-health-information-defense/supplement-evidence-traps.md)、[2. Devices, Tests, And Longevity Marketing: Having Numbers Does Not Mean It Is Worth Buying](./part-4-health-information-defense/devices-tests-and-longevity-marketing.md)、[3. Health News, New Studies, And Short Videos: The More You Want To Act Immediately, The More You Should Slow Down](./part-4-health-information-defense/reading-health-news.md)；[Health Product Checklist](../handbook/templates/health-product-checklist.md) 留给那些差一点就要付款的时刻。
 
 ### 想系统读一遍
 

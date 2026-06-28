@@ -215,7 +215,7 @@ As of 2026-06-15, this chapter mainly uses MedlinePlus materials on talking with
 
 These materials calibrate outpatient preparation, symptom description, medication lists, patient questions, and health-record boundaries. This chapter does not provide diagnosis, medication, stopping-medication, treatment-priority, individualized screening, or individualized care-navigation advice.
 
-Direct sources: [MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html), [MedlinePlus Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm), [AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html), [AHRQ Questions Are the Answer](https://www.ahrq.gov/questions/resources/poster.html), [HealthIT.gov The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/), [source registry](../../../../shared/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
+Direct sources: [MedlinePlus Talking With Your Doctor](https://medlineplus.gov/talkingwithyourdoctor.html), [MedlinePlus Taking Multiple Medicines Safely](https://medlineplus.gov/ency/patientinstructions/000883.htm), [AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html), [AHRQ Questions Are the Answer](https://www.ahrq.gov/questions/resources/poster.html), [HealthIT.gov The Guide to Getting and Using Your Health Records](https://www.healthit.gov/how-to-get-your-health-record/), [source registry](../../references/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
 
 ## Summary
 

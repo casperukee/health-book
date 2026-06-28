@@ -1,7 +1,5 @@
 # Specialty Care Map 中文验收页
 
-对应英文页：[Specialty Care Map](../../../../en/book/part-2-body-risk-map/specialty-care-map.md)
-
 本页是英文页面的中文验收辅助，翻译/回译英文读者版内容，不是中文版源稿。
 
 # 8. 常见专科问题：提高看病质量，而不是自己当医生
@@ -40,7 +38,7 @@
   <img src="../../../../en/book/assets/figures/fig-10-specialty-care-four-questions.svg" alt="Specialty problems: ask four things first">
 </figure>
 
-如果你拿不准急诊、门诊还是观察，先看 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md)；如果不知道挂号入口，看 [Department And Specialty Navigation](../../../../en/handbook/playbooks/department-navigation-guide.md)；确定要去门诊后，再用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 准备。
+如果你拿不准急诊、门诊还是观察，先看 [Symptom Action Guide](../../handbook/playbooks/symptom-action-guide.md)；如果不知道挂号入口，看 [Department And Specialty Navigation](../../handbook/playbooks/department-navigation-guide.md)；确定要去门诊后，再用 [Doctor Visit Checklist](../../handbook/playbooks/doctor-visit-checklist.md) 准备。
 
 ## 一张症状小卡，比十个病名猜测更有用
 
@@ -112,7 +110,7 @@ CDC HEAR HER 把孕期和产后一年内的若干信号列为需要立即就医�
 | 耳鼻喉、甲状腺、消化、乳腺、肛肠和疼痛问题 | 记录持续多久、反复频率、用过什么、是否影响睡眠工作和生活，是否有体重变化、吞咽困难、明显出血或全身状态变差。快速加重、发热、严重疼痛、吞咽或呼吸困难、明显出血、体重下降，都要提高急缓等级。 |
 | 儿童、老人、孕产、免疫低下或多药使用者 | 同样症状要加上年龄、孕产阶段、基础病、用药、近期手术住院、癌症治疗或免疫状态。不要直接套普通低风险成年人经验；症状加重、功能下降或家人觉得“不对劲”时，升级更早一点。 |
 
-儿童和青少年的身体与心理变化已经独立成章，见 [7. Children And Adolescents 中文验收页](children-and-adolescent-health.md)。如果你已经有具体症状，先用 [Symptom Action Guide](../../../../en/handbook/playbooks/symptom-action-guide.md) 分红色、黄色和绿色动作。
+儿童和青少年的身体与心理变化已经独立成章，见 [7. Children And Adolescents 中文验收页](children-and-adolescent-health.md)。如果你已经有具体症状，先用 [Symptom Action Guide](../../handbook/playbooks/symptom-action-guide.md) 分红色、黄色和绿色动作。
 
 ## 门诊结束前，问清四句话
 
@@ -128,7 +126,7 @@ CDC HEAR HER 把孕期和产后一年内的若干信号列为需要立即就医�
 ## 今天可以做的准备
 
 - 选一个正在困扰你的专科问题，写一张症状小卡；
-- 把既往检查、用药、外用产品、保健品、照片和报告整理到 [Family Health Record And Chronic Marker Log](../../../../en/handbook/templates/family-health-record.md)；
+- 把既往检查、用药、外用产品、保健品、照片和报告整理到 [Family Health Record And Chronic Marker Log](../../handbook/templates/family-health-record.md)；
 - 门诊前只准备 3 个最重要的问题；
 - 看完临床人员后记录：临床判断、检查安排、用药或处理说明、复查时间、提前就医边界；
 - 如果你是陪父母或伴侣看病，先问对方愿不愿意让你帮忙记录，不要把陪诊变成接管。
@@ -139,7 +137,7 @@ CDC HEAR HER 把孕期和产后一年内的若干信号列为需要立即就医�
 
 这些资料用于校准专科问题的就医准备、健康记录、孕产危险信号、眼部急症、泌尿生活质量、背痛边界、牙科操作中的全身用药信息和药物相关颌骨风险提示。本文不提供专科诊断、用药、停药、治疗优先级、个体化筛查或个体化治疗方案。
 
-可直接查看：[MedlinePlus Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[CDC HEAR HER Urgent Maternal Warning Signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)、[National Eye Institute Eye Health Information](https://www.nei.nih.gov/eye-health-information)、[American Dental Association Osteoporosis Medications and MRONJ](https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications)、[SDCEP Anticoagulants and Antiplatelets](https://www.sdcep.org.uk/published-guidance/anticoagulants-and-antiplatelets/)。更多来源登记见 [source registry](../../../../../shared/source-registry.md)。本书的证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+可直接查看：[MedlinePlus Choosing a Doctor or Health Care Service](https://medlineplus.gov/choosingadoctororhealthcareservice.html)、[AHRQ Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)、[HealthIT.gov Health Records](https://www.healthit.gov/how-to-get-your-health-record/)、[CDC HEAR HER Urgent Maternal Warning Signs](https://www.cdc.gov/hearher/maternal-warning-signs/index.html)、[National Eye Institute Eye Health Information](https://www.nei.nih.gov/eye-health-information)、[American Dental Association Osteoporosis Medications and MRONJ](https://www.ada.org/resources/ada-library/oral-health-topics/osteoporosis-medications)、[SDCEP Anticoagulants and Antiplatelets](https://www.sdcep.org.uk/published-guidance/anticoagulants-and-antiplatelets/)。更多来源登记见 [source registry](../../references/source-registry.md)。本书的证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 小结
 

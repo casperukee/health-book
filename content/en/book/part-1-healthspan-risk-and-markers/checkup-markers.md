@@ -167,7 +167,7 @@ The following sources calibrate this chapter's explanation of checkups, lab resu
 - NIDDK: [Chronic Kidney Disease Tests & Diagnosis](https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/tests-diagnosis)
 - NCI: [Tumor Markers](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/tumor-markers-fact-sheet)
 
-These sources help explain what markers and screening can and cannot do. They cannot interpret an individual's report, diagnose disease, decide medicines, or design a personalized checkup list. More source entries are in the [source registry](../../../../shared/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/README.md).
+These sources help explain what markers and screening can and cannot do. They cannot interpret an individual's report, diagnose disease, decide medicines, or design a personalized checkup list. More source entries are in the [source registry](../../references/source-registry.md). This book's evidence rules are in the [evidence policy](../../references/README.md).
 
 ## Summary
 

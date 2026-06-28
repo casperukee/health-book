@@ -62,21 +62,16 @@ If you live outside the U.S., map the care pathways, emergency numbers, screenin
 
 - [Book contents](book/README.md)
 - [Handbook](handbook/README.md)
+- [Evidence Policy](references/evidence-policy.md)
+- [Source Registry](references/source-registry.md)
+- [Updates](updates/README.md)
+- [Errata](errata/README.md)
 
 The book explains risk language, boundaries, family coordination, and health misinformation. The handbook gives practical checklists and templates for moments when someone needs to act.
-
-## Chinese Edition
-
-The full Chinese edition is available here:
-
-- [中文导读](../zh-CN/book/00-start-here.md)
-- [中文主书目录](../zh-CN/book/README.md)
-- [中文手册与模板](../zh-CN/handbook/README.md)
 
 ## Project Links
 
 - [GitHub repository](https://github.com/casperukee/health-book)
 - [GitHub Pages](https://casperukee.github.io/health-book/)
 - [Mainland-friendly mirror](https://health.mindarae.com)
-- [Root README](../../README.md)
 - [License](https://github.com/casperukee/health-book/blob/main/LICENSE)

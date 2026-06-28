@@ -1,7 +1,5 @@
 # Care Entry And Specialty Navigation 中文验收页
 
-对应英文页：[Care Entry And Specialty Navigation](../../../../en/handbook/playbooks/department-navigation-guide.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 本页只帮助选择就医入口，不负责诊断。出现急症信号时，先使用急救服务或急诊。不要为了选到完美专科而延误照护。
@@ -72,7 +70,7 @@
 - MedlinePlus: [Recognizing Medical Emergencies](https://medlineplus.gov/ency/article/001927.htm)
 - AHRQ: [Be More Engaged in Your Healthcare](https://www.ahrq.gov/questions/be-engaged/index.html)
 
-更多来源见 [source registry](../../../../../shared/source-registry.md)。本书证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源见 [source registry](../../references/source-registry.md)。本书证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

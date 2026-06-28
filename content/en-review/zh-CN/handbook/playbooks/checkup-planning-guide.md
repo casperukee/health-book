@@ -1,7 +1,5 @@
 # Checkup Planning Guide 中文验收页
 
-对应英文页：[Checkup Planning Guide](../../../../en/handbook/playbooks/checkup-planning-guide.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 本页不是个体化体检方案，不能替代医生为你制定筛查、随访或检查计划。年龄、性别、孕产状态、个人风险、既往结果、可及性和保险背景都不同。具体项目、频率和异常结果处理，应以医生建议和当前本地指南为准。
@@ -86,7 +84,7 @@
 2. 标出异常项，但不要马上自我诊断。
 3. 问异常属于哪条风险线：血管、代谢、肾脏、肝胆、血液、炎症、癌症筛查或影像随访。
 4. 把血压、胆固醇、血糖、A1C、尿酸、肾功能、体重和腰围放进趋势记录。
-5. 如果结果明显异常、持续异常、成组异常或不好理解，用 [Doctor Visit Checklist](../../../../en/handbook/playbooks/doctor-visit-checklist.md) 准备医生沟通。
+5. 如果结果明显异常、持续异常、成组异常或不好理解，用 [Doctor Visit Checklist](./doctor-visit-checklist.md) 准备医生沟通。
 
 ## 参考资料
 
@@ -99,7 +97,7 @@
 - CDC: [Breast Cancer Screening](https://www.cdc.gov/breast-cancer/screening/index.html)
 - CDC: [Cervical Cancer Screening](https://www.cdc.gov/cervical-cancer/screening/index.html)
 
-更多来源见 [source registry](../../../../../shared/source-registry.md)。本书证据规则见 [evidence policy](../../../../en/references/evidence-policy.md)。
+更多来源见 [source registry](../../references/source-registry.md)。本书证据规则见 [evidence policy](../../references/evidence-policy.md)。
 
 ## 一句话
 

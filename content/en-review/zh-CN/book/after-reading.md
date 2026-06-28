@@ -1,7 +1,5 @@
 # After Reading This Book: Keep A Few Actions 中文验收页
 
-对应英文页：[After Reading This Book: Keep A Few Actions](../../../en/book/after-reading.md)
-
 本页是英文页面的中文验收辅助。它翻译/回译的是英文 adaptation，不是《健康有谱》中文版源稿。
 
 > 本页不是医疗建议。它只是帮助你把主书里的判断习惯收回来。出现危险信号、症状加重、心理健康危机，或任何无法判断等待是否安全的情况时，请及时就医或联系当地急救服务。
@@ -28,11 +26,11 @@
 
 ## 下一步怎么用
 
-- 现在有人不舒服：先看 [Red Flags](../../../en/handbook/playbooks/red-flags.md)。
-- 正在看体检或报告：用 [Checkup Planning Guide](../../../en/handbook/playbooks/checkup-planning-guide.md) 和 [Common Abnormal Checkup Markers](../../../en/handbook/playbooks/common-checkup-markers.md)。
-- 准备就诊、复诊或陪诊：用 [Doctor Visit Checklist](../../../en/handbook/playbooks/doctor-visit-checklist.md)。
-- 想给家人留一套基础资料：从 [Family Health Record And Chronic Condition Log](../../../en/handbook/templates/family-health-record.md) 开始。
-- 被产品、检测、设备或抗衰宣称困扰：先用 [Health Product Checklist](../../../en/handbook/templates/health-product-checklist.md)。
+- 现在有人不舒服：先看 [Red Flags](../handbook/playbooks/red-flags.md)。
+- 正在看体检或报告：用 [Checkup Planning Guide](../handbook/playbooks/checkup-planning-guide.md) 和 [Common Abnormal Checkup Markers](../handbook/playbooks/common-checkup-markers.md)。
+- 准备就诊、复诊或陪诊：用 [Doctor Visit Checklist](../handbook/playbooks/doctor-visit-checklist.md)。
+- 想给家人留一套基础资料：从 [Family Health Record And Chronic Condition Log](../handbook/templates/family-health-record.md) 开始。
+- 被产品、检测、设备或抗衰宣称困扰：先用 [Health Product Checklist](../handbook/templates/health-product-checklist.md)。
 
 ## 阅读导航
 

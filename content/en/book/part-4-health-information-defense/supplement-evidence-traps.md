@@ -184,7 +184,7 @@ As of 2026-06-15, this chapter mainly uses FDA consumer materials on dietary sup
 
 These materials help families identify supplement evidence traps and sales language. They should not be used to decide whether a specific person should use a specific product, and they do not provide medication, stopping-medication, alternative-treatment, or individualized screening advice.
 
-Direct sources: [FDA Dietary Supplements](https://www.fda.gov/food/dietary-supplements), [FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams), [NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/WYNTK/), [NCCIH Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely), [FTC Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements), [source registry](../../../../shared/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
+Direct sources: [FDA Dietary Supplements](https://www.fda.gov/food/dietary-supplements), [FDA Health Fraud Scams](https://www.fda.gov/consumers/health-fraud-scams), [NIH Office of Dietary Supplements](https://ods.od.nih.gov/factsheets/WYNTK/), [NCCIH Using Dietary Supplements Wisely](https://www.nccih.nih.gov/health/using-dietary-supplements-wisely), [FTC Dietary Supplements](https://consumer.ftc.gov/articles/dietary-supplements), [source registry](../../references/source-registry.md), and [evidence policy](../../references/evidence-policy.md).
 
 ## Summary
 
